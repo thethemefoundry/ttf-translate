@@ -1,0 +1,664 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Paperpunch WordPress Theme in italiano\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-05-20 10:51+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Drew Strojny <info@thethemefoundry.com>\n"
+"Language-Team: Gianni Diurno | gidibao.net <gidibao[at]gmail[dot]com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: ITALY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:2
+msgid "404: Page Not Found"
+msgstr "404: Pagina Non Trovata"
+
+#: 404.php:4
+msgid "We are terribly sorry, but the URL you typed no longer exists. It might have been moved or deleted, or perhaps you mistyped it. We suggest searching the site:"
+msgstr "Mi spiace, ma l'URL che hai inserito non esiste più: é possibile che sia stato spostato oppure rimosso ma anche che tu non lo abbia digitato correttamente. Prova ad effettuare una ricerca nel sito:"
+
+#: archive.php:6
+#, php-format
+msgid "Posts from the  &#8216;%s&#8217; Category"
+msgstr "Articoli categoria  &#8216;%s&#8217;"
+
+#: archive.php:8
+#, php-format
+msgid "Posts tagged &#8216;%s&#8217;"
+msgstr "Articoli con tag &#8216;%s&#8217;"
+
+#: archive.php:10
+#: archive.php:12
+#: archive.php:14
+msgid "Archive for"
+msgstr "Archivio per"
+
+#: archive.php:10
+msgid "F jS, Y"
+msgstr "j F Y"
+
+#: archive.php:12
+msgid "F, Y"
+msgstr "F Y"
+
+#: archive.php:14
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:16
+#, php-format
+msgid "Posts by %s"
+msgstr "Articoli di %s"
+
+#: archive.php:18
+msgid "Blog Archives"
+msgstr "Archivi del blog"
+
+#: archive.php:22
+#: search.php:8
+msgid "comment"
+msgstr "commento"
+
+#: archive.php:25
+#: search.php:11
+msgid "n.j.y"
+msgstr "n.j.y"
+
+#: archive.php:31
+#: index.php:28
+#: search.php:17
+msgid "&larr; Previous"
+msgstr "&larr; Precedente"
+
+#: archive.php:32
+#: index.php:29
+#: search.php:18
+msgid "Next &rarr;"
+msgstr "Successivo &rarr;"
+
+#: comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Questo articolo é stato protetto con una password. Dovrai inserire la password per potere leggere i commenti."
+
+#: comments.php:16
+msgid "No Comments"
+msgstr "Nessun commento"
+
+#: comments.php:16
+msgid "One Comment"
+msgstr "1 commento"
+
+#: comments.php:16
+msgid "% Comments"
+msgstr "% commenti"
+
+#: comments.php:18
+msgid "leave a comment"
+msgstr "lascia un commento"
+
+#: comments.php:27
+msgid "&laquo; Older Comments"
+msgstr "&laquo; Commenti precedenti"
+
+#: comments.php:28
+msgid "Newer Comments &raquo;"
+msgstr "Commenti recenti &raquo;"
+
+#: comments.php:31
+msgid "Trackbacks and Pingbacks"
+msgstr "Trackbacks e Pingbacks"
+
+#: comments.php:37
+#: single.php:21
+msgid "Comments are closed."
+msgstr "I commenti non sono attivi."
+
+#: comments.php:48
+msgid "Leave a Comment"
+msgstr "Lascia un Commento"
+
+#: comments.php:50
+msgid "You must be"
+msgstr "Devi essere"
+
+#: comments.php:50
+msgid "logged in"
+msgstr "collegato"
+
+#: comments.php:50
+msgid "to post a comment."
+msgstr "per potere inviare un commento."
+
+#: comments.php:55
+msgid "Logged in as"
+msgstr "Collegato a nome"
+
+#: comments.php:55
+msgid "Log out &raquo;"
+msgstr "Esci &raquo;"
+
+#: comments.php:57
+msgid "Name"
+msgstr "Nome"
+
+#: comments.php:57
+msgid "(required)"
+msgstr "(richiesto)"
+
+#: comments.php:58
+#: header.php:67
+msgid "Email"
+msgstr "Email"
+
+#: comments.php:58
+msgid "(required, will not be published)"
+msgstr "(richiesta, non sarà resa pubblica)"
+
+#: comments.php:59
+msgid "Website"
+msgstr "Sito web"
+
+#: comments.php:61
+msgid "Comment"
+msgstr "Commento"
+
+#: comments.php:69
+msgid "Submit Comment"
+msgstr "Invia commento"
+
+#: footer.php:5
+msgid "Links"
+msgstr "Links"
+
+#: footer.php:11
+msgid "Categories"
+msgstr "Categorie"
+
+#: footer.php:17
+msgid "Pages"
+msgstr "Pagine"
+
+#: footer.php:23
+msgid "Archives"
+msgstr "Archivi"
+
+#: footer.php:34
+msgid "Copyright"
+msgstr "Copyright"
+
+#: header.php:9
+msgid "Page Not Found |"
+msgstr "Pagina Non Trovata |"
+
+#: header.php:11
+#, php-format
+msgid "Search results for '%s'"
+msgstr "Risultati della ricerca per '%s'"
+
+#: header.php:72
+msgid "Flickr"
+msgstr "Flickr"
+
+#: header.php:77
+msgid "Facebook"
+msgstr "Facebook"
+
+#: header.php:81
+msgid "RSS Feed"
+msgstr "Feed RSS"
+
+#: header.php:90
+msgid "Home"
+msgstr "Home"
+
+#: index.php:7
+#: single.php:7
+msgid "M j"
+msgstr "j M"
+
+#: index.php:7
+#: single.php:7
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: index.php:14
+#: single.php:15
+msgid "read more..."
+msgstr "prosegui..."
+
+#: index.php:15
+#: page.php:10
+#: single.php:16
+msgid "Edit This"
+msgstr "Modifica"
+
+#: index.php:19
+#: single.php:23
+msgid "Filed under"
+msgstr "Archiviato sotto"
+
+#: index.php:21
+msgid "<strong>0</strong>"
+msgstr "<strong>0</strong>"
+
+#: index.php:21
+msgid "<strong>1</strong>"
+msgstr "<strong>1</strong>"
+
+#: index.php:21
+msgid "<strong>%</strong>"
+msgstr "<strong>%</strong>"
+
+#: search.php:5
+#, php-format
+msgid "Search results for &lsquo;%s&rsquo;"
+msgstr "Risultati della ricerca per &lsquo;%s&rsquo;"
+
+#: search.php:23
+#, php-format
+msgid "No results found for '%s'"
+msgstr "Nessun risultato per '%s'"
+
+#: searchform.php:4
+msgid "Type and press enter"
+msgstr "Scrivi e premi Invio"
+
+#: sidebar.php:9
+msgid "Recent Articles"
+msgstr "Articoli recenti"
+
+#: functions/comments.php:30
+msgid "<em><strong>Please Note:</strong> Your comment is awaiting moderation.</em>"
+msgstr "<em><strong>Nota:</strong> Il tuo commento é in attesa di essere moderato.</em>"
+
+#: functions/paperpunch-admin.php:60
+msgid " settings saved!"
+msgstr " le impostazioni sono state salvate!"
+
+#: functions/paperpunch-admin.php:61
+msgid " settings reset."
+msgstr " le impostazioni sono state ripristinate."
+
+#: functions/paperpunch-admin.php:65
+msgid "Options"
+msgstr "Opzioni"
+
+#: functions/paperpunch-admin.php:68
+msgid "Need help?"
+msgstr "Serve aiuto?"
+
+#: functions/paperpunch-admin.php:68
+msgid "Read the tutorials"
+msgstr "Leggi i tutorial"
+
+#: functions/paperpunch-admin.php:68
+msgid "or visit the <a href=\"http://thethemefoundry.com/forums/\">support forums.</a>"
+msgstr "oppure visita i <a href=\"http://thethemefoundry.com/forums/\">forum</a> di supporto."
+
+#: functions/paperpunch-admin.php:70
+msgid "Go PRO!"
+msgstr "Versione PRO!"
+
+#: functions/paperpunch-admin.php:71
+msgid "You are using the free version of Paperpunch. Upgrade to Paperpunch PRO for extra features, access to dedicated support, priority theme updates, and comprehensive theme tutorials."
+msgstr "Stai utilizzando una versione in prova gratuita del tema Paperpunch. Ti ricordo che aggiornando Paperpunch alla versione PRO potrai ottenere delle funzioni extra, un accesso illimitato al suppoprto, avere una priorità sugli aggiornamenti del tema e consultare i tutorial dedicati."
+
+#: functions/paperpunch-admin.php:72
+msgid "Learn more about Paperpunch PRO &rarr;"
+msgstr "Approfondimenti su Paperpunch PRO &rarr;"
+
+#: functions/paperpunch-admin.php:84
+#: functions/paperpunch-admin.php:199
+msgid "Save changes"
+msgstr "Salva le modifiche"
+
+#: functions/paperpunch-admin.php:153
+msgid "show color picker"
+msgstr "mostra il color picker"
+
+#: functions/paperpunch-admin.php:153
+msgid "hide color picker"
+msgstr "nascondi il color picker"
+
+#: functions/paperpunch-admin.php:204
+msgid "Save all changes"
+msgstr "Salva tutte le modifiche"
+
+#: functions/paperpunch-admin.php:210
+msgid "Reset all options"
+msgstr "Ripristina tutte le opzioni"
+
+#: functions/paperpunch-extend.php:29
+msgid "Follow Icons <span>control the follow icons in the top right of your header</span>"
+msgstr "Icone Follow <span>controlla le icone Seguimi su in alto a destra della header</span>"
+
+#: functions/paperpunch-extend.php:32
+msgid "Enable Facebook"
+msgstr "Attiva Facebook"
+
+#: functions/paperpunch-extend.php:34
+msgid "Check this box to show a link to your Facebook page."
+msgstr "Seleziona per mostrare un link alla tua pagina di Facebook"
+
+#: functions/paperpunch-extend.php:38
+msgid "Enable Flickr"
+msgstr "Attiva Flickr"
+
+#: functions/paperpunch-extend.php:40
+msgid "Check this box to show a link to Flickr."
+msgstr "Seleziona per mostrare un link a Flickr"
+
+#: functions/paperpunch-extend.php:44
+msgid "Enable email"
+msgstr "Attiva email"
+
+#: functions/paperpunch-extend.php:46
+msgid "Check this box to show a link to email updates."
+msgstr "Seleziona per mostrare un link agli aggiornamenti via email"
+
+#: functions/paperpunch-extend.php:50
+msgid "Disable all"
+msgstr "Disattiva tutto"
+
+#: functions/paperpunch-extend.php:52
+msgid "Check this box to hide all follow icons (including RSS). This option overrides any other settings."
+msgstr "Seleziona per nascondere tutte le icone follow (RSS incluso). Questa opzione sovrascriverà ogni altra impostazione"
+
+#: functions/paperpunch-extend.php:56
+msgid "Facebook link"
+msgstr "Link a Facebook"
+
+#: functions/paperpunch-extend.php:58
+msgid "Enter your Facebook link."
+msgstr "Inserisci qui il tuo link a Facebook"
+
+#: functions/paperpunch-extend.php:61
+msgid "Flickr link"
+msgstr "Link a Flickr"
+
+#: functions/paperpunch-extend.php:63
+msgid "Enter your Flickr link."
+msgstr "Inserisci qui il tuo link a Flickr"
+
+#: functions/paperpunch-extend.php:66
+msgid "Email link"
+msgstr "Link email"
+
+#: functions/paperpunch-extend.php:68
+msgid "Enter your email updates link."
+msgstr "Inserisci qui il tuo link agli aggiornamenti via email"
+
+#: functions/paperpunch-extend.php:71
+msgid "Navigation <span>control your top navigation menu</span>"
+msgstr "Navigazione <span>controlla il tuo menu principale</span>"
+
+#: functions/paperpunch-extend.php:74
+msgid "Hide all pages"
+msgstr "Nascondi tutte le pagine"
+
+#: functions/paperpunch-extend.php:76
+msgid "Check this box to hide all pages"
+msgstr "Seleziona per nascondere tutte le pagine"
+
+#: functions/paperpunch-extend.php:80
+msgid "Hide all categories"
+msgstr "Nascondi tutte le categorie"
+
+#: functions/paperpunch-extend.php:82
+msgid "Check this box to hide all categories."
+msgstr "Seleziona per nascondere tutte le categorie"
+
+#: functions/paperpunch-extend.php:86
+msgid "Color Scheme <span>customize your color scheme</span>"
+msgstr "Schema colore <span>personalizza il colore</span>"
+
+#: functions/paperpunch-extend.php:89
+msgid "Customize colors"
+msgstr "Personalizza i colori"
+
+#: functions/paperpunch-extend.php:91
+msgid "If enabled your theme will use the layouts and colors you choose below."
+msgstr "Se attivo, il tuo tema utilizzerà i colori ed i layout selezionati qui sotto"
+
+#: functions/paperpunch-extend.php:94
+msgid "Disabled"
+msgstr "Disattivato"
+
+#: functions/paperpunch-extend.php:95
+msgid "Enabled"
+msgstr "Attivato"
+
+#: functions/paperpunch-extend.php:97
+msgid "Link color"
+msgstr "Colore link"
+
+#: functions/paperpunch-extend.php:99
+#: functions/paperpunch-extend.php:105
+msgid "Use hex values and be sure to include the leading #."
+msgstr "Usa i valori esagesimali assicurandoti che siano preceduti dal segno #"
+
+#: functions/paperpunch-extend.php:103
+msgid "Link hover color"
+msgstr "Colore link (hover)"
+
+#: functions/paperpunch-extend.php:109
+msgid "Sidebar Image <span>control your sidebar image state</span>"
+msgstr "Immagine sidebar <span>controlla lo stato della tua immagine sidebar</span>"
+
+#: functions/paperpunch-extend.php:112
+msgid "Image state"
+msgstr "Stato immagine"
+
+#: functions/paperpunch-extend.php:113
+msgid "Add your images to the sidebar rotation by uploading them here: "
+msgstr "Aggiungi le tue immagini per la rotazione nella sidebar caricandole qui: "
+
+#: functions/paperpunch-extend.php:113
+msgid "PRO Tutorial: Use page and post specific images"
+msgstr "PRO Tutorial: immagini specifiche per determinate pagine ed articoli"
+
+#: functions/paperpunch-extend.php:117
+msgid "Rotating images"
+msgstr "Rotazione immagini"
+
+#: functions/paperpunch-extend.php:118
+#: functions/paperpunch-extend.php:129
+msgid "Static image"
+msgstr "Immagine statica"
+
+#: functions/paperpunch-extend.php:119
+#: functions/paperpunch-extend.php:141
+msgid "Custom code"
+msgstr "Codice personalizzato"
+
+#: functions/paperpunch-extend.php:120
+msgid "Page or post specific"
+msgstr "Pagina o articolo specifico"
+
+#: functions/paperpunch-extend.php:121
+msgid "Do not show an image"
+msgstr "Non mostrare immagine"
+
+#: functions/paperpunch-extend.php:123
+msgid "Image <code>&lt;alt&gt;</code> tag"
+msgstr "Tag immagine <code>&lt;alt&gt;</code>"
+
+#: functions/paperpunch-extend.php:125
+msgid "The <code>&lt;alt&gt;</code> tag for your sidebar image(s). Will default to your blog title if left blank."
+msgstr "Il tag <code>&lt;alt&gt;</code> per la tua immagine(i) sidebar. Impostato al titolo del blog se non definito"
+
+#: functions/paperpunch-extend.php:131
+msgid "Set the <em>Image State</em> to \"Static Image\" and upload your image here: "
+msgstr "Imposta lo <em>Stato immagine</em> a \"Immagine statica\" e carica qui la tua immagine: "
+
+#: functions/paperpunch-extend.php:135
+msgid "Image link"
+msgstr "Link immagine"
+
+#: functions/paperpunch-extend.php:137
+msgid "Define a hyperlink for your sidebar image. If left empty the anchor tags will not be included."
+msgstr "Definisci un hyperlink per la tua immagine sidebar. Se non definito, gli anchor tags non saranno inclusi"
+
+#: functions/paperpunch-extend.php:143
+msgid "Replace your sidebar image with custom code. The <em>Image State</em> must be set to \"Custom code\" for this to work."
+msgstr "Sostituisci la tua immagine sidebar con un codice personalizzato. Lo <em>Stato immagine</em> deve essere impostato a \"Codice personalizzato\" affinché possa funzionare"
+
+#: functions/paperpunch-extend.php:149
+msgid "Footer <span>customize your footer</span>"
+msgstr "Footer <span>personalizza il tuo footer</span>"
+
+#: functions/paperpunch-extend.php:152
+msgid "Copyright notice"
+msgstr "Info copyright"
+
+#: functions/paperpunch-extend.php:154
+msgid "Your name or the name of your business."
+msgstr "Il tuo nome oppure quello della tua attività"
+
+#: functions/paperpunch-extend.php:155
+msgid "Your Name Here"
+msgstr "Il tuo nome qui"
+
+#: functions/paperpunch-extend.php:158
+msgid "Stats code"
+msgstr "Codice statistiche"
+
+#: functions/paperpunch-extend.php:160
+msgid "If you use Google Analytics or need any other tracking script in your footer just copy and paste it here. The script will be inserted before the closing <code>&#60;/body&#62;</code> tag."
+msgstr "Facessi uso di Google Analytics oppure di un altro servizio, copia ed incolla qui nel footer il tracking script. Lo script verrà inserito prima del tag di chiusura <code>&#60;/body&#62;</code>"
+
+#: functions/sidebars.php:4
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions/sidebars.php:13
+msgid "Footer"
+msgstr "Footer"
+
+#~ msgid "Free Trial"
+#~ msgstr "Prova gratuita"
+
+#~ msgid ""
+#~ "Custom Logo Image <span>insert your custom logo image in the header</span>"
+#~ msgstr ""
+#~ "Immagine logo personalizzata <span>inserisci nella header il tuo logo</"
+#~ "span>"
+
+#~ msgid "Enable custom logo image"
+#~ msgstr "Attiva Immagine logo personalizzata"
+
+#~ msgid "Check to use a custom logo in the header."
+#~ msgstr "Seleziona per inserire il tuo logo nella header."
+
+#~ msgid "Logo image file name"
+#~ msgstr "Nome file immagine logo"
+
+#~ msgid "Upload your logo image here: "
+#~ msgstr "Carica qui il tuo logo:"
+
+#~ msgid "Logo image <code>&lt;alt&gt;</code> tag"
+#~ msgstr "Immagine logo <code>&lt;alt&gt;</code> tag"
+
+#~ msgid "Specify the <code>&lt;alt&gt;</code> tag for your logo image."
+#~ msgstr "Specifica il <code>&lt;alt&gt;</code> tag per la tua immagine logo."
+
+#~ msgid "Display tagline"
+#~ msgstr "Mostra il motto del sito"
+
+#~ msgid "Check to show your tagline below your logo."
+#~ msgstr "Seleziona per mostrare il motto sotto al logo."
+
+#~ msgid "Enable Twitter"
+#~ msgstr "Attiva Twitter"
+
+#~ msgid "Hip to Twitter? Check this box."
+#~ msgstr "Ti piace Twitter? Seleziona la casella."
+
+#~ msgid "Twitter link"
+#~ msgstr "Link aTwitter"
+
+#~ msgid "Enter your twitter link here."
+#~ msgstr "Inserisci qui il tuo link a Twitter"
+
+#~ msgid "Exclude specific pages"
+#~ msgstr "Esclusione pagine specifiche"
+
+#~ msgid ""
+#~ "The page ID of pages you do not want displayed in your navigation menu. "
+#~ "Use a comma-delimited list, eg. 1,2,3"
+#~ msgstr ""
+#~ "La ID pagina delle pagine che desideri non vengano mostrate nel menu di "
+#~ "navigazione. Separa con una virgola: ad esempio: 1,2,3"
+
+#~ msgid "Exclude specific categories"
+#~ msgstr "Esclusione categorie specifiche"
+
+#~ msgid ""
+#~ "The category ID of pages you do not want displayed in your navigation "
+#~ "menu.. Use a comma-delimited list, eg. 1,2,3"
+#~ msgstr ""
+#~ "La ID categoria delle pagine che desideri non vengano mostrate nel menu "
+#~ "di navigazione. Separa con una virgola: ad esempio: 1,2,3"
+
+#~ msgid "Hide home navigation menu item"
+#~ msgstr "Nascondi il termine home del menu di navigazione"
+
+#~ msgid ""
+#~ "Check this box if you are using a static page as your homepage instead of "
+#~ "your blog (the default). The extra <em>Home</em> menu item will be "
+#~ "removed."
+#~ msgstr ""
+#~ "Seleziona questa casella nel caso in cui utilizzassi per la tua homepage "
+#~ "una pagina statica al posto del tuo blog (default). Il termine <em>Home</"
+#~ "em> sarà rimosso dal menu."
+
+#~ msgid "Background color"
+#~ msgstr "Colore di sfondo"
+
+#~ msgid ""
+#~ "The background will not match your color selection exactly, your color "
+#~ "choice is blended with a transparent background image to give it texture. "
+#~ "Use hex values and be sure to include the leading #."
+#~ msgstr ""
+#~ "Lo sfondo non coinciderà esattamente con il colore da te selezionato "
+#~ "poiché al colore verrà aggiunta una immagine trasparente per dargli una "
+#~ "texture. Usa i valori esagesimali assicurandoti che siano preceduti dal "
+#~ "segno #."
+
+#~ msgid "Alert Box <span>toggle your custom alert box</span>"
+#~ msgstr ""
+#~ "Casella avvisi <span>commuta alla tua casella per gli avvisi "
+#~ "personalizzati</span>"
+
+#~ msgid "Alert Box on/off switch"
+#~ msgstr "Interruttore casella avvisi on/off"
+
+#~ msgid "Toggle the alert box on or off."
+#~ msgstr "Commuta acceso/spento la casella avvisi"
+
+#~ msgid "Off"
+#~ msgstr "Spento"
+
+#~ msgid "On"
+#~ msgstr "Acceso"
+
+#~ msgid "Alert Header"
+#~ msgstr "Titolo avviso"
+
+#~ msgid "The heading for your alert."
+#~ msgstr "Il titolo per il tuo avviso."
+
+#~ msgid "Alert Message"
+#~ msgstr "Messaggio di avviso"
+
+#~ msgid "You may use HTML in the message."
+#~ msgstr "Puoi utilizzare l'HTML nel messaggio."

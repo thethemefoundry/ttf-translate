@@ -1,0 +1,642 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Titan WordPress Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-07 10:02-0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Drew Strojny <themes@jestro.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:2
+msgid "404: Page Not Found"
+msgstr "404: No s'ha trobat la pàgina"
+
+#: 404.php:4
+msgid "We are terribly sorry, but the URL you typed no longer exists. It might have been moved or deleted, or perhaps you mistyped it. We suggest searching the site:"
+msgstr "Aquesta pàgina ja no existeix. Si vols pots cercar altres continguts aquí:"
+
+#: archive.php:4
+#, php-format
+msgid "Posts from the  &#8216;%s&#8217; Category"
+msgstr "Entrades de la categoria &#8216;%s&#8217;"
+
+#: archive.php:6
+#, php-format
+msgid "Posts tagged &#8216;%s&#8217;"
+msgstr "Entrades etiquetades &#8216;%s&#8217;"
+
+#: archive.php:8
+#: archive.php:10
+#: archive.php:12
+msgid "Archive for"
+msgstr "Hemeroteca"
+
+#: archive.php:8
+#: archive.php:21
+#: single.php:8
+msgid "F jS, Y"
+msgstr "d.m.Y"
+
+#: archive.php:10
+msgid "F, Y"
+msgstr "m-Y"
+
+#: archive.php:12
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:14
+#, php-format
+msgid "Posts by %s"
+msgstr "Entrades de %s"
+
+#: archive.php:16
+msgid "Blog Archives"
+msgstr "Hemeroteca del bloc"
+
+#: archive.php:21
+#, php-format
+msgid "%s on"
+msgstr "%s a"
+
+#: archive.php:26
+#: index.php:22
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Entrades més antigues"
+
+#: archive.php:27
+#: index.php:23
+msgid "Newer Entries &raquo;"
+msgstr "Entrades més recents &raquo;"
+
+#: comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Aquesta entrada està protegida amb una contrasenya. Introduïu la contrasenya per veure els comentaris."
+
+#: comments.php:16
+msgid "No Comments Yet"
+msgstr "No s'ha fet cap comentari"
+
+#: comments.php:16
+msgid "One Comment"
+msgstr "Un comentari"
+
+#: comments.php:16
+msgid "% Comments"
+msgstr "% comentaris"
+
+#: comments.php:18
+msgid "Leave One"
+msgstr "Escriu-ne un"
+
+#: comments.php:25
+msgid "&laquo; Older Comments"
+msgstr "&laquo; Comentaris més antics"
+
+#: comments.php:26
+msgid "Newer Comments &raquo;"
+msgstr "Comentaris més recents &raquo;"
+
+#: comments.php:29
+msgid "Trackbacks &amp; Pingbacks"
+msgstr "Trackbacks &amp; Pingbacks"
+
+#: comments.php:35
+#: comments.php:46
+msgid "Comments are closed."
+msgstr "No s'admeten més comentaris."
+
+#: comments.php:41
+msgid "No comments yet"
+msgstr "Encara no s'ha fet cap comentari"
+
+#: comments.php:58
+msgid "Leave a Reply"
+msgstr "Escriu una resposta"
+
+#: comments.php:60
+msgid "You must be"
+msgstr "Caldria que"
+
+#: comments.php:60
+msgid "logged in"
+msgstr "us registréssiu"
+
+#: comments.php:60
+msgid "to post a comment."
+msgstr "per escriure un comentari."
+
+#: comments.php:65
+msgid "Logged in as"
+msgstr "Registrat com a"
+
+#: comments.php:65
+msgid "Log out &raquo;"
+msgstr "Sortiu &raquo;"
+
+#: comments.php:68
+msgid "Name:"
+msgstr "Nom"
+
+#: comments.php:68
+#: comments.php:72
+msgid "(required)"
+msgstr "(obligatori)"
+
+#: comments.php:72
+msgid "Email:"
+msgstr "Adreça electrònica:"
+
+#: comments.php:76
+msgid "Website:"
+msgstr "Pàgina web:"
+
+#: comments.php:81
+msgid "Comment:"
+msgstr "Comentari:"
+
+#: comments.php:84
+msgid "<strong>Note:</strong> XHTML is allowed. Your email address will <strong>never</strong> be published."
+msgstr "<strong>Noteu:</strong> Es permet XHTML. La vostra adreça <strong>mai</strong> no es publicarà."
+
+#: comments.php:85
+msgid "Subscribe to this comment feed via RSS"
+msgstr "Rebeu comentaris mitjançant RSS"
+
+#: comments.php:88
+msgid "Submit Comment"
+msgstr "Deseu comentari"
+
+#: footer.php:7
+#: functions/titan-extend.php:213
+msgid "About"
+msgstr "Qui som"
+
+#: footer.php:11
+msgid "Did you know you can write your own about section just like this one? It's really easy. Head into the the <em>Titan Options</em> menu and check out the footer section. Type some stuff in the box, click save, and your new about section shows up in the footer."
+msgstr "Aquí es pot escriure un breu text sobre el contingut del bloc."
+
+#: footer.php:12
+msgid "Wondering about those Flickr photos on the right?"
+msgstr "I les fotos de Flickr a la dreta?"
+
+#: footer.php:13
+msgid "We didn't take them, they are a random sampling of the most popular photos on Flickr with the tag 'nature'. All rights are reserved to the original copyright holders where applicable."
+msgstr "No son nostres, són una mostra de les més populars a Flickr."
+
+#: footer.php:21
+#: sidebar.php:30
+msgid "Categories"
+msgstr "Categories"
+
+#: footer.php:29
+msgid "Flickr"
+msgstr "Flickr"
+
+#: footer.php:47
+msgid "Search"
+msgstr "Cerca"
+
+#: footer.php:54
+msgid "Copyright"
+msgstr "Copyright"
+
+#: functions.php:28
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: functions.php:38
+msgid "Footer"
+msgstr "Peu de pàgina"
+
+#: header.php:9
+msgid "Page Not Found |"
+msgstr "No s'ha trobat la pàgina |"
+
+#: header.php:11
+#: search.php:3
+#: search.php:25
+#, php-format
+msgid "Search results for '%s'"
+msgstr "Resultats de la cerca '%s'"
+
+#: header.php:48
+msgid "Follow:"
+msgstr "Seguiu-nos:"
+
+#: header.php:49
+msgid "RSS"
+msgstr "RSS"
+
+#: header.php:51
+msgid "Email"
+msgstr "Correo electrònic"
+
+#: header.php:54
+msgid "Twitter"
+msgstr "Twitter"
+
+#: header.php:66
+msgid "Home"
+msgstr "Inici"
+
+#: index.php:6
+#: search.php:7
+msgid "M j"
+msgstr "d.m"
+
+#: index.php:8
+#: search.php:9
+#, php-format
+msgid "by %s"
+msgstr "per %s"
+
+#: index.php:12
+#: search.php:12
+#: single.php:12
+msgid "read more..."
+msgstr "saber-ne més..."
+
+#: index.php:13
+#: page.php:7
+#: search.php:13
+#: single.php:13
+msgid "Edit This"
+msgstr "Editar"
+
+#: index.php:17
+msgid "Leave a comment"
+msgstr "Escriu un comentari"
+
+#: index.php:17
+msgid "1 Comment"
+msgstr "1 comentari"
+
+#: index.php:17
+msgid "% Comment"
+msgid_plural "% Comments"
+msgstr[0] "% comentari"
+msgstr[1] "% comentaris"
+
+#: search.php:27
+#, php-format
+msgid "Sorry your search for \"%s\" did not turn up any results. Please try again."
+msgstr "La cerca \"%s\" no ha donat cap resultat. Torneu a intentar-ho."
+
+#: sidebar.php:22
+msgid "Recent Articles"
+msgstr "Articles recents"
+
+#: sidebar.php:36
+msgid "Archives"
+msgstr "Hemeroteques"
+
+#: single.php:8
+#, php-format
+msgid "by %s on"
+msgstr "per %s el"
+
+#: single.php:17
+msgid "From"
+msgstr "De"
+
+#: functions/comments.php:10
+msgid "permalink"
+msgstr "permalink"
+
+#: functions/comments.php:13
+msgid "<em><strong>Please Note:</strong> Your comment is awaiting moderation.</em>"
+msgstr "<em><strong>Noteu:</strong> El vostre comentari està pendent de moderació.</em>"
+
+#: functions/titan-admin.php:60
+msgid " settings saved!"
+msgstr "opcions desades!"
+
+#: functions/titan-admin.php:61
+msgid " settings reset."
+msgstr "opcions reinicialitzades."
+
+#: functions/titan-admin.php:65
+msgid "Options"
+msgstr "Opcions"
+
+#: functions/titan-admin.php:68
+msgid "Need help?"
+msgstr "Necessiteu ajuda?"
+
+#: functions/titan-admin.php:68
+msgid "Read the tutorials"
+msgstr "Llegiu la documentació"
+
+#: functions/titan-admin.php:68
+msgid "or visit the <a href=\"http://thethemefoundry.com/forums/\">support forums.</a>"
+msgstr "o visiteu les <a href=\"http://thethemefoundry.com/forums/\">pàgines de suport.</a>"
+
+#: functions/titan-admin.php:70
+msgid "Free Trial"
+msgstr "Prova de franc"
+
+#: functions/titan-admin.php:71
+msgid "You are using the free trial version of Titan. Feel free to test it for as long as you wish. Upgrade to Titan PRO for extra features, unlimited access to dedicated support, priority theme updates, and comprehensive theme tutorials."
+msgstr "Això és una versió de prova gratis de Titan. La podeu fer servir indefinitivament. Comprant la versió Titan PRO podreu accedir a funcionalitats adicionals, atenció al client personalitzat, actualitzacions prioritàries de la plantilla, i documentació comprensiva de tots els arxius de la plantilla."
+
+#: functions/titan-admin.php:72
+msgid "Learn more about Titan PRO &rarr;"
+msgstr "Saber-ne més sobre Titan PRO &rarr;"
+
+#: functions/titan-admin.php:84
+#: functions/titan-admin.php:198
+msgid "Save changes"
+msgstr "Deseu els canvis"
+
+#: functions/titan-admin.php:152
+msgid "show color picker"
+msgstr "veure seleccionador de colors"
+
+#: functions/titan-admin.php:152
+msgid "hide color picker"
+msgstr "amagar seleccionador de colors"
+
+#: functions/titan-admin.php:203
+msgid "Save all changes"
+msgstr "Deseu tots els canvis"
+
+#: functions/titan-admin.php:209
+msgid "Reset all options"
+msgstr "Reinicieu totes les opcions"
+
+#: functions/titan-extend.php:29
+msgid "Custom Logo Image <span>insert your custom logo image in the header</span>"
+msgstr "Logotip personalitzat <span>introduïu el logotip personalitzat a la capçalera</span>"
+
+#: functions/titan-extend.php:32
+msgid "Enable custom logo image"
+msgstr "Habliteu logotip personalitzat"
+
+#: functions/titan-extend.php:35
+msgid "Check to use a custom logo in the header."
+msgstr "Marqueu per fer servir el logotip personalitzat a la capçalera."
+
+#: functions/titan-extend.php:39
+msgid "Logo image file name"
+msgstr "Nom d'arxiu del logotip"
+
+#: functions/titan-extend.php:42
+msgid "Upload your logo image here: "
+msgstr "Pujeu el logotip aquí:"
+
+#: functions/titan-extend.php:46
+msgid "Logo image <code>&lt;alt&gt;</code> tag"
+msgstr "Logotip <code>&lt;alt&gt;</code> etiqueta"
+
+#: functions/titan-extend.php:49
+msgid "Specify the <code>&lt;alt&gt;</code> tag for your logo image."
+msgstr "Indiqueu l'<code>&lt;alt&gt;</code>etiqueta pel logotip."
+
+#: functions/titan-extend.php:53
+msgid "Display tagline"
+msgstr "Mostrar lema"
+
+#: functions/titan-extend.php:56
+msgid "Check to show your tagline below your logo."
+msgstr "Marqueu per mostrar el lema sota el logotip."
+
+#: functions/titan-extend.php:60
+msgid "Navigation <span>control your top navigation menu</span>"
+msgstr "Navegació <span> controleu el menú superior de navegació</span>"
+
+#: functions/titan-extend.php:63
+msgid "Hide all pages"
+msgstr "Excloure totes les pàgines"
+
+#: functions/titan-extend.php:65
+msgid "Check this box to hide all pages"
+msgstr "Marqueu la caixeta per excloure totes les pàgines"
+
+#: functions/titan-extend.php:69
+msgid "Exclude specific pages"
+msgstr "Excloure pàgines específiques"
+
+#: functions/titan-extend.php:72
+msgid "The page ID of pages you do not want displayed in your navigation menu. Use a comma-delimited list, eg. 1,2,3"
+msgstr "Introduïu les ID de les pàgines que no voleu mostrar al menú. Separeu-les amb coma: 1,2,3"
+
+#: functions/titan-extend.php:76
+msgid "Hide all categories"
+msgstr "Excloure totes les categories"
+
+#: functions/titan-extend.php:78
+msgid "Check this box to hide all categories."
+msgstr "Marqueu la caixeta per excloure totes les categories."
+
+#: functions/titan-extend.php:82
+msgid "Exclude specific categories"
+msgstr "Excloure categories específiques"
+
+#: functions/titan-extend.php:85
+msgid "The category ID of pages you do not want displayed in your navigation menu.. Use a comma-delimited list, eg. 1,2,3"
+msgstr "Introduïu les ID de les categories que no voleu mostrar al menú. Separeu-les amb coma: 1,2,3"
+
+#: functions/titan-extend.php:89
+msgid "Hide home navigation menu item"
+msgstr "Excloure la pàgina inicial"
+
+#: functions/titan-extend.php:92
+msgid "Check this box if you are using a static page as your homepage instead of your blog (the default). The extra <em>Home</em> menu item will be removed."
+msgstr "Marqueu la caixeta si utilitzeu una pàgina estàtica en lloc del bloc a la pàgina inicial. Així no es veurà l'ítem <em>Inicial</em> al menú."
+
+#: functions/titan-extend.php:96
+msgid "Follow Links <span>top right follow links</span>"
+msgstr "Enllaços de seguiment"
+
+#: functions/titan-extend.php:99
+msgid "Email updates link"
+msgstr "Email"
+
+#: functions/titan-extend.php:101
+msgid "Enter your feed email link here."
+msgstr "Introduïu l'adreça del feed via email."
+
+#: functions/titan-extend.php:106
+msgid "Disable email link"
+msgstr "Deshabilitar feed via email."
+
+#: functions/titan-extend.php:108
+msgid "Don't want to offer email updates, check the box."
+msgstr "Si no voleu ofrir un feed via email, marqueu la caixeta."
+
+#: functions/titan-extend.php:112
+msgid "Twitter updates link"
+msgstr "Twitter"
+
+#: functions/titan-extend.php:114
+msgid "Enter the link to your Twitter page."
+msgstr "Introduïu l'adreça de la vostra pàgina de Twitter."
+
+#: functions/titan-extend.php:117
+msgid "Disable Twitter"
+msgstr "Deshabilitar Twitter."
+
+#: functions/titan-extend.php:119
+msgid "Not hip to Twitter? That's cool, just check this box."
+msgstr "No teniu Twitter? No passa res, només marqueu la caixeta."
+
+#: functions/titan-extend.php:123
+msgid "Homepage Notice <span>display a notice on your homepage</span>"
+msgstr "Avís especial a la pàgina principal <span>Mostreu un avís a la pàgina principal</span>"
+
+#: functions/titan-extend.php:126
+msgid "Enable homepage notice"
+msgstr "Habilitar avís especial a la pàgina principal"
+
+#: functions/titan-extend.php:129
+msgid "Check this box to use a custom notice on the home page."
+msgstr "Marqueu la caixeta per habilitar l'avís especial."
+
+#: functions/titan-extend.php:133
+msgid "Custom notice"
+msgstr "Avís especial"
+
+#: functions/titan-extend.php:136
+msgid "The content of your custom notice."
+msgstr "El contingut del avís."
+
+#: functions/titan-extend.php:142
+msgid "Sidebar Sidebox <span>customize your sidebox</span>"
+msgstr "Caixa lateral <span>customitzeu la caixa lateral</span>"
+
+#: functions/titan-extend.php:145
+msgid "Disable sidebox"
+msgstr "Deshablitar caixa lateral"
+
+#: functions/titan-extend.php:147
+msgid "Check this box to disable the sidebar sidebox."
+msgstr "Marqueu la caixeta per deshabilitar la caixa lateral."
+
+#: functions/titan-extend.php:151
+msgid "Custom code"
+msgstr "Codi personalitzat"
+
+#: functions/titan-extend.php:153
+msgid "Check this box to use custom code for the sidebox."
+msgstr "Marqueu la caixeta per utilitzar codi personalitzat a la caixa lateral."
+
+#: functions/titan-extend.php:157
+msgid "Custom code content"
+msgstr "Contingut del codi personalitzat"
+
+#: functions/titan-extend.php:159
+msgid "Must use properly formatted XHTML/HTML."
+msgstr "S'ha de fer servir codi XHTML/HTML amb el format adequat."
+
+#: functions/titan-extend.php:165
+msgid "Sidebar Adbox <span>control ads in your sidebar</span>"
+msgstr "Caixa d'anuncis lateral <span>controleu els anuncis a la barra lateral</span>"
+
+#: functions/titan-extend.php:168
+msgid "Enable adbox"
+msgstr "Habilitar caixa d'anuncis"
+
+#: functions/titan-extend.php:170
+msgid "Check this box to enable the sidebar adbox."
+msgstr "Marqueu la caixeta per habilitar la caixa d'anuncis a la barra lateral."
+
+#: functions/titan-extend.php:174
+msgid "Ad 1 file name"
+msgstr "Nom d'Anunci 1"
+
+#: functions/titan-extend.php:176
+#: functions/titan-extend.php:194
+msgid "Upload your image here: "
+msgstr "Pujeu l'imatge aquí:"
+
+#: functions/titan-extend.php:180
+msgid "Ad 1 link"
+msgstr "Enllaç d'Anunci 1"
+
+#: functions/titan-extend.php:182
+msgid "Link for the first ad"
+msgstr "Enllaç d'Anunci 1"
+
+#: functions/titan-extend.php:186
+msgid "Ad 1 alt tag"
+msgstr "Anunci 1 alt tag"
+
+#: functions/titan-extend.php:188
+msgid "Alt tag for the first ad"
+msgstr "Anunci 1 alt tag"
+
+#: functions/titan-extend.php:192
+msgid "Ad 2 file name"
+msgstr "Nom d'Anunci 2"
+
+#: functions/titan-extend.php:198
+msgid "Ad 2 link"
+msgstr "Enllaç d'Anunci 2"
+
+#: functions/titan-extend.php:200
+msgid "Link for the second ad"
+msgstr "Enllaç d'Anunci 2"
+
+#: functions/titan-extend.php:204
+msgid "Ad 2 alt tag"
+msgstr "Anunci 2 alt tag"
+
+#: functions/titan-extend.php:206
+msgid "Alt tag for the second ad"
+msgstr "Anunci 2 alt tag"
+
+#: functions/titan-extend.php:210
+msgid "Footer <span>customize your footer</span>"
+msgstr "Peu de pàgina <span>customitzeu el contingut del peu de la pàgina</span>"
+
+#: functions/titan-extend.php:215
+msgid "Something about you or your business."
+msgstr "Aquí podeu escriure un breu text sobre la vostra empresa."
+
+#: functions/titan-extend.php:220
+msgid "Flickr link"
+msgstr "Enllaç de Flickr"
+
+#: functions/titan-extend.php:222
+msgid "Create a <a href=\"http://www.flickr.com/badge_new.gne\">javascript Flickr badge</a>. At the end of the process extract the URL and paste here."
+msgstr "Aquí podeu afegir l'URL de la vostra <a href=\"http://www.flickr.com/badge_new.gne\">xapa de Flickr</a>."
+
+#: functions/titan-extend.php:227
+msgid "Disable Flickr"
+msgstr "Deshabilitar Flickr"
+
+#: functions/titan-extend.php:229
+msgid "Check this box to disable Flickr and enable the footer widget instead."
+msgstr "Marqueu la caixeta per deshabilitar Flickr i habilitar el giny del peu de la pàgina en el seu lloc."
+
+#: functions/titan-extend.php:233
+msgid "Copyright notice"
+msgstr "Avís copyright"
+
+#: functions/titan-extend.php:235
+msgid "Your name or the name of your business."
+msgstr "El vostre nom o el nom de la vostra empresa."
+
+#: functions/titan-extend.php:236
+msgid "Your Name Here"
+msgstr "El vostre nom"
+
+#: functions/titan-extend.php:239
+msgid "Stats code"
+msgstr "Codi d'estadístiques de la web"
+
+#: functions/titan-extend.php:241
+msgid "If you use Google Analytics or need any other tracking script in your footer just copy and paste it here. The script will be inserted before the closing <code>&#60;/body&#62;</code> tag."
+msgstr "Per Google Analytics o un altre codi de captació d'estadístiques de la vostra web."
+

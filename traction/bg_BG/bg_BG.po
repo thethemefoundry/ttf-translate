@@ -1,0 +1,800 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Traction WordPress Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-21 23:44-0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:8
+msgid "404: Page Not Found"
+msgstr "404: Страницата не е намерена"
+
+#: 404.php:10
+msgid "We are terribly sorry, but the URL you typed no longer exists. It might have been moved or deleted, or perhaps you mistyped it. We suggest searching the site:"
+msgstr "Ние много съжаляваме, но URL адрес вече не съществува.Може да е преместен или изтрит, или може би погрешно сте го написали. Предлагаме да използвайте търсачката на  сайта:"
+
+#: archive.php:8
+#, php-format
+msgid "Posts from the\t&#8216;%s&#8217; Category"
+msgstr "Пост от \t&#8216;%s&#8217; Категория"
+
+#: archive.php:10
+#, php-format
+msgid "Posts tagged &#8216;%s&#8217;"
+msgstr "Етикети на постове &#8216;%s&#8217;"
+
+#: archive.php:12
+#: archive.php:14
+#: archive.php:16
+msgid "Archive for"
+msgstr "Архив за"
+
+#: archive.php:12
+msgid "F jS, Y"
+msgstr " jS, F Y от G:i"
+
+#: archive.php:14
+msgid "F, Y"
+msgstr "F, Y "
+
+#: archive.php:16
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:18
+#, php-format
+msgid "Posts by %s"
+msgstr "Постове от  %s"
+
+#: archive.php:20
+msgid "Blog Archives"
+msgstr "Блог Архиви"
+
+#: archive.php:30
+#: index.php:17
+msgid "j"
+msgstr "j"
+
+#: archive.php:31
+#: index.php:18
+msgid "M"
+msgstr "M"
+
+#: archive.php:36
+#: index.php:23
+#: search.php:18
+msgid "Read more"
+msgstr "Чети още"
+
+#: archive.php:37
+#: index.php:24
+#: page.php:18
+#: search.php:19
+#: single.php:20
+msgid "Edit"
+msgstr "Редактиране"
+
+#: archive.php:44
+#: index.php:31
+#: search.php:26
+msgid "&laquo; Older Entries"
+msgstr "&laquo; По-стари влизания"
+
+#: archive.php:45
+#: index.php:32
+#: search.php:27
+msgid "Newer Entries &raquo;"
+msgstr "По-нови влизания &raquo;"
+
+#: comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Тази публикация е защитена с парола.Влезте в системата , за да видите коментарите."
+
+#: comments.php:16
+msgid "No Comments Yet"
+msgstr "Все още няма коментари"
+
+#: comments.php:16
+msgid "1 Comment"
+msgstr "1 Коментар"
+
+#: comments.php:16
+msgid "% Comments"
+msgstr "% Коментара"
+
+#: comments.php:18
+msgid "Post a comment"
+msgstr "Публикувай коментар"
+
+#: comments.php:25
+msgid "Trackbacks &amp; Pingbacks"
+msgstr "Trackbacks &amp; Pingbacks"
+
+#: comments.php:31
+#: comments.php:36
+msgid "Comments are closed."
+msgstr "Коментарите са затворени."
+
+#: comments.php:47
+msgid "Share your thoughts, post a comment."
+msgstr "Споделете вашите мисли. Публикувайте коментар."
+
+#: comments.php:49
+msgid "You must be"
+msgstr "Трябва да сте"
+
+#: comments.php:49
+msgid "logged in"
+msgstr "Влезли"
+
+#: comments.php:49
+msgid "to post a comment."
+msgstr "за да публикувате коментар."
+
+#: comments.php:54
+msgid "Logged in as"
+msgstr "Влезли сте като "
+
+#: comments.php:54
+msgid "Log out &raquo;"
+msgstr "Изход &raquo;"
+
+#: comments.php:57
+msgid "Name"
+msgstr "Име"
+
+#: comments.php:59
+#: comments.php:64
+msgid "<span>(required)</span>"
+msgstr "<span>(изисква)</span>"
+
+#: comments.php:62
+msgid "Email"
+msgstr "Email"
+
+#: comments.php:67
+msgid "Website"
+msgstr "Уеб сайт"
+
+#: comments.php:72
+msgid "Comment"
+msgstr "Коментар"
+
+#: comments.php:76
+msgid "<strong>Note:</strong> HTML is allowed. Your email address will <strong>never</strong> be published."
+msgstr "<strong>Забележка:</strong> Вашия email адрес <strong>Няма</strong> да бъде публикуван никъде във сайта."
+
+#: comments.php:77
+msgid "Subscribe to comments"
+msgstr "Абонамент за коментари"
+
+#: comments.php:80
+msgid "Submit Comment"
+msgstr "Изпрати Коментара"
+
+#: featured.php:19
+msgid "Featured Articles"
+msgstr "Препоръчани постове"
+
+#: footer.php:12
+msgid "Categories"
+msgstr "Категории"
+
+#: footer.php:20
+msgid "About"
+msgstr "За мен"
+
+#: footer.php:24
+msgid "Did you know you can write your own about section just like this one? It's really easy. Head into the the <em>Traction Options</em> menu and check out the footer section. Type some stuff in the box, click save, and your new about section shows up in the footer."
+msgstr "Знаете ли, че може да напишете вашето \" За мен \" точно като това ? Това е много лесно.Отидете на <em>Traction настройки</em> и проверете footer раздела. Въведете някаква информация за Вас в кутията, изберете \" Запазване\" и текста ще се появи в долната час на сайта . "
+
+#: footer.php:33
+msgid "Pages"
+msgstr "Страници"
+
+#: footer.php:45
+msgid "Search"
+msgstr "Търсене"
+
+#: footer.php:54
+msgid "Copyright"
+msgstr "Copyright"
+
+#: functions.php:34
+msgid "Sidebar"
+msgstr "Лента"
+
+#: functions.php:43
+msgid "Footer Left"
+msgstr "Footer Ляво"
+
+#: functions.php:52
+msgid "Footer Center"
+msgstr "Footer Ценър"
+
+#: functions.php:61
+msgid "Footer Right"
+msgstr "Footer Дясно"
+
+#: header.php:9
+msgid "Page Not Found |"
+msgstr "Страницата не е намерена |"
+
+#: header.php:11
+#: search.php:7
+#, php-format
+msgid "Search results for '%s'"
+msgstr "Резултати за  '%s'"
+
+#: header.php:68
+msgid "Skip to content"
+msgstr "Прескачане на съдържание"
+
+#: header.php:73
+msgid "Home"
+msgstr "Начало"
+
+#: index.php:7
+#: sidebar.php:41
+msgid "Recent Articles"
+msgstr "Последни статии"
+
+#: search.php:32
+#, php-format
+msgid "Sorry your search for \"%s\" did not turn up any results. Please try again."
+msgstr "За съжаление търсенето на \"%s\" не се появи резултат.Моля опитайте отново."
+
+#: sidebar.php:20
+msgid "Sign up for our free newsletter"
+msgstr "Запишете за безплатен информационен бюлетин"
+
+#: sidebar.php:23
+msgid "Email address"
+msgstr "Email адрес"
+
+#: sidebar.php:24
+msgid "Go"
+msgstr "Давай"
+
+#: sidebar.php:31
+#: subscribe.php:17
+msgid "Twitter"
+msgstr "Twitter"
+
+#: sidebar.php:49
+msgid "Archives"
+msgstr "Архиви"
+
+#: single.php:5
+msgid "F j, Y"
+msgstr " j,  F Y от G:i"
+
+#: single.php:24
+msgid "<em>Read more from</em>"
+msgstr "<em>Прочети повече от</em>"
+
+#: subscribe.php:3
+msgid "Subscribe"
+msgstr "Абонамент"
+
+#: subscribe.php:7
+msgid "Facebook"
+msgstr "Facebook"
+
+#: subscribe.php:12
+msgid "Flickr"
+msgstr "Flickr"
+
+#: subscribe.php:21
+msgid "RSS Feed"
+msgstr "RSS Feed"
+
+#: functions/comments.php:31
+msgid "<em><strong>Please Note:</strong> Your comment is awaiting moderation.</em>"
+msgstr "<em><strong>Внимание:</strong> Вашият коментар изчаква модерация.</em>"
+
+#: functions/traction-admin.php:65
+msgid "The <code>/wp-content/uploads</code> folder is not writable. Try changing the permissions. <a href=\"http://codex.wordpress.org/Changing_File_Permissions\">Learn how to change permissions &rarr;</a>"
+msgstr "В <code>/wp-content/uploads</code> не е разрешено за запис .Опитайте да промените разрешенията. <a href=\"http://codex.wordpress.org/Changing_File_Permissions\"> Научете как става това  &rarr;</a>"
+
+#: functions/traction-admin.php:79
+msgid "There was an error uploading the file. Please try again."
+msgstr "Имаше грешка при качването на файла. Моля опитайте отново."
+
+#: functions/traction-admin.php:99
+msgid "There was an error, please remove the logo and try again."
+msgstr "Възникна грешка, премахнете логото и се опитайте отново."
+
+#: functions/traction-admin.php:108
+msgid " settings saved!"
+msgstr " запаметени настройки!"
+
+#: functions/traction-admin.php:109
+msgid " settings reset."
+msgstr "Възстановяване на настройки."
+
+#: functions/traction-admin.php:113
+msgid "Options"
+msgstr "Опции"
+
+#: functions/traction-admin.php:114
+msgid "Need help?"
+msgstr "Нуждаете се от помощ?"
+
+#: functions/traction-admin.php:114
+msgid "Read the tutorials"
+msgstr "Прочетете уроци"
+
+#: functions/traction-admin.php:114
+msgid "or visit the <a href=\"http://thethemefoundry.com/forums/\">support forums.</a>"
+msgstr "или посетете <a href=\"http://thethemefoundry.com/forums/\">форума</a>"
+
+#: functions/traction-admin.php:126
+#: functions/traction-admin.php:260
+msgid "Save changes"
+msgstr "Запазване на промените"
+
+#: functions/traction-admin.php:181
+msgid "Choose your image"
+msgstr "Изберете изображение"
+
+#: functions/traction-admin.php:186
+msgid "Remove"
+msgstr "Премахни"
+
+#: functions/traction-admin.php:189
+msgid "Preview logo"
+msgstr "Преглед на логото"
+
+#: functions/traction-admin.php:190
+msgid "Cannot locate your logo image, it may have been moved or renamed. Please remove and try uploading again."
+msgstr "Не е намерено Лого изображение, може би е преместено или преименувано. Моля, премахнете го и се опитайте да го качите отново."
+
+#: functions/traction-admin.php:214
+msgid "show color picker"
+msgstr "Покажи избор на цвят "
+
+#: functions/traction-admin.php:214
+msgid "hide color picker"
+msgstr "Скри избора на цвят"
+
+#: functions/traction-admin.php:265
+msgid "Save all changes"
+msgstr "Запазване на всички промени"
+
+#: functions/traction-admin.php:271
+msgid "Reset all options"
+msgstr "Възстановяване на всички опции"
+
+#: functions/traction-extend.php:29
+msgid "Custom Logo Image <span>insert your custom logo image in the header</span>"
+msgstr "Потребителско Лого изображение <span>поставете вашето персонално лого изображение в заглавната част.</span> "
+
+#: functions/traction-extend.php:33
+msgid "Enable custom logo image"
+msgstr "Активиране на потребителското лого изображение"
+
+#: functions/traction-extend.php:35
+msgid "Check to use a custom logo in the header."
+msgstr "Включване на потребителското лого в заглавната част."
+
+#: functions/traction-extend.php:40
+msgid "Prefer FTP? Specify a file name."
+msgstr "Предпочитате  FTP? Посочете името на файла."
+
+#: functions/traction-extend.php:42
+#, php-format
+msgid "Choose an image from your computer or specify any image file name you have uploaded to the %s directory."
+msgstr "Изберете изображение от вашия компютър или посочете име на графичния файл, който сте качили в %s  директория."
+
+#: functions/traction-extend.php:48
+msgid "Logo image <code>&lt;alt&gt;</code> tag"
+msgstr "артинката на логото<code>&lt;alt&gt;</code> етикет"
+
+#: functions/traction-extend.php:50
+msgid "Specify the <code>&lt;alt&gt;</code> tag for your logo image."
+msgstr "Посочва се <code>&lt;alt&gt;</code> маркер за лого изображението."
+
+#: functions/traction-extend.php:55
+msgid "Display tagline"
+msgstr "Показва на лозунг"
+
+#: functions/traction-extend.php:57
+msgid "Check to show your tagline below your logo."
+msgstr "Включване на лозунга под логото."
+
+#: functions/traction-extend.php:62
+msgid "Featured Slider <span>take control of your featured slider.</span>"
+msgstr "Лентата за Препорачани постове <span>поемете контрола на препоръчаните постове.</span>"
+
+#: functions/traction-extend.php:66
+msgid "Enable featured slider"
+msgstr "Включване лента за Препоръчани постове"
+
+#: functions/traction-extend.php:68
+msgid "Check to turn on your featured slider."
+msgstr "Включване на лентата за препоръчани постове."
+
+#: functions/traction-extend.php:73
+msgid "Autostart"
+msgstr "Автоматично стартиране"
+
+#: functions/traction-extend.php:75
+msgid "Check to start your featured slider automatically."
+msgstr "Проверете, преди включване на плъзгащата автоматична лентата за препоръчани постове."
+
+#: functions/traction-extend.php:80
+msgid "Autostart delay"
+msgstr "Автоматично стартиране на закъснението"
+
+#: functions/traction-extend.php:82
+msgid "Delay before the autostart and the delay between slides in milliseconds (1000 = 1 second)."
+msgstr "Времето за задържане преди автоматично да се смени слайдовете в милисекунди (1000 = 1 секунда)"
+
+#: functions/traction-extend.php:87
+msgid "Slide animation speed"
+msgstr "Скоростта на плъзгане за анимацията"
+
+#: functions/traction-extend.php:89
+msgid "Speed of the sliding animation in milliseconds (1000 = 1 second)."
+msgstr "Скорост на плъзгането на анимацията в милисекунди (1000 = 1 секунда)"
+
+#: functions/traction-extend.php:94
+msgid "Fade speed"
+msgstr "Скорост преливане"
+
+#: functions/traction-extend.php:96
+msgid "Speed of the fading animation in milliseconds (1000 = 1 second)."
+msgstr "Скоростта на преливане за анимацията в милисекунди ( 1000 = 1 секунда)"
+
+#: functions/traction-extend.php:101
+msgid "Color Scheme <span>choose your color scheme</span>"
+msgstr "Цветова схема <span>избери цветова схема</span>"
+
+#: functions/traction-extend.php:105
+msgid "Color scheme"
+msgstr "Цветова схема "
+
+#: functions/traction-extend.php:106
+msgid "Choose your color scheme."
+msgstr "Избери цветова схема."
+
+#: functions/traction-extend.php:111
+msgid "Default (blue)"
+msgstr "По подразбиране (в синьо)"
+
+#: functions/traction-extend.php:112
+msgid "Red"
+msgstr "Червен"
+
+#: functions/traction-extend.php:113
+msgid "Green"
+msgstr "Зелен"
+
+#: functions/traction-extend.php:116
+msgid "Navigation <span>control your top navigation menu</span>"
+msgstr "Навигация <span>контролира горното навигационно меню</span>"
+
+#: functions/traction-extend.php:120
+msgid "Use WordPress menus"
+msgstr "Използване на WordPress менюта"
+
+#: functions/traction-extend.php:122
+msgid "Check this box to use the built in WordPress menus (overrides all other navigation options). This option <strong>requires WordPress 3.0 or higher</strong>."
+msgstr "Маркирайте тази отметка, за да използвате вградените менюта на  WordPress (отменя всички други възможности за навигация). Тази опция изисква WordPress 3.0 или по-висока."
+
+#: functions/traction-extend.php:127
+msgid "Hide all pages"
+msgstr "Скри всички страници"
+
+#: functions/traction-extend.php:129
+msgid "Check this box to hide all pages."
+msgstr "Маркирайте тази отмета, за да скриете всички страници."
+
+#: functions/traction-extend.php:134
+msgid "Exclude specific pages"
+msgstr "Изключи конкретни страници"
+
+#: functions/traction-extend.php:136
+msgid "The page ID of pages you do not want displayed in your navigation menu. Use a comma-delimited list, eg. 1,2,3."
+msgstr "ID на страницата, който искате да не се показват в навигационното меню. Използвайте запетаи за да ги разделите, например 1,2,3 "
+
+#: functions/traction-extend.php:141
+msgid "Hide all categories"
+msgstr "Скрий всички категории"
+
+#: functions/traction-extend.php:143
+msgid "Check this box to hide all categories."
+msgstr "Маркирайте тази отметка, за да скриете всички категории."
+
+#: functions/traction-extend.php:148
+msgid "Exclude specific categories"
+msgstr "Изключете специални категории"
+
+#: functions/traction-extend.php:150
+msgid "The category ID of pages you do not want displayed in your navigation menu. Use a comma-delimited list, eg. 1,2,3."
+msgstr "ID на категориите, който искате да не се показват в навигационното меню. Използвайте запетаи за да ги разделите, например 1,2,3"
+
+#: functions/traction-extend.php:155
+msgid "Hide home navigation menu item"
+msgstr "Скрий Начало от навигационното меню."
+
+#: functions/traction-extend.php:157
+msgid "Check this box if you are using a static page as your homepage instead of your blog (the default). The extra <em>Home</em> menu item will be removed."
+msgstr "Маркирайте тази отметка, ако използвате друга статична страница за начална, за вашия болг ( по подразбиране).Допълнителната позиция на меню <em>Начало</em> ще бъде премахнато."
+
+#: functions/traction-extend.php:162
+msgid "Advertising <span>fill in your ad spots</span>"
+msgstr "Реклама <span>попълнете свийте рекламни полета</span>"
+
+#: functions/traction-extend.php:166
+msgid "Enable top banner ad"
+msgstr "Дава възможност да има най-горе банер за реклама"
+
+#: functions/traction-extend.php:168
+msgid "Check this box to enable the top banner."
+msgstr "Маркирайте тази отметка, за да може най-горе на страницата да има банер."
+
+#: functions/traction-extend.php:173
+msgid "Top banner ad file name"
+msgstr "Име на файла за най-горе рекламен банер."
+
+#: functions/traction-extend.php:175
+#: functions/traction-extend.php:203
+#: functions/traction-extend.php:224
+#, php-format
+msgid "Upload your image to the %s directory."
+msgstr "Качете изображение  в %s директория."
+
+#: functions/traction-extend.php:180
+msgid "Top banner ad link"
+msgstr "Връзка за най-горния рекламен банер."
+
+#: functions/traction-extend.php:182
+msgid "Link for the top banner ad"
+msgstr "Връзка най-горния рекламен банер."
+
+#: functions/traction-extend.php:187
+msgid "Top banner alt tag"
+msgstr "Най-горен рекламен банер.Висчки тагове."
+
+#: functions/traction-extend.php:189
+msgid "Alt tag for the top banner ad"
+msgstr "Всички тагове за най-горен рекламен банер."
+
+#: functions/traction-extend.php:194
+msgid "Enable sidebar adbox"
+msgstr "Включване на рекламна кутия в страничната лента"
+
+#: functions/traction-extend.php:196
+msgid "Check this box to enable the sidebar adbox."
+msgstr "Маркирайте тази отметка, за да може да се покаже adbox в страничната лента."
+
+#: functions/traction-extend.php:201
+msgid "Ad 1 file name"
+msgstr "Иметоза на файла, за Рекламна 1"
+
+#: functions/traction-extend.php:208
+msgid "Ad 1 link"
+msgstr "Връзка за реклама 1"
+
+#: functions/traction-extend.php:210
+msgid "Link for the first ad"
+msgstr "Линк за първата реклама"
+
+#: functions/traction-extend.php:215
+msgid "Ad 1 alt tag"
+msgstr "Рекламна 1 всички тагове"
+
+#: functions/traction-extend.php:217
+msgid "Alt tag for the first ad"
+msgstr "Всички тагове за първата реклама"
+
+#: functions/traction-extend.php:222
+msgid "Ad 2 file name"
+msgstr "Името на файла,за Рекламна 2"
+
+#: functions/traction-extend.php:229
+msgid "Ad 2 link"
+msgstr "Връзка за реклама 2"
+
+#: functions/traction-extend.php:231
+msgid "Link for the second ad"
+msgstr "Линк за втората реклама"
+
+#: functions/traction-extend.php:236
+msgid "Ad 2 alt tag"
+msgstr "Рекламна 2 всички тагове"
+
+#: functions/traction-extend.php:238
+msgid "Alt tag for the second ad"
+msgstr "Всички тагове за втората реклама"
+
+#: functions/traction-extend.php:243
+msgid "Subscribe Links <span>control the subscribe links</span>"
+msgstr "Абонамент Връзки <span>контролират се абонаментните  връзки</span>"
+
+#: functions/traction-extend.php:247
+msgid "Enable Twitter"
+msgstr "Активиране на Twitter"
+
+#: functions/traction-extend.php:249
+msgid "Hip to Twitter? Check this box. Please set your Twitter username in the Twitter menu."
+msgstr "Хип да Twitter? Маркирайте тази отметка. Моля настроите Twitter име в менюто Twitter."
+
+#: functions/traction-extend.php:254
+msgid "Enable Facebook"
+msgstr "Активиране на Facebook"
+
+#: functions/traction-extend.php:256
+msgid "Check this box to show a link to your Facebook page."
+msgstr "Маркирайте тази отметка, да се покаже връзка към твоята страница във Facebook."
+
+#: functions/traction-extend.php:261
+msgid "Enable Flickr"
+msgstr "Активиране на Flickr"
+
+#: functions/traction-extend.php:263
+msgid "Check this box to show a link to Flickr."
+msgstr "Маркирайте тази отметка, да се покаже  връзка към Flickr."
+
+#: functions/traction-extend.php:268
+msgid "Disable all"
+msgstr "Изключване на всички"
+
+#: functions/traction-extend.php:270
+msgid "Check this box to hide all follow icons (including RSS). This option overrides any other settings."
+msgstr "Маркирайте тази отметка, за да скриете всички последващи икони (включително RSS). Този вариант има предимство пред други настройки."
+
+#: functions/traction-extend.php:275
+msgid "Facebook link"
+msgstr "Facebook връзка."
+
+#: functions/traction-extend.php:277
+msgid "Enter your Facebook link."
+msgstr "Вашата Facebook връзка."
+
+#: functions/traction-extend.php:281
+msgid "Flickr link"
+msgstr "Flickr връзка"
+
+#: functions/traction-extend.php:283
+msgid "Enter your Flickr link."
+msgstr "Вашата Flickr връзка."
+
+#: functions/traction-extend.php:287
+msgid "Sidebar <span>customize your sidebar</span>"
+msgstr "Лента <span> персонализиране на страничната лента</span>"
+
+#: functions/traction-extend.php:291
+msgid "Disable sidebox"
+msgstr "Изключване на sidebox"
+
+#: functions/traction-extend.php:293
+msgid "Check this box to disable the sidebar sidebox."
+msgstr "Маркирайте тази отметка, да забраните показване на  страничната лента sidebox."
+
+#: functions/traction-extend.php:298
+msgid "Custom code"
+msgstr "Потребителски код за sidebox."
+
+#: functions/traction-extend.php:300
+msgid "Check this box to use custom code for the sidebox."
+msgstr "Маркирайте тази отметка, да се използва потребителски код за sidebox."
+
+#: functions/traction-extend.php:305
+msgid "Custom code content"
+msgstr "Съдържание за потребителския код"
+
+#: functions/traction-extend.php:307
+msgid "Must use properly formatted XHTML/HTML."
+msgstr "Трябва да използвате правилно форматиране на  XHTML / HTML."
+
+#: functions/traction-extend.php:315
+msgid "Enable newsletter"
+msgstr "Активиране на бюлетини."
+
+#: functions/traction-extend.php:317
+msgid "The newsletter sign-up uses Feedburner by default."
+msgstr "Абонирайте се за Feedburner бюлетина използва се по подразбиране."
+
+#: functions/traction-extend.php:322
+msgid "Feed Title"
+msgstr "Feed Заглавие."
+
+#: functions/traction-extend.php:324
+msgid "Title displayed inside the newsletter signup box"
+msgstr "Показва заглавие,за  вътрешността на кутия за Регистрацията."
+
+#: functions/traction-extend.php:329
+msgid "Feedburner feed name"
+msgstr "Feedburner Име"
+
+#: functions/traction-extend.php:331
+msgid "Click the <em>Edit Feed Details</em> link inside FeedBurner"
+msgstr "Кликнете върху <em>Редактиране Feed Детайли</em> връзка вътре във FeedBurner"
+
+#: functions/traction-extend.php:335
+msgid "Twitter <span>show your latest tweets in the sidebar</span>"
+msgstr "Twitter <span>показва най-новите Tweets в страничната лента</span>"
+
+#: functions/traction-extend.php:339
+msgid "Twitter sidebar updates"
+msgstr "Twitter лента за актуализации."
+
+#: functions/traction-extend.php:341
+msgid "Check this box to show your latest tweets in the sidebar."
+msgstr "Маркирайте тази отметка,за да се покаже Twets в страничната лента."
+
+#: functions/traction-extend.php:346
+msgid "Twitter name"
+msgstr "Twitter име"
+
+#: functions/traction-extend.php:348
+msgid "Enter your twitter name here."
+msgstr "Вашето име за Twitter"
+
+#: functions/traction-extend.php:352
+msgid "Number of updates"
+msgstr "Брой на актуализации"
+
+#: functions/traction-extend.php:354
+msgid "The number of tweets to show in the sidebar."
+msgstr "Броя за показване на Tweets новини в страничната лента."
+
+#: functions/traction-extend.php:359
+msgid "Footer <span>customize your footer</span>"
+msgstr "Footer<span> персонализирайте долната час на сайта</span>"
+
+#: functions/traction-extend.php:365
+msgid "Something about you or your business."
+msgstr "Нещо за вас или вашия бизнес."
+
+#: functions/traction-extend.php:372
+msgid "Disable About"
+msgstr "Изключване За мен"
+
+#: functions/traction-extend.php:374
+msgid "Check this box to disable the About section and enable the footer widget instead."
+msgstr "Маркирайте тази отметка, за да изключите \"За мен\" и дава възможност да се сложи джаджа в долната час вместо това."
+
+#: functions/traction-extend.php:379
+msgid "Copyright notice"
+msgstr "Авторско право"
+
+#: functions/traction-extend.php:381
+msgid "Your name or the name of your business."
+msgstr "Вашето име или името на вашия бизнес."
+
+#: functions/traction-extend.php:382
+msgid "Your Name Here"
+msgstr "Вашето име."
+
+#: functions/traction-extend.php:386
+msgid "Stats code"
+msgstr "Код за статистиката"
+
+#: functions/traction-extend.php:388
+msgid "If you use Google Analytics or need any other tracking script in your footer just copy and paste it here. The script will be inserted before the closing <code>&#60;/body&#62;</code> tag."
+msgstr "Ако използвате Google Анализ или друг скрипт за проследяване е нужно да го поставите тук. Ще се добави между <code>&#60;/body&#62;</code> маркера."
+
+#: functions/traction-extend.php:481
+msgid "Top Navigation"
+msgstr "Горна Навигация "
+
+#: functions/traction-extend.php:482
+msgid "Header Navigation"
+msgstr "Header Навигация"
+

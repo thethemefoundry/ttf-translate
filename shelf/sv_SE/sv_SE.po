@@ -1,0 +1,569 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Shelf WordPress Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-12 17:54-0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Yan Sarazin <yan@statikpulse.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Swedish\n"
+"X-Poedit-Country: SWEDEN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: card-commentform.php:6
+msgid "What do you think?"
+msgstr "Vad tycker du?"
+
+#: card-commentform.php:7
+msgid "Please keep your comments polite and on-topic."
+msgstr "Var god kommentera artigt och inom ämnet."
+
+#: card-commentform.php:13
+msgid "Name:"
+msgstr "Namn:"
+
+#: card-commentform.php:15
+msgid "Email:"
+msgstr "Epost:"
+
+#: card-commentform.php:17
+msgid "Website:"
+msgstr "Webbplats:"
+
+#: card-commentform.php:23
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Du måste vara inloggad <a href=\"%s\">logged in</a> för att kommentera."
+
+#: card-commentform.php:24
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr "Inloggad som <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Logga ut?</a>"
+
+#: card-commentform.php:31
+msgid "Cancel reply"
+msgstr "Cancel reply"
+
+#: card-commentform.php:32
+msgid "Send Message"
+msgstr "Skicka meddelande"
+
+#: card-pings.php:5
+#, php-format
+msgid "%d notes"
+msgstr "%d notes"
+
+#: comments.php:4
+msgid "comments"
+msgstr "kommentarer"
+
+#: footer.php:6
+#, php-format
+msgid "Copyright &copy; %1$s %2$s"
+msgstr "Copyright &copy; %1$s %2$s"
+
+#: footer.php:12
+#, php-format
+msgid "<a href=\"%1$s\">Shelf Theme</a> by <a href=\"%2$s\">The Theme Foundry</a>"
+msgstr "<a href=\"%1$s\">Shelf Theme</a> by <a href=\"%2$s\">The Theme Foundry</a>"
+
+#: footer.php:22
+msgid "&larr; Newer entries"
+msgstr "&larr; Newer entries"
+
+#: footer.php:24
+msgid "Older Entries &rarr;"
+msgstr "Older Entries &rarr;"
+
+#: functions.php:12
+#, php-format
+msgid "%s reblogged this and added:"
+msgstr "%s reblogged this and added:"
+
+#: header.php:8
+msgid "Page Not Found |"
+msgstr "Page Not Found |"
+
+#: header.php:10
+#, php-format
+msgid "Search results for '%s'"
+msgstr "Search results for '%s'"
+
+#: header.php:41
+msgid "RSS"
+msgstr "RSS"
+
+#: header.php:43
+msgid "Twitter"
+msgstr "Twitter"
+
+#: header.php:46
+msgid "Facebook"
+msgstr "Facebook"
+
+#: header.php:52
+msgid "You can also press the left arrow key to scroll"
+msgstr "You can also press the left arrow key to scroll"
+
+#: header.php:52
+msgid "Previous"
+msgstr "Previous"
+
+#: header.php:53
+msgid "You can also press the right arrow key to scroll"
+msgstr "You can also press the right arrow key to scroll"
+
+#: header.php:53
+msgid "Next"
+msgstr "Next"
+
+#: header.php:74
+msgid "You can scroll the shelf using <b>&larr;</b> and <b>&rarr;</b> keys"
+msgstr "Du kan scrolla sidan med <b>&larr;</b> och <b>&rarr;</b> tangenterna"
+
+#: functions/shelf-extend.php:30
+msgid "Custom Logo Image <span>insert your custom logo image in the header</span>"
+msgstr "Custom Logo Image <span>insert your custom logo image in the header</span>"
+
+#: functions/shelf-extend.php:34
+msgid "Enable custom logo image"
+msgstr "Enable custom logo image"
+
+#: functions/shelf-extend.php:36
+msgid "Check to use a custom logo in the header."
+msgstr "Check to use a custom logo in the header."
+
+#: functions/shelf-extend.php:41
+msgid "Prefer FTP? Specify a file name."
+msgstr "Prefer FTP? Specify a file name."
+
+#: functions/shelf-extend.php:43
+#, php-format
+msgid "Choose an image from your computer or specify any image file name you have uploaded to the %s directory."
+msgstr "Choose an image from your computer or specify any image file name you have uploaded to the %s directory."
+
+#: functions/shelf-extend.php:50
+msgid "Logo image <code>&lt;alt&gt;</code> tag"
+msgstr "Logo image <code>&lt;alt&gt;</code> tag"
+
+#: functions/shelf-extend.php:52
+msgid "Specify the <code>&lt;alt&gt;</code> tag for your logo image."
+msgstr "Specify the <code>&lt;alt&gt;</code> tag for your logo image."
+
+#: functions/shelf-extend.php:57
+msgid "Display blog title"
+msgstr "Display blog title"
+
+#: functions/shelf-extend.php:59
+msgid "Check to show your title. The title will automatically be shown if the custom logo image is not enabled."
+msgstr "Check to show your title. The title will automatically be shown if the custom logo image is not enabled."
+
+#: functions/shelf-extend.php:64
+msgid "Display tagline"
+msgstr "Display tagline"
+
+#: functions/shelf-extend.php:66
+msgid "Check to show your tagline below your logo."
+msgstr "Check to show your tagline below your logo."
+
+#: functions/shelf-extend.php:71
+msgid "Hide background title"
+msgstr "Hide background title"
+
+#: functions/shelf-extend.php:73
+msgid "Check to hide the large background site title text."
+msgstr "Check to hide the large background site title text."
+
+#: functions/shelf-extend.php:78
+msgid "Tumblog <span>configure tumblog options</span>"
+msgstr "Tumblog <span>configure tumblog options</span>"
+
+#: functions/shelf-extend.php:82
+msgid "Use custom tumblog RSS Feed"
+msgstr "Use custom tumblog RSS Feed"
+
+#: functions/shelf-extend.php:84
+msgid "Selecting yes will add custom elements to your RSS feed. Selecting no will leave out custom elements."
+msgstr "Selecting yes will add custom elements to your RSS feed. Selecting no will leave out custom elements."
+
+#: functions/shelf-extend.php:88
+msgid "Yes"
+msgstr "Yes"
+
+#: functions/shelf-extend.php:89
+msgid "No"
+msgstr "No"
+
+#: functions/shelf-extend.php:92
+msgid "Tumblog image posts link to"
+msgstr "Tumblog image posts link to"
+
+#: functions/shelf-extend.php:94
+msgid "Where to go when the reader clicks on an image post."
+msgstr "Where to go when the reader clicks on an image post."
+
+#: functions/shelf-extend.php:98
+msgid "The Post"
+msgstr "The Post"
+
+#: functions/shelf-extend.php:99
+msgid "The Image"
+msgstr "The Image"
+
+#: functions/shelf-extend.php:102
+msgid "Subscribe Links <span>control the subscribe links</span>"
+msgstr "Subscribe Links <span>control the subscribe links</span>"
+
+#: functions/shelf-extend.php:106
+msgid "Enable Twitter"
+msgstr "Enable Twitter"
+
+#: functions/shelf-extend.php:108
+msgid "Hip to Twitter? Check this box. Please set your Twitter username in the Twitter menu."
+msgstr "Hip to Twitter? Check this box. Please set your Twitter username in the Twitter menu."
+
+#: functions/shelf-extend.php:113
+msgid "Enable Facebook"
+msgstr "Enable Facebook"
+
+#: functions/shelf-extend.php:115
+msgid "Check this box to show a link to your Facebook page."
+msgstr "Check this box to show a link to your Facebook page."
+
+#: functions/shelf-extend.php:120
+msgid "Disable all"
+msgstr "Disable all"
+
+#: functions/shelf-extend.php:122
+msgid "Check this box to hide all follow icons (including RSS). This option overrides any other settings."
+msgstr "Check this box to hide all follow icons (including RSS). This option overrides any other settings."
+
+#: functions/shelf-extend.php:127
+msgid "Twitter name"
+msgstr "Twitter name"
+
+#: functions/shelf-extend.php:129
+msgid "Enter your Twitter name."
+msgstr "Enter your Twitter name."
+
+#: functions/shelf-extend.php:134
+msgid "Facebook link"
+msgstr "Facebook link"
+
+#: functions/shelf-extend.php:136
+msgid "Enter your Facebook link."
+msgstr "Enter your Facebook link."
+
+#: functions/shelf-extend.php:141
+msgid "Footer <span>customize your footer</span>"
+msgstr "Footer <span>customize your footer</span>"
+
+#: functions/shelf-extend.php:145
+msgid "Copyright notice"
+msgstr "Copyright notice"
+
+#: functions/shelf-extend.php:147
+msgid "Your name or the name of your business."
+msgstr "Your name or the name of your business."
+
+#: functions/shelf-extend.php:148
+msgid "Your Name Here"
+msgstr "Your Name Here"
+
+#: functions/shelf-extend.php:152
+msgid "Stats code"
+msgstr "Stats code"
+
+#: functions/shelf-extend.php:154
+#, php-format
+msgid "If you would like to use Google Analytics or any other tracking script in your footer just paste it here. The script will be inserted before the closing %s tag."
+msgstr "If you would like to use Google Analytics or any other tracking script in your footer just paste it here. The script will be inserted before the closing %s tag."
+
+#: functions/shelf-extend.php:198
+msgid "All"
+msgstr "All"
+
+#: functions/shelf-extend.php:341
+msgid "Top Navigation"
+msgstr "Top Navigation"
+
+#: functions/ttf-admin.php:72
+#, php-format
+msgid "The <code>%s</code> folder is not writable. Try changing the permissions. <a href=\"http://codex.wordpress.org/Changing_File_Permissions\">Learn how to change permissions &rarr;</a>"
+msgstr "The <code>%s</code> folder is not writable. Try changing the permissions. <a href=\"http://codex.wordpress.org/Changing_File_Permissions\">Learn how to change permissions &rarr;</a>"
+
+#: functions/ttf-admin.php:88
+msgid "There was an error uploading the file. Please try again."
+msgstr "There was an error uploading the file. Please try again."
+
+#: functions/ttf-admin.php:111
+msgid "There was an error, please remove the logo and try again."
+msgstr "There was an error, please remove the logo and try again."
+
+#: functions/ttf-admin.php:122
+#: functions/ttf-admin.php:181
+#: functions/ttf-admin.php:182
+#: functions/ttf-admin.php:204
+#, php-format
+msgid "%s Options"
+msgstr "%s Options"
+
+#: functions/ttf-admin.php:194
+#, php-format
+msgid "%s settings saved!"
+msgstr "%s settings saved!"
+
+#: functions/ttf-admin.php:198
+#, php-format
+msgid "%s settings reset."
+msgstr "%s settings reset."
+
+#: functions/ttf-admin.php:207
+#, php-format
+msgid "<strong>Need help?</strong> <a href=\"%1$s\">Read the tutorials</a> or visit the <a href=\"%2$s\">support forums.</a>"
+msgstr "<strong>Need help?</strong> <a href=\"%1$s\">Read the tutorials</a> or visit the <a href=\"%2$s\">support forums.</a>"
+
+#: functions/ttf-admin.php:282
+msgid "Choose your image"
+msgstr "Choose your image"
+
+#: functions/ttf-admin.php:293
+msgid "Remove"
+msgstr "Remove"
+
+#: functions/ttf-admin.php:300
+msgid "Preview logo"
+msgstr "Preview logo"
+
+#: functions/ttf-admin.php:305
+msgid "Cannot locate your logo image; it may have been moved or renamed. Please remove and try uploading again."
+msgstr "Cannot locate your logo image; it may have been moved or renamed. Please remove and try uploading again."
+
+#: functions/ttf-admin.php:328
+msgid "show color picker"
+msgstr "show color picker"
+
+#: functions/ttf-admin.php:328
+msgid "hide color picker"
+msgstr "hide color picker"
+
+#: functions/ttf-admin.php:374
+msgid "Save changes"
+msgstr "Save changes"
+
+#: functions/tumblog/classes/wootumblog.class.php:149
+msgid "How to add Tumblog functionality to your theme!"
+msgstr "How to add Tumblog functionality to your theme!"
+
+#: functions/tumblog/classes/wootumblog.class.php:151
+msgid "Included Template Tags:"
+msgstr "Included Template Tags:"
+
+#: functions/tumblog/classes/wootumblog.class.php:163
+msgid "Twenty Ten example implementation:"
+msgstr "Twenty Ten example implementation:"
+
+#: functions/tumblog/classes/wootumblog.class.php:179
+msgid "Woo Tumblog is almost ready."
+msgstr "Woo Tumblog is almost ready."
+
+#: functions/tumblog/classes/wootumblog.class.php:179
+#, php-format
+msgid "You must <a href=\"%1$s\">configure your settings</a> for it to work."
+msgstr "You must <a href=\"%1$s\">configure your settings</a> for it to work."
+
+#: functions/tumblog/classes/wootumblog.class.php:187
+#: functions/tumblog/classes/wootumblog.class.php:272
+msgid "NOTE\t:"
+msgstr "NOTE\t:"
+
+#: functions/tumblog/classes/wootumblog.class.php:187
+msgid "You can add the custom tumblog output to your theme by following the instructions in "
+msgstr "You can add the custom tumblog output to your theme by following the instructions in "
+
+#: functions/tumblog/classes/wootumblog.class.php:187
+#, php-format
+msgid "the contextual help in the <a href=\"%1$s\">Tumblog Options</a> page."
+msgstr "the contextual help in the <a href=\"%1$s\">Tumblog Options</a> page."
+
+#: functions/tumblog/classes/wootumblog.class.php:208
+msgid "You do not have sufficient permissions to access this page."
+msgstr "You do not have sufficient permissions to access this page."
+
+#: functions/tumblog/classes/wootumblog.class.php:245
+msgid "WooTumblog Plugin Options"
+msgstr "WooTumblog Plugin Options"
+
+#: functions/tumblog/classes/wootumblog.class.php:246
+msgid "Version"
+msgstr "Version"
+
+#: functions/tumblog/classes/wootumblog.class.php:256
+msgid "View Changelog"
+msgstr "View Changelog"
+
+#: functions/tumblog/classes/wootumblog.class.php:257
+msgid "View Plugin Docs"
+msgstr "View Plugin Docs"
+
+#: functions/tumblog/classes/wootumblog.class.php:258
+msgid "Visit WordPress Forum"
+msgstr "Visit WordPress Forum"
+
+#: functions/tumblog/classes/wootumblog.class.php:272
+msgid "Add the tumblog output to your theme by following the instructions in the contextual help menu above."
+msgstr "Add the tumblog output to your theme by following the instructions in the contextual help menu above."
+
+#: functions/tumblog/classes/wootumblog.class.php:292
+msgid "Options saved"
+msgstr "Options saved"
+
+#: functions/tumblog/classes/wootumblog.class.php:298
+msgid "Failed to save options"
+msgstr "Failed to save options"
+
+#: functions/tumblog/classes/wootumblog.class.php:312
+msgid "Use Custom Tumblog RSS Feed"
+msgstr "Use Custom Tumblog RSS Feed"
+
+#: functions/tumblog/classes/wootumblog.class.php:328
+msgid "Tumblog Image Posts Link to"
+msgstr "Tumblog Image Posts Link to"
+
+#: functions/tumblog/classes/wootumblog.class.php:345
+msgid "Tumblog Image Width"
+msgstr "Tumblog Image Width"
+
+#: functions/tumblog/classes/wootumblog.class.php:348
+msgid "Height is dynamically calculated"
+msgstr "Height is dynamically calculated"
+
+#: functions/tumblog/classes/wootumblog.class.php:469
+msgid "Play Audio"
+msgstr "Play Audio"
+
+#: functions/tumblog/classes/wootumblog.class.php:476
+msgid " ~ "
+msgstr " ~ "
+
+#: functions/tumblog/classes/wootumblog_taxonomy.class.php:31
+msgid "Tumblogs"
+msgstr "Tumblogs"
+
+#: functions/tumblog/classes/wootumblog_taxonomy.class.php:32
+msgid "Tumblog"
+msgstr "Tumblog"
+
+#: functions/tumblog/classes/wootumblog_taxonomy.class.php:33
+msgid "Search Tumblogs"
+msgstr "Search Tumblogs"
+
+#: functions/tumblog/classes/wootumblog_taxonomy.class.php:34
+msgid "Popular Tumblogs"
+msgstr "Popular Tumblogs"
+
+#: functions/tumblog/classes/wootumblog_taxonomy.class.php:35
+msgid "All Tumblogs"
+msgstr "All Tumblogs"
+
+#: functions/tumblog/classes/wootumblog_taxonomy.class.php:36
+msgid "Parent Tumblog"
+msgstr "Parent Tumblog"
+
+#: functions/tumblog/classes/wootumblog_taxonomy.class.php:37
+msgid "Parent Tumblog:"
+msgstr "Parent Tumblog:"
+
+#: functions/tumblog/classes/wootumblog_taxonomy.class.php:38
+msgid "Edit Tumblog"
+msgstr "Edit Tumblog"
+
+#: functions/tumblog/classes/wootumblog_taxonomy.class.php:39
+msgid "Update Tumblog"
+msgstr "Update Tumblog"
+
+#: functions/tumblog/classes/wootumblog_taxonomy.class.php:40
+msgid "Add New Tumblog"
+msgstr "Add New Tumblog"
+
+#: functions/tumblog/classes/wootumblog_taxonomy.class.php:41
+msgid "New Tumblog Name"
+msgstr "New Tumblog Name"
+
+#: functions/tumblog/classes/wootumblog_taxonomy.class.php:59
+msgid "articles"
+msgstr "articles"
+
+#: functions/tumblog/classes/wootumblog_taxonomy.class.php:59
+msgid "Articles"
+msgstr "Articles"
+
+#: functions/tumblog/classes/wootumblog_taxonomy.class.php:60
+msgid "images"
+msgstr "images"
+
+#: functions/tumblog/classes/wootumblog_taxonomy.class.php:60
+msgid "Images"
+msgstr "Images"
+
+#: functions/tumblog/classes/wootumblog_taxonomy.class.php:61
+msgid "audio"
+msgstr "audio"
+
+#: functions/tumblog/classes/wootumblog_taxonomy.class.php:61
+msgid "Audio"
+msgstr "Audio"
+
+#: functions/tumblog/classes/wootumblog_taxonomy.class.php:62
+msgid "video"
+msgstr "video"
+
+#: functions/tumblog/classes/wootumblog_taxonomy.class.php:62
+msgid "Video"
+msgstr "Video"
+
+#: functions/tumblog/classes/wootumblog_taxonomy.class.php:63
+msgid "quotes"
+msgstr "quotes"
+
+#: functions/tumblog/classes/wootumblog_taxonomy.class.php:63
+msgid "Quotes"
+msgstr "Quotes"
+
+#: functions/tumblog/classes/wootumblog_taxonomy.class.php:64
+msgid "links"
+msgstr "links"
+
+#: functions/tumblog/classes/wootumblog_taxonomy.class.php:64
+msgid "Links"
+msgstr "Links"
+
+#: functions/tumblog/classes/wootumblog_taxonomy.class.php:99
+msgid "View all Tumblogs"
+msgstr "View all Tumblogs"
+
+#: functions/tumblog/classes/wootumblog_taxonomy.class.php:112
+msgid "Filter"
+msgstr "Filter"
+
+#: functions/tumblog/functions/wootumblog_express_app_functions.php:209
+msgid "You are not allowed to upload files to this site."
+msgstr "You are not allowed to upload files to this site."
+
+#: functions/tumblog/functions/wootumblog_express_app_functions.php:235
+#, php-format
+msgid "Could not write file %1$s (%2$s)"
+msgstr "Could not write file %1$s (%2$s)"
+
+#: card-commentform.php:22
+msgctxt "noun"
+msgid "Comment"
+msgstr "Kommentar"
+

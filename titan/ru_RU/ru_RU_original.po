@@ -1,0 +1,634 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Titan WordPress Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-01-14 14:43-0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: J. Boydstun <jboydstun@jestro.com>\n"
+"Language-Team: yuriki\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:2
+msgid "404: Page Not Found"
+msgstr "Ошибка 404: Страничка не найдена"
+
+#: 404.php:4
+msgid "We are terribly sorry, but the URL you typed no longer exists. It might have been moved or deleted, or perhaps you mistyped it. We suggest searching the site:"
+msgstr "Мы ужасно извиняемся, но адресс, который вы ввели больше не существует. Возможно страница была удалена или перемещена, также вероятно, что вы ошиблись при вводе. Попробуйте воспользоваться поиском по сайту:"
+
+#: archive.php:4
+#, php-format
+msgid "Posts from the  &#8216;%s&#8217; Category"
+msgstr "Записи из рубрики &#8216;%s&#8217;"
+
+#: archive.php:6
+#, php-format
+msgid "Posts tagged &#8216;%s&#8217;"
+msgstr "Записи с тегом &#8216;%s&#8217;"
+
+#: archive.php:8
+#: archive.php:10
+#: archive.php:12
+msgid "Archive for"
+msgstr "Архивы за"
+
+#: archive.php:8
+#: archive.php:21
+#: single.php:8
+msgid "F jS, Y"
+msgstr "F j, Y"
+
+#: archive.php:10
+msgid "F, Y"
+msgstr "F, Y"
+
+#: archive.php:12
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:14
+#, php-format
+msgid "Posts by %s"
+msgstr "Автор %s"
+
+#: archive.php:16
+msgid "Blog Archives"
+msgstr "Архивы блога"
+
+#: archive.php:21
+#, php-format
+msgid "%s on"
+msgstr "%s"
+
+#: archive.php:26
+#: index.php:22
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Старые записи"
+
+#: archive.php:27
+#: index.php:23
+msgid "Newer Entries &raquo;"
+msgstr "Новые записи &raquo;"
+
+#: comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Эта запись защищена паролем. Введите его, чтобы посмотреть комментарии."
+
+#: comments.php:16
+msgid "No Comments Yet"
+msgstr "Комментариев еще нет"
+
+#: comments.php:16
+msgid "One Comment"
+msgstr "Один комментарий"
+
+#: comments.php:16
+msgid "% Comments"
+msgstr "Комментариев %"
+
+#: comments.php:18
+msgid "Leave One"
+msgstr "Оставить первый"
+
+#: comments.php:25
+msgid "&laquo; Older Comments"
+msgstr "&laquo; Старые комментарии"
+
+#: comments.php:26
+msgid "Newer Comments &raquo;"
+msgstr "Новые комментарии &raquo;"
+
+#: comments.php:29
+msgid "Trackbacks &amp; Pingbacks"
+msgstr "Обратные ссылки &amp; Пинги"
+
+#: comments.php:35
+#: comments.php:46
+msgid "Comments are closed."
+msgstr "Комментирование закрыто."
+
+#: comments.php:41
+msgid "No comments yet"
+msgstr "Комментариев еще нет"
+
+#: comments.php:58
+msgid "Leave a Reply"
+msgstr "Скажите хоть что-нибудь"
+
+#: comments.php:60
+msgid "You must be"
+msgstr "Нужно"
+
+#: comments.php:60
+msgid "logged in"
+msgstr "войти,"
+
+#: comments.php:60
+msgid "to post a comment."
+msgstr "чтобы написать комментарий."
+
+#: comments.php:65
+msgid "Logged in as"
+msgstr "Вы вошли как"
+
+#: comments.php:65
+msgid "Log out &raquo;"
+msgstr "Выйти &raquo;"
+
+#: comments.php:68
+msgid "Name:"
+msgstr "Имя:"
+
+#: comments.php:68
+#: comments.php:72
+msgid "(required)"
+msgstr "(обязательно)"
+
+#: comments.php:72
+msgid "Email:"
+msgstr "Email:"
+
+#: comments.php:76
+msgid "Website:"
+msgstr "Сайт:"
+
+#: comments.php:81
+msgid "Comment:"
+msgstr "Комментарий:"
+
+#: comments.php:84
+msgid "<strong>Note:</strong> XHTML is allowed. Your email address will <strong>never</strong> be published."
+msgstr "<strong>Подсказка:</strong> Разрешены теги XHTML. Ваш email <strong>не публикуется</strong>."
+
+#: comments.php:85
+msgid "Subscribe to this comment feed via RSS"
+msgstr "Подпишитесь на новые комментарии по RSS"
+
+#: comments.php:88
+msgid "Submit Comment"
+msgstr "Добавить комментарий"
+
+#: footer.php:7
+#: functions/titan-extend.php:205
+msgid "About"
+msgstr "Чей это сайт"
+
+#: footer.php:11
+msgid "Did you know you can write your own about section just like this one? It's really easy. Head into the the <em>Titan Options</em> menu and check out the footer section. Type some stuff in the box, click save, and your new about section shows up in the footer."
+msgstr "А знаете ли вы, что в этот блок можно написать что-угодно из админки вместо этого текста? Это просто. Зайдите в меню Внешний вид -> <em>Titan Options</em> и загляните в секцию Footer. Введите любой текст в поле \"Чей это сайт\" и нажмите Сохранить изменения. Все."
+
+#: footer.php:12
+msgid "Wondering about those Flickr photos on the right?"
+msgstr "Вам понравились эти картинки справа?"
+
+#: footer.php:13
+msgid "We didn't take them, they are a random sampling of the most popular photos on Flickr with the tag 'nature'. All rights are reserved to the original copyright holders where applicable."
+msgstr "Это не мы их выбрали, они попадают туда случайным образом из самых популярных в данный момент картинок на Flickr с тегом 'природа'."
+
+#: footer.php:21
+#: sidebar.php:29
+msgid "Categories"
+msgstr "Рубрики"
+
+#: footer.php:29
+msgid "Flickr"
+msgstr "Flickr"
+
+#: footer.php:47
+msgid "Search"
+msgstr "Поиск"
+
+#: footer.php:54
+msgid "Copyright"
+msgstr "Все права принадлежат"
+
+#: functions.php:28
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:38
+msgid "Footer"
+msgstr "Footer"
+
+#: header.php:9
+msgid "Page Not Found |"
+msgstr "Страничка не найдена |"
+
+#: header.php:11
+#: search.php:3
+#: search.php:25
+#, php-format
+msgid "Search results for '%s'"
+msgstr "Результаты поиска по запросу '%s'"
+
+#: header.php:48
+msgid "Follow:"
+msgstr "Для связи:"
+
+#: header.php:49
+msgid "RSS"
+msgstr "RSS"
+
+#: header.php:51
+msgid "Email"
+msgstr "Email"
+
+#: header.php:54
+msgid "Twitter"
+msgstr "Twitter"
+
+#: header.php:67
+msgid "Home"
+msgstr "Главная"
+
+#: index.php:6
+#: search.php:7
+msgid "M j"
+msgstr "M j"
+
+#: index.php:8
+#: search.php:9
+#, php-format
+msgid "by %s"
+msgstr "%s"
+
+#: index.php:12
+#: search.php:12
+#: single.php:12
+msgid "read more..."
+msgstr "узнать больше..."
+
+#: index.php:13
+#: page.php:7
+#: search.php:13
+#: single.php:13
+msgid "Edit This"
+msgstr "Редактировать"
+
+#: index.php:17
+msgid "Leave a comment"
+msgstr "Напишите комментарий"
+
+#: index.php:17
+msgid "1 Comment"
+msgstr "1 комментарий"
+
+#: index.php:17
+msgid "% Comment"
+msgid_plural "% Comments"
+msgstr[0] "% комментарий"
+msgstr[1] "Комментариев %"
+
+#: search.php:27
+#, php-format
+msgid "Sorry your search for \"%s\" did not turn up any results. Please try again."
+msgstr "Извените, по вашему запросу \"%s\" информации не найдено. Перефразируйте, пожалуйста, и попробуйте еще раз."
+
+#: sidebar.php:21
+msgid "Recent Articles"
+msgstr "Новые записи"
+
+#: sidebar.php:35
+msgid "Archives"
+msgstr "Архивы"
+
+#: single.php:8
+#, php-format
+msgid "by %s on"
+msgstr "%s"
+
+#: single.php:17
+msgid "From"
+msgstr "Из рубрики"
+
+#: functions/comments.php:10
+msgid "permalink"
+msgstr "ссылка на комментарий"
+
+#: functions/comments.php:13
+msgid "<em><strong>Please Note:</strong> Your comment is awaiting moderation.</em>"
+msgstr "<em><strong>Обратите внимание:</strong> Ваш комментарий ожидает модерации.</em>"
+
+#: functions/titan-admin.php:60
+msgid " settings saved!"
+msgstr " настройки сохранены!"
+
+#: functions/titan-admin.php:61
+msgid " settings reset."
+msgstr " настройки выставлены по-умолчанию."
+
+#: functions/titan-admin.php:65
+msgid "Options"
+msgstr "Опции"
+
+#: functions/titan-admin.php:66
+msgid "Need help with these options?"
+msgstr "Есть вопросы по этой теме или опциям?"
+
+#: functions/titan-admin.php:66
+msgid "Read the tutorials"
+msgstr "Спрашивайте в комментариях"
+
+#: functions/titan-admin.php:66
+msgid "or visit the <a href=\"http://thethemefoundry.com/forums/\">support forums.</a>"
+msgstr "- с удовольствием отвечу."
+
+#: functions/titan-admin.php:78
+#: functions/titan-admin.php:185
+msgid "Save changes"
+msgstr "Сохранить изменения"
+
+#: functions/titan-admin.php:141
+msgid "show color picker"
+msgstr "показать выбора цвета"
+
+#: functions/titan-admin.php:141
+msgid "hide color picker"
+msgstr "скрыть выбора цвета"
+
+#: functions/titan-admin.php:190
+msgid "Save all changes"
+msgstr "Сохранить все изменения"
+
+#: functions/titan-admin.php:196
+msgid "Reset all options"
+msgstr "Выставить по-умолчанию все опции"
+
+#: functions/titan-extend.php:29
+msgid "Custom Logo Image <span>insert your custom logo image in the header</span>"
+msgstr "Настройка логотипа (не рабоатает) <span>вставить вашу картинку лого в заголовок блога</span>"
+
+#: functions/titan-extend.php:30
+msgid "This option is for PRO members only. To enable this option and use your custom logo please <a href=\"http://thethemefoundry.com/members/signup.php\">sign-up</a> for a PRO membership and <a href=\"http://thethemefoundry.com/downloads/\">download</a> the titan PRO child theme."
+msgstr "Эта опция для PRO членов. Чтобы воспользоваться этой возможностью и использовать свой собственный \"аватар\", пожалуйста <a href=\"http://thethemefoundry.com/members/signup.php\">регистрация</a> для PRO членства и <a href=\"http://thethemefoundry.com/downloads/\">загрузка</a> ребенка темы Титан PRO. "
+
+#: functions/titan-extend.php:33
+msgid "Enable custom logo image"
+msgstr "Включить настройки изображения логотипа \"автара\""
+
+#: functions/titan-extend.php:35
+msgid "Check to use a custom logo in the header."
+msgstr "Нажмите, чтобы использовать собственный логотип в заголовке."
+
+#: functions/titan-extend.php:39
+msgid "Logo image file name"
+msgstr "Имя изображения логотипа \"аватара\""
+
+#: functions/titan-extend.php:41
+msgid "Upload your logo image here: "
+msgstr "Добавить изображение логотипа здесь:"
+
+#: functions/titan-extend.php:45
+msgid "Logo image <code>&lt;alt&gt;</code> tag"
+msgstr "Изображения логотипа \"автара\" <code>&lt;alt&gt;</code> тег"
+
+#: functions/titan-extend.php:47
+msgid "Specify the <code>&lt;alt&gt;</code> tag for your logo image."
+msgstr "Укажите <code>&lt;alt&gt;</code> тег для Вашего изображения логотипа \"аватара\"  "
+
+#: functions/titan-extend.php:51
+msgid "Display tagline"
+msgstr "Показать слоган"
+
+#: functions/titan-extend.php:53
+msgid "Check to show your tagline below your logo."
+msgstr "Нажмите, чтобы показать вашу слоган под вашим логотипом. "
+
+#: functions/titan-extend.php:57
+msgid "Navigation <span>control your top navigation menu</span>"
+msgstr "Навигация <span>управление верхним меню</span>"
+
+#: functions/titan-extend.php:60
+msgid "Hide all pages"
+msgstr "Спрятать все страницы"
+
+#: functions/titan-extend.php:62
+msgid "Check this box to hide all pages"
+msgstr "Поставьте галочку, что спрятать все Страницы"
+
+#: functions/titan-extend.php:66
+msgid "Exclude specific pages"
+msgstr "Исключить определенные страницы"
+
+#: functions/titan-extend.php:68
+msgid "The page ID of pages you do not want displayed in your navigation menu. Use a comma-delimited list, eg. 1,2,3"
+msgstr "Введите сюда ID страницы, которую не нужно отображать в меню. Разделяйте запятой. Пример, 1,2,3"
+
+#: functions/titan-extend.php:72
+msgid "Hide all categories"
+msgstr "Спрятать все рубрики"
+
+#: functions/titan-extend.php:74
+msgid "Check this box to hide all categories."
+msgstr "Поставьте галочку, что спрятать все Рубрики."
+
+#: functions/titan-extend.php:78
+msgid "Exclude specific categories"
+msgstr "Исключить определенную рубрику"
+
+#: functions/titan-extend.php:80
+msgid "The category ID of pages you do not want displayed in your navigation menu.. Use a comma-delimited list, eg. 1,2,3"
+msgstr "Введите сюда ID рубрики, которую не нужно отображать в меню. Разделяйте запятой. Пример, 1,2,3"
+
+#: functions/titan-extend.php:84
+msgid "Hide home navigation menu item"
+msgstr "Спрятать основное меню"
+
+#: functions/titan-extend.php:86
+msgid "Check this box if you are using a static page as your homepage instead of your blog (the default). The extra <em>Home</em> menu item will be removed."
+msgstr "Поставьте галочку, что спрятать основное меню. Это может пригодится если вы используете статическую страницу как главную."
+
+#: functions/titan-extend.php:90
+msgid "Follow Links <span>top right follow links</span>"
+msgstr "Ссылки в поле \"Для связи\" <span>находятся в верхнем правом углу блога</span>"
+
+#: functions/titan-extend.php:93
+msgid "Email updates link"
+msgstr "Обновить ссылку для email"
+
+#: functions/titan-extend.php:95
+msgid "Enter your feed email link here."
+msgstr "Сюда можно ввести ссылку для подписки на RSS по Email."
+
+#: functions/titan-extend.php:100
+msgid "Disable email link"
+msgstr "Запретить ссылку Email"
+
+#: functions/titan-extend.php:102
+msgid "Don't want to offer email updates, check the box."
+msgstr "Если не хотите отображать почту, поставьте галочку."
+
+#: functions/titan-extend.php:106
+msgid "Twitter updates link"
+msgstr "Ссылка вашего Твиттер аккаунта"
+
+#: functions/titan-extend.php:108
+msgid "Enter the link to your Twitter page."
+msgstr "Введите ссылку на ваш аккаунт в Твиттере."
+
+#: functions/titan-extend.php:111
+msgid "Disable Twitter"
+msgstr "Запретить Twitter"
+
+#: functions/titan-extend.php:113
+msgid "Not hip to Twitter? That's cool, just check this box."
+msgstr "Нету Твиттера? Ок. Просто поставьте тут галочку."
+
+#: functions/titan-extend.php:117
+msgid "Homepage Notice <span>display a notice on your homepage</span>"
+msgstr "Объявление на главной <span>отображает ваше объявление на главной странице блога</span>"
+
+#: functions/titan-extend.php:120
+msgid "Enable homepage notice"
+msgstr "Разрешить объявление на главной"
+
+#: functions/titan-extend.php:122
+msgid "Check this box to use a custom notice on the home page."
+msgstr "Поставьте галочку, чтобы добавить блок с вашим объявлением на главной странице блога."
+
+#: functions/titan-extend.php:126
+msgid "Custom notice"
+msgstr "Тексть объявления"
+
+#: functions/titan-extend.php:128
+msgid "The content of your custom notice."
+msgstr "Текст вашего объявления на главной."
+
+#: functions/titan-extend.php:134
+msgid "Sidebar Sidebox <span>customize your sidebox</span>"
+msgstr "Sidebar Sidebox <span>настройка боковой колонки (там где картинка с деревом)</span>"
+
+#: functions/titan-extend.php:137
+msgid "Disable sidebox"
+msgstr "Запретить Sidebox"
+
+#: functions/titan-extend.php:139
+msgid "Check this box to disable the sidebar sidebox."
+msgstr "Поставьте галочку, чтобы спрятать Sidebox (картинку с деревом)."
+
+#: functions/titan-extend.php:143
+msgid "Custom code"
+msgstr "Использовать ваш код"
+
+#: functions/titan-extend.php:145
+msgid "Check this box to use custom code for the sidebox."
+msgstr "Поставьте галочку, чтобы использовать вместо картинки с деревом ваш собственный (любой) код."
+
+#: functions/titan-extend.php:149
+msgid "Custom code content"
+msgstr "Текст кода"
+
+#: functions/titan-extend.php:151
+msgid "Must use properly formatted XHTML/HTML."
+msgstr "Используйте только правильный XHTML/HTML."
+
+#: functions/titan-extend.php:157
+msgid "Sidebar Adbox <span>control ads in your sidebar</span>"
+msgstr "Sidebar Adbox <span>настройка рекламных блоков в боковой колонке</span>"
+
+#: functions/titan-extend.php:160
+msgid "Enable adbox"
+msgstr "Разрешить рекламу"
+
+#: functions/titan-extend.php:162
+msgid "Check this box to enable the sidebar adbox."
+msgstr "Поставьте галочку, чтобы разрешить рекламу."
+
+#: functions/titan-extend.php:166
+msgid "Ad 1 file name"
+msgstr "Название рекламного файла №1"
+
+#: functions/titan-extend.php:168
+#: functions/titan-extend.php:186
+msgid "Upload your image here: "
+msgstr "Загрузите картинку рекламы сюда:"
+
+#: functions/titan-extend.php:172
+msgid "Ad 1 link"
+msgstr "Ссылка рекламы №1"
+
+#: functions/titan-extend.php:174
+msgid "Link for the first ad"
+msgstr "Ссылка, куда ведет рекламная картинка №1"
+
+#: functions/titan-extend.php:178
+msgid "Ad 1 alt tag"
+msgstr "Описание рекламного файла №1"
+
+#: functions/titan-extend.php:180
+msgid "Alt tag for the first ad"
+msgstr "Описание к первому файлу рекламы"
+
+#: functions/titan-extend.php:184
+msgid "Ad 2 file name"
+msgstr "Название рекламного файла №2"
+
+#: functions/titan-extend.php:190
+msgid "Ad 2 link"
+msgstr "Ссылка рекламы №2"
+
+#: functions/titan-extend.php:192
+msgid "Link for the second ad"
+msgstr "Ссылка, куда ведет рекламная картинка №2"
+
+#: functions/titan-extend.php:196
+msgid "Ad 2 alt tag"
+msgstr "Описание рекламного файла №2"
+
+#: functions/titan-extend.php:198
+msgid "Alt tag for the second ad"
+msgstr "Описание ко второму файлу рекламы"
+
+#: functions/titan-extend.php:202
+msgid "Footer <span>customize your footer</span>"
+msgstr "Footer <span>настройки футера</span>"
+
+#: functions/titan-extend.php:207
+msgid "Something about you or your business."
+msgstr "Напишите что-то о себе."
+
+#: functions/titan-extend.php:212
+msgid "Flickr link"
+msgstr "Ссылка на Flickr"
+
+#: functions/titan-extend.php:214
+msgid "Create a <a href=\"http://www.flickr.com/badge_new.gne\">javascript Flickr badge</a>. At the end of the process extract the URL and paste here."
+msgstr "Создайте <a href=\"http://www.flickr.com/badge_new.gne\">яваскрипт для показа ваших картинок</a>. В конце процесса генерации скопируйте полученную ссылку и вставьте сюда."
+
+#: functions/titan-extend.php:219
+msgid "Disable Flickr"
+msgstr "Запретить Flickr"
+
+#: functions/titan-extend.php:221
+msgid "Check this box to disable Flickr and enable the footer widget instead."
+msgstr "Нажмите этот флажок, чтобы отключить Flickr и включить в \"подвале\" виджет вместо этого."
+
+#: functions/titan-extend.php:225
+msgid "Copyright notice"
+msgstr "Заметка о копирайте"
+
+#: functions/titan-extend.php:227
+msgid "Your name or the name of your business."
+msgstr "Введите ваше имя или название компании."
+
+#: functions/titan-extend.php:228
+msgid "Your Name Here"
+msgstr "Ваше Имя Здесь"
+
+#: functions/titan-extend.php:231
+msgid "Stats code"
+msgstr "Код статистики"
+
+#: functions/titan-extend.php:233
+msgid "If you use Google Analytics or need any other tracking script in your footer just copy and paste it here. The script will be inserted before the closing <code>&#60;/body&#62;</code> tag."
+msgstr "Если вы используете Google Analytics или нужно вставить другой скрипт в футер, то просто вставьте его сюда. Скрипт добавится прямо перед тегом<code>&#60;/body&#62;</code>."
+

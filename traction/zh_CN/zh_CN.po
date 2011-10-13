@@ -1,0 +1,770 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Traction WordPress Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-05-25 16:19-0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: joojen(www.keege.com) <joojen@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:8
+msgid "404: Page Not Found"
+msgstr "404:内容未找到"
+
+#: 404.php:10
+msgid "We are terribly sorry, but the URL you typed no longer exists. It might have been moved or deleted, or perhaps you mistyped it. We suggest searching the site:"
+msgstr "十分抱歉，你输入的网址不存在。它可能已被移动或删除，或者你打错了，我们建议在网站搜索："
+
+#: archive.php:8
+#, php-format
+msgid "Posts from the\t&#8216;%s&#8217; Category"
+msgstr "文章归类在：\t&#8216;%s&#8217; "
+
+#: archive.php:10
+#, php-format
+msgid "Posts tagged &#8216;%s&#8217;"
+msgstr "标签： &#8216;%s&#8217;"
+
+#: archive.php:12
+#: archive.php:14
+#: archive.php:16
+msgid "Archive for"
+msgstr "归档到"
+
+#: archive.php:12
+msgid "F jS, Y"
+msgstr "F jS, Y"
+
+#: archive.php:14
+msgid "F, Y"
+msgstr "F, Y"
+
+#: archive.php:16
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:18
+#, php-format
+msgid "Posts by %s"
+msgstr "作者： %s"
+
+#: archive.php:20
+msgid "Blog Archives"
+msgstr "博客存档"
+
+#: archive.php:30
+#: index.php:17
+msgid "j"
+msgstr "j"
+
+#: archive.php:31
+#: index.php:18
+msgid "M"
+msgstr "M"
+
+#: archive.php:36
+#: index.php:23
+#: search.php:18
+msgid "Read more"
+msgstr "阅读全文"
+
+#: archive.php:37
+#: index.php:24
+#: page.php:18
+#: search.php:19
+#: single.php:20
+msgid "Edit"
+msgstr "编辑"
+
+#: archive.php:44
+#: index.php:31
+#: search.php:26
+msgid "&laquo; Older Entries"
+msgstr "&laquo; 较老的文章"
+
+#: archive.php:45
+#: index.php:32
+#: search.php:27
+msgid "Newer Entries &raquo;"
+msgstr "较新的文章 &raquo;"
+
+#: comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "这篇文章受密码保护，输入密码查看评论。"
+
+#: comments.php:16
+msgid "No Comments Yet"
+msgstr "还没有评论"
+
+#: comments.php:16
+msgid "1 Comment"
+msgstr "1 条评论"
+
+#: comments.php:16
+msgid "% Comments"
+msgstr "% 条评论"
+
+#: comments.php:18
+msgid "Post a comment"
+msgstr "发表评论"
+
+#: comments.php:25
+msgid "Trackbacks &amp; Pingbacks"
+msgstr "Trackbacks &amp; Pingbacks"
+
+#: comments.php:31
+#: comments.php:36
+msgid "Comments are closed."
+msgstr "评论已关闭。"
+
+#: comments.php:47
+msgid "Share your thoughts, post a comment."
+msgstr "分享您的想法，发表评论。"
+
+#: comments.php:49
+msgid "You must be"
+msgstr "你必须"
+
+#: comments.php:49
+msgid "logged in"
+msgstr "登录"
+
+#: comments.php:49
+msgid "to post a comment."
+msgstr "发表评论"
+
+#: comments.php:54
+msgid "Logged in as"
+msgstr "登录为"
+
+#: comments.php:54
+msgid "Log out &raquo;"
+msgstr "退出 &raquo;"
+
+#: comments.php:57
+msgid "Name"
+msgstr "大名"
+
+#: comments.php:59
+#: comments.php:64
+msgid "<span>(required)</span>"
+msgstr "<span>(必填)</span>"
+
+#: comments.php:62
+msgid "Email"
+msgstr "Email"
+
+#: comments.php:67
+msgid "Website"
+msgstr "个人网站"
+
+#: comments.php:72
+msgid "Comment"
+msgstr "评论"
+
+#: comments.php:76
+msgid "<strong>Note:</strong> HTML is allowed. Your email address will <strong>never</strong> be published."
+msgstr "<strong>注:</strong>允许使用HTML，您的Email<strong>不会</strong>被公布."
+
+#: comments.php:77
+msgid "Subscribe to comments"
+msgstr "订阅评论"
+
+#: comments.php:80
+msgid "Submit Comment"
+msgstr "提交评论"
+
+#: featured.php:19
+msgid "Featured Articles"
+msgstr "精选文章"
+
+#: footer.php:12
+msgid "Categories"
+msgstr "分类"
+
+#: footer.php:20
+msgid "About"
+msgstr "关于"
+
+#: footer.php:24
+msgid "Did you know you can write your own about section just like this one? It's really easy. Head into the the <em>Traction Options</em> menu and check out the footer section. Type some stuff in the box, click save, and your new about section shows up in the footer."
+msgstr "您也可以写一个像这样的自我介绍，这很容易。点击后台的 <em>Traction设置</em>菜单。在文本框中键入一些东西，单击保存，您的自我介绍就会显示在这里。"
+
+#: footer.php:33
+msgid "Pages"
+msgstr "页面"
+
+#: footer.php:45
+msgid "Search"
+msgstr "搜索"
+
+#: footer.php:54
+msgid "Copyright"
+msgstr "版权所有"
+
+#: functions.php:34
+msgid "Sidebar"
+msgstr "侧栏"
+
+#: functions.php:43
+msgid "Footer Left"
+msgstr "底部左侧"
+
+#: functions.php:52
+msgid "Footer Center"
+msgstr "底部中加"
+
+#: functions.php:61
+msgid "Footer Right"
+msgstr "底部右侧"
+
+#: header.php:9
+msgid "Page Not Found |"
+msgstr "网页未找到 |"
+
+#: header.php:11
+#: search.php:7
+#, php-format
+msgid "Search results for '%s'"
+msgstr "搜索关键词 '%s'"
+
+#: header.php:68
+msgid "Skip to content"
+msgstr "跳到内容"
+
+#: header.php:73
+msgid "Home"
+msgstr "首页"
+
+#: index.php:7
+#: sidebar.php:41
+msgid "Recent Articles"
+msgstr "最新文章"
+
+#: search.php:32
+#, php-format
+msgid "Sorry your search for \"%s\" did not turn up any results. Please try again."
+msgstr "对不起，您搜索关键词 \"%s\" 未找到相关内容. 换一个试试."
+
+#: sidebar.php:20
+msgid "Sign up for our free newsletter"
+msgstr "注册我们的免费电子报"
+
+#: sidebar.php:23
+msgid "Email address"
+msgstr "Email地址"
+
+#: sidebar.php:24
+msgid "Go"
+msgstr "Go"
+
+#: sidebar.php:31
+#: subscribe.php:17
+msgid "Twitter"
+msgstr "Twitter"
+
+#: sidebar.php:49
+msgid "Archives"
+msgstr "存档"
+
+#: single.php:5
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: single.php:24
+msgid "<em>Read more from</em>"
+msgstr "<em>查看所有归类于：</em>"
+
+#: subscribe.php:3
+msgid "Subscribe"
+msgstr "订阅"
+
+#: subscribe.php:7
+msgid "Facebook"
+msgstr "Facebook"
+
+#: subscribe.php:12
+msgid "Flickr"
+msgstr "Flickr"
+
+#: subscribe.php:21
+msgid "RSS Feed"
+msgstr "RSS Feed"
+
+#: functions/comments.php:31
+msgid "<em><strong>Please Note:</strong> Your comment is awaiting moderation.</em>"
+msgstr "<em><strong>请注意:</strong>  您的评论正在等待管理员的审核.</em>"
+
+#: functions/traction-admin.php:60
+msgid " settings saved!"
+msgstr "保存设置!"
+
+#: functions/traction-admin.php:61
+msgid " settings reset."
+msgstr "重置到原始设置。"
+
+#: functions/traction-admin.php:65
+msgid "Options"
+msgstr "设置"
+
+#: functions/traction-admin.php:68
+msgid "Need help?"
+msgstr "需要帮助？"
+
+#: functions/traction-admin.php:68
+msgid "Read the tutorials"
+msgstr "阅读教程"
+
+#: functions/traction-admin.php:68
+msgid "or visit the <a href=\"http://thethemefoundry.com/forums/\">support forums.</a>"
+msgstr "或者访问 <a href=\"http://thethemefoundry.com/forums/\">支持论坛。</a>"
+
+#: functions/traction-admin.php:70
+msgid "Go PRO!"
+msgstr "升级收费版！"
+
+#: functions/traction-admin.php:71
+msgid "You are using the free version of Traction. Upgrade to Traction PRO for extra features, access to dedicated support, priority theme updates, and comprehensive theme tutorials."
+msgstr "您正在使用的Traction免费版本，升级到Traction的收费版将得到我们专门的支持专业以及优先主题的更新和综合性专题辅导。"
+
+#: functions/traction-admin.php:72
+msgid "Learn more about Traction PRO &rarr;"
+msgstr "了解更多关于Traction 收费版 &rarr;"
+
+#: functions/traction-admin.php:84
+#: functions/traction-admin.php:197
+msgid "Save changes"
+msgstr "保存更改"
+
+#: functions/traction-admin.php:151
+msgid "show color picker"
+msgstr "显示颜色选择器"
+
+#: functions/traction-admin.php:151
+msgid "hide color picker"
+msgstr "隐藏颜色选择器"
+
+#: functions/traction-admin.php:202
+msgid "Save all changes"
+msgstr "保存所有修改"
+
+#: functions/traction-admin.php:208
+msgid "Reset all options"
+msgstr "重置所有设置"
+
+#: functions/traction-extend.php:30
+msgid "Custom Logo Image <span>insert your custom logo image in the header</span>"
+msgstr "自定义logo图片 <span>在顶部插入你的logo图片</span>"
+
+#: functions/traction-extend.php:34
+msgid "Enable custom logo image"
+msgstr "开启自定义logo图片"
+
+#: functions/traction-extend.php:37
+msgid "Check to use a custom logo in the header."
+msgstr "选择使用自定义logo"
+
+#: functions/traction-extend.php:42
+msgid "Logo image file name"
+msgstr "logo图片名称"
+
+#: functions/traction-extend.php:45
+msgid "Upload your logo image here: "
+msgstr "上传你的logo图片："
+
+#: functions/traction-extend.php:50
+msgid "Logo image <code>&lt;alt&gt;</code> tag"
+msgstr "Logo 图片 <code>&lt;alt&gt;</code> 标签"
+
+#: functions/traction-extend.php:53
+msgid "Specify the <code>&lt;alt&gt;</code> tag for your logo image."
+msgstr "为你的logo图片指定 <code>&lt;alt&gt;</code> 标签。"
+
+#: functions/traction-extend.php:58
+msgid "Display tagline"
+msgstr "显示标语"
+
+#: functions/traction-extend.php:61
+msgid "Check to show your tagline below your logo."
+msgstr "您的标志下面显示您的标语。"
+
+#: functions/traction-extend.php:66
+msgid "Featured Slider <span>take control of your featured slider.</span>"
+msgstr "精选滑块 <span>控制你的精选滑块。</span>"
+
+#: functions/traction-extend.php:67
+msgid "The featured slider shows demo posts only in the free trial version of Traction."
+msgstr "精选滑块在免费版主题中只提供演示。"
+
+#: functions/traction-extend.php:71
+msgid "Enable featured slider"
+msgstr "开启精选滑块"
+
+#: functions/traction-extend.php:73
+msgid "Check to turn on your featured slider."
+msgstr "选择打开您精选滑块。"
+
+#: functions/traction-extend.php:78
+msgid "Autostart"
+msgstr "自动启动"
+
+#: functions/traction-extend.php:80
+msgid "Check to start your featured slider automatically."
+msgstr "选择滑块自动启动功能。"
+
+#: functions/traction-extend.php:85
+msgid "Autostart delay"
+msgstr "自动启动延迟"
+
+#: functions/traction-extend.php:87
+msgid "Delay before the autostart and the delay between slides in milliseconds (1000 = 1 second)."
+msgstr "在自动启动延迟和幻灯片切换延迟毫秒数（1000 = 1秒）。"
+
+#: functions/traction-extend.php:92
+msgid "Slide animation speed"
+msgstr "幻灯片动画速度"
+
+#: functions/traction-extend.php:94
+msgid "Speed of the sliding animation in milliseconds (1000 = 1 second)."
+msgstr "幻灯片切换速度，毫秒数 (1000 = 1 second)."
+
+#: functions/traction-extend.php:99
+msgid "Fade speed"
+msgstr "淡入淡出的速度"
+
+#: functions/traction-extend.php:101
+msgid "Speed of the fading animation in milliseconds (1000 = 1 second)."
+msgstr "幻灯片停留毫秒数（1000 = 1秒）。"
+
+#: functions/traction-extend.php:106
+msgid "Color Scheme <span>choose your color scheme</span>"
+msgstr "配色方案 <span>选择您的配色方案</span>"
+
+#: functions/traction-extend.php:110
+msgid "Color scheme"
+msgstr "配色方案"
+
+#: functions/traction-extend.php:111
+msgid "Choose your color scheme."
+msgstr "选择您的配色方案。"
+
+#: functions/traction-extend.php:117
+msgid "Default (blue)"
+msgstr "默认（蓝色）"
+
+#: functions/traction-extend.php:118
+msgid "Red"
+msgstr "红色"
+
+#: functions/traction-extend.php:119
+msgid "Green"
+msgstr "绿色"
+
+#: functions/traction-extend.php:122
+msgid "Navigation <span>control your top navigation menu</span>"
+msgstr "导航栏 <span>控制顶部导航菜单</span>"
+
+#: functions/traction-extend.php:126
+msgid "Hide all pages"
+msgstr "隐藏所有页面"
+
+#: functions/traction-extend.php:128
+msgid "Check this box to hide all pages."
+msgstr "选择此框将隐藏所有页面。"
+
+#: functions/traction-extend.php:133
+msgid "Exclude specific pages"
+msgstr "排除特定页面"
+
+#: functions/traction-extend.php:136
+msgid "The page ID of pages you do not want displayed in your navigation menu. Use a comma-delimited list, eg. 1,2,3."
+msgstr "您不希望在您的导航菜单中显示的网页ID。使用逗号分隔，如： 1,2,3。"
+
+#: functions/traction-extend.php:141
+msgid "Hide all categories"
+msgstr "隐藏所有分类"
+
+#: functions/traction-extend.php:143
+msgid "Check this box to hide all categories."
+msgstr "选择此框将隐藏所有分类。"
+
+#: functions/traction-extend.php:148
+msgid "Exclude specific categories"
+msgstr "排除特定分类"
+
+#: functions/traction-extend.php:151
+msgid "The category ID of pages you do not want displayed in your navigation menu. Use a comma-delimited list, eg. 1,2,3."
+msgstr "您不希望在您的导航菜单中显示的分类的ID，用逗号隔开，如：1,2,3."
+
+#: functions/traction-extend.php:156
+msgid "Hide home navigation menu item"
+msgstr "隐藏首页导航菜单项"
+
+#: functions/traction-extend.php:159
+msgid "Check this box if you are using a static page as your homepage instead of your blog (the default). The extra <em>Home</em> menu item will be removed."
+msgstr "选中此框，如果您使用的是静态页面而不是博客的默认设置的话。额外的 <em>首页</em> 菜单将被删除。"
+
+#: functions/traction-extend.php:164
+msgid "Advertising <span>fill in your ad spots</span>"
+msgstr "广告<span>填写您的广告</span>"
+
+#: functions/traction-extend.php:168
+msgid "Enable top banner ad"
+msgstr "开启顶部横幅广告"
+
+#: functions/traction-extend.php:171
+msgid "Check this box to enable the top banner."
+msgstr "选中此框将开启顶部横幅。"
+
+#: functions/traction-extend.php:176
+msgid "Top banner ad file name"
+msgstr "顶部横幅广告名称"
+
+#: functions/traction-extend.php:179
+#: functions/traction-extend.php:209
+#: functions/traction-extend.php:230
+msgid "Upload your image here: "
+msgstr "上传您的图片"
+
+#: functions/traction-extend.php:184
+msgid "Top banner ad link"
+msgstr "顶部横幅广告链接"
+
+#: functions/traction-extend.php:187
+msgid "Link for the top banner ad"
+msgstr "顶部横幅的链接"
+
+#: functions/traction-extend.php:192
+msgid "Top banner alt tag"
+msgstr "顶部横幅ALT标签"
+
+#: functions/traction-extend.php:195
+msgid "Alt tag for the top banner ad"
+msgstr "顶部横幅广告的ALT标签"
+
+#: functions/traction-extend.php:200
+msgid "Enable sidebar adbox"
+msgstr "启用侧栏广告箱"
+
+#: functions/traction-extend.php:202
+msgid "Check this box to enable the sidebar adbox."
+msgstr "选中此框可以开启侧栏广告箱"
+
+#: functions/traction-extend.php:207
+msgid "Ad 1 file name"
+msgstr "Ad 1 名称"
+
+#: functions/traction-extend.php:214
+msgid "Ad 1 link"
+msgstr "Ad 1 链接"
+
+#: functions/traction-extend.php:216
+msgid "Link for the first ad"
+msgstr "链接到第一个广告"
+
+#: functions/traction-extend.php:221
+msgid "Ad 1 alt tag"
+msgstr "Ad 1 alt 标签"
+
+#: functions/traction-extend.php:223
+msgid "Alt tag for the first ad"
+msgstr "第一个广告的Alt标签"
+
+#: functions/traction-extend.php:228
+msgid "Ad 2 file name"
+msgstr "Ad 2 名称"
+
+#: functions/traction-extend.php:235
+msgid "Ad 2 link"
+msgstr "Ad 2 链接"
+
+#: functions/traction-extend.php:237
+msgid "Link for the second ad"
+msgstr "第二个广告的链接"
+
+#: functions/traction-extend.php:242
+msgid "Ad 2 alt tag"
+msgstr "Ad 2 alt 标签"
+
+#: functions/traction-extend.php:244
+msgid "Alt tag for the second ad"
+msgstr "第二个广告的alt标签"
+
+#: functions/traction-extend.php:249
+msgid "Subscribe Links <span>control the subscribe links</span>"
+msgstr "订阅链接 <span>控制您的订阅链接</span>"
+
+#: functions/traction-extend.php:253
+msgid "Enable Twitter"
+msgstr "开启 Twitter"
+
+#: functions/traction-extend.php:256
+msgid "Hip to Twitter? Check this box. Please set your Twitter username in the Twitter menu."
+msgstr "隐藏Twitter？选中此框。请在twitter菜单中设置你的twitter用户名。"
+
+#: functions/traction-extend.php:261
+msgid "Enable Facebook"
+msgstr "开启 Facebook"
+
+#: functions/traction-extend.php:263
+msgid "Check this box to show a link to your Facebook page."
+msgstr "选中此框将显示一个您facebook的链接。"
+
+#: functions/traction-extend.php:268
+msgid "Enable Flickr"
+msgstr "开启 Flickr"
+
+#: functions/traction-extend.php:270
+msgid "Check this box to show a link to Flickr."
+msgstr "选中此框将显示您的Flickr链接"
+
+#: functions/traction-extend.php:275
+msgid "Disable all"
+msgstr "隐藏所有"
+
+#: functions/traction-extend.php:277
+msgid "Check this box to hide all follow icons (including RSS). This option overrides any other settings."
+msgstr "选中此框将隐藏下面所有图标 (包括 RSS)。这个选项覆盖任何其他设置。"
+
+#: functions/traction-extend.php:282
+msgid "Facebook link"
+msgstr "Facebook 链接"
+
+#: functions/traction-extend.php:284
+msgid "Enter your Facebook link."
+msgstr "输入您的 Facebook 地址。"
+
+#: functions/traction-extend.php:288
+msgid "Flickr link"
+msgstr "Flickr 链接"
+
+#: functions/traction-extend.php:290
+msgid "Enter your Flickr link."
+msgstr "输入您的Flickr地址。"
+
+#: functions/traction-extend.php:294
+msgid "Sidebar <span>customize your sidebar</span>"
+msgstr "侧栏 <span>自定义您的侧栏</span>"
+
+#: functions/traction-extend.php:298
+msgid "Disable sidebox"
+msgstr "禁用广告箱"
+
+#: functions/traction-extend.php:300
+msgid "Check this box to disable the sidebar sidebox."
+msgstr "选中次框可以关闭侧栏广告箱"
+
+#: functions/traction-extend.php:305
+msgid "Custom code"
+msgstr "自定义代码"
+
+#: functions/traction-extend.php:307
+msgid "Check this box to use custom code for the sidebox."
+msgstr "选中此框用于自定义广告箱代码。"
+
+#: functions/traction-extend.php:312
+msgid "Custom code content"
+msgstr "自定义代码内容"
+
+#: functions/traction-extend.php:314
+msgid "Must use properly formatted XHTML/HTML."
+msgstr "必须使用正确格式的XHTML/HTML。"
+
+#: functions/traction-extend.php:322
+msgid "Enable newsletter"
+msgstr "启用提醒"
+
+#: functions/traction-extend.php:324
+msgid "The newsletter sign-up uses Feedburner by default."
+msgstr "该项注册默认用Feedburner的。"
+
+#: functions/traction-extend.php:329
+msgid "Feed Title"
+msgstr "Feed 标题"
+
+#: functions/traction-extend.php:331
+msgid "Title displayed inside the newsletter signup box"
+msgstr "标题显示内部简讯注册框"
+
+#: functions/traction-extend.php:336
+msgid "Feedburner feed name"
+msgstr "Feedburner feed 名称"
+
+#: functions/traction-extend.php:338
+msgid "Click the <em>Edit Feed Details</em> link inside FeedBurner"
+msgstr "点击FeedBurner的 <em>编辑 Feed </em> 链接"
+
+#: functions/traction-extend.php:342
+msgid "Twitter <span>show your latest tweets in the sidebar</span>"
+msgstr "Twitter <span>在侧栏显示您的最新tweets</span>"
+
+#: functions/traction-extend.php:346
+msgid "Twitter sidebar updates"
+msgstr "Twitter 侧栏显示条数"
+
+#: functions/traction-extend.php:349
+msgid "Check this box to show your latest tweets in the sidebar."
+msgstr "选择此框可以在侧栏显示您的最新tweets"
+
+#: functions/traction-extend.php:354
+msgid "Twitter name"
+msgstr "Twitter 用户名"
+
+#: functions/traction-extend.php:357
+msgid "Enter your twitter name here."
+msgstr "填写您的twitter用户名。"
+
+#: functions/traction-extend.php:361
+msgid "Number of updates"
+msgstr "发布数目"
+
+#: functions/traction-extend.php:364
+msgid "The number of tweets to show in the sidebar."
+msgstr "在侧栏显示tweets条数"
+
+#: functions/traction-extend.php:369
+msgid "Footer <span>customize your footer</span>"
+msgstr "底部 <span>自定义您的页尾</span>"
+
+#: functions/traction-extend.php:375
+msgid "Something about you or your business."
+msgstr "关于您的介绍"
+
+#: functions/traction-extend.php:382
+msgid "Disable About"
+msgstr "关闭关于区块"
+
+#: functions/traction-extend.php:385
+msgid "Check this box to disable the About section and enable the footer widget instead."
+msgstr "选择此框将关闭关于区块，并且开启页脚widget。"
+
+#: functions/traction-extend.php:390
+msgid "Copyright notice"
+msgstr "版权申明"
+
+#: functions/traction-extend.php:392
+msgid "Your name or the name of your business."
+msgstr "您的大名或者您公司的大名。"
+
+#: functions/traction-extend.php:393
+msgid "Your Name Here"
+msgstr "您的大名"
+
+#: functions/traction-extend.php:397
+msgid "Stats code"
+msgstr "统计代码"
+
+#: functions/traction-extend.php:399
+msgid "If you use Google Analytics or need any other tracking script in your footer just copy and paste it here. The script will be inserted before the closing <code>&#60;/body&#62;</code> tag."
+msgstr "如果您在页脚使用Google Analytics或者其他统计工具，请将代码粘贴在这里。代码将被放在 <code>&#60;/body&#62;</code> 标签之前。"
+

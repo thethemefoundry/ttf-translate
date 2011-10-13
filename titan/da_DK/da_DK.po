@@ -1,0 +1,642 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Titan WordPress Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-07 10:02-0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Drew Strojny <themes@jestro.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:2
+msgid "404: Page Not Found"
+msgstr "404: Siden blev ikke fundet"
+
+#: 404.php:4
+msgid "We are terribly sorry, but the URL you typed no longer exists. It might have been moved or deleted, or perhaps you mistyped it. We suggest searching the site:"
+msgstr "Siden ekstisterer ikke længere. Den er nok flyttet eller slettet, eller måske har du stavet forkert. Vi foreslår du søger efter den:"
+
+#: archive.php:4
+#, php-format
+msgid "Posts from the  &#8216;%s&#8217; Category"
+msgstr "Indlæg fra &#8216;%s&#8217;-kategorien"
+
+#: archive.php:6
+#, php-format
+msgid "Posts tagged &#8216;%s&#8217;"
+msgstr "Indlæg tagged &#8216;%s&#8217;"
+
+#: archive.php:8
+#: archive.php:10
+#: archive.php:12
+msgid "Archive for"
+msgstr "Arkiv for"
+
+#: archive.php:8
+#: archive.php:21
+#: single.php:8
+msgid "F jS, Y"
+msgstr "F jS, Y"
+
+#: archive.php:10
+msgid "F, Y"
+msgstr "F, Y"
+
+#: archive.php:12
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:14
+#, php-format
+msgid "Posts by %s"
+msgstr "Indlæg af %s "
+
+#: archive.php:16
+msgid "Blog Archives"
+msgstr "Blog arkiv"
+
+#: archive.php:21
+#, php-format
+msgid "%s on"
+msgstr "%s på"
+
+#: archive.php:26
+#: index.php:22
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Ældre indlæg"
+
+#: archive.php:27
+#: index.php:23
+msgid "Newer Entries &raquo;"
+msgstr "Nyere indlæg &raquo;"
+
+#: comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Dette indlæg er beskyttet med en kode. Skriv koden for at se kommentarer."
+
+#: comments.php:16
+msgid "No Comments Yet"
+msgstr "Ingen kommentarer endnu"
+
+#: comments.php:16
+msgid "One Comment"
+msgstr "En kommentar "
+
+#: comments.php:16
+msgid "% Comments"
+msgstr "% kommentarer"
+
+#: comments.php:18
+msgid "Leave One"
+msgstr "Tilføj en kommentar"
+
+#: comments.php:25
+msgid "&laquo; Older Comments"
+msgstr "&laquo; Ældre kommentarer"
+
+#: comments.php:26
+msgid "Newer Comments &raquo;"
+msgstr "Nyere kommentarer &raquo; "
+
+#: comments.php:29
+msgid "Trackbacks &amp; Pingbacks"
+msgstr "Trackbacks &amp; Pingbacks"
+
+#: comments.php:35
+#: comments.php:46
+msgid "Comments are closed."
+msgstr "Kommentarer er lukkede"
+
+#: comments.php:41
+msgid "No comments yet"
+msgstr "Ingen kommentarer endnu"
+
+#: comments.php:58
+msgid "Leave a Reply"
+msgstr "Tilføj en kommentar"
+
+#: comments.php:60
+msgid "You must be"
+msgstr "Du skal være"
+
+#: comments.php:60
+msgid "logged in"
+msgstr "logget ind"
+
+#: comments.php:60
+msgid "to post a comment."
+msgstr "for at tilføje en kommetar."
+
+#: comments.php:65
+msgid "Logged in as"
+msgstr "Logget ind som"
+
+#: comments.php:65
+msgid "Log out &raquo;"
+msgstr "Log ud &raquo; "
+
+#: comments.php:68
+msgid "Name:"
+msgstr "Navn:"
+
+#: comments.php:68
+#: comments.php:72
+msgid "(required)"
+msgstr "(påkrævet)"
+
+#: comments.php:72
+msgid "Email:"
+msgstr "Email:"
+
+#: comments.php:76
+msgid "Website:"
+msgstr "Hjemmeside:"
+
+#: comments.php:81
+msgid "Comment:"
+msgstr "Kommentar:"
+
+#: comments.php:84
+msgid "<strong>Note:</strong> XHTML is allowed. Your email address will <strong>never</strong> be published."
+msgstr "<strong>NB: </strong>XHTML er tilladt. Din email vil <strong>aldrig</strong> blive publiceret. "
+
+#: comments.php:85
+msgid "Subscribe to this comment feed via RSS"
+msgstr "Tilmeld dig denne kommentar-feed via RSS"
+
+#: comments.php:88
+msgid "Submit Comment"
+msgstr "Tilføj kommentar"
+
+#: footer.php:7
+#: functions/titan-extend.php:213
+msgid "About"
+msgstr "Om"
+
+#: footer.php:11
+msgid "Did you know you can write your own about section just like this one? It's really easy. Head into the the <em>Titan Options</em> menu and check out the footer section. Type some stuff in the box, click save, and your new about section shows up in the footer."
+msgstr "Vidste du at du kan skrive din egent \"Om\"-sektion som denne? Det er let. Gå ind i <em>Titan indstillinger</em> og se footer sektionen. Skriv noget i boksen, tryk gem og din nye \"Om\"-sektion vises i footeren."
+
+#: footer.php:12
+msgid "Wondering about those Flickr photos on the right?"
+msgstr "Har du tænkt på Flickr fotos til højre?"
+
+#: footer.php:13
+msgid "We didn't take them, they are a random sampling of the most popular photos on Flickr with the tag 'nature'. All rights are reserved to the original copyright holders where applicable."
+msgstr "Vi har ikke taget dem. Det er de mest populære fotos på Flickr med tagget 'nature'. Alle rettigheder er forbeholdt den originale copyright-indehaver."
+
+#: footer.php:21
+#: sidebar.php:30
+msgid "Categories"
+msgstr "Kategorier "
+
+#: footer.php:29
+msgid "Flickr"
+msgstr "Flickr"
+
+#: footer.php:47
+msgid "Search"
+msgstr "Søg"
+
+#: footer.php:54
+msgid "Copyright"
+msgstr "Copyright"
+
+#: functions.php:28
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:38
+msgid "Footer"
+msgstr "Footer"
+
+#: header.php:9
+msgid "Page Not Found |"
+msgstr "Siden blev ikke fundet | "
+
+#: header.php:11
+#: search.php:3
+#: search.php:25
+#, php-format
+msgid "Search results for '%s'"
+msgstr "Søgeresultat for '%s'"
+
+#: header.php:48
+msgid "Follow:"
+msgstr "Følg:"
+
+#: header.php:49
+msgid "RSS"
+msgstr "RSS"
+
+#: header.php:51
+msgid "Email"
+msgstr "Email"
+
+#: header.php:54
+msgid "Twitter"
+msgstr "Twitter"
+
+#: header.php:66
+msgid "Home"
+msgstr "Hjem"
+
+#: index.php:6
+#: search.php:7
+msgid "M j"
+msgstr "M j"
+
+#: index.php:8
+#: search.php:9
+#, php-format
+msgid "by %s"
+msgstr "af %s "
+
+#: index.php:12
+#: search.php:12
+#: single.php:12
+msgid "read more..."
+msgstr "læs mere..."
+
+#: index.php:13
+#: page.php:7
+#: search.php:13
+#: single.php:13
+msgid "Edit This"
+msgstr "Redigér dette"
+
+#: index.php:17
+msgid "Leave a comment"
+msgstr "Tilføj en kommentar"
+
+#: index.php:17
+msgid "1 Comment"
+msgstr "1 kommentar"
+
+#: index.php:17
+msgid "% Comment"
+msgid_plural "% Comments"
+msgstr[0] "% kommentar"
+msgstr[1] "% kommentarer"
+
+#: search.php:27
+#, php-format
+msgid "Sorry your search for \"%s\" did not turn up any results. Please try again."
+msgstr "Din søgning på \"%s\" gav ingen resultater. Prøv igen."
+
+#: sidebar.php:22
+msgid "Recent Articles"
+msgstr "Seneste artikler"
+
+#: sidebar.php:36
+msgid "Archives"
+msgstr "Arkiver"
+
+#: single.php:8
+#, php-format
+msgid "by %s on"
+msgstr "af %s på"
+
+#: single.php:17
+msgid "From"
+msgstr "Fra"
+
+#: functions/comments.php:10
+msgid "permalink"
+msgstr "permalink"
+
+#: functions/comments.php:13
+msgid "<em><strong>Please Note:</strong> Your comment is awaiting moderation.</em>"
+msgstr "<em><strong>OBS:</strong> Din kommentar afventer godkendelse.</em> "
+
+#: functions/titan-admin.php:60
+msgid " settings saved!"
+msgstr "indstillinger gemt!"
+
+#: functions/titan-admin.php:61
+msgid " settings reset."
+msgstr "indstillinger er gendannet"
+
+#: functions/titan-admin.php:65
+msgid "Options"
+msgstr "Indstillinger"
+
+#: functions/titan-admin.php:68
+msgid "Need help?"
+msgstr "Brug for hjælp? "
+
+#: functions/titan-admin.php:68
+msgid "Read the tutorials"
+msgstr "Læs kurset"
+
+#: functions/titan-admin.php:68
+msgid "or visit the <a href=\"http://thethemefoundry.com/forums/\">support forums.</a>"
+msgstr "eller besøg <a href=\"http://thethemefoundry.com/forums/\">support forummet</a>."
+
+#: functions/titan-admin.php:70
+msgid "Free Trial"
+msgstr "Gratis Periode"
+
+#: functions/titan-admin.php:71
+msgid "You are using the free trial version of Titan. Feel free to test it for as long as you wish. Upgrade to Titan PRO for extra features, unlimited access to dedicated support, priority theme updates, and comprehensive theme tutorials."
+msgstr "Du bruger gratis versionen af Titan. Test den lige så længe du har lyst. Opgradér til Titan Pro for flere muligheder, ubegrænset adgang til support, theme opdateringer og omfattende theme-kurser."
+
+#: functions/titan-admin.php:72
+msgid "Learn more about Titan PRO &rarr;"
+msgstr "Lær mere om Titan PRO &rarr;"
+
+#: functions/titan-admin.php:84
+#: functions/titan-admin.php:198
+msgid "Save changes"
+msgstr "Gem ændringer"
+
+#: functions/titan-admin.php:152
+msgid "show color picker"
+msgstr "vis farvevælgeren"
+
+#: functions/titan-admin.php:152
+msgid "hide color picker"
+msgstr "skjul farvevælgeren"
+
+#: functions/titan-admin.php:203
+msgid "Save all changes"
+msgstr "Gem alle ændringer"
+
+#: functions/titan-admin.php:209
+msgid "Reset all options"
+msgstr "Gendan alle indstillinger"
+
+#: functions/titan-extend.php:29
+msgid "Custom Logo Image <span>insert your custom logo image in the header</span>"
+msgstr "Tilpasset logo billede -<span>Indsæt dit logo i headeren</span>"
+
+#: functions/titan-extend.php:32
+msgid "Enable custom logo image"
+msgstr "Aktivér tilpasset logo billede"
+
+#: functions/titan-extend.php:35
+msgid "Check to use a custom logo in the header."
+msgstr "Check af hvis du vil bruge tilpasset logo i headeren"
+
+#: functions/titan-extend.php:39
+msgid "Logo image file name"
+msgstr "Filnavn på logoet"
+
+#: functions/titan-extend.php:42
+msgid "Upload your logo image here: "
+msgstr "Upload dit logo her:"
+
+#: functions/titan-extend.php:46
+msgid "Logo image <code>&lt;alt&gt;</code> tag"
+msgstr "Logo <code>&lt;alt&gt;</code> tag"
+
+#: functions/titan-extend.php:49
+msgid "Specify the <code>&lt;alt&gt;</code> tag for your logo image."
+msgstr "Specificér <code>&lt;alt&gt;</code> tagget for dit logo."
+
+#: functions/titan-extend.php:53
+msgid "Display tagline"
+msgstr "Vis tagline"
+
+#: functions/titan-extend.php:56
+msgid "Check to show your tagline below your logo."
+msgstr "Check af for at vise din tagline under dit logo."
+
+#: functions/titan-extend.php:60
+msgid "Navigation <span>control your top navigation menu</span>"
+msgstr "Navigation <span>kontrolér din top menu</span> "
+
+#: functions/titan-extend.php:63
+msgid "Hide all pages"
+msgstr "Skjul alle sider"
+
+#: functions/titan-extend.php:65
+msgid "Check this box to hide all pages"
+msgstr "Check af for at skjule alle sider"
+
+#: functions/titan-extend.php:69
+msgid "Exclude specific pages"
+msgstr "Udelad specifikke sider"
+
+#: functions/titan-extend.php:72
+msgid "The page ID of pages you do not want displayed in your navigation menu. Use a comma-delimited list, eg. 1,2,3"
+msgstr "Side ID'erne på siderne du ikke ønsker vist i din top menu. Brug komma for flere (f.eks.: 1, 2, 3) "
+
+#: functions/titan-extend.php:76
+msgid "Hide all categories"
+msgstr "Skjul alle kategorier"
+
+#: functions/titan-extend.php:78
+msgid "Check this box to hide all categories."
+msgstr "Check af for at skjule alle kategorier."
+
+#: functions/titan-extend.php:82
+msgid "Exclude specific categories"
+msgstr "Udelad specifikke kategorier"
+
+#: functions/titan-extend.php:85
+msgid "The category ID of pages you do not want displayed in your navigation menu.. Use a comma-delimited list, eg. 1,2,3"
+msgstr "Kategori ID'erne på siderne du ikke ønsker vist i din top menu. Brug komma for flere (f.eks.: 1, 2, 3) "
+
+#: functions/titan-extend.php:89
+msgid "Hide home navigation menu item"
+msgstr "Skjul hjem i topmenuen"
+
+#: functions/titan-extend.php:92
+msgid "Check this box if you are using a static page as your homepage instead of your blog (the default). The extra <em>Home</em> menu item will be removed."
+msgstr "Check af hvis du bruger en statisk side. Som en hjemmeside istedet for en blog (standard). den ekstra <em>Hjem</em> knap vil blive fjernet fra menuen."
+
+#: functions/titan-extend.php:96
+msgid "Follow Links <span>top right follow links</span>"
+msgstr "Følg Links <span>øverst til højre 'følg links'</span>"
+
+#: functions/titan-extend.php:99
+msgid "Email updates link"
+msgstr "'Email-opdateringer' link"
+
+#: functions/titan-extend.php:101
+msgid "Enter your feed email link here."
+msgstr "Skriv din feed email link her."
+
+#: functions/titan-extend.php:106
+msgid "Disable email link"
+msgstr "Slå email link fra"
+
+#: functions/titan-extend.php:108
+msgid "Don't want to offer email updates, check the box."
+msgstr "Check af hvis du ikke vil tilbyde email-opdateringer."
+
+#: functions/titan-extend.php:112
+msgid "Twitter updates link"
+msgstr "'Twitter-opdateringer' link"
+
+#: functions/titan-extend.php:114
+msgid "Enter the link to your Twitter page."
+msgstr "Skriv linket til din Twitter side"
+
+#: functions/titan-extend.php:117
+msgid "Disable Twitter"
+msgstr "Slå Twitter fra "
+
+#: functions/titan-extend.php:119
+msgid "Not hip to Twitter? That's cool, just check this box."
+msgstr "Check af hvis du ikke vil tilbyde Twitter-opdateringer."
+
+#: functions/titan-extend.php:123
+msgid "Homepage Notice <span>display a notice on your homepage</span>"
+msgstr "Hjemmeside Meddelelse<span>vis en meddelelse på din hjemmeside</span> "
+
+#: functions/titan-extend.php:126
+msgid "Enable homepage notice"
+msgstr "Aktivér hjemmeside meddelelse"
+
+#: functions/titan-extend.php:129
+msgid "Check this box to use a custom notice on the home page."
+msgstr "Check af hvis du ønsker en tilpasset meddelelse på din hjemmeside"
+
+#: functions/titan-extend.php:133
+msgid "Custom notice"
+msgstr "tilpasset meddelelse"
+
+#: functions/titan-extend.php:136
+msgid "The content of your custom notice."
+msgstr "Indholdet af din tilpassede meddelselse"
+
+#: functions/titan-extend.php:142
+msgid "Sidebar Sidebox <span>customize your sidebox</span>"
+msgstr "Sidebar sideboks <span>tilpas din sidebox</span> "
+
+#: functions/titan-extend.php:145
+msgid "Disable sidebox"
+msgstr "Slå sideboks fra"
+
+#: functions/titan-extend.php:147
+msgid "Check this box to disable the sidebar sidebox."
+msgstr "Check af hvis du ønsker at slå sidebar sideboksen fra"
+
+#: functions/titan-extend.php:151
+msgid "Custom code"
+msgstr "Tilpasset kode"
+
+#: functions/titan-extend.php:153
+msgid "Check this box to use custom code for the sidebox."
+msgstr "Check af hvis du ønsket at bruge en tilpasset kode til sideboksen"
+
+#: functions/titan-extend.php:157
+msgid "Custom code content"
+msgstr "Indholdet af din tilpassede kode"
+
+#: functions/titan-extend.php:159
+msgid "Must use properly formatted XHTML/HTML."
+msgstr "Brug korrekt formateret XHTML/HTML."
+
+#: functions/titan-extend.php:165
+msgid "Sidebar Adbox <span>control ads in your sidebar</span>"
+msgstr "Sidebar reklameboks <span>kontrollér reklamer i sidebaren</span> "
+
+#: functions/titan-extend.php:168
+msgid "Enable adbox"
+msgstr "Aktivér reklameboks"
+
+#: functions/titan-extend.php:170
+msgid "Check this box to enable the sidebar adbox."
+msgstr "Check af hvis du ønsket at aktivere reklameboksen"
+
+#: functions/titan-extend.php:174
+msgid "Ad 1 file name"
+msgstr "1. reklames filnavn"
+
+#: functions/titan-extend.php:176
+#: functions/titan-extend.php:194
+msgid "Upload your image here: "
+msgstr "Upload billede her:"
+
+#: functions/titan-extend.php:180
+msgid "Ad 1 link"
+msgstr "1. reklames link"
+
+#: functions/titan-extend.php:182
+msgid "Link for the first ad"
+msgstr "Link til den første reklame"
+
+#: functions/titan-extend.php:186
+msgid "Ad 1 alt tag"
+msgstr "1. reklames alt tag"
+
+#: functions/titan-extend.php:188
+msgid "Alt tag for the first ad"
+msgstr "Alt tag til den første reklame"
+
+#: functions/titan-extend.php:192
+msgid "Ad 2 file name"
+msgstr "2. reklames filnavn"
+
+#: functions/titan-extend.php:198
+msgid "Ad 2 link"
+msgstr "2. reklames link"
+
+#: functions/titan-extend.php:200
+msgid "Link for the second ad"
+msgstr "Link til den anden reklame"
+
+#: functions/titan-extend.php:204
+msgid "Ad 2 alt tag"
+msgstr "2. reklames alt tig"
+
+#: functions/titan-extend.php:206
+msgid "Alt tag for the second ad"
+msgstr "Alt tag til den anden reklame"
+
+#: functions/titan-extend.php:210
+msgid "Footer <span>customize your footer</span>"
+msgstr "Footer <span>tilpas din footer</span> "
+
+#: functions/titan-extend.php:215
+msgid "Something about you or your business."
+msgstr "Noget om dig eller dit firma."
+
+#: functions/titan-extend.php:220
+msgid "Flickr link"
+msgstr "Flickr link"
+
+#: functions/titan-extend.php:222
+msgid "Create a <a href=\"http://www.flickr.com/badge_new.gne\">javascript Flickr badge</a>. At the end of the process extract the URL and paste here."
+msgstr "Lav en <a href=\"http://www.flickr.com/badge_new.gne\">javascript Flickr badge</a>. Til sidst i processen får du en URL du skal sætte ind her."
+
+#: functions/titan-extend.php:227
+msgid "Disable Flickr"
+msgstr "Slå Flickr fra"
+
+#: functions/titan-extend.php:229
+msgid "Check this box to disable Flickr and enable the footer widget instead."
+msgstr "Check af hvis du ønsker at slå Flickr fra og aktivere footer widget istedet."
+
+#: functions/titan-extend.php:233
+msgid "Copyright notice"
+msgstr "Copyright meddelelse"
+
+#: functions/titan-extend.php:235
+msgid "Your name or the name of your business."
+msgstr "Dit navn eller navnet på dit firma."
+
+#: functions/titan-extend.php:236
+msgid "Your Name Here"
+msgstr "Dit navn her"
+
+#: functions/titan-extend.php:239
+msgid "Stats code"
+msgstr "Statistik kode"
+
+#: functions/titan-extend.php:241
+msgid "If you use Google Analytics or need any other tracking script in your footer just copy and paste it here. The script will be inserted before the closing <code>&#60;/body&#62;</code> tag."
+msgstr "Hvis du bruger Google Analytics eller har brug for et andet tracking script i din footer skal du bare copy paste det her. Scriptet vil blive indsat før det sidste <code>&#60;/body&#62;</code> tag."
+

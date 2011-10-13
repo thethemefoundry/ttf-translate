@@ -1,0 +1,800 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Traction WordPress Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-07-19 13:18-0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Adam Klimowski <adamklimowski@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:8
+msgid "404: Page Not Found"
+msgstr "Błąd 404: strona nie została odnaleziona"
+
+#: 404.php:10
+msgid "We are terribly sorry, but the URL you typed no longer exists. It might have been moved or deleted, or perhaps you mistyped it. We suggest searching the site:"
+msgstr "Bardzo nam przykro, ale wpisany przez Ciebie adres nie istnieje. Strona prawdopodobnie zmieniła nazwę albo została skasowana. Skorzystaj z wyszukiwarki."
+
+#: archive.php:8
+#, php-format
+msgid "Posts from the\t&#8216;%s&#8217; Category"
+msgstr "Wpisy z kategorii '%s'"
+
+#: archive.php:10
+#, php-format
+msgid "Posts tagged &#8216;%s&#8217;"
+msgstr "Wpisy otagowane jako '%s'"
+
+#: archive.php:12
+#: archive.php:14
+#: archive.php:16
+msgid "Archive for"
+msgstr "Archiwa:"
+
+#: archive.php:12
+msgid "F jS, Y"
+msgstr "j F Y"
+
+#: archive.php:14
+msgid "F, Y"
+msgstr "F Y"
+
+#: archive.php:16
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:18
+#, php-format
+msgid "Posts by %s"
+msgstr "%s - wpisy"
+
+#: archive.php:20
+msgid "Blog Archives"
+msgstr "Archiwa bloga"
+
+#: archive.php:30
+#: index.php:17
+msgid "j"
+msgstr "j"
+
+#: archive.php:31
+#: index.php:18
+msgid "M"
+msgstr "M"
+
+#: archive.php:36
+#: index.php:23
+#: search.php:18
+msgid "Read more"
+msgstr "Czytaj dalej"
+
+#: archive.php:37
+#: index.php:24
+#: page.php:18
+#: search.php:19
+#: single.php:20
+msgid "Edit"
+msgstr "Edytuj"
+
+#: archive.php:44
+#: index.php:31
+#: search.php:26
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Starsze wpisy"
+
+#: archive.php:45
+#: index.php:32
+#: search.php:27
+msgid "Newer Entries &raquo;"
+msgstr "Nowsze wpisy &raquo;"
+
+#: comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Wpisz hasło, by zapoznać się z komentarzami."
+
+#: comments.php:16
+msgid "No Comments Yet"
+msgstr "Chwilowo brak komentarzy"
+
+#: comments.php:16
+msgid "1 Comment"
+msgstr "1 komentarz"
+
+#: comments.php:16
+msgid "% Comments"
+msgstr "Komentarze (%)"
+
+#: comments.php:18
+msgid "Post a comment"
+msgstr "Dodaj komentarz"
+
+#: comments.php:25
+msgid "Trackbacks &amp; Pingbacks"
+msgstr "Trackbacki &amp; Pingbacki"
+
+#: comments.php:31
+#: comments.php:36
+msgid "Comments are closed."
+msgstr "Komentowanie wyłączone."
+
+#: comments.php:47
+msgid "Share your thoughts, post a comment."
+msgstr "Powiedz nam, co myślisz - dodaj komentarz."
+
+#: comments.php:49
+msgid "You must be"
+msgstr " "
+
+#: comments.php:49
+msgid "logged in"
+msgstr "Zaloguj się"
+
+#: comments.php:49
+msgid "to post a comment."
+msgstr ", by móc dodawać komentarze."
+
+#: comments.php:54
+msgid "Logged in as"
+msgstr "Twój login:"
+
+#: comments.php:54
+msgid "Log out &raquo;"
+msgstr "Wyloguj się &raquo;"
+
+#: comments.php:57
+msgid "Name"
+msgstr "Nick"
+
+#: comments.php:59
+#: comments.php:64
+msgid "<span>(required)</span>"
+msgstr "<span>(potrzebny)</span>"
+
+#: comments.php:62
+msgid "Email"
+msgstr "E-mail"
+
+#: comments.php:67
+msgid "Website"
+msgstr "URL"
+
+#: comments.php:72
+msgid "Comment"
+msgstr "Komentarz"
+
+#: comments.php:76
+msgid "<strong>Note:</strong> HTML is allowed. Your email address will <strong>never</strong> be published."
+msgstr "<strong>Uwaga:</strong> możesz używać HTML-a. Twój e-mail <strong>nigdy</strong> nie dostanie się w ręce osób trzecich."
+
+#: comments.php:77
+msgid "Subscribe to comments"
+msgstr "Subskrypcja komentarzy"
+
+#: comments.php:80
+msgid "Submit Comment"
+msgstr "Wyślij"
+
+#: featured.php:19
+msgid "Featured Articles"
+msgstr "Wyróżnione artykuły"
+
+#: footer.php:12
+msgid "Categories"
+msgstr "Kategorie"
+
+#: footer.php:20
+msgid "About"
+msgstr "O nas"
+
+#: footer.php:24
+msgid "Did you know you can write your own about section just like this one? It's really easy. Head into the the <em>Traction Options</em> menu and check out the footer section. Type some stuff in the box, click save, and your new about section shows up in the footer."
+msgstr "Wiedziałeś, że możesz sam napisać tekst w rodzaju tego? To proste: wejdź w ustawienia tego szablonu i zmień tekst w sekcji poświęconej stopce."
+
+#: footer.php:33
+msgid "Pages"
+msgstr "Strony"
+
+#: footer.php:45
+msgid "Search"
+msgstr "Szukaj"
+
+#: footer.php:54
+msgid "Copyright"
+msgstr "Copyright"
+
+#: functions.php:34
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:43
+msgid "Footer Left"
+msgstr "Lewa stopka"
+
+#: functions.php:52
+msgid "Footer Center"
+msgstr "Środkowa stopka"
+
+#: functions.php:61
+msgid "Footer Right"
+msgstr "Prawa stopka"
+
+#: header.php:9
+msgid "Page Not Found |"
+msgstr "Nie znaleziono strony |"
+
+#: header.php:11
+#: search.php:7
+#, php-format
+msgid "Search results for '%s'"
+msgstr "Wyniki wyszukiwania frazy '%s'"
+
+#: header.php:68
+msgid "Skip to content"
+msgstr "Skocz do zawartości"
+
+#: header.php:73
+msgid "Home"
+msgstr "Strona główna"
+
+#: index.php:7
+#: sidebar.php:41
+msgid "Recent Articles"
+msgstr "Ostatnie wpisy"
+
+#: search.php:32
+#, php-format
+msgid "Sorry your search for \"%s\" did not turn up any results. Please try again."
+msgstr "Niestety, wyszukiwanie frazy \"%s\" zakończyło się niepowodzeniem."
+
+#: sidebar.php:20
+msgid "Sign up for our free newsletter"
+msgstr "Zapisz się, by otrzymywać nasz darmowy newsletter"
+
+#: sidebar.php:23
+msgid "Email address"
+msgstr "Adres e-mail"
+
+#: sidebar.php:24
+msgid "Go"
+msgstr "OK"
+
+#: sidebar.php:31
+#: subscribe.php:17
+msgid "Twitter"
+msgstr "Twitter"
+
+#: sidebar.php:49
+msgid "Archives"
+msgstr "Archiwa"
+
+#: single.php:5
+msgid "F j, Y"
+msgstr "j F Y"
+
+#: single.php:24
+msgid "<em>Read more from</em>"
+msgstr "<em>Inne wpisy z kategorii</em>"
+
+#: subscribe.php:3
+msgid "Subscribe"
+msgstr "Subskrypcja"
+
+#: subscribe.php:7
+msgid "Facebook"
+msgstr "Facebook"
+
+#: subscribe.php:12
+msgid "Flickr"
+msgstr "Flickr"
+
+#: subscribe.php:21
+msgid "RSS Feed"
+msgstr "Kanał RSS"
+
+#: functions/comments.php:31
+msgid "<em><strong>Please Note:</strong> Your comment is awaiting moderation.</em>"
+msgstr "<em><strong>Uwaga:</strong> Twój komentarz czeka na zaakceptowanie.</em>"
+
+#: functions/traction-admin.php:37
+msgid "The <code>/wp-content/uploads</code> folder is not writable. Try changing the permissions. <a href=\"http://codex.wordpress.org/Changing_File_Permissions\">Learn how to change permissions &rarr;</a>"
+msgstr "Katalog <code>/wp-content/uploads</code> nie ma nadanych odpowiednich uprawnień. Dowiedz się, jak to zmienić, na stronie <a href=\"http://codex.wordpress.org/Changing_File_Permissions\">WordPressa &rarr;</a>"
+
+#: functions/traction-admin.php:51
+msgid "There was an error uploading the file. Please try again."
+msgstr "W czasie ładowania pliku wystąpił błąd. Spróbuj ponownie."
+
+#: functions/traction-admin.php:71
+msgid "There was an error, please remove the logo and try again."
+msgstr "Wystąpił błąd. Proszę usunąć logo, a następnie spróbować ponownie."
+
+#: functions/traction-admin.php:116
+msgid " settings saved!"
+msgstr " - ustawienia zapisane!"
+
+#: functions/traction-admin.php:117
+msgid " settings reset."
+msgstr " - ustawienia zresetowane."
+
+#: functions/traction-admin.php:121
+msgid "Options"
+msgstr "Opcje"
+
+#: functions/traction-admin.php:122
+msgid "Need help?"
+msgstr "Potrzebna pomoc?"
+
+#: functions/traction-admin.php:122
+msgid "Read the tutorials"
+msgstr "Przeczytaj poradniki"
+
+#: functions/traction-admin.php:122
+msgid "or visit the <a href=\"http://thethemefoundry.com/forums/\">support forums.</a>"
+msgstr "albo odwiedź <a href=\"http://thethemefoundry.com/forums/\">forum</a>."
+
+#: functions/traction-admin.php:134
+#: functions/traction-admin.php:260
+msgid "Save changes"
+msgstr "Zapisz zmiany"
+
+#: functions/traction-admin.php:186
+msgid "Choose your image"
+msgstr "Wybierz obraz"
+
+#: functions/traction-admin.php:191
+msgid "Remove"
+msgstr "Usuń"
+
+#: functions/traction-admin.php:194
+msgid "Preview logo"
+msgstr "Podgląd logo"
+
+#: functions/traction-admin.php:195
+msgid "Cannot locate your logo image, it may have been moved or renamed. Please remove and try uploading again."
+msgstr "Nie można odnaleźć pliku logo - został usunięty lub przeniesiony. Usuń go i załaduj raz jeszcze."
+
+#: functions/traction-admin.php:216
+msgid "show color picker"
+msgstr "pokaż pipetę"
+
+#: functions/traction-admin.php:216
+msgid "hide color picker"
+msgstr "schowaj pipetę"
+
+#: functions/traction-admin.php:265
+msgid "Save all changes"
+msgstr "Zapisz wszystkie zmiany"
+
+#: functions/traction-admin.php:271
+msgid "Reset all options"
+msgstr "Reset"
+
+#: functions/traction-extend.php:30
+msgid "Custom Logo Image <span>insert your custom logo image in the header</span>"
+msgstr "Własne logo <span>wstaw swoje logo do nagłówka strony</span>"
+
+#: functions/traction-extend.php:34
+msgid "Enable custom logo image"
+msgstr "Włącz własne logo"
+
+#: functions/traction-extend.php:36
+msgid "Check to use a custom logo in the header."
+msgstr "Zaznacz, by w nagłówku pojawiło się wskazane przez Ciebie logo."
+
+#: functions/traction-extend.php:41
+msgid "Prefer FTP? Specify a file name."
+msgstr "Wolisz FTP? Podaj nazwę pliku."
+
+#: functions/traction-extend.php:43
+#, php-format
+msgid "Choose an image from your computer or specify any image file name you have uploaded to the %s directory."
+msgstr "Wybierz plik na Twoim komputerze albo wskaż plik, wgrany do katalogu %s na Twoim serwerze."
+
+#: functions/traction-extend.php:50
+msgid "Logo image <code>&lt;alt&gt;</code> tag"
+msgstr "Tekst alternatywny"
+
+#: functions/traction-extend.php:52
+msgid "Specify the <code>&lt;alt&gt;</code> tag for your logo image."
+msgstr "Wpisz tekst alternatywny - będzie wyświetlany w razie problemów z załadowaniem logo"
+
+#: functions/traction-extend.php:57
+msgid "Display tagline"
+msgstr "Opis strony"
+
+#: functions/traction-extend.php:59
+msgid "Check to show your tagline below your logo."
+msgstr "Zaznacz, by wyświetlać opis strony poniżej logo."
+
+#: functions/traction-extend.php:64
+msgid "Featured Slider <span>take control of your featured slider.</span>"
+msgstr "Pokaz slajdów <span>przejmij kontrolę nad pokazem slajdów.</span>"
+
+#: functions/traction-extend.php:68
+msgid "Enable featured slider"
+msgstr "Włącz pokaz slajdów"
+
+#: functions/traction-extend.php:70
+msgid "Check to turn on your featured slider."
+msgstr "Zaznacz, by włączyć pokaz slajdów."
+
+#: functions/traction-extend.php:75
+msgid "Autostart"
+msgstr "Autostart"
+
+#: functions/traction-extend.php:77
+msgid "Check to start your featured slider automatically."
+msgstr "Zaznacz, by pokaz slajdów rozpoczął się automatycznie."
+
+#: functions/traction-extend.php:82
+msgid "Autostart delay"
+msgstr "Opóźnienie autostartu"
+
+#: functions/traction-extend.php:84
+msgid "Delay before the autostart and the delay between slides in milliseconds (1000 = 1 second)."
+msgstr "Opóźnienie autostartu oraz odstęp między slajdami (w milisekundach - 1000 ms to sekunda)."
+
+#: functions/traction-extend.php:89
+msgid "Slide animation speed"
+msgstr "Prędkość animacji"
+
+#: functions/traction-extend.php:91
+msgid "Speed of the sliding animation in milliseconds (1000 = 1 second)."
+msgstr "Prędkość animacji w milisekundach (1000 ms to sekunda)."
+
+#: functions/traction-extend.php:96
+msgid "Fade speed"
+msgstr "Prędkość przechodzenia"
+
+#: functions/traction-extend.php:98
+msgid "Speed of the fading animation in milliseconds (1000 = 1 second)."
+msgstr "Prędkość przejścia między slajdami w milisekundach (1000 ms to sekunda)."
+
+#: functions/traction-extend.php:103
+msgid "Color Scheme <span>choose your color scheme</span>"
+msgstr "Schemat kolorystyczny <span>wybierz swój schemat kolorystyczny</span>"
+
+#: functions/traction-extend.php:107
+msgid "Color scheme"
+msgstr "Schemat kolorystyczny"
+
+#: functions/traction-extend.php:108
+msgid "Choose your color scheme."
+msgstr "Wybierz swój schemat kolorystyczny"
+
+#: functions/traction-extend.php:113
+msgid "Default (blue)"
+msgstr "Domyślny (niebieski)"
+
+#: functions/traction-extend.php:114
+msgid "Red"
+msgstr "Czerwony"
+
+#: functions/traction-extend.php:115
+msgid "Green"
+msgstr "Zielony"
+
+#: functions/traction-extend.php:118
+msgid "Navigation <span>control your top navigation menu</span>"
+msgstr "Nawigacja <span>górne menu</span>"
+
+#: functions/traction-extend.php:122
+msgid "Use WordPress menus"
+msgstr "Menu WordPressa"
+
+#: functions/traction-extend.php:124
+msgid "Check this box to use the built in WordPress menus (overrides all other navigation options). This option <strong>requires WordPress 3.0 or higher</strong>."
+msgstr "Zaznacz tę opcję, by korzystać z wbudowanego w WordPressa mechanizmu budowy menu. Do poprawnego działania wymagane jest posiadanie WordPressa w wersji minimum 3.0."
+
+#: functions/traction-extend.php:129
+msgid "Hide all pages"
+msgstr "Ukrycie stron"
+
+#: functions/traction-extend.php:131
+msgid "Check this box to hide all pages."
+msgstr "Zaznacz, by ukryć wszystkie strony."
+
+#: functions/traction-extend.php:136
+msgid "Exclude specific pages"
+msgstr "Wyłączenie stron z menu"
+
+#: functions/traction-extend.php:138
+msgid "The page ID of pages you do not want displayed in your navigation menu. Use a comma-delimited list, eg. 1,2,3."
+msgstr "Podaj numery ID tych stron, które nie powinny znaleźć się w górnym menu. Poszczególne numery oddzielaj przecinkami."
+
+#: functions/traction-extend.php:143
+msgid "Hide all categories"
+msgstr "Ukrycie kategorii"
+
+#: functions/traction-extend.php:145
+msgid "Check this box to hide all categories."
+msgstr "Zaznacz, by ukryć wszystkie kategorie."
+
+#: functions/traction-extend.php:150
+msgid "Exclude specific categories"
+msgstr "Wyłączenie kategorii z menu"
+
+#: functions/traction-extend.php:152
+msgid "The category ID of pages you do not want displayed in your navigation menu. Use a comma-delimited list, eg. 1,2,3."
+msgstr "Podaj numery ID tych kategorii, które nie powinny znaleźć się w górnym menu. Poszczególne numery oddzielaj przecinkami."
+
+#: functions/traction-extend.php:157
+msgid "Hide home navigation menu item"
+msgstr "Ukryj link 'Strona główna'"
+
+#: functions/traction-extend.php:159
+msgid "Check this box if you are using a static page as your homepage instead of your blog (the default). The extra <em>Home</em> menu item will be removed."
+msgstr "Zaznacz, jeśli Twoją stroną główną jest strona statyczna. Dodatkowy link 'Strona główna' zniknie z menu."
+
+#: functions/traction-extend.php:164
+msgid "Advertising <span>fill in your ad spots</span>"
+msgstr "Reklama <span>wykorzystaj puste przestrzenie</span>"
+
+#: functions/traction-extend.php:168
+msgid "Enable top banner ad"
+msgstr "Banner w nagłówku"
+
+#: functions/traction-extend.php:170
+msgid "Check this box to enable the top banner."
+msgstr "Zaznacz, by wyświetlić w nagłówku strony banner"
+
+#: functions/traction-extend.php:175
+msgid "Top banner ad file name"
+msgstr "Nazwa bannera"
+
+#: functions/traction-extend.php:177
+#: functions/traction-extend.php:205
+#: functions/traction-extend.php:226
+#, php-format
+msgid "Upload your image to the %s directory."
+msgstr "Załaduj obraz do katalogu %s."
+
+#: functions/traction-extend.php:182
+msgid "Top banner ad link"
+msgstr "Link"
+
+#: functions/traction-extend.php:184
+msgid "Link for the top banner ad"
+msgstr "Link, do którego będzie wiódł banner"
+
+#: functions/traction-extend.php:189
+msgid "Top banner alt tag"
+msgstr "Tekst alternatywny"
+
+#: functions/traction-extend.php:191
+msgid "Alt tag for the top banner ad"
+msgstr "Tekst alternatywny dla bannera w nagłówku"
+
+#: functions/traction-extend.php:196
+msgid "Enable sidebar adbox"
+msgstr "Reklamy w sidebarze"
+
+#: functions/traction-extend.php:198
+msgid "Check this box to enable the sidebar adbox."
+msgstr "Zaznacz, by umożliwić zamieszczanie reklam w sidebarze."
+
+#: functions/traction-extend.php:203
+msgid "Ad 1 file name"
+msgstr "Reklama 1 - nazwa pliku"
+
+#: functions/traction-extend.php:210
+msgid "Ad 1 link"
+msgstr "Reklama 1 - link"
+
+#: functions/traction-extend.php:212
+msgid "Link for the first ad"
+msgstr "Link, do którego prowadzi reklama nr 1"
+
+#: functions/traction-extend.php:217
+msgid "Ad 1 alt tag"
+msgstr "Reklama 1 - tekst alternatywny"
+
+#: functions/traction-extend.php:219
+msgid "Alt tag for the first ad"
+msgstr "Tekst alternatywny dla pierwszej reklamy"
+
+#: functions/traction-extend.php:224
+msgid "Ad 2 file name"
+msgstr "Reklama 2 - nazwa pliku"
+
+#: functions/traction-extend.php:231
+msgid "Ad 2 link"
+msgstr "Reklama 2 - link"
+
+#: functions/traction-extend.php:233
+msgid "Link for the second ad"
+msgstr "Link, do którego prowadzi reklama nr 2"
+
+#: functions/traction-extend.php:238
+msgid "Ad 2 alt tag"
+msgstr "Reklama 2 - tekst alternatywny"
+
+#: functions/traction-extend.php:240
+msgid "Alt tag for the second ad"
+msgstr "Tekst alternatywny dla drugiej reklamy"
+
+#: functions/traction-extend.php:245
+msgid "Subscribe Links <span>control the subscribe links</span>"
+msgstr "Subskrypcja <span>bądź w kontakcie z gośćmi</span>"
+
+#: functions/traction-extend.php:249
+msgid "Enable Twitter"
+msgstr "Twitter"
+
+#: functions/traction-extend.php:251
+msgid "Hip to Twitter? Check this box. Please set your Twitter username in the Twitter menu."
+msgstr "Jesteś na Twitterze? Zaznacz to pole, a potem przejdź do menu poniżej."
+
+#: functions/traction-extend.php:256
+msgid "Enable Facebook"
+msgstr "Facebook"
+
+#: functions/traction-extend.php:258
+msgid "Check this box to show a link to your Facebook page."
+msgstr "Zaznacz, by wyświetlać link do Twojej strony lub profilu na Facebooku."
+
+#: functions/traction-extend.php:263
+msgid "Enable Flickr"
+msgstr "Flickr"
+
+#: functions/traction-extend.php:265
+msgid "Check this box to show a link to Flickr."
+msgstr "Zaznacz, by wyświetlać link do Twojego profilu w serwisie Flickr."
+
+#: functions/traction-extend.php:270
+msgid "Disable all"
+msgstr "Wyłącz wszystko"
+
+#: functions/traction-extend.php:272
+msgid "Check this box to hide all follow icons (including RSS). This option overrides any other settings."
+msgstr "Zaznacz, by ukryć wszystkie ikonki społecznościowe (łącznie z RSS-em). Ta opcja przewyższa mocą inne ustawienia."
+
+#: functions/traction-extend.php:277
+msgid "Facebook link"
+msgstr "Link do Facebooka"
+
+#: functions/traction-extend.php:279
+msgid "Enter your Facebook link."
+msgstr "Podaj adres."
+
+#: functions/traction-extend.php:284
+msgid "Flickr link"
+msgstr "Link do Flickra"
+
+#: functions/traction-extend.php:286
+msgid "Enter your Flickr link."
+msgstr "Podaj adres."
+
+#: functions/traction-extend.php:291
+msgid "Sidebar <span>customize your sidebar</span>"
+msgstr "Sidebar <span>dostosuj boczne menu</span>"
+
+#: functions/traction-extend.php:295
+msgid "Disable sidebox"
+msgstr "Wyłącz sidebox"
+
+#: functions/traction-extend.php:297
+msgid "Check this box to disable the sidebar sidebox."
+msgstr "Zaznacz, by wyłączyć sidebox."
+
+#: functions/traction-extend.php:302
+msgid "Custom code"
+msgstr "Własny kod"
+
+#: functions/traction-extend.php:304
+msgid "Check this box to use custom code for the sidebox."
+msgstr "Zaznacz, by zastąpić zawartość sideboxa czymś innym."
+
+#: functions/traction-extend.php:309
+msgid "Custom code content"
+msgstr "Kod"
+
+#: functions/traction-extend.php:311
+msgid "Must use properly formatted XHTML/HTML."
+msgstr "Dozwolone użycie znaczników XHTML/HTML"
+
+#: functions/traction-extend.php:319
+msgid "Enable newsletter"
+msgstr "Newsletter"
+
+#: functions/traction-extend.php:321
+msgid "The newsletter sign-up uses Feedburner by default."
+msgstr "Jako domyślny mechanizm używany jest usługa serwisu Feedburner."
+
+#: functions/traction-extend.php:326
+msgid "Feed Title"
+msgstr "Tytuł"
+
+#: functions/traction-extend.php:328
+msgid "Title displayed inside the newsletter signup box"
+msgstr "Tytuł wyświetlany nad formularzem zapisu."
+
+#: functions/traction-extend.php:333
+msgid "Feedburner feed name"
+msgstr "Nazwa kanału RSS w serwisie Feedburner"
+
+#: functions/traction-extend.php:335
+msgid "Click the <em>Edit Feed Details</em> link inside FeedBurner"
+msgstr "Kliknij <em>Edit Feed Details</em> w ustawieniach konta FeedBurner"
+
+#: functions/traction-extend.php:340
+msgid "Twitter <span>show your latest tweets in the sidebar</span>"
+msgstr "Twitter <span>Twoja twórczość w sidebarze</span>"
+
+#: functions/traction-extend.php:344
+msgid "Twitter sidebar updates"
+msgstr "Twitter w sidebarze"
+
+#: functions/traction-extend.php:346
+msgid "Check this box to show your latest tweets in the sidebar."
+msgstr "Zaznacz, by pokazywać ostatnie wiadomości z Twittera w sidebarze."
+
+#: functions/traction-extend.php:351
+msgid "Twitter name"
+msgstr "Nick na Twitterze"
+
+#: functions/traction-extend.php:353
+msgid "Enter your twitter name here."
+msgstr "Podaj swoją nazwę użytkownika."
+
+#: functions/traction-extend.php:358
+msgid "Number of updates"
+msgstr "Liczba aktualizacji"
+
+#: functions/traction-extend.php:360
+msgid "The number of tweets to show in the sidebar."
+msgstr "Liczba tweetów do opublikowania w sidebarze."
+
+#: functions/traction-extend.php:365
+msgid "Footer <span>customize your footer</span>"
+msgstr "Stopka <span>dostosuj stopkę</span>"
+
+#: functions/traction-extend.php:371
+msgid "Something about you or your business."
+msgstr "Coś o Tobie albo Twojej firmie."
+
+#: functions/traction-extend.php:379
+msgid "Disable About"
+msgstr "Wyłącz sekcję 'O mnie'"
+
+#: functions/traction-extend.php:381
+msgid "Check this box to disable the About section and enable the footer widget instead."
+msgstr "Zaznacz, by zamiast tekstu w stopce znalazło się miejsce na widget."
+
+#: functions/traction-extend.php:386
+msgid "Copyright notice"
+msgstr "Notka o prawach autorskich"
+
+#: functions/traction-extend.php:388
+msgid "Your name or the name of your business."
+msgstr "Twoje nazwisko lub nazwa firmy."
+
+#: functions/traction-extend.php:389
+msgid "Your Name Here"
+msgstr "Twoja nazwa"
+
+#: functions/traction-extend.php:393
+msgid "Stats code"
+msgstr "Kod statystyk"
+
+#: functions/traction-extend.php:395
+msgid "If you use Google Analytics or need any other tracking script in your footer just copy and paste it here. The script will be inserted before the closing <code>&#60;/body&#62;</code> tag."
+msgstr "Jeśli używasz Google Analytics albo innego serwisu do statystyk, możesz wkleić odpowiedni kod do stopki - w to miejsce."
+
+#: functions/traction-extend.php:488
+msgid "Top Navigation"
+msgstr "Górne menu"
+
+#: functions/traction-extend.php:489
+msgid "Header Navigation"
+msgstr "Nawigacja w nagłówku strony"
+

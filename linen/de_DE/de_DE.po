@@ -1,0 +1,653 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Linen WordPress Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-09 09:48-0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Thomas Borowski <mail@thomasborowski.de>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:2
+msgid "404: Page Not Found"
+msgstr "404: Seite nicht gefunden"
+
+#: 404.php:4
+msgid "We are terribly sorry, but the URL you typed no longer exists. It might have been moved or deleted, or perhaps you mistyped it. We suggest searching the site:"
+msgstr "Leider existiert die eingegebene Adresse nicht (mehr). Sie wurde ggf. verschoben oder gelöscht, oder Sie haben sich verschrieben. Probieren Sie doch mal die Suche:"
+
+#: archive.php:5
+#, php-format
+msgid "Posts from the  &#8216;%s&#8217; Category"
+msgstr "Artikel aus der Kategorie  &#8216;%s&#8217;"
+
+#: archive.php:7
+#, php-format
+msgid "Posts tagged &#8216;%s&#8217;"
+msgstr "Artikel mit den Schlagwörtern &#8216;%s&#8217;"
+
+#: archive.php:9
+#: archive.php:11
+#: archive.php:13
+#, php-format
+msgid "Archive for %s"
+msgstr "Archiv für %s"
+
+#: archive.php:15
+#, php-format
+msgid "Posts by %s"
+msgstr "Artikel nach %s"
+
+#: archive.php:17
+msgid "Blog Archives"
+msgstr "Archiv"
+
+#: archive.php:24
+#: index.php:8
+#: search.php:8
+msgid "M j"
+msgstr "j. M Y"
+
+#: archive.php:28
+#: index.php:14
+#: search.php:12
+msgid "1 Comment"
+msgstr "1 Kommentar"
+
+#: archive.php:33
+#: index.php:19
+#: search.php:17
+#, php-format
+msgid "Permanent Link to %s"
+msgstr "Permanenter Link zu %s"
+
+#: archive.php:35
+#: index.php:21
+#: search.php:19
+msgid "Read more"
+msgstr "Weiterlesen"
+
+#: archive.php:36
+#: search.php:20
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: archive.php:44
+#: search.php:28
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Ältere Artikel"
+
+#: archive.php:45
+#: search.php:29
+msgid "Newer Entries &raquo;"
+msgstr "Neuere Artikel &raquo;"
+
+#: comments.php:2
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Dieser Artikel ist durch ein Passwort geschützt. Geben Sie das Passwort ein, um Kommentare zu sehen."
+
+#: comments.php:9
+msgid "No Comments"
+msgstr "Keine Kommentare"
+
+#: comments.php:9
+msgid "One Comment"
+msgstr "Ein Kommentar"
+
+#: comments.php:9
+msgid "% Comments"
+msgstr "% Kommentare"
+
+#: comments.php:11
+msgid "Post a comment"
+msgstr "Einen Kommentar schreiben"
+
+#: comments.php:19
+msgid "&laquo; Older Comments"
+msgstr "&laquo; Ältere Kommentare"
+
+#: comments.php:20
+msgid "Newer Comments &raquo;"
+msgstr "Neuere Kommentare &raquo;"
+
+#: comments.php:23
+msgid "Trackbacks &amp; Pingbacks"
+msgstr "Trackbacks &amp; Pingbacks"
+
+#: comments.php:29
+msgid "&laquo; Older Pingbacks"
+msgstr "&laquo; Ältere Pingbacks"
+
+#: comments.php:30
+msgid "Newer Pingbacks &raquo;"
+msgstr "Neuere Pingbacks &raquo;"
+
+#: comments.php:34
+#: comments.php:43
+msgid "Comments are closed."
+msgstr "Weitere Kommentare sind gesperrt."
+
+#: comments.php:41
+msgid "No comments yet"
+msgstr "Noch keine Kommentare"
+
+#: comments.php:59
+msgid "Subscribe to this comment feed via RSS"
+msgstr "Abonnieren Sie Kommentare via RSS"
+
+#: comments.php:60
+msgid "You may use basic HTML in your comments. Your email address will not be published."
+msgstr "Sie können einfaches HTML in Ihren Kommentaren verwenden. Ihre E-Mail-Adresse wird nicht veröffentlicht."
+
+#: comments.php:68
+msgid "Name <span>(required)</span>:"
+msgstr "Name <span>(erfoderlich)</span>:"
+
+#: comments.php:69
+msgid "Name:"
+msgstr "Name:"
+
+#: comments.php:79
+msgid "Email <span>(required)</span>:"
+msgstr "E-Mail <span>(erforderlich)</span>:"
+
+#: comments.php:80
+msgid "Email:"
+msgstr "E-Mail:"
+
+#: comments.php:88
+msgid "Website:"
+msgstr "Website:"
+
+#: comments.php:93
+msgid "Submit Comment"
+msgstr "Kommentar abschicken"
+
+#: comments.php:94
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out &raquo;</a>"
+msgstr "Eingeloggt als <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Ausloggen\">Ausloggen &raquo;</a>"
+
+#: comments.php:95
+msgid "Leave a Reply"
+msgstr "Antworten"
+
+#: comments.php:96
+#, php-format
+msgid "Leave a comment to %s"
+msgstr "Einen Kommentar für %s hinterlassen"
+
+#: footer.php:7
+msgid "About Us"
+msgstr "Über"
+
+#: footer.php:8
+msgid "Did you know you can write your own about section just like this one? It's really easy. Navigate to <code>Appearance &rarr; Widgets</code> and create a new Text Widget. Now move it to the Footer 1 sidebar."
+msgstr "Did you know you can write your own about section just like this one? It's really easy. Navigate to <code>Appearance &rarr; Widgets</code> and create a new Text Widget. Now move it to the Footer 1 sidebar."
+
+#: footer.php:14
+#: tm-sitemap.php:9
+msgid "Pages"
+msgstr "Seiten"
+
+#: footer.php:22
+#: tm-sitemap.php:13
+msgid "Categories"
+msgstr "Kategorien"
+
+#: footer.php:39
+#, php-format
+msgid "<a href=\"%1$s\">Linen Theme</a> by <a href=\"%2$s\">The Theme Foundry</a>"
+msgstr "<a href=\"%1$s\">Linen Theme</a> by <a href=\"%2$s\">The Theme Foundry</a>"
+
+#: footer.php:47
+#, php-format
+msgid "Copyright &copy; %1$s %2$s. All rights reserved."
+msgstr "Copyright &copy; %1$s %2$s. Alle Rechte vorbehalten."
+
+#: header.php:8
+msgid "Page Not Found |"
+msgstr "Seite nicht gefunden |"
+
+#: header.php:10
+#: search.php:3
+#: search.php:33
+#, php-format
+msgid "Search results for '%s'"
+msgstr "Suchergebnisse für '%s'"
+
+#: header.php:19
+#, php-format
+msgid "Design is copyright %1$s The Theme Foundry"
+msgstr "Design copyright %1$s The Theme Foundry"
+
+#: header.php:32
+msgid "Skip to content"
+msgstr "Zum Inhalt springen"
+
+#: index.php:22
+#: page.php:7
+#: single.php:14
+#: tm-left-sidebar.php:12
+#: tm-no-sidebar.php:12
+msgid "Edit this"
+msgstr "Bearbeiten"
+
+#: index.php:29
+msgid "&larr; Older Entries"
+msgstr "&larr; Ältere Einträge"
+
+#: index.php:30
+msgid "Newer Entries &rarr;"
+msgstr "Neuere Einträge &rarr;"
+
+#: search.php:35
+#, php-format
+msgid "Sorry your search for \"%s\" did not turn up any results. Please try again."
+msgstr "Ihre Suche nach \"%s\" erzielte leider keine Ergebnisse."
+
+#: searchform.php:1
+#: searchform.php:5
+msgid "Search"
+msgstr "Suchen"
+
+#: sidebar.php:10
+msgid "Recent Articles"
+msgstr "Letzte Artikel"
+
+#: single.php:7
+#, php-format
+msgid "by %s on"
+msgstr "von %s am"
+
+#: single.php:22
+#, php-format
+msgid "From: %s"
+msgstr "Von: %s"
+
+#: tm-archives.php:9
+msgid "Archives"
+msgstr "Archiv"
+
+#: tm-archives.php:11
+msgid "Recent Posts"
+msgstr "Neueste Artikel"
+
+#: tm-archives.php:24
+#: tm-sitemap.php:17
+msgid "Monthly Archives"
+msgstr "Monats-Archiv"
+
+#: tm-sitemap.php:7
+msgid "Sitemap"
+msgstr "Sitemap"
+
+#: tmpart-subscribe.php:4
+msgid "Subscribe"
+msgstr "Abonnieren"
+
+#: tmpart-subscribe.php:8
+msgid "Facebook"
+msgstr "Facebook"
+
+#: tmpart-subscribe.php:13
+msgid "Flickr"
+msgstr "Flickr"
+
+#: tmpart-subscribe.php:18
+msgid "Twitter"
+msgstr "Twitter"
+
+#: tmpart-subscribe.php:22
+msgid "RSS Feed"
+msgstr "RSS-Feed"
+
+#: functions/comments.php:16
+msgid "<em><strong>Please Note:</strong> Your comment is awaiting moderation.</em>"
+msgstr "<em><strong>Bitte beachten:</strong> Ihre Kommentar muss noch vom Administrator freigegeben werden.</em>"
+
+#: functions/linen-extend.php:238
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions/linen-extend.php:246
+msgid "Footer 1"
+msgstr "Footer 1"
+
+#: functions/linen-extend.php:254
+msgid "Footer 2"
+msgstr "Footer 2"
+
+#: functions/linen-extend.php:262
+msgid "Footer 3"
+msgstr "Footer 3"
+
+#: functions/linen-extend.php:270
+msgid "Footer 4"
+msgstr "Footer 4"
+
+#: functions/linen-extend.php:299
+msgid "Top Navigation"
+msgstr "Top Navigation"
+
+#: functions/linen-extend.php:320
+msgid "Custom Logo Image <span>insert your custom logo image in the header</span>"
+msgstr "Custom Logo Image <span>insert your custom logo image in the header</span>"
+
+#: functions/linen-extend.php:324
+msgid "Enable custom logo image"
+msgstr "Enable custom logo image"
+
+#: functions/linen-extend.php:326
+msgid "Check to use a custom logo in the header."
+msgstr "Check to use a custom logo in the header."
+
+#: functions/linen-extend.php:331
+msgid "Prefer FTP? Specify a file name."
+msgstr "Prefer FTP? Specify a file name."
+
+#: functions/linen-extend.php:333
+#, php-format
+msgid "Choose an image from your computer or specify any image file name you have uploaded to the %s directory."
+msgstr "Choose an image from your computer or specify any image file name you have uploaded to the %s directory."
+
+#: functions/linen-extend.php:340
+msgid "Logo image <code>&lt;alt&gt;</code> tag"
+msgstr "Logo image <code>&lt;alt&gt;</code> tag"
+
+#: functions/linen-extend.php:342
+msgid "Specify the <code>&lt;alt&gt;</code> tag for your logo image."
+msgstr "Specify the <code>&lt;alt&gt;</code> tag for your logo image."
+
+#: functions/linen-extend.php:347
+msgid "Display tagline"
+msgstr "Display tagline"
+
+#: functions/linen-extend.php:349
+msgid "Check to show your tagline below your logo."
+msgstr "Check to show your tagline below your logo."
+
+#: functions/linen-extend.php:354
+msgid "Featured Slider <span>take control of your featured slider.</span>"
+msgstr "Featured Slider <span>take control of your featured slider.</span>"
+
+#: functions/linen-extend.php:358
+msgid "Enable featured slider"
+msgstr "Enable featured slider"
+
+#: functions/linen-extend.php:360
+msgid "Check to turn on your featured slider."
+msgstr "Check to turn on your featured slider."
+
+#: functions/linen-extend.php:365
+msgid "Autostart"
+msgstr "Autostart"
+
+#: functions/linen-extend.php:367
+msgid "Check to start your featured slider automatically."
+msgstr "Check to start your featured slider automatically."
+
+#: functions/linen-extend.php:372
+msgid "Autostart delay"
+msgstr "Autostart delay"
+
+#: functions/linen-extend.php:374
+msgid "Delay before the autostart and the delay between slides in milliseconds (1000 = 1 second)."
+msgstr "Delay before the autostart and the delay between slides in milliseconds (1000 = 1 second)."
+
+#: functions/linen-extend.php:379
+msgid "Slide animation speed"
+msgstr "Slide animation speed"
+
+#: functions/linen-extend.php:381
+msgid "Speed of the sliding animation in milliseconds (1000 = 1 second)."
+msgstr "Speed of the sliding animation in milliseconds (1000 = 1 second)."
+
+#: functions/linen-extend.php:386
+msgid "Subscribe Links <span>control the subscribe links</span>"
+msgstr "Subscribe Links <span>control the subscribe links</span>"
+
+#: functions/linen-extend.php:390
+msgid "Enable Twitter"
+msgstr "Enable Twitter"
+
+#: functions/linen-extend.php:392
+msgid "Hip to Twitter? Check this box. Please set your Twitter username in the Twitter menu."
+msgstr "Hip to Twitter? Check this box. Please set your Twitter username in the Twitter menu."
+
+#: functions/linen-extend.php:397
+msgid "Enable Facebook"
+msgstr "Enable Facebook"
+
+#: functions/linen-extend.php:399
+msgid "Check this box to show a link to your Facebook page."
+msgstr "Check this box to show a link to your Facebook page."
+
+#: functions/linen-extend.php:404
+msgid "Enable Flickr"
+msgstr "Enable Flickr"
+
+#: functions/linen-extend.php:406
+msgid "Check this box to show a link to Flickr."
+msgstr "Check this box to show a link to Flickr."
+
+#: functions/linen-extend.php:411
+msgid "Disable all"
+msgstr "Disable all"
+
+#: functions/linen-extend.php:413
+msgid "Check this box to hide all follow icons (including RSS). This option overrides any other settings."
+msgstr "Check this box to hide all follow icons (including RSS). This option overrides any other settings."
+
+#: functions/linen-extend.php:418
+msgid "Twitter name"
+msgstr "Twitter name"
+
+#: functions/linen-extend.php:420
+msgid "Enter your Twitter name."
+msgstr "Enter your Twitter name."
+
+#: functions/linen-extend.php:425
+msgid "Facebook link"
+msgstr "Facebook link"
+
+#: functions/linen-extend.php:427
+msgid "Enter your Facebook link."
+msgstr "Enter your Facebook link."
+
+#: functions/linen-extend.php:432
+msgid "Flickr link"
+msgstr "Flickr link"
+
+#: functions/linen-extend.php:434
+msgid "Enter your Flickr link."
+msgstr "Enter your Flickr link."
+
+#: functions/linen-extend.php:439
+msgid "Typography <span>customize your fonts</span>"
+msgstr "Typography <span>customize your fonts</span>"
+
+#: functions/linen-extend.php:443
+msgid "Accent font"
+msgstr "Accent font"
+
+#: functions/linen-extend.php:444
+msgid "Used for accents and headers. Fallback font stack is \"Helvetica, Arial, sans-serif\". Added page weight is in parentheses."
+msgstr "Used for accents and headers. Fallback font stack is \"Helvetica, Arial, sans-serif\". Added page weight is in parentheses."
+
+#: functions/linen-extend.php:449
+msgid "Arvo (27kb)"
+msgstr "Arvo (27kb)"
+
+#: functions/linen-extend.php:450
+msgid "Cabin (39kb)"
+msgstr "Cabin (39kb)"
+
+#: functions/linen-extend.php:451
+msgid "Copse (22kb)"
+msgstr "Copse (22kb)"
+
+#: functions/linen-extend.php:452
+#: functions/linen-extend.php:465
+msgid "Droid Sans (26kb)"
+msgstr "Droid Sans (26kb)"
+
+#: functions/linen-extend.php:453
+#: functions/linen-extend.php:466
+msgid "Droid Serif (28kb)"
+msgstr "Droid Serif (28kb)"
+
+#: functions/linen-extend.php:454
+msgid "Helvetica"
+msgstr "Helvetica"
+
+#: functions/linen-extend.php:455
+#: functions/linen-extend.php:468
+msgid "Lato (49kb)"
+msgstr "Lato (49kb)"
+
+#: functions/linen-extend.php:458
+msgid "Body font"
+msgstr "Body font"
+
+#: functions/linen-extend.php:459
+msgid "Used for the body text. Fallback font stack is \"Georgia, Times, serif\". Added page weight is in parentheses."
+msgstr "Used for the body text. Fallback font stack is \"Georgia, Times, serif\". Added page weight is in parentheses."
+
+#: functions/linen-extend.php:464
+msgid "Cantarell (53kb)"
+msgstr "Cantarell (53kb)"
+
+#: functions/linen-extend.php:467
+msgid "Georgia"
+msgstr "Georgia"
+
+#: functions/linen-extend.php:469
+msgid "Neuton (18kb)"
+msgstr "Neuton (18kb)"
+
+#: functions/linen-extend.php:470
+msgid "Nobile (57kb)"
+msgstr "Nobile (57kb)"
+
+#: functions/linen-extend.php:471
+msgid "Puritan (60kb)"
+msgstr "Puritan (60kb)"
+
+#: functions/linen-extend.php:474
+msgid "Layout <span>change the default layout</span>"
+msgstr "Layout <span>change the default layout</span>"
+
+#: functions/linen-extend.php:478
+msgid "Disable Sidebar"
+msgstr "Disable Sidebar"
+
+#: functions/linen-extend.php:480
+msgid "Check this box to disable the sidebar. This removes the sidebar from <strong>all</strong> pages and posts."
+msgstr "Check this box to disable the sidebar. This removes the sidebar from <strong>all</strong> pages and posts."
+
+#: functions/linen-extend.php:485
+msgid "Disable Footer"
+msgstr "Disable Footer"
+
+#: functions/linen-extend.php:487
+msgid "Check this box to disable the footer widget area. This removes the footer from <strong>all</strong> pages and posts."
+msgstr "Check this box to disable the footer widget area. This removes the footer from <strong>all</strong> pages and posts."
+
+#: functions/linen-extend.php:492
+msgid "Footer <span>add a copyright notice and tracking codes</span>"
+msgstr "Footer <span>add a copyright notice and tracking codes</span>"
+
+#: functions/linen-extend.php:496
+msgid "Copyright notice"
+msgstr "Copyright notice"
+
+#: functions/linen-extend.php:498
+msgid "Your name or the name of your business."
+msgstr "Your name or the name of your business."
+
+#: functions/linen-extend.php:503
+msgid "Stats code"
+msgstr "Stats code"
+
+#: functions/linen-extend.php:505
+#, php-format
+msgid "If you would like to use Google Analytics or any other tracking script in your footer just paste it here. The script will be inserted before the closing %s tag."
+msgstr "If you would like to use Google Analytics or any other tracking script in your footer just paste it here. The script will be inserted before the closing %s tag."
+
+#: functions/ttf-admin.php:79
+#, php-format
+msgid "The <code>%s</code> folder is not writable. Try changing the permissions. <a href=\"http://codex.wordpress.org/Changing_File_Permissions\">Learn how to change permissions &rarr;</a>"
+msgstr "The <code>%s</code> folder is not writable. Try changing the permissions. <a href=\"http://codex.wordpress.org/Changing_File_Permissions\">Learn how to change permissions &rarr;</a>"
+
+#: functions/ttf-admin.php:95
+msgid "There was an error uploading the file. Please try again."
+msgstr "There was an error uploading the file. Please try again."
+
+#: functions/ttf-admin.php:118
+msgid "There was an error, please remove the logo and try again."
+msgstr "There was an error, please remove the logo and try again."
+
+#: functions/ttf-admin.php:129
+#: functions/ttf-admin.php:188
+#: functions/ttf-admin.php:189
+msgid "Theme Options"
+msgstr "Theme Options"
+
+#: functions/ttf-admin.php:201
+#, php-format
+msgid "%s settings saved!"
+msgstr "%s settings saved!"
+
+#: functions/ttf-admin.php:205
+#, php-format
+msgid "%s settings reset."
+msgstr "%s settings reset."
+
+#: functions/ttf-admin.php:211
+#, php-format
+msgid "%s Options"
+msgstr "%s Options"
+
+#: functions/ttf-admin.php:214
+#, php-format
+msgid "<strong>Need help?</strong> <a href=\"%1$s\">Read the tutorials</a> or visit the <a href=\"%2$s\">support forums.</a>"
+msgstr "<strong>Need help?</strong> <a href=\"%1$s\">Read the tutorials</a> or visit the <a href=\"%2$s\">support forums.</a>"
+
+#: functions/ttf-admin.php:289
+msgid "Choose your image"
+msgstr "Choose your image"
+
+#: functions/ttf-admin.php:300
+msgid "Remove"
+msgstr "Remove"
+
+#: functions/ttf-admin.php:307
+msgid "Preview logo"
+msgstr "Preview logo"
+
+#: functions/ttf-admin.php:312
+msgid "Cannot locate your logo image; it may have been moved or renamed. Please remove and try uploading again."
+msgstr "Cannot locate your logo image; it may have been moved or renamed. Please remove and try uploading again."
+
+#: functions/ttf-admin.php:335
+msgid "show color picker"
+msgstr "show color picker"
+
+#: functions/ttf-admin.php:335
+msgid "hide color picker"
+msgstr "hide color picker"
+
+#: functions/ttf-admin.php:384
+msgid "Save changes"
+msgstr "Save changes"
+

@@ -1,0 +1,647 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Titan WordPress Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-05-20 22:31-0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: blaselinux <blaselinux@linuxegyszeruen.hu>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Hungarian\n"
+"X-Poedit-Country: HUNGARY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:2
+msgid "404: Page Not Found"
+msgstr "404: A lap nem található"
+
+#: 404.php:4
+msgid "We are terribly sorry, but the URL you typed no longer exists. It might have been moved or deleted, or perhaps you mistyped it. We suggest searching the site:"
+msgstr "Nagyon sajnáljuk, de a keresett URL nem létezik. Lehet, hogy elmozgatták vagy törölték esetleg el lett gépelve. Javasoljuk az oldalon való keresést:"
+
+#: archive.php:4
+#, php-format
+msgid "Posts from the  &#8216;%s&#8217; Category"
+msgstr "Bejegyzések a &#8216;%s&#8217; kategóriában"
+
+#: archive.php:6
+#, php-format
+msgid "Posts tagged &#8216;%s&#8217;"
+msgstr "Bejegyzés címke &#8216;%s&#8217;"
+
+#: archive.php:8
+#: archive.php:10
+#: archive.php:12
+msgid "Archive for"
+msgstr "Archívum: "
+
+#: archive.php:8
+#: archive.php:21
+#: single.php:8
+msgid "F jS, Y"
+msgstr "Y. F. j."
+
+#: archive.php:10
+msgid "F, Y"
+msgstr "Y. F."
+
+#: archive.php:12
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:14
+#, php-format
+msgid "Posts by %s"
+msgstr "%s begyezései"
+
+#: archive.php:16
+msgid "Blog Archives"
+msgstr "Blog Archívum"
+
+#: archive.php:21
+#, php-format
+msgid "%s on"
+msgstr "%s"
+
+#: archive.php:26
+#: index.php:22
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Régebbi bejegyzések"
+
+#: archive.php:27
+#: index.php:23
+msgid "Newer Entries &raquo;"
+msgstr "Újabb bejegyzések &raquo;"
+
+#: comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Ez a bejegyzés jelszóval van védve. Adja meg a jelszót a hozzászólások megtekintéséhez."
+
+#: comments.php:15
+msgid "No Comments Yet"
+msgstr "Jelenleg nincsenek hozzászólások"
+
+#: comments.php:15
+msgid "One Comment"
+msgstr "Egy hozzászólás"
+
+#: comments.php:15
+msgid "% Comments"
+msgstr "% hozzászólás"
+
+#: comments.php:17
+msgid "Leave One"
+msgstr "Írjon hozzászólást"
+
+#: comments.php:24
+msgid "&laquo; Older Comments"
+msgstr "&laquo; Régebbi hozzászólások"
+
+#: comments.php:25
+msgid "Newer Comments &raquo;"
+msgstr "Újabb hozzászólások &raquo;"
+
+#: comments.php:28
+msgid "Trackbacks &amp; Pingbacks"
+msgstr "Visszakövetések"
+
+#: comments.php:34
+#: comments.php:45
+msgid "Comments are closed."
+msgstr "A hozzászólás lezárva."
+
+#: comments.php:40
+msgid "No comments yet"
+msgstr "Jelenleg nincs hozzászólás"
+
+#: comments.php:57
+msgid "Leave a Reply"
+msgstr "Szóljon hozzá"
+
+#: comments.php:59
+msgid "You must be"
+msgstr "Önnek be kell"
+
+#: comments.php:59
+msgid "logged in"
+msgstr "jelentkeznie"
+
+#: comments.php:59
+msgid "to post a comment."
+msgstr "a hozzászóláshoz."
+
+#: comments.php:64
+msgid "Logged in as"
+msgstr "Bejelentkezve, mint"
+
+#: comments.php:64
+msgid "Log out &raquo;"
+msgstr "Kijelentkezés &raquo;"
+
+#: comments.php:67
+msgid "Name:"
+msgstr "Név:"
+
+#: comments.php:67
+#: comments.php:71
+msgid "(required)"
+msgstr "(szükséges)"
+
+#: comments.php:71
+msgid "Email:"
+msgstr "Email:"
+
+#: comments.php:75
+msgid "Website:"
+msgstr "Weboldal:"
+
+#: comments.php:80
+msgid "Comment:"
+msgstr "Hozzászólás:"
+
+#: comments.php:83
+msgid "<strong>Note:</strong> XHTML is allowed. Your email address will <strong>never</strong> be published."
+msgstr "<strong>Megjegyzés:</strong> Az XHTML engedélyezve van. Az email címe <strong>soha</strong> nem kerül nyilvánosságra."
+
+#: comments.php:84
+msgid "Subscribe to this comment feed via RSS"
+msgstr "Iratkozzon fel a hozzászólásokra RSS segítségével"
+
+#: comments.php:87
+msgid "Submit Comment"
+msgstr "Hozzászólás Küldése"
+
+#: footer.php:7
+#: functions/titan-extend.php:213
+msgid "About"
+msgstr "Rólam"
+
+#: footer.php:11
+msgid "Did you know you can write your own about section just like this one? It's really easy. Head into the the <em>Titan Options</em> menu and check out the footer section. Type some stuff in the box, click save, and your new about section shows up in the footer."
+msgstr "Tudta, hogy írhat hasonló Rólam részt, olyant mint ez? Nagyon könnyű. Menjen a <em>Titan Beállítások</em> menübe és keresse meg a lábléc részt. Írjon be pár hasznos információt a szövegdobozba, majd mentse el és az ön új Rólam része máris elérhető a láblécben."
+
+#: footer.php:12
+msgid "Wondering about those Flickr photos on the right?"
+msgstr "Csodálja azokat a Flickr fényképeket a jobb oldalon?"
+
+#: footer.php:13
+msgid "We didn't take them, they are a random sampling of the most popular photos on Flickr with the tag 'nature'. All rights are reserved to the original copyright holders where applicable."
+msgstr "Nem mi készítettük, ezek véletlenszerű képek a legnépszerűbb 'nature' címkével ellátott Flickr fényképek. Az összes jog az eredeti kép készítőit illeti."
+
+#: footer.php:21
+#: sidebar.php:30
+msgid "Categories"
+msgstr "Kategóriák"
+
+#: footer.php:29
+msgid "Flickr"
+msgstr "Flickr"
+
+#: footer.php:47
+#: searchform.php:4
+msgid "Search"
+msgstr "Keresés"
+
+#: footer.php:54
+msgid "Copyright"
+msgstr "Copyright"
+
+#: functions.php:31
+msgid "Sidebar"
+msgstr "Oldalsáv"
+
+#: functions.php:41
+msgid "Footer"
+msgstr "Lábléc"
+
+#: header.php:9
+msgid "Page Not Found |"
+msgstr "Az oldal nem található |"
+
+#: header.php:11
+#: search.php:3
+#: search.php:25
+#, php-format
+msgid "Search results for '%s'"
+msgstr "Keresési eredmények '%s'"
+
+#: header.php:56
+msgid "Follow:"
+msgstr "Követés:"
+
+#: header.php:57
+msgid "RSS"
+msgstr "RSS"
+
+#: header.php:59
+msgid "Email"
+msgstr "Email"
+
+#: header.php:62
+msgid "Twitter"
+msgstr "Twitter"
+
+#: header.php:74
+msgid "Home"
+msgstr "Kezdőlap"
+
+#: index.php:6
+#: search.php:7
+msgid "M j"
+msgstr "M d"
+
+#: index.php:8
+#: search.php:9
+#, php-format
+msgid "by %s"
+msgstr "Írta %s"
+
+#: index.php:12
+#: search.php:12
+#: single.php:12
+msgid "read more..."
+msgstr "olvassa tovább..."
+
+#: index.php:13
+#: page.php:7
+#: search.php:13
+#: single.php:13
+#: functions/comments.php:19
+msgid "Edit"
+msgstr "Szerkesztés"
+
+#: index.php:17
+#: search.php:16
+msgid "Leave a comment"
+msgstr "Írjon hozzászólást"
+
+#: index.php:17
+#: search.php:16
+msgid "1 Comment"
+msgstr "1 hozzászólás"
+
+#: index.php:17
+#: search.php:16
+msgid "% Comment"
+msgid_plural "% Comments"
+msgstr[0] "% hozzászólás"
+msgstr[1] "% hozzászólás"
+
+#: search.php:27
+#, php-format
+msgid "Sorry your search for \"%s\" did not turn up any results. Please try again."
+msgstr "Sajnálom, a \"%s\" keresés nem adott találatot. Kérem próbálja meg újra."
+
+#: sidebar.php:22
+msgid "Recent Articles"
+msgstr "Legfrissebb bejegyzések"
+
+#: sidebar.php:36
+msgid "Archives"
+msgstr "Archívum"
+
+#: single.php:8
+#, php-format
+msgid "by %s on"
+msgstr "Írta %s. Dátum: "
+
+#: single.php:17
+msgid "From"
+msgstr "Innen"
+
+#: functions/comments.php:9
+msgid "permalink"
+msgstr "permalink"
+
+#: functions/comments.php:12
+msgid "<em><strong>Please Note:</strong> Your comment is awaiting moderation.</em>"
+msgstr "<em><strong>Figyelem:</strong> A hozzászólása moderációra vár.</em>"
+
+#: functions/titan-admin.php:60
+msgid " settings saved!"
+msgstr " beállítások elmentve!"
+
+#: functions/titan-admin.php:61
+msgid " settings reset."
+msgstr " beállítások visszaállítva."
+
+#: functions/titan-admin.php:65
+msgid "Options"
+msgstr "Beállítás"
+
+#: functions/titan-admin.php:68
+msgid "Need help?"
+msgstr "Segítség kell?"
+
+#: functions/titan-admin.php:68
+msgid "Read the tutorials"
+msgstr "Olvassa el az útmutatót"
+
+#: functions/titan-admin.php:68
+msgid "or visit the <a href=\"http://thethemefoundry.com/forums/\">support forums.</a>"
+msgstr "vagy látogassa meg a <a href=\"http://thethemefoundry.com/forums/\">támogatói fórumot.</a>"
+
+#: functions/titan-admin.php:70
+msgid "Go PRO!"
+msgstr "Legyen PRO!"
+
+#: functions/titan-admin.php:71
+msgid "You are using the free version of Titan. Upgrade to Titan PRO for extra features, access to dedicated support, priority theme updates, and comprehensive theme tutorials."
+msgstr "Ön a Titan ingyenes verzióját használja. Légyen Ön is Titan PRO tag, hogy hozzáférhessen a dedikált támogatásunkhoz, elsődleges frissítésekhez és átfogóbb téma beállítási útmutatónkhoz."
+
+#: functions/titan-admin.php:72
+msgid "Learn more about Titan PRO &rarr;"
+msgstr "Tudjon meg többet a Titan PRO-ról &rarr;"
+
+#: functions/titan-admin.php:84
+#: functions/titan-admin.php:196
+msgid "Save changes"
+msgstr "Változtatások mentése"
+
+#: functions/titan-admin.php:150
+msgid "show color picker"
+msgstr "színválasztó mutatása"
+
+#: functions/titan-admin.php:150
+msgid "hide color picker"
+msgstr "színválasztó elrejtése"
+
+#: functions/titan-admin.php:201
+msgid "Save all changes"
+msgstr "Minden változtatás mentése"
+
+#: functions/titan-admin.php:207
+msgid "Reset all options"
+msgstr "Minden beállítás visszaállítása"
+
+#: functions/titan-extend.php:29
+msgid "Custom Logo Image <span>insert your custom logo image in the header</span>"
+msgstr "Egyéni logó kép <span>helyezze be az egyéni logó képet a fejlécbe</span>"
+
+#: functions/titan-extend.php:32
+msgid "Enable custom logo image"
+msgstr "Egyéni logó engedélyezése"
+
+#: functions/titan-extend.php:35
+msgid "Check to use a custom logo in the header."
+msgstr "Jelölje be az egyéni logó használatához."
+
+#: functions/titan-extend.php:39
+msgid "Logo image file name"
+msgstr "Logó fájlnév"
+
+#: functions/titan-extend.php:42
+msgid "Upload your logo image here: "
+msgstr "Töltse fel a logót itt: "
+
+#: functions/titan-extend.php:46
+msgid "Logo image <code>&lt;alt&gt;</code> tag"
+msgstr "Logó <code>&lt;alt&gt;</code> címke"
+
+#: functions/titan-extend.php:49
+msgid "Specify the <code>&lt;alt&gt;</code> tag for your logo image."
+msgstr "Határozza meg az <code>&lt;alt&gt;</code> címke értékét az ön logójához."
+
+#: functions/titan-extend.php:53
+msgid "Display tagline"
+msgstr "Címkesor kijelzése"
+
+#: functions/titan-extend.php:56
+msgid "Check to show your tagline below your logo."
+msgstr "Jelölje be, hogy mutassa a címkesort a logó alatt."
+
+#: functions/titan-extend.php:60
+msgid "Navigation <span>control your top navigation menu</span>"
+msgstr "Navigáció <span>vezérelje a felső navigációs menüt</span>"
+
+#: functions/titan-extend.php:63
+msgid "Hide all pages"
+msgstr "Az összes oldal elrejtése"
+
+#: functions/titan-extend.php:65
+msgid "Check this box to hide all pages"
+msgstr "Jelölje be az összes oldal elrejtéséhez"
+
+#: functions/titan-extend.php:69
+msgid "Exclude specific pages"
+msgstr "Kivétel oldalak meghatározása"
+
+#: functions/titan-extend.php:72
+msgid "The page ID of pages you do not want displayed in your navigation menu. Use a comma-delimited list, eg. 1,2,3"
+msgstr "Azon oldalak ID-je, melyeket nem szeretne megjeleníteni a navigációban. Vesszőt használjon az elválasztási listához, pl.: 1,2,3."
+
+#: functions/titan-extend.php:76
+msgid "Hide all categories"
+msgstr "Az összes kategória elrejtése"
+
+#: functions/titan-extend.php:78
+msgid "Check this box to hide all categories."
+msgstr "Jelölje be az összes kategória elrejtéséhez."
+
+#: functions/titan-extend.php:82
+msgid "Exclude specific categories"
+msgstr "Kivétel kategóriák"
+
+#: functions/titan-extend.php:85
+msgid "The category ID of pages you do not want displayed in your navigation menu.. Use a comma-delimited list, eg. 1,2,3"
+msgstr "Azon kategóriák ID-je, melyeket nem szeretne megjeleníteni a navigációban. Vesszőt használjon az elválasztási listához, pl.: 1,2,3."
+
+#: functions/titan-extend.php:89
+msgid "Hide home navigation menu item"
+msgstr "A Főoldal navigációs elem elrejtése"
+
+#: functions/titan-extend.php:92
+msgid "Check this box if you are using a static page as your homepage instead of your blog (the default). The extra <em>Home</em> menu item will be removed."
+msgstr "Jelölje be ezt az opciót, ha statikus oldalt használ kezdőlapként (az alapértelmezett helyett). Az extra <em>Főoldal</em> elem el fog tűnni."
+
+#: functions/titan-extend.php:96
+msgid "Follow Links <span>top right follow links</span>"
+msgstr "Követési linkek <span>jobb felső követési linkek</span>"
+
+#: functions/titan-extend.php:99
+msgid "Email updates link"
+msgstr "Email feliratkozási link"
+
+#: functions/titan-extend.php:101
+msgid "Enter your feed email link here."
+msgstr "Írja be a hírleveles email linkjét ide."
+
+#: functions/titan-extend.php:106
+msgid "Disable email link"
+msgstr "Email link kikapcsolása"
+
+#: functions/titan-extend.php:108
+msgid "Don't want to offer email updates, check the box."
+msgstr "Ha nem akarja ajánlani az email-es feliratkozást, akkor jelölje be."
+
+#: functions/titan-extend.php:112
+msgid "Twitter updates link"
+msgstr "Twitter link"
+
+#: functions/titan-extend.php:114
+msgid "Enter the link to your Twitter page."
+msgstr "Írja be a Twitteres oldalának linkjét."
+
+#: functions/titan-extend.php:117
+msgid "Disable Twitter"
+msgstr "Twitter kikapcsolása"
+
+#: functions/titan-extend.php:119
+msgid "Not hip to Twitter? That's cool, just check this box."
+msgstr "Nem elég menő a Twitter? Rendben, csak jelölje be."
+
+#: functions/titan-extend.php:123
+msgid "Homepage Notice <span>display a notice on your homepage</span>"
+msgstr "Kezdőlap megjegyzés <span>értesítő megjelenítése a kezdőlapon</span>"
+
+#: functions/titan-extend.php:126
+msgid "Enable homepage notice"
+msgstr "Kezdőlap értesítő megjelenítése"
+
+#: functions/titan-extend.php:129
+msgid "Check this box to use a custom notice on the home page."
+msgstr "Jelölje be, ha szeretne egyedi értesítőt a kezdőlapjához."
+
+#: functions/titan-extend.php:133
+msgid "Custom notice"
+msgstr "Egyedi értesítő"
+
+#: functions/titan-extend.php:136
+msgid "The content of your custom notice."
+msgstr "Az egyedi értesítő tartalma."
+
+#: functions/titan-extend.php:142
+msgid "Sidebar Sidebox <span>customize your sidebox</span>"
+msgstr "Oldalsáv oldaldoboz <span>szablya testre az oldaldobozt</span>"
+
+#: functions/titan-extend.php:145
+msgid "Disable sidebox"
+msgstr "Oldaldoboz kikapcsolása"
+
+#: functions/titan-extend.php:147
+msgid "Check this box to disable the sidebar sidebox."
+msgstr "Jelölje be az oldalsáv oldaldobozának letiltásához."
+
+#: functions/titan-extend.php:151
+msgid "Custom code"
+msgstr "Egyedi kód."
+
+#: functions/titan-extend.php:153
+msgid "Check this box to use custom code for the sidebox."
+msgstr "Jelölje be egyedi kód megadásához az oldalsávon."
+
+#: functions/titan-extend.php:157
+msgid "Custom code content"
+msgstr "Egyedi kód tartalom"
+
+#: functions/titan-extend.php:159
+msgid "Must use properly formatted XHTML/HTML."
+msgstr "A formázásnak XHTML/HTML szerint megfelelőnek kell lennie."
+
+#: functions/titan-extend.php:165
+msgid "Sidebar Adbox <span>control ads in your sidebar</span>"
+msgstr "Oldalsáv Adbox <span>vezérelje reklámjait az oldalsávon</span>"
+
+#: functions/titan-extend.php:168
+msgid "Enable adbox"
+msgstr "Adbox engedélyezése"
+
+#: functions/titan-extend.php:170
+msgid "Check this box to enable the sidebar adbox."
+msgstr "Jelölje be az adbox oldalsávon való engedélyezéséhez."
+
+#: functions/titan-extend.php:174
+msgid "Ad 1 file name"
+msgstr "Ad 1 fájlnév"
+
+#: functions/titan-extend.php:176
+#: functions/titan-extend.php:194
+msgid "Upload your image here: "
+msgstr "Töltse fel a képet itt:"
+
+#: functions/titan-extend.php:180
+msgid "Ad 1 link"
+msgstr "Ad 1 link"
+
+#: functions/titan-extend.php:182
+msgid "Link for the first ad"
+msgstr "Link az első reklámhoz"
+
+#: functions/titan-extend.php:186
+msgid "Ad 1 alt tag"
+msgstr "Ad 1 alt címke"
+
+#: functions/titan-extend.php:188
+msgid "Alt tag for the first ad"
+msgstr "Alt címke megadása az első reklámhoz"
+
+#: functions/titan-extend.php:192
+msgid "Ad 2 file name"
+msgstr "Ad 2 fájlnév"
+
+#: functions/titan-extend.php:198
+msgid "Ad 2 link"
+msgstr "Ad 2 link"
+
+#: functions/titan-extend.php:200
+msgid "Link for the second ad"
+msgstr "Link a második reklámhoz"
+
+#: functions/titan-extend.php:204
+msgid "Ad 2 alt tag"
+msgstr "Ad 2 alt címke"
+
+#: functions/titan-extend.php:206
+msgid "Alt tag for the second ad"
+msgstr "Alt címke a második reklámhoz"
+
+#: functions/titan-extend.php:210
+msgid "Footer <span>customize your footer</span>"
+msgstr "Lábléc <span>szabja testre a láblécet</span>"
+
+#: functions/titan-extend.php:215
+msgid "Something about you or your business."
+msgstr "Valami önről vagy a vállalkozásáról."
+
+#: functions/titan-extend.php:220
+msgid "Flickr link"
+msgstr "Flickr link"
+
+#: functions/titan-extend.php:222
+msgid "Create a <a href=\"http://www.flickr.com/badge_new.gne\">javascript Flickr badge</a>. At the end of the process extract the URL and paste here."
+msgstr "Készítsen egy <a href=\"http://www.flickr.com/badge_new.gne\">javascript Flickr jelvényt</a>. Az eljárás végén kapni fog egy URL-t amit másoljon ide."
+
+#: functions/titan-extend.php:227
+msgid "Disable Flickr"
+msgstr "Flickr kikapcsolása"
+
+#: functions/titan-extend.php:229
+msgid "Check this box to disable Flickr and enable the footer widget instead."
+msgstr "Jelölje be a Flickr kikapcsolásához és engedélyezze a lábléc widgeteket."
+
+#: functions/titan-extend.php:233
+msgid "Copyright notice"
+msgstr "Jogi nyilatkozat"
+
+#: functions/titan-extend.php:235
+msgid "Your name or the name of your business."
+msgstr "Az ön, vagy az üzletének neve."
+
+#: functions/titan-extend.php:236
+msgid "Your Name Here"
+msgstr "Az ön neve"
+
+#: functions/titan-extend.php:239
+msgid "Stats code"
+msgstr "Stat kód."
+
+#: functions/titan-extend.php:241
+msgid "If you use Google Analytics or need any other tracking script in your footer just copy and paste it here. The script will be inserted before the closing <code>&#60;/body&#62;</code> tag."
+msgstr "Ha a Google Analytics-et használja, vagy szüksége van egyéb követő kód elhelyezésére a láblécben, akkor csak másolja ide. A szkript a záró <code>&#60;/body&#62;</code> tag elé lesz  elhelyezve."
+

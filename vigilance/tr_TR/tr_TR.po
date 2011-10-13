@@ -1,0 +1,713 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Vigilance WordPress Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-09-16 21:57-0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Drew Strojny <themes@jestro.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:2
+msgid "404: Page Not Found"
+msgstr "404: Sayfa Bulunamadı"
+
+#: 404.php:4
+msgid "We are terribly sorry, but the URL you typed no longer exists. It might have been moved or deleted, or perhaps you mistyped it. We suggest searching the site:"
+msgstr "Çok Üzgünüm, ama girdiğin URL artık geçerli değil. Taşınmış ya da silinmiş olabilir, veya sen yanlış yazmış olabilirsin. Arama yapmanı öneririm:"
+
+#: archive.php:4
+#, php-format
+msgid "Posts from the  &#8216;%s&#8217; Category"
+msgstr "&#8216;%s&#8217; Kategorisinden Yazılar"
+
+#: archive.php:6
+#, php-format
+msgid "Posts tagged &#8216;%s&#8217;"
+msgstr "&#8216;%s&#8217; ile Etiketli Yazılar"
+
+#: archive.php:8
+#: archive.php:10
+#: archive.php:12
+msgid "Archive for"
+msgstr "Arşiv"
+
+#: archive.php:8
+msgid "F jS, Y"
+msgstr "F jS, Y"
+
+#: archive.php:10
+msgid "F, Y"
+msgstr "F, Y"
+
+#: archive.php:12
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:14
+#, php-format
+msgid "Posts by %s"
+msgstr "%s tarafından yazılanlar"
+
+#: archive.php:16
+msgid "Blog Archives"
+msgstr "Blog Arşivleri"
+
+#: archive.php:18
+msgid "comment"
+msgstr "yorum"
+
+#: archive.php:22
+#: search.php:8
+msgid "n.j.y"
+msgstr "n.j.y"
+
+#: archive.php:27
+#: index.php:25
+#: search.php:13
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Önceki Girişler"
+
+#: archive.php:28
+#: index.php:26
+#: search.php:14
+msgid "Newer Entries &raquo;"
+msgstr "Sonraki Girişler &raquo;"
+
+#: comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Bu yazı şifreli. Yorumları görmek için şifreni gir."
+
+#: comments.php:16
+msgid "No Responses"
+msgstr "Cevap Yok"
+
+#: comments.php:16
+msgid "One Response"
+msgstr "Bir Cevap"
+
+#: comments.php:16
+msgid "% Responses"
+msgstr "% Cevap"
+
+#: comments.php:18
+msgid "Leave One"
+msgstr "Bir Tane Bırak"
+
+#: comments.php:18
+msgid "leave one &rarr;"
+msgstr "bir &rarr; bırak"
+
+#: comments.php:25
+msgid "&laquo; Older Comments"
+msgstr "&laquo; Önceki Yorumlar"
+
+#: comments.php:26
+msgid "Newer Comments &raquo;"
+msgstr "Sonraki Yorumlar &raquo;"
+
+#: comments.php:29
+msgid "Trackbacks and Pingbacks"
+msgstr "Trackbackler ve Pingbackler"
+
+#: comments.php:35
+#: comments.php:46
+msgid "Comments are closed."
+msgstr "Yorumlar kapalı."
+
+#: comments.php:41
+msgid "No comments yet"
+msgstr "Henüz yorum yok"
+
+#: comments.php:58
+msgid "Leave a Reply"
+msgstr "Bi Cevap Bırak"
+
+#: comments.php:60
+msgid "You must be"
+msgstr "Yorum yazmak için"
+
+#: comments.php:60
+msgid "logged in"
+msgstr "giriş yapmış"
+
+#: comments.php:60
+msgid "to post a comment."
+msgstr "olman lazım."
+
+#: comments.php:65
+msgid "Logged in as"
+msgstr "Giriş yapıldı"
+
+#: comments.php:65
+msgid "Log out &raquo;"
+msgstr "Çık &raquo;"
+
+#: comments.php:67
+msgid "Name"
+msgstr "İsim"
+
+#: comments.php:67
+#: comments.php:68
+msgid "(required)"
+msgstr "(gerekli)"
+
+#: comments.php:68
+msgid "Email"
+msgstr "Email"
+
+#: comments.php:69
+msgid "Website:"
+msgstr "Website:"
+
+#: comments.php:71
+msgid "Comment:"
+msgstr "Yorum:"
+
+#: comments.php:72
+msgid "<strong>Note:</strong> You can use basic XHTML in your comments. Your email address will <strong>never</strong> be published."
+msgstr "<strong>Unutma:</strong> Yorumlarında temel XHTML kullanabilrisin. Email adresin <strong>asla</strong> yayınlanmaz."
+
+#: comments.php:73
+msgid "Subscribe to this comment feed via RSS"
+msgstr "Bu yoruma RSS ile abone olabilirsin"
+
+#: header.php:9
+msgid "Page Not Found |"
+msgstr "Sayfa Bulunamadı |"
+
+#: header.php:52
+msgid "Home"
+msgstr "Ana Sayfa"
+
+#: index.php:7
+#: single.php:7
+msgid "F j"
+msgstr "F j"
+
+#: index.php:8
+msgid "Leave a comment"
+msgstr "Bi yorum bırak"
+
+#: index.php:8
+msgid "1 Comment"
+msgstr "1 Yorum"
+
+#: index.php:8
+msgid "% Comment"
+msgid_plural "% Comments"
+msgstr[0] "% Yorum"
+msgstr[1] "% Yorum"
+
+#: index.php:11
+msgid "tags: "
+msgstr "etiketler:"
+
+#: index.php:12
+#: single.php:11
+#, php-format
+msgid "by %s"
+msgstr "yazan %s"
+
+#: index.php:15
+msgid "read more..."
+msgstr "okumaya devam et..."
+
+#: index.php:16
+#: page.php:7
+#: single.php:15
+msgid "Edit This"
+msgstr "Bunu Değiştir"
+
+#: index.php:20
+#: single.php:19
+msgid "from"
+msgstr "kategori"
+
+#: search.php:3
+#: search.php:17
+#, php-format
+msgid "Search Results for \"%s\""
+msgstr "\"%s\" için Arama Sonuçları"
+
+#: search.php:19
+#, php-format
+msgid "Sorry your search for \"%s\" did not turn up any results. Please try again."
+msgstr "Üzgünüm, \"%s\" için yaptığın aramadan bişey çıkmadı. Lütfen tekrar dene."
+
+#: searchform.php:4
+msgid "type and press enter"
+msgstr "yazıp enter'a bas"
+
+#: sidebar-feedbox.php:2
+msgid "Get Free Updates"
+msgstr "Bedavaya Haberdar Ol"
+
+#: sidebar-feedbox.php:4
+msgid "Get the latest and the greatest news delivered for free to your reader or your inbox:"
+msgstr "En son ve en muhteşem haberler RSS okuyucuna yada emailine gelsin, hemde bedava:"
+
+#: sidebar-feedbox.php:5
+msgid "RSS Feed"
+msgstr "RSS"
+
+#: sidebar-feedbox.php:6
+msgid "Email Updates"
+msgstr "Email"
+
+#: sidebar-feedbox.php:8
+msgid "Twitter"
+msgstr "Twitter"
+
+#: sidebar.php:12
+msgid "Recent Articles"
+msgstr "Yeni Yazılar"
+
+#: functions/comments.php:13
+msgid "permalink"
+msgstr "permalink"
+
+#: functions/comments.php:16
+msgid "<em><strong>Please Note:</strong> Your comment is awaiting moderation.</em>"
+msgstr "<em><strong>Unutma:</strong> Yorumun moderasyon onayı bekliyor.</em>"
+
+#: functions/sidebars.php:4
+msgid "Wide Sidebar"
+msgstr "Geniş Sidebar"
+
+#: functions/sidebars.php:13
+msgid "Left Sidebar"
+msgstr "Sol Sidebar"
+
+#: functions/sidebars.php:22
+msgid "Right Sidebar"
+msgstr "Sağ Sidebar"
+
+#: functions/vigilance-admin.php:65
+msgid " settings saved!"
+msgstr " ayarlar kaydedildi!"
+
+#: functions/vigilance-admin.php:66
+msgid " settings reset."
+msgstr " ayarlar sıfırlandı"
+
+#: functions/vigilance-admin.php:70
+msgid "Options"
+msgstr "Seçenekler"
+
+#: functions/vigilance-admin.php:71
+msgid "Need help with these options?"
+msgstr "Bu seçenekler ile ilgili yardımmı lazım?"
+
+#: functions/vigilance-admin.php:71
+msgid "Read the tutorials"
+msgstr "Eğitsel belgeleri oku"
+
+#: functions/vigilance-admin.php:71
+msgid "or visit the <a href=\"http://themes.jestro.com/forums/\">support forums.</a>"
+msgstr "ya da <a href=\"http://themes.jestro.com/forums/\">destek Forumunu.</a> ziyaret et"
+
+#: functions/vigilance-admin.php:83
+#: functions/vigilance-admin.php:181
+msgid "Save changes"
+msgstr "Değişiklikleri kaydet"
+
+#: functions/vigilance-admin.php:144
+msgid "show color picker"
+msgstr "renk seçiciyi göster"
+
+#: functions/vigilance-admin.php:144
+msgid "hide color picker"
+msgstr "renk seçiciyi sakla"
+
+#: functions/vigilance-admin.php:186
+msgid "Save all changes"
+msgstr "Tüm değişikleri kaydet"
+
+#: functions/vigilance-admin.php:192
+msgid "Reset all options"
+msgstr "Tüm seçenekleri sıfırla"
+
+#: functions/vigilance-extend.php:29
+msgid "Custom Logo Image <span>insert your custom logo image in the header</span>"
+msgstr "Özel Logo İmgesi <span>başlığa özel logo imgeni yerleştir</span>"
+
+#: functions/vigilance-extend.php:30
+msgid "This option is for PRO members only. To enable this option and use your custom logo please <a href=\"https://themes.jestro.com/members/signup.php\">sign-up</a> for a PRO membership and <a href=\"http://themes.jestro.com/downloads/\">download</a> the Vigilance PRO child theme."
+msgstr "Bu seçenek sadece PRO üyeler için. Bu seçeneği etkinleştirmek ve özel logonu kullanmak için lütfen <a href=\"https://themes.jestro.com/members/signup.php\">gidip</a> bir PRO üyelik satın al ve Viligance PRO child temasını <a href=\"http://themes.jestro.com/downloads/\">indir</a>."
+
+#: functions/vigilance-extend.php:33
+msgid "Enable custom logo image"
+msgstr "Özel logo imgesini etkinleştir"
+
+#: functions/vigilance-extend.php:35
+msgid "Check to use a custom logo in the header."
+msgstr "Başlıkta özel bir logo kullanmak için işaretle."
+
+#: functions/vigilance-extend.php:39
+msgid "Logo image file name"
+msgstr "Logo imgesi dosya adı"
+
+#: functions/vigilance-extend.php:41
+msgid "Upload your logo image here: "
+msgstr "Logo imgeni buraya yükle:"
+
+#: functions/vigilance-extend.php:45
+msgid "Logo image <code>&lt;alt&gt;</code> tag"
+msgstr "Logo imgesi <code>&lt;alt&gt;</code> etiketi"
+
+#: functions/vigilance-extend.php:47
+msgid "Specify the <code>&lt;alt&gt;</code> tag for your logo image."
+msgstr "Logo imgen için <code>&lt;alt&gt;</code> etiket belirle."
+
+#: functions/vigilance-extend.php:51
+msgid "Display tagline"
+msgstr "Sloganını göster"
+
+#: functions/vigilance-extend.php:53
+msgid "Check to show your tagline below your logo."
+msgstr "Sloganını logonun altında göstermek için işaretle."
+
+#: functions/vigilance-extend.php:57
+msgid "Navigation <span>control your top navigation menu</span>"
+msgstr "Navigasyon <span>üst navigasyon menünü kontrol et</span>"
+
+#: functions/vigilance-extend.php:60
+msgid "Hide all pages"
+msgstr "Tüm sayfaları sakla"
+
+#: functions/vigilance-extend.php:62
+msgid "Check this box to hide all pages"
+msgstr "Tüm sayfaları saklamak için bu kutuyu işaretle"
+
+#: functions/vigilance-extend.php:66
+msgid "Exclude specific pages"
+msgstr "Belli sayfaları hariç tut"
+
+#: functions/vigilance-extend.php:68
+msgid "The page ID of pages you do not want displayed in your navigation menu. Use a comma-delimited list, eg. 1,2,3"
+msgstr "Navigasyon menünde görünmesini istemediğin sayfaların IDleri. Virgülle ayır, ör. 1,2,3"
+
+#: functions/vigilance-extend.php:72
+msgid "Hide all categories"
+msgstr "Tüm kategorileri sakla"
+
+#: functions/vigilance-extend.php:74
+msgid "Check this box to hide all categories."
+msgstr "Tüm kategorileri saklamak için bu kutuyu işaretle"
+
+#: functions/vigilance-extend.php:78
+msgid "Exclude specific categories"
+msgstr "Belli kategorileri hariç tut"
+
+#: functions/vigilance-extend.php:80
+msgid "The category ID of pages you do not want displayed in your navigation menu.. Use a comma-delimited list, eg. 1,2,3"
+msgstr "Navigasyon menünde görünmesini istemediğin kategorilerin IDleri. Virgülle ayır, ör. 1,2,3"
+
+#: functions/vigilance-extend.php:84
+msgid "Hide home navigation menu item"
+msgstr "Ana Sayfayı Navigasyonda gizle"
+
+#: functions/vigilance-extend.php:86
+msgid "Check this box if you are using a static page as your homepage instead of your blog (the default). The extra <em>Home</em> menu item will be removed."
+msgstr "Bu kutuyu eğer blog yerine (varsayılan budur) statik bir sayfayı ana sayfa olarak kullanıyorsan işaretle. Ekstra <em>Ana Sayfa</em> menüsü kaldırılacaktır."
+
+#: functions/vigilance-extend.php:90
+msgid "Color Scheme <span>customize your color scheme</span>"
+msgstr "Renk Düzeni <span>renk düzenini özelleştir</span>"
+
+#: functions/vigilance-extend.php:93
+msgid "Customize colors"
+msgstr "Renkleri özelleştir"
+
+#: functions/vigilance-extend.php:95
+msgid "If enabled your theme will use the layouts and colors you choose below."
+msgstr "Eğer etkinse teman aşağıda belirlediğin renkleri kullanacak."
+
+#: functions/vigilance-extend.php:98
+#: functions/vigilance-extend.php:257
+msgid "Disabled"
+msgstr "Etkin değil"
+
+#: functions/vigilance-extend.php:99
+#: functions/vigilance-extend.php:256
+msgid "Enabled"
+msgstr "Etkin"
+
+#: functions/vigilance-extend.php:101
+msgid "Background color"
+msgstr "Arka plan rengi"
+
+#: functions/vigilance-extend.php:103
+#: functions/vigilance-extend.php:109
+#: functions/vigilance-extend.php:115
+#: functions/vigilance-extend.php:121
+msgid "Use hex values and be sure to include the leading #."
+msgstr "Hex değerlerini kullan ve başına # eklemeyi unutma."
+
+#: functions/vigilance-extend.php:107
+msgid "Border color"
+msgstr "Bordür rengi"
+
+#: functions/vigilance-extend.php:113
+msgid "Link color"
+msgstr "Bağlantı rengi"
+
+#: functions/vigilance-extend.php:119
+msgid "Link hover color"
+msgstr "Bağlantı hover rengi"
+
+#: functions/vigilance-extend.php:125
+msgid "Disable hover background images"
+msgstr "Hover arka plan resimlerini etkisiz kıl"
+
+#: functions/vigilance-extend.php:127
+msgid "Check this box if you use custom link colors and do not want the default red showing when a user hovers over the comments bubble or the sidebar menu items."
+msgstr "Eğer özel bağlantı renkleri kullanıyorsan ve kullanıcı yorum balonunun yada sidebar menü elemanlarının üzerine geldiğinde varsayılan kırmızının görünmesini istemiyorsan, bu kutuyu işaretle."
+
+#: functions/vigilance-extend.php:131
+msgid "Top Banner Image <span>control your top banner image state</span>"
+msgstr "Üst Banner Resmi <span>üst banner resminin durumunu kontrol et</span>"
+
+#: functions/vigilance-extend.php:134
+msgid "Banner state"
+msgstr "Banner durumu"
+
+#: functions/vigilance-extend.php:136
+msgid "Add your images to the top banner rotation by uploading them here: "
+msgstr "Resimlerini buraya yükleyerek üst banner rotasyonuna dahil et:"
+
+#: functions/vigilance-extend.php:136
+#: functions/vigilance-extend.php:206
+msgid "PRO Tutorial: Use page and post specific images"
+msgstr "PRO Eğitimi: Sayfa ve yazıya özel resimler kullanmak"
+
+#: functions/vigilance-extend.php:139
+#: functions/vigilance-extend.php:210
+msgid "Rotating images"
+msgstr "Sıra ile gösterilen resimler"
+
+#: functions/vigilance-extend.php:140
+#: functions/vigilance-extend.php:211
+#: functions/vigilance-extend.php:228
+msgid "Static image"
+msgstr "Statik resim"
+
+#: functions/vigilance-extend.php:141
+#: functions/vigilance-extend.php:213
+msgid "Page or post specific"
+msgstr "Sayfa yada yazıya özel"
+
+#: functions/vigilance-extend.php:142
+#: functions/vigilance-extend.php:169
+#: functions/vigilance-extend.php:212
+#: functions/vigilance-extend.php:240
+msgid "Custom code"
+msgstr "Özel kod"
+
+#: functions/vigilance-extend.php:143
+#: functions/vigilance-extend.php:214
+msgid "Do not show an image"
+msgstr "Resim gösterme"
+
+#: functions/vigilance-extend.php:145
+msgid "Banner height"
+msgstr "Banner yüksekliği"
+
+#: functions/vigilance-extend.php:147
+msgid "The height of your image. The width is fixed at 596px."
+msgstr "Resminin yüksekliği. Genişlik 596px ile sabitlenmiştir."
+
+#: functions/vigilance-extend.php:151
+msgid "Banner <code>&lt;alt&gt;</code> tag"
+msgstr "Banner <code>&lt;alt&gt;</code> etiketi"
+
+#: functions/vigilance-extend.php:153
+msgid "Specify the <code>&lt;alt&gt;</code> tag for your banner image(s). Will default to your blog title if left blank."
+msgstr "Banner resim(ler)in için <code>&lt;alt&gt;</code> etiket belirle. Boş bırakılırsa, varsayılan blog başlığıdır."
+
+#: functions/vigilance-extend.php:157
+msgid "Static image name"
+msgstr "Statik resim adı"
+
+#: functions/vigilance-extend.php:159
+msgid "Set the <em>Banner State</em> to \"Static Image\" and upload your image here: "
+msgstr "<em>Banner Durumunu</em> \"Static Image\"e ayarla ve resmini buraya yükle:"
+
+#: functions/vigilance-extend.php:163
+msgid "Home image name"
+msgstr "Ana Sayfa resmi adı"
+
+#: functions/vigilance-extend.php:165
+msgid "To replace your home top banner with a specific image upload it here: "
+msgstr "Ana Sayfa üst bannerını belli bir resimle değiştirmek istersen, resmi buraya yükle:"
+
+#: functions/vigilance-extend.php:171
+msgid "Replace your top banner with custom code. The <em>Banner State</em> must be set to \"Custom code\" for this to work."
+msgstr "Üst bannerı özel kod ile değiştir. Bunun çalışması için <em>Banner Durumunun</em> \"Custom code\"a ayarlanması gerekir."
+
+#: functions/vigilance-extend.php:177
+msgid "Alert Box <span>toggle your custom alert box</span>"
+msgstr "Uyarı Kutusu <span>özel uyarı kutunu değiştir</span>"
+
+#: functions/vigilance-extend.php:180
+msgid "Alert Box on/off switch"
+msgstr "Uyarı kutusu açık/kapalı düğmesi"
+
+#: functions/vigilance-extend.php:182
+msgid "Toggle the alert box on or off."
+msgstr "Uyarı kutusunu aç yada kapat."
+
+#: functions/vigilance-extend.php:185
+msgid "Off"
+msgstr "Kapalı"
+
+#: functions/vigilance-extend.php:186
+msgid "On"
+msgstr "Açık"
+
+#: functions/vigilance-extend.php:188
+msgid "Alert Title"
+msgstr "Uyarı Başlığı"
+
+#: functions/vigilance-extend.php:190
+msgid "The heading for your alert."
+msgstr "Uyarının başlığı."
+
+#: functions/vigilance-extend.php:194
+msgid "Alert Message"
+msgstr "Uyarı Mesajı"
+
+#: functions/vigilance-extend.php:196
+msgid "Must use HTML in the message including <code>&#60;p&#62;</code> tags."
+msgstr "Mesaj içinde mutlaka HTML kullanman lazım, <code>&#60;p&#62;</code> tagleri dahil olmak üzere."
+
+#: functions/vigilance-extend.php:202
+msgid "Sidebar Image <span>control your sidebar image state</span>"
+msgstr "Sidebar Resmi <span>sidebar resminin durumunu kontrol et</span>"
+
+#: functions/vigilance-extend.php:205
+msgid "Image state"
+msgstr "Resim durumu"
+
+#: functions/vigilance-extend.php:206
+msgid "Add your images to the sidebar rotation by uploading them here: "
+msgstr "Resimlerini sidebar resim rotasyonuna eklemek için buraya yükle:"
+
+#: functions/vigilance-extend.php:216
+msgid "Image height"
+msgstr "Resim yüksekliği"
+
+#: functions/vigilance-extend.php:218
+msgid "The height of your image. The width is fixed at 300px."
+msgstr "Resminin yüksekliği. Genişliği 300px ile limitlidir."
+
+#: functions/vigilance-extend.php:222
+msgid "Image <code>&lt;alt&gt;</code> tag"
+msgstr "Resim <code>&lt;alt&gt;</code> etiketi"
+
+#: functions/vigilance-extend.php:224
+msgid "The <code>&lt;alt&gt;</code> tag for your sidebar image(s). Will default to your blog title if left blank."
+msgstr "Sidebar resim(ler)in için <code>&lt;alt&gt;</code> etiket. Boş bırakılırsa, varsayılan blog başlığındır."
+
+#: functions/vigilance-extend.php:230
+msgid "Set the <em>Image State</em> to \"Static Image\" and upload your image here: "
+msgstr "<em>Resim Durumunu</em> \"Static Image\"e ayarla ve resmi buraya yükle:"
+
+#: functions/vigilance-extend.php:234
+msgid "Image link"
+msgstr "Resim bağlantısı"
+
+#: functions/vigilance-extend.php:236
+msgid "Define a hyperlink for your sidebar image. If left empty the anchor tags will not be included."
+msgstr "Sidebar resmin için bir bağlantı (hyperlink) tanımla. Boş bırakıldığı taktirde anchor etiketleri dahil edilmez."
+
+#: functions/vigilance-extend.php:242
+msgid "Replace your sidebar image with custom code. The <em>Image State</em> must be set to \"Custom code\" for this to work."
+msgstr "Sidebar resmini özel kod ile değiştir. Bunun çalışması için <em>Resim Durumu</em> \"Custom code\"a ayarlanmış olmalı."
+
+#: functions/vigilance-extend.php:248
+msgid "Sidebar Feed Box <span>share feeds and updates with your readers</span>"
+msgstr "Sidebar Besleme Kutusu <span>haber ve güncellemeleri okurlarınızla paylaşın</span>"
+
+#: functions/vigilance-extend.php:251
+msgid "Feed box state"
+msgstr "Besleme kutusu durumu"
+
+#: functions/vigilance-extend.php:252
+msgid "Enable or disable the feed box in the sidebar."
+msgstr "Besleme kutusunu sidebarda etkinleştir yada kapat."
+
+#: functions/vigilance-extend.php:259
+msgid "Feed box title text"
+msgstr "Besleme kutusu başlık yazısı"
+
+#: functions/vigilance-extend.php:261
+msgid "Header for your feed box."
+msgstr "Besleme kutun için başlık."
+
+#: functions/vigilance-extend.php:265
+msgid "Feed box intro text"
+msgstr "Besleme kutusu açıklama yazısı"
+
+#: functions/vigilance-extend.php:267
+msgid "Enter your feed intro text here."
+msgstr "Besleme kutusu açıklama yazını buraya girmen lazım."
+
+#: functions/vigilance-extend.php:273
+msgid "<a href=\"http://www.feedburner.com\">Feedburner</a> email updates link"
+msgstr "<a href=\"http://www.feedburner.com\">Feedburner</a> email güncellemeleri bağlantısı"
+
+#: functions/vigilance-extend.php:275
+msgid "Enter your feed email link here. Do not paste the provided link code, extract and paste the URL only."
+msgstr "Besleme email bağlantını buraya yapıştır. Yanlız verilen bağlantı kodunu yapıştırma, kodun içinden URLyi ayıklayıp sadece onu yapıştır."
+
+#: functions/vigilance-extend.php:275
+msgid "PRO Tutorial: Find your Feedburner email updates link"
+msgstr "PRO Eğitimi: Feedburner email güncelleme bağlantını bul"
+
+#: functions/vigilance-extend.php:281
+msgid "Enable Twitter"
+msgstr "Twitter'ı Etkinleştir"
+
+#: functions/vigilance-extend.php:283
+msgid "Hip to Twitter? Check this box."
+msgstr "Twitter'cımısın? Bu kutuyu işaretle"
+
+#: functions/vigilance-extend.php:287
+msgid "Twitter updates link"
+msgstr "Twitter güncellemeleri bağlantısı"
+
+#: functions/vigilance-extend.php:289
+msgid "Enter your twitter link here."
+msgstr "Twitter bağlantını buraya gir"
+
+#: functions/vigilance-extend.php:292
+msgid "Footer <span>add a copyright notice and tracking codes</span>"
+msgstr "Footer <span>copyright kodu, tracking bağlantısı vs gir</span>"
+
+#: functions/vigilance-extend.php:295
+msgid "Copyright notice"
+msgstr "Copyright yazısı"
+
+#: functions/vigilance-extend.php:297
+msgid "Your name or the name of your business."
+msgstr "Senin yada işinin adı buraya."
+
+#: functions/vigilance-extend.php:301
+msgid "Stats code"
+msgstr "Durum kodu"
+
+#: functions/vigilance-extend.php:303
+msgid "If you would like to use Google Analytics or any other tracking script in your footer just paste it here. The script will be inserted before the closing <code>&#60;/body&#62;</code> tag."
+msgstr "Google Analytics yada başka bir takip scripti kullanmak istersen buraya yapıştır. Script, <code>&#60;/body&#62;</code> etiketi kapantılmadan girilmeli."
+

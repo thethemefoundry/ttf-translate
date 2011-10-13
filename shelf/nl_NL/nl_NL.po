@@ -1,0 +1,553 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Shelf WordPress Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-11-23 10:12-0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: card-commentform.php:6
+msgid "What do you think?"
+msgstr "Hoe denk jij erover?"
+
+#: card-commentform.php:7
+msgid "Please keep your comments polite and on-topic."
+msgstr "Alsjeblieft, houd je reactie beleefd en on-topic."
+
+#: card-commentform.php:13
+msgid "Name"
+msgstr "Naam"
+
+#: card-commentform.php:15
+msgid "Email"
+msgstr "E-mail"
+
+#: card-commentform.php:17
+msgid "Website"
+msgstr "Website"
+
+#: card-commentform.php:23
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Je moet <a href=\"%s\">ingelogd</a> zijn om een reactie te plaatsen."
+
+#: card-commentform.php:24
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr "Ingelogd als <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Uitloggen uit dit account\">Uitloggen?</a>"
+
+#: card-commentform.php:31
+msgid "Cancel reply"
+msgstr "Annuleer reactie"
+
+#: card-commentform.php:32
+msgid "Send Message"
+msgstr "Bericht Verzenden"
+
+#: comments.php:4
+msgid "comments"
+msgstr "reacties"
+
+#: footer.php:5
+msgid "Copyright"
+msgstr "Copyright"
+
+#: footer.php:12
+msgid "&larr; Newer entries"
+msgstr "&larr; Nieuwere Items"
+
+#: footer.php:14
+msgid "Older Entries &rarr;"
+msgstr "Oudere Items"
+
+#: functions.php:59
+msgid "reblogged this and added:"
+msgstr "Opnieuw geblogged en toegevoegd:"
+
+#: header.php:8
+msgid "Page Not Found |"
+msgstr "Pagina Niet Gevonden |"
+
+#: header.php:10
+#, php-format
+msgid "Search results for '%s'"
+msgstr "Zoekresultaten voor '%s'"
+
+#: header.php:88
+msgid "RSS"
+msgstr "RSS"
+
+#: header.php:90
+msgid "Twitter"
+msgstr "Twitter"
+
+#: header.php:93
+msgid "Facebook"
+msgstr "Facebook"
+
+#: header.php:99
+msgid "Previous"
+msgstr "Vorige"
+
+#: header.php:100
+msgid "Next"
+msgstr "Volgende"
+
+#: header.php:121
+msgid "You can scroll the shelf using <b>&larr;</b> and <b>&rarr;</b> keys"
+msgstr "Je kunt de plank (shelf) scrollen met de <b>&larr;</b> en <b>&rarr;</b> toetsen"
+
+#: functions/shelf-admin.php:37
+msgid "The <code>/wp-content/uploads</code> folder is not writable. Try changing the permissions. <a href=\"http://codex.wordpress.org/Changing_File_Permissions\">Learn how to change permissions &rarr;</a>"
+msgstr "De <code>/wp-content/uploads</code> map is niet schrijfbaar. Probeer de rechten te wijzigen. <a href=\"http://codex.wordpress.org/Changing_File_Permissions\">Leer hoe de bestandsrechten aan te passen &rarr;</a>"
+
+#: functions/shelf-admin.php:51
+msgid "There was an error uploading the file. Please try again."
+msgstr "Er was een probleem met het uploaden van het bestand. Probeer het a.u.b. nog een keer."
+
+#: functions/shelf-admin.php:71
+msgid "There was an error, please remove the logo and try again."
+msgstr "Er was een probleem. Verwijder het logo en probeer het nog een keer."
+
+#: functions/shelf-admin.php:116
+msgid " settings saved!"
+msgstr "instellingen bewaard!"
+
+#: functions/shelf-admin.php:117
+msgid " settings reset."
+msgstr "instellingen gereset."
+
+#: functions/shelf-admin.php:121
+msgid "Options"
+msgstr "Opties"
+
+#: functions/shelf-admin.php:122
+msgid "Need help?"
+msgstr "Hulp nodig?"
+
+#: functions/shelf-admin.php:122
+msgid "Read the tutorials"
+msgstr "Lees de tutorials (EN)"
+
+#: functions/shelf-admin.php:122
+msgid "or visit the <a href=\"http://thethemefoundry.com/forums/\">support forums.</a>"
+msgstr "of bezoek de <a href=\"http://thethemefoundry.com/forums/\">support fora.</a>"
+
+#: functions/shelf-admin.php:134
+#: functions/shelf-admin.php:260
+msgid "Save changes"
+msgstr "Bewaar veranderingen"
+
+#: functions/shelf-admin.php:186
+msgid "Choose your image"
+msgstr "Kies je afbeelding"
+
+#: functions/shelf-admin.php:191
+msgid "Remove"
+msgstr "Verwijder"
+
+#: functions/shelf-admin.php:194
+msgid "Preview logo"
+msgstr "Logo voorbeeld"
+
+#: functions/shelf-admin.php:195
+msgid "Cannot locate your logo image, it may have been moved or renamed. Please remove and try uploading again."
+msgstr "Kan je logo afbeelding niet vinden. Het kan zijn verplaatst of verwijdert. Verwijder het a.u.n. en probeer nog een keer te uploaden."
+
+#: functions/shelf-admin.php:216
+msgid "show color picker"
+msgstr "Toon kleurenkiezer"
+
+#: functions/shelf-admin.php:216
+msgid "hide color picker"
+msgstr "Verstop kleurenkiezer"
+
+#: functions/shelf-admin.php:265
+msgid "Save all changes"
+msgstr "Bewaar alle wijzigingen"
+
+#: functions/shelf-admin.php:271
+msgid "Reset all options"
+msgstr "Reset alle opties"
+
+#: functions/shelf-extend.php:31
+msgid "Custom Logo Image <span>insert your custom logo image in the header</span>"
+msgstr "Custom Logo afbeelding <span>voeg je custom logo afbeelding in de header</span>"
+
+#: functions/shelf-extend.php:35
+msgid "Enable custom logo image"
+msgstr "Activeer custom logo afbeelding"
+
+#: functions/shelf-extend.php:37
+msgid "Check to use a custom logo in the header."
+msgstr "Kruis aan om een custom logo in de header te gebruiken."
+
+#: functions/shelf-extend.php:42
+msgid "Prefer FTP? Specify a file name."
+msgstr "Liever FTP? Geef een bestandsnaam op."
+
+#: functions/shelf-extend.php:44
+#, php-format
+msgid "Choose an image from your computer or specify any image file name you have uploaded to the %s directory."
+msgstr "Kies een afbeelding op je computer of geef een bestandsnaam op van de afbeelding die je hebt geupload naar de %s map."
+
+#: functions/shelf-extend.php:51
+msgid "Logo image <code>&lt;alt&gt;</code> tag"
+msgstr "Logo afbeelding <code>&lt;alt&gt;</code> tag"
+
+#: functions/shelf-extend.php:53
+msgid "Specify the <code>&lt;alt&gt;</code> tag for your logo image."
+msgstr "Specificeer de <code>&lt;alt&gt;</code> tag voor je logo afbeelding."
+
+#: functions/shelf-extend.php:58
+msgid "Display blog title"
+msgstr "Toon blog titel"
+
+#: functions/shelf-extend.php:60
+msgid "Check to show your title. The title will automatically be shown if the custom logo image is not enabled."
+msgstr "Kruis aan om je titel te tonen. De titel wordt automatisch getoond als je het custom logo niet gebruikt."
+
+#: functions/shelf-extend.php:65
+msgid "Display tagline"
+msgstr "Toon tagline"
+
+#: functions/shelf-extend.php:67
+msgid "Check to show your tagline below your logo."
+msgstr "Kruis aan om de tafline onder je logo te tonen."
+
+#: functions/shelf-extend.php:72
+msgid "Hide background title"
+msgstr "Verberg achtergrond titel"
+
+#: functions/shelf-extend.php:74
+msgid "Check to hide the large background site title text."
+msgstr "Kruis aan om de grote achtergrond site titel tekst te verbergen."
+
+#: functions/shelf-extend.php:79
+msgid "Tumblog <span>configure tumblog options</span>"
+msgstr "Tumblog <span>configureer tumblog opties</span>"
+
+#: functions/shelf-extend.php:83
+msgid "Use custom tumblog RSS Feed"
+msgstr "Gebruik custom tumblog RSS Feed"
+
+#: functions/shelf-extend.php:85
+msgid "Selecting yes will add custom elements to your RSS feed. Selecting no will leave out custom elements."
+msgstr "Ja selecteren voegt custom elementen toe aan je RSS feed. Nee selecteren laat deze eruit."
+
+#: functions/shelf-extend.php:89
+msgid "Yes"
+msgstr "Ja"
+
+#: functions/shelf-extend.php:90
+msgid "No"
+msgstr "Nee"
+
+#: functions/shelf-extend.php:93
+msgid "Tumblog image posts link to"
+msgstr "Tumblog afbeelding posts link naar"
+
+#: functions/shelf-extend.php:95
+msgid "Where to go when the reader clicks on an image post."
+msgstr "Waar naar toe te gaan als de lezer op een afbeelding post klikt."
+
+#: functions/shelf-extend.php:99
+msgid "The Post"
+msgstr "Het Artikel"
+
+#: functions/shelf-extend.php:100
+msgid "The Image"
+msgstr "De Afbeelding"
+
+#: functions/shelf-extend.php:103
+msgid "Subscribe Links <span>control the subscribe links</span>"
+msgstr "Abonneer Links <span>beheer de abonnee  links</span>"
+
+#: functions/shelf-extend.php:107
+msgid "Enable Twitter"
+msgstr "Activeer Twitter"
+
+#: functions/shelf-extend.php:109
+msgid "Hip to Twitter? Check this box. Please set your Twitter username in the Twitter menu."
+msgstr "Wil je Twitter? Kruis het vierkant aan. Geef je Twitter gebruikersnaam in in het Twitter menu."
+
+#: functions/shelf-extend.php:114
+msgid "Enable Facebook"
+msgstr "Activeer Facebook"
+
+#: functions/shelf-extend.php:116
+msgid "Check this box to show a link to your Facebook page."
+msgstr "Kruis dit vierkant aan om een link naar je Facebook pagina te tonen."
+
+#: functions/shelf-extend.php:121
+msgid "Disable all"
+msgstr "Deactiveer alles"
+
+#: functions/shelf-extend.php:123
+msgid "Check this box to hide all follow icons (including RSS). This option overrides any other settings."
+msgstr "Kruis dit vierkant aan om alle volg iconen te verbergen (inclusief RSS). Deze optie gaat voor alle andere instellingen."
+
+#: functions/shelf-extend.php:128
+msgid "Twitter name"
+msgstr "Twitter naam"
+
+#: functions/shelf-extend.php:130
+msgid "Enter your Twitter name."
+msgstr "Type je Twitter naam."
+
+#: functions/shelf-extend.php:135
+msgid "Facebook link"
+msgstr "Facebook link"
+
+#: functions/shelf-extend.php:137
+msgid "Enter your Facebook link."
+msgstr "Voer je Facebook link in."
+
+#: functions/shelf-extend.php:142
+msgid "Footer <span>customize your footer</span>"
+msgstr "Footer <span>bewerk je footer</span>"
+
+#: functions/shelf-extend.php:146
+msgid "Copyright notice"
+msgstr "Copyright mededeling"
+
+#: functions/shelf-extend.php:148
+msgid "Your name or the name of your business."
+msgstr "Jouw naam of de naam van je bedrijf."
+
+#: functions/shelf-extend.php:149
+msgid "Your Name Here"
+msgstr "Jouw naam hier"
+
+#: functions/shelf-extend.php:153
+msgid "Stats code"
+msgstr "Stats code"
+
+#: functions/shelf-extend.php:155
+#, php-format
+msgid "If you would like to use Google Analytics or any other tracking script in your footer just paste it here. The script will be inserted before the closing %s tag."
+msgstr "Als je gebruik wilt maken van Google Analytics of een ander tracking script in je footer plak het hier. Het script wordt ingevoegd voor de sluitende %s tag."
+
+#: functions/shelf-extend.php:174
+msgid "All"
+msgstr "Alle"
+
+#: functions/shelf-extend.php:232
+msgid "Top Navigation"
+msgstr "Top Navigatie"
+
+#: functions/tumblog/classes/wootumblog.class.php:149
+msgid "How to add Tumblog functionality to your theme!"
+msgstr "Hoe Tumblog functionaliteit aan je theme toe te voegen!"
+
+#: functions/tumblog/classes/wootumblog.class.php:151
+msgid "Included Template Tags:"
+msgstr "Ingesloten Template Tags:"
+
+#: functions/tumblog/classes/wootumblog.class.php:163
+msgid "Twenty Ten example implementation:"
+msgstr "Twenty Ten voorbeeld implementatie:"
+
+#: functions/tumblog/classes/wootumblog.class.php:179
+msgid "Woo Tumblog is almost ready."
+msgstr "Woo Tumblog is bijna klaar."
+
+#: functions/tumblog/classes/wootumblog.class.php:179
+#, php-format
+msgid "You must <a href=\"%1$s\">configure your settings</a> for it to work."
+msgstr "Je moet <a href=\"%1$s\">je opties instellen</a> om het te laten werken."
+
+#: functions/tumblog/classes/wootumblog.class.php:187
+#: functions/tumblog/classes/wootumblog.class.php:272
+msgid "NOTE\t:"
+msgstr "NOTE\t:"
+
+#: functions/tumblog/classes/wootumblog.class.php:187
+msgid "You can add the custom tumblog output to your theme by following the instructions in "
+msgstr "Je kan de custom tumblog aan je theme toevoegen door de instructies te volgen in:"
+
+#: functions/tumblog/classes/wootumblog.class.php:187
+#, php-format
+msgid "the contextual help in the <a href=\"%1$s\">Tumblog Options</a> page."
+msgstr "de context help in de <a href=\"%1$s\">Tumblog Opties</a> pagina."
+
+#: functions/tumblog/classes/wootumblog.class.php:208
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Je hebt onvoldoende rechten om deze pagina te benaderen."
+
+#: functions/tumblog/classes/wootumblog.class.php:245
+msgid "WooTumblog Plugin Options"
+msgstr "WooTumblog Plug-in Opties"
+
+#: functions/tumblog/classes/wootumblog.class.php:246
+msgid "Version"
+msgstr "Versie"
+
+#: functions/tumblog/classes/wootumblog.class.php:256
+msgid "View Changelog"
+msgstr "Bekijk Wijzigingen"
+
+#: functions/tumblog/classes/wootumblog.class.php:257
+msgid "View Plugin Docs"
+msgstr "Bekijk Plug-in Docs"
+
+#: functions/tumblog/classes/wootumblog.class.php:258
+msgid "Visit WordPress Forum"
+msgstr "Bezoek WordPress Forum"
+
+#: functions/tumblog/classes/wootumblog.class.php:272
+msgid "Add the tumblog output to your theme by following the instructions in the contextual help menu above."
+msgstr "Voeg de tumblog output toe aan jouw theme door het volgen van de instructies in het context help menu hierboven."
+
+#: functions/tumblog/classes/wootumblog.class.php:292
+msgid "Options saved"
+msgstr "Instellingen bewaard"
+
+#: functions/tumblog/classes/wootumblog.class.php:298
+msgid "Failed to save options"
+msgstr "Bewaren van instellingen mislukt"
+
+#: functions/tumblog/classes/wootumblog.class.php:312
+msgid "Use Custom Tumblog RSS Feed"
+msgstr "Gebruik custom Tumblog RSS feed"
+
+#: functions/tumblog/classes/wootumblog.class.php:328
+msgid "Tumblog Image Posts Link to"
+msgstr "Tumblog Afbeelding posts link naar"
+
+#: functions/tumblog/classes/wootumblog.class.php:345
+msgid "Tumblog Image Width"
+msgstr "Tumblog Afbeeldingsbreedte"
+
+#: functions/tumblog/classes/wootumblog.class.php:348
+msgid "Height is dynamically calculated"
+msgstr "Hoogte wordt dynamisch berekend"
+
+#: functions/tumblog/classes/wootumblog.class.php:469
+msgid "Play Audio"
+msgstr "Speel Audio"
+
+#: functions/tumblog/classes/wootumblog.class.php:476
+msgid " ~ "
+msgstr " ~ "
+
+#: functions/tumblog/classes/wootumblog_taxonomy.class.php:31
+msgid "Tumblogs"
+msgstr "Tumblogs"
+
+#: functions/tumblog/classes/wootumblog_taxonomy.class.php:32
+msgid "Tumblog"
+msgstr "Tumblog"
+
+#: functions/tumblog/classes/wootumblog_taxonomy.class.php:33
+msgid "Search Tumblogs"
+msgstr "Doorzoek Tumblogs"
+
+#: functions/tumblog/classes/wootumblog_taxonomy.class.php:34
+msgid "Popular Tumblogs"
+msgstr "Populaire Tumblogs"
+
+#: functions/tumblog/classes/wootumblog_taxonomy.class.php:35
+msgid "All Tumblogs"
+msgstr "Alle Tumblogs"
+
+#: functions/tumblog/classes/wootumblog_taxonomy.class.php:36
+msgid "Parent Tumblog"
+msgstr "Ouder Tumblog"
+
+#: functions/tumblog/classes/wootumblog_taxonomy.class.php:37
+msgid "Parent Tumblog:"
+msgstr "Ouder Tumblog:"
+
+#: functions/tumblog/classes/wootumblog_taxonomy.class.php:38
+msgid "Edit Tumblog"
+msgstr "Edit Tumblog"
+
+#: functions/tumblog/classes/wootumblog_taxonomy.class.php:39
+msgid "Update Tumblog"
+msgstr "Update Tumblog"
+
+#: functions/tumblog/classes/wootumblog_taxonomy.class.php:40
+msgid "Add New Tumblog"
+msgstr "Voeg Nieuw Tumblog toe"
+
+#: functions/tumblog/classes/wootumblog_taxonomy.class.php:41
+msgid "New Tumblog Name"
+msgstr "Nieuwe Tumblog Naam"
+
+#: functions/tumblog/classes/wootumblog_taxonomy.class.php:59
+msgid "articles"
+msgstr "artikelen"
+
+#: functions/tumblog/classes/wootumblog_taxonomy.class.php:59
+msgid "Articles"
+msgstr "Artikelen"
+
+#: functions/tumblog/classes/wootumblog_taxonomy.class.php:60
+msgid "images"
+msgstr "afbeeldingen"
+
+#: functions/tumblog/classes/wootumblog_taxonomy.class.php:60
+msgid "Images"
+msgstr "Afbeeldingen"
+
+#: functions/tumblog/classes/wootumblog_taxonomy.class.php:61
+msgid "audio"
+msgstr "audio"
+
+#: functions/tumblog/classes/wootumblog_taxonomy.class.php:61
+msgid "Audio"
+msgstr "Audio"
+
+#: functions/tumblog/classes/wootumblog_taxonomy.class.php:62
+msgid "video"
+msgstr "video"
+
+#: functions/tumblog/classes/wootumblog_taxonomy.class.php:62
+msgid "Video"
+msgstr "Video"
+
+#: functions/tumblog/classes/wootumblog_taxonomy.class.php:63
+msgid "quotes"
+msgstr "Video"
+
+#: functions/tumblog/classes/wootumblog_taxonomy.class.php:63
+msgid "Quotes"
+msgstr "Quotes"
+
+#: functions/tumblog/classes/wootumblog_taxonomy.class.php:64
+msgid "links"
+msgstr "links"
+
+#: functions/tumblog/classes/wootumblog_taxonomy.class.php:64
+msgid "Links"
+msgstr "Links"
+
+#: functions/tumblog/classes/wootumblog_taxonomy.class.php:99
+msgid "View all Tumblogs"
+msgstr "Bekijk alle Tumblogs"
+
+#: functions/tumblog/classes/wootumblog_taxonomy.class.php:112
+msgid "Filter"
+msgstr "Filter"
+
+#: functions/tumblog/functions/wootumblog_express_app_functions.php:209
+msgid "You are not allowed to upload files to this site."
+msgstr "Je mag geen bestanden uploaden naar deze site."
+
+#: functions/tumblog/functions/wootumblog_express_app_functions.php:235
+#, php-format
+msgid "Could not write file %1$s (%2$s)"
+msgstr "Kan bestand %1$s (%2$s) niet schrijven"
+

@@ -1,0 +1,634 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Titan WordPress Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-10-07 12:00-0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Drew Strojny <themes@jestro.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:2
+msgid "404: Page Not Found"
+msgstr "404: Pagina niet gevonden"
+
+#: 404.php:4
+msgid "We are terribly sorry, but the URL you typed no longer exists. It might have been moved or deleted, or perhaps you mistyped it. We suggest searching the site:"
+msgstr "Het spijt ons, maar de gebruikte URL bestaat niet (meer). Misschien is de informatie je zoekt verplaatst of verwijderd. Probeer anders de zoekfunctie:"
+
+#: archive.php:4
+#, php-format
+msgid "Posts from the  &#8216;%s&#8217; Category"
+msgstr "Artikelen uit de rubriek &#8216;%s&#8217;"
+
+#: archive.php:6
+#, php-format
+msgid "Posts tagged &#8216;%s&#8217;"
+msgstr "Artikelen met de tag &#8216;%s&#8217;"
+
+#: archive.php:8
+#: archive.php:10
+#: archive.php:12
+msgid "Archive for"
+msgstr "Archief voor"
+
+#: archive.php:8
+#: archive.php:21
+#: single.php:8
+msgid "F jS, Y"
+msgstr ""
+
+#: archive.php:10
+msgid "F, Y"
+msgstr ""
+
+#: archive.php:12
+msgid "Y"
+msgstr ""
+
+#: archive.php:14
+#, php-format
+msgid "Posts by %s"
+msgstr "Artikelen door %s"
+
+#: archive.php:16
+msgid "Blog Archives"
+msgstr "Blog archief"
+
+#: archive.php:21
+#, php-format
+msgid "%s on"
+msgstr "%s over"
+
+#: archive.php:26
+#: index.php:21
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Eerdere artikelen"
+
+#: archive.php:27
+#: index.php:22
+msgid "Newer Entries &raquo;"
+msgstr "Latere artikelen &raquo;"
+
+#: comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Dit artikel is beschermd met een wachtwoord. Geef het wachtwoord in om de reacties te zien."
+
+#: comments.php:16
+msgid "No Comments Yet"
+msgstr "Nog geen reacties"
+
+#: comments.php:16
+msgid "One Comment"
+msgstr "1 Reactie"
+
+#: comments.php:16
+msgid "% Comments"
+msgstr "% Reacties"
+
+#: comments.php:18
+msgid "Leave One"
+msgstr "Laat reactie achter"
+
+#: comments.php:25
+msgid "&laquo; Older Comments"
+msgstr "&laquo;  Eerdere reacties"
+
+#: comments.php:26
+msgid "Newer Comments &raquo;"
+msgstr "Latere reacties &raquo;"
+
+#: comments.php:29
+msgid "Trackbacks &amp; Pingbacks"
+msgstr "Trackbacks &amp; Pingbacks"
+
+#: comments.php:35
+#: comments.php:46
+msgid "Comments are closed."
+msgstr "De mogelijkheid om reacties te geven is gesloten voor dit artikel."
+
+#: comments.php:41
+msgid "No comments yet"
+msgstr "Nog geen reacties"
+
+#: comments.php:58
+msgid "Leave a Reply"
+msgstr "Laat een reactie achter"
+
+#: comments.php:60
+msgid "You must be"
+msgstr "Je moet"
+
+#: comments.php:60
+msgid "logged in"
+msgstr "ingelogd"
+
+#: comments.php:60
+msgid "to post a comment."
+msgstr "zijn om een reactie achter te laten."
+
+#: comments.php:65
+msgid "Logged in as"
+msgstr "Ingelogd als"
+
+#: comments.php:65
+msgid "Log out &raquo;"
+msgstr "Uitloggen &raquo;"
+
+#: comments.php:68
+msgid "Name:"
+msgstr "Naam:"
+
+#: comments.php:68
+#: comments.php:72
+msgid "(required)"
+msgstr "(verplicht)"
+
+#: comments.php:72
+msgid "Email:"
+msgstr "Email:"
+
+#: comments.php:76
+msgid "Website:"
+msgstr "Website:"
+
+#: comments.php:81
+msgid "Comment:"
+msgstr "Reactie:"
+
+#: comments.php:84
+msgid "<strong>Note:</strong> XHTML is allowed. Your email address will <strong>never</strong> be published."
+msgstr "<strong>NB:</strong> XHTML is toegstaan. Je email adres wordt <strong>niet</strong> gepubliceerd."
+
+#: comments.php:85
+msgid "Subscribe to this comment feed via RSS"
+msgstr "Abonneer je op de reacties op dit artikel via RSS"
+
+#: comments.php:88
+msgid "Submit Comment"
+msgstr "Reactie plaatsen"
+
+#: footer.php:7
+#: functions/titan-extend.php:205
+msgid "About"
+msgstr "Over"
+
+#: footer.php:11
+msgid "Did you know you can write your own about section just like this one? It's really easy. Head into the the <em>Titan Options</em> menu and check out the footer section. Type some stuff in the box, click save, and your new about section shows up in the footer."
+msgstr "Wist je dat je dit blok eenvoudig met je eigen tekst kunt vullen? Ga naar het <em>Titan Options</em> menu en bekijk het gedeelte betreffende de \"Footer\". Vul daar je eigen tekst in, klik \"Save\" en voila!"
+
+#: footer.php:12
+msgid "Wondering about those Flickr photos on the right?"
+msgstr "Benieuwd naar de Flickr photos hiernaast?"
+
+#: footer.php:13
+msgid "We didn't take them, they are a random sampling of the most popular photos on Flickr with the tag 'nature'. All rights are reserved to the original copyright holders where applicable."
+msgstr "Ze zijn niet door ons genoemn, het is slechts een willekeurige greep uit de meest populaire foto's op Flickr met de tag \"nature\". Alle rechten zijn gereserveerd door de originele rechthebbenden waar van toepassing."
+
+#: footer.php:21
+#: sidebar.php:30
+msgid "Categories"
+msgstr "Rubrieken"
+
+#: footer.php:29
+msgid "Flickr"
+msgstr "FlickR"
+
+#: footer.php:47
+msgid "Search"
+msgstr "Zoeken"
+
+#: footer.php:54
+msgid "Copyright"
+msgstr "Copyright"
+
+#: functions.php:23
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:33
+msgid "Footer"
+msgstr "Footer"
+
+#: header.php:9
+msgid "Page Not Found |"
+msgstr "Pagina niet gevonden |"
+
+#: header.php:11
+#: search.php:3
+#: search.php:25
+#, php-format
+msgid "Search results for '%s'"
+msgstr "Zoekresultaten voor '%s'"
+
+#: header.php:47
+msgid "Follow:"
+msgstr "Volg ons:"
+
+#: header.php:48
+msgid "RSS"
+msgstr "RSS"
+
+#: header.php:50
+msgid "Email"
+msgstr "Email"
+
+#: header.php:53
+msgid "Twitter"
+msgstr "Twitter"
+
+#: header.php:66
+msgid "Home"
+msgstr "Home"
+
+#: index.php:6
+#: search.php:7
+msgid "M j"
+msgstr ""
+
+#: index.php:8
+#: search.php:9
+#, php-format
+msgid "by %s"
+msgstr "door %s"
+
+#: index.php:11
+#: search.php:12
+#: single.php:11
+msgid "read more..."
+msgstr "Lees het volledige artikel..."
+
+#: index.php:12
+#: page.php:7
+#: search.php:13
+#: single.php:12
+msgid "Edit This"
+msgstr "Bewerken"
+
+#: index.php:16
+msgid "Leave a comment"
+msgstr "Laat een reactie achter"
+
+#: index.php:16
+msgid "1 Comment"
+msgstr "1 Reactie"
+
+#: index.php:16
+msgid "% Comment"
+msgid_plural "% Comments"
+msgstr[0] "% Reactie"
+msgstr[1] "% Reacties"
+
+#: search.php:27
+#, php-format
+msgid "Sorry your search for \"%s\" did not turn up any results. Please try again."
+msgstr "Sorry, het zoeken naar \"%s\" heeft geen resultaat opgeleverd. Probeer een andere zoekopdracht."
+
+#: sidebar.php:22
+msgid "Recent Articles"
+msgstr "Recente artikelen"
+
+#: sidebar.php:36
+msgid "Archives"
+msgstr "Archieven"
+
+#: single.php:8
+#, php-format
+msgid "by %s on"
+msgstr "door %s op"
+
+#: single.php:16
+msgid "From"
+msgstr "Van"
+
+#: functions/comments.php:10
+msgid "permalink"
+msgstr "permalink"
+
+#: functions/comments.php:13
+msgid "<em><strong>Please Note:</strong> Your comment is awaiting moderation.</em>"
+msgstr "<em><strong>Ter info::</strong> Je reactie wacht nog op goedkeuring.</em>"
+
+#: functions/titan-admin.php:60
+msgid " settings saved!"
+msgstr "instellingen opgeslagen!"
+
+#: functions/titan-admin.php:61
+msgid " settings reset."
+msgstr "instellingen teruggezet."
+
+#: functions/titan-admin.php:65
+msgid "Options"
+msgstr "Opties"
+
+#: functions/titan-admin.php:66
+msgid "Need help with these options?"
+msgstr "Hulp nodig bij deze instellingen?"
+
+#: functions/titan-admin.php:66
+msgid "Read the tutorials"
+msgstr "Lees de instructies"
+
+#: functions/titan-admin.php:66
+msgid "or visit the <a href=\"http://themes.jestro.com/forums/\">support forums.</a>"
+msgstr "of bezoek de <a href=\"http://themes.jestro.com/forums/\">support forums.</a>"
+
+#: functions/titan-admin.php:78
+#: functions/titan-admin.php:185
+msgid "Save changes"
+msgstr "Wijzigingen opslaan"
+
+#: functions/titan-admin.php:141
+msgid "show color picker"
+msgstr "toon kleurkiezer"
+
+#: functions/titan-admin.php:141
+msgid "hide color picker"
+msgstr "verberg kleurkiezer"
+
+#: functions/titan-admin.php:190
+msgid "Save all changes"
+msgstr "Alle wijzigingen opslaan"
+
+#: functions/titan-admin.php:196
+msgid "Reset all options"
+msgstr "Alle instellingen terugzetten"
+
+#: functions/titan-extend.php:29
+msgid "Custom Logo Image <span>insert your custom logo image in the header</span>"
+msgstr "Custom Logo <span>voeg hier je afbeelding in om als logo in de header te gebruiken</span>"
+
+#: functions/titan-extend.php:30
+msgid "This option is for PRO members only. To enable this option and use your custom logo please <a href=\"https://themes.jestro.com/members/signup.php\">sign-up</a> for a PRO membership and <a href=\"http://themes.jestro.com/downloads/\">download</a> the titan PRO child theme."
+msgstr "Deze optie is enkel voor PRO leden. Om deze optie te activeren en je eigen logo te gebruiken kun je <a href=\"https://themes.jestro.com/members/signup.php\">lid worden</a> en het titan PRO child theme <a href=\"http://themes.jestro.com/downloads/\">downloaden</a>."
+
+#: functions/titan-extend.php:33
+msgid "Enable custom logo image"
+msgstr "Gebruik je eigen logo"
+
+#: functions/titan-extend.php:35
+msgid "Check to use a custom logo in the header."
+msgstr "Aanvinken om je eigen logo te gebruiken."
+
+#: functions/titan-extend.php:39
+msgid "Logo image file name"
+msgstr "Bestandsnaam"
+
+#: functions/titan-extend.php:41
+msgid "Upload your logo image here: "
+msgstr "Je logo uploaden"
+
+#: functions/titan-extend.php:45
+msgid "Logo image <code>&lt;alt&gt;</code> tag"
+msgstr "Logo ALT tag"
+
+#: functions/titan-extend.php:47
+msgid "Specify the <code>&lt;alt&gt;</code> tag for your logo image."
+msgstr "Een alt tag voor je logo. Belangrijk voor SEO."
+
+#: functions/titan-extend.php:51
+msgid "Display tagline"
+msgstr "Toon tagline"
+
+#: functions/titan-extend.php:53
+msgid "Check to show your tagline below your logo."
+msgstr "Aanvinken om je tagline naast je logo te tonen."
+
+#: functions/titan-extend.php:57
+msgid "Navigation <span>control your top navigation menu</span>"
+msgstr "Navigatie <span>beheer van het top navigatie menu</span>"
+
+#: functions/titan-extend.php:60
+msgid "Hide all pages"
+msgstr "Pagina's verbergen"
+
+#: functions/titan-extend.php:62
+msgid "Check this box to hide all pages"
+msgstr "Aanvinken om alle pagina's te verbergen"
+
+#: functions/titan-extend.php:66
+msgid "Exclude specific pages"
+msgstr "Specifieke pagina's verbergen"
+
+#: functions/titan-extend.php:68
+msgid "The page ID of pages you do not want displayed in your navigation menu. Use a comma-delimited list, eg. 1,2,3"
+msgstr "Geef hier de ID's van de pagina's die je niet in het navigatie menu wil tonen. Gebruik een door komma's gescheiden lijst, zoals 1,2,3"
+
+#: functions/titan-extend.php:72
+msgid "Hide all categories"
+msgstr "Rubrieken verbergen"
+
+#: functions/titan-extend.php:74
+msgid "Check this box to hide all categories."
+msgstr "Aanvinken om alle rubrieken te verbergen"
+
+#: functions/titan-extend.php:78
+msgid "Exclude specific categories"
+msgstr "Specifieke rubrieken verbergen"
+
+#: functions/titan-extend.php:80
+msgid "The category ID of pages you do not want displayed in your navigation menu.. Use a comma-delimited list, eg. 1,2,3"
+msgstr "Geef hier de ID's van de rubrieken die je niet in het navigatie menu wil tonen. Gebruik een door komma's gescheiden lijst, zoals 1,2,3"
+
+#: functions/titan-extend.php:84
+msgid "Hide home navigation menu item"
+msgstr "Home pagina verbergen"
+
+#: functions/titan-extend.php:86
+msgid "Check this box if you are using a static page as your homepage instead of your blog (the default). The extra <em>Home</em> menu item will be removed."
+msgstr "Aanvinken als je een statische pagina als homepage wil gebruiken i.p.v. je blog (de standaardinstelling). Het item <em>Home</em> word dan uit het navigatie menu gehaald."
+
+#: functions/titan-extend.php:90
+msgid "Follow Links <span>top right follow links</span>"
+msgstr "Volg ons links <span>Volg ons links rechtboven</span>"
+
+#: functions/titan-extend.php:93
+msgid "Email updates link"
+msgstr "Email updates link"
+
+#: functions/titan-extend.php:95
+msgid "Enter your feed email link here."
+msgstr "Plaats je feed email link hier."
+
+#: functions/titan-extend.php:100
+msgid "Disable email link"
+msgstr "Geen email link"
+
+#: functions/titan-extend.php:102
+msgid "Don't want to offer email updates, check the box."
+msgstr "Aanvinken als je geen email updates beschikbaar wil stellen."
+
+#: functions/titan-extend.php:106
+msgid "Twitter updates link"
+msgstr "Aanvinken als je geen email updates beschikbaar wil stellen."
+
+#: functions/titan-extend.php:108
+msgid "Enter the link to your Twitter page."
+msgstr "Plaats Twitter link hier"
+
+#: functions/titan-extend.php:111
+msgid "Disable Twitter"
+msgstr "Geen twitter"
+
+#: functions/titan-extend.php:113
+msgid "Not hip to Twitter? That's cool, just check this box."
+msgstr "Niet zo gek op Twitter? Aanvinken om de Twitter link niet te tonen."
+
+#: functions/titan-extend.php:117
+msgid "Homepage Notice <span>display a notice on your homepage</span>"
+msgstr "Notitie op homepage <span>laat een notitie zien op je homepage</span>"
+
+#: functions/titan-extend.php:120
+msgid "Enable homepage notice"
+msgstr "Notitie op homepage"
+
+#: functions/titan-extend.php:122
+msgid "Check this box to use a custom notice on the home page."
+msgstr "Aanvinken om je eigen notitie op de homepage te tonen."
+
+#: functions/titan-extend.php:126
+msgid "Custom notice"
+msgstr "Inhoud notitie"
+
+#: functions/titan-extend.php:128
+msgid "The content of your custom notice."
+msgstr "De inhoud voor de notitie"
+
+#: functions/titan-extend.php:134
+msgid "Sidebar Sidebox <span>customize your sidebox</span>"
+msgstr "Sidebar Sidebox <span>pas je sidebox aan</span>"
+
+#: functions/titan-extend.php:137
+msgid "Disable sidebox"
+msgstr "Sidebox verbergen"
+
+#: functions/titan-extend.php:139
+msgid "Check this box to disable the sidebar sidebox."
+msgstr "Aanvinken om sidebar sidebox niet te tonen."
+
+#: functions/titan-extend.php:143
+msgid "Custom code"
+msgstr "Je eigen code"
+
+#: functions/titan-extend.php:145
+msgid "Check this box to use custom code for the sidebox."
+msgstr "Aanvinken om je eigen code te gebruiken"
+
+#: functions/titan-extend.php:149
+msgid "Custom code content"
+msgstr "Code"
+
+#: functions/titan-extend.php:151
+msgid "Must use properly formatted XHTML/HTML."
+msgstr "Gebruik juist geformatteerde XHTML/HTML"
+
+#: functions/titan-extend.php:157
+msgid "Sidebar Adbox <span>control ads in your sidebar</span>"
+msgstr "Sidebar Adbox <span>plaats advertenties in je sidebar</span>"
+
+#: functions/titan-extend.php:160
+msgid "Enable adbox"
+msgstr "Adbox activeren"
+
+#: functions/titan-extend.php:162
+msgid "Check this box to enable the sidebar adbox."
+msgstr "Aanvinken om de sidebar adbox te activeren"
+
+#: functions/titan-extend.php:166
+msgid "Ad 1 file name"
+msgstr "Ad 1 bestandsnaam"
+
+#: functions/titan-extend.php:168
+#: functions/titan-extend.php:186
+msgid "Upload your image here: "
+msgstr "Bestandsnaam van de afbeelding:"
+
+#: functions/titan-extend.php:172
+msgid "Ad 1 link"
+msgstr "Ad 1 link"
+
+#: functions/titan-extend.php:174
+msgid "Link for the first ad"
+msgstr "Link (URL) voor de eerste advertentie"
+
+#: functions/titan-extend.php:178
+msgid "Ad 1 alt tag"
+msgstr "Ad 1 ALT tag"
+
+#: functions/titan-extend.php:180
+msgid "Alt tag for the first ad"
+msgstr "ALT tag voor de eerste advertentie"
+
+#: functions/titan-extend.php:184
+msgid "Ad 2 file name"
+msgstr "Ad 2 bestandsnaam"
+
+#: functions/titan-extend.php:190
+msgid "Ad 2 link"
+msgstr "Ad 2 link"
+
+#: functions/titan-extend.php:192
+msgid "Link for the second ad"
+msgstr "Link (URL) voor de tweede advertentie"
+
+#: functions/titan-extend.php:196
+msgid "Ad 2 alt tag"
+msgstr "Ad 2 ALT tag"
+
+#: functions/titan-extend.php:198
+msgid "Alt tag for the second ad"
+msgstr "ALT tag voor de tweede advertentie"
+
+#: functions/titan-extend.php:202
+msgid "Footer <span>customize your footer</span>"
+msgstr "Footer <span>je footer aanpassen</span>"
+
+#: functions/titan-extend.php:207
+msgid "Something about you or your business. Use HTML!"
+msgstr "Iets over deze website. Gebruik HTML!"
+
+#: functions/titan-extend.php:212
+msgid "Flickr link"
+msgstr "Flickr link"
+
+#: functions/titan-extend.php:214
+msgid "Create a <a href=\"http://www.flickr.com/badge_new.gne\">javascript Flickr badge</a>. At the end of the process extract the URL and paste here."
+msgstr "Maak een <a href=\"http://www.flickr.com/badge_new.gne\">javascript (HTML) Flickr badge</a>. Filter de URL uit de code die je aan het einde krijgt en plaats die hier."
+
+#: functions/titan-extend.php:219
+msgid "Disable Flickr"
+msgstr "Geen FlickR"
+
+#: functions/titan-extend.php:221
+msgid "Check this box to disable Flickr and enable the footer widget instead."
+msgstr "Aanvinken als je Flickr wil verbergen en de Footer widget area wil activeren."
+
+#: functions/titan-extend.php:225
+msgid "Copyright notice"
+msgstr "Copyright"
+
+#: functions/titan-extend.php:227
+msgid "Your name or the name of your business."
+msgstr "Je naam of de naam van de organisatie"
+
+#: functions/titan-extend.php:228
+msgid "Your Name Here"
+msgstr "Vul hier je naam"
+
+#: functions/titan-extend.php:231
+msgid "Stats code"
+msgstr "Statistieken"
+
+#: functions/titan-extend.php:233
+msgid "If you use Google Analytics or need any other tracking script in your footer just copy and paste it here. The script will be inserted before the closing <code>&#60;/body&#62;</code> tag."
+msgstr "Als je Google Analytics of andere tracking code in je footer wil kun je die eenvoudig hier plaatsen.<br /> De code wordt toegevoegd voor de <code>&#60;/body&#62;</code> tag."
+

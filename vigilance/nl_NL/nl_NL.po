@@ -1,0 +1,713 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Vigilance WordPress Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-09-16 21:57-0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Drew Strojny <themes@jestro.com>\n"
+"Language-Team: Dutch - NAPNAM <info@napnam.nl>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:2
+msgid "404: Page Not Found"
+msgstr "404: Pagina niet Gevonden"
+
+#: 404.php:4
+msgid "We are terribly sorry, but the URL you typed no longer exists. It might have been moved or deleted, or perhaps you mistyped it. We suggest searching the site:"
+msgstr "Het spijt ons, maar de URL die je hebt gebruikt bestaat niet meer. Misschien is hij verplaatst of verwijdert, of misschien heb je een typefout gemaakt. We raden je aan de site te doorzoeken:"
+
+#: archive.php:4
+#, php-format
+msgid "Posts from the  &#8216;%s&#8217; Category"
+msgstr "Artikelen uit de  &#8216;%s&#8217; Categorie"
+
+#: archive.php:6
+#, php-format
+msgid "Posts tagged &#8216;%s&#8217;"
+msgstr "Artikelen gelabeld als &#8216;%s&#8217;"
+
+#: archive.php:8
+#: archive.php:10
+#: archive.php:12
+msgid "Archive for"
+msgstr "Archief voor"
+
+#: archive.php:8
+msgid "F jS, Y"
+msgstr "d M Y"
+
+#: archive.php:10
+msgid "F, Y"
+msgstr "F Y"
+
+#: archive.php:12
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:14
+#, php-format
+msgid "Posts by %s"
+msgstr "Artikelen door  %s"
+
+#: archive.php:16
+msgid "Blog Archives"
+msgstr "Blog Archieven"
+
+#: archive.php:18
+msgid "comment"
+msgstr "reactie"
+
+#: archive.php:22
+#: search.php:8
+msgid "n.j.y"
+msgstr "j-n-y"
+
+#: archive.php:27
+#: index.php:25
+#: search.php:13
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Oudere Artikelen"
+
+#: archive.php:28
+#: index.php:26
+#: search.php:14
+msgid "Newer Entries &raquo;"
+msgstr "Nieuwere Artikelen &raquo;"
+
+#: comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Dit artikel is beschermd met een wachtwoord. Voer het wachtwoord in om de reacties te bekijken."
+
+#: comments.php:16
+msgid "No Responses"
+msgstr "Geen Reacties"
+
+#: comments.php:16
+msgid "One Response"
+msgstr "Eén Reactie"
+
+#: comments.php:16
+msgid "% Responses"
+msgstr "% Reacties"
+
+#: comments.php:18
+msgid "Leave One"
+msgstr "Laat er één achter"
+
+#: comments.php:18
+msgid "leave one &rarr;"
+msgstr "Laat er één achter &rarr;"
+
+#: comments.php:25
+msgid "&laquo; Older Comments"
+msgstr "&laquo; Oudere Reacties"
+
+#: comments.php:26
+msgid "Newer Comments &raquo;"
+msgstr "Nieuwere Reacties &raquo;"
+
+#: comments.php:29
+msgid "Trackbacks and Pingbacks"
+msgstr "Trackbacks en Pingbacks"
+
+#: comments.php:35
+#: comments.php:46
+msgid "Comments are closed."
+msgstr "Reageren is gesloten."
+
+#: comments.php:41
+msgid "No comments yet"
+msgstr "Nog geen reacties"
+
+#: comments.php:58
+msgid "Leave a Reply"
+msgstr "Laat een reactie achter"
+
+#: comments.php:60
+msgid "You must be"
+msgstr "Je moet"
+
+#: comments.php:60
+msgid "logged in"
+msgstr "ingelogd zijn"
+
+#: comments.php:60
+msgid "to post a comment."
+msgstr "om te reageren."
+
+#: comments.php:65
+msgid "Logged in as"
+msgstr "Ingelogd als"
+
+#: comments.php:65
+msgid "Log out &raquo;"
+msgstr "Log uit &raquo;"
+
+#: comments.php:67
+msgid "Name"
+msgstr "Naam"
+
+#: comments.php:67
+#: comments.php:68
+msgid "(required)"
+msgstr "(vereist)"
+
+#: comments.php:68
+msgid "Email"
+msgstr "E-mail"
+
+#: comments.php:69
+msgid "Website:"
+msgstr "Website:"
+
+#: comments.php:71
+msgid "Comment:"
+msgstr "Reactie"
+
+#: comments.php:72
+msgid "<strong>Note:</strong> You can use basic XHTML in your comments. Your email address will <strong>never</strong> be published."
+msgstr "<strong>Notitie:</strong> In je reactie mag je standaard XHTML gebruiken. Je e-mail adres zal <strong>nooit</strong> gepubliceerd worden."
+
+#: comments.php:73
+msgid "Subscribe to this comment feed via RSS"
+msgstr "Abonneer je op de reactie feed via RSS"
+
+#: header.php:9
+msgid "Page Not Found |"
+msgstr "Pagina niet Gevonden |"
+
+#: header.php:52
+msgid "Home"
+msgstr "Home"
+
+#: index.php:7
+#: single.php:7
+msgid "F j"
+msgstr "j F"
+
+#: index.php:8
+msgid "Leave a comment"
+msgstr "Laat een reactie achter"
+
+#: index.php:8
+msgid "1 Comment"
+msgstr "1 Reactie"
+
+#: index.php:8
+msgid "% Comment"
+msgid_plural "% Comments"
+msgstr[0] "% Reactie"
+msgstr[1] "% Reacties"
+
+#: index.php:11
+msgid "tags: "
+msgstr "labels:"
+
+#: index.php:12
+#: single.php:11
+#, php-format
+msgid "by %s"
+msgstr "door %s"
+
+#: index.php:15
+msgid "read more..."
+msgstr "Bewerk dit"
+
+#: index.php:16
+#: page.php:7
+#: single.php:15
+msgid "Edit This"
+msgstr "Bewerken"
+
+#: index.php:20
+#: single.php:19
+msgid "from"
+msgstr "van"
+
+#: search.php:3
+#: search.php:17
+#, php-format
+msgid "Search Results for \"%s\""
+msgstr "Zoek resultaten voor \"%s\""
+
+#: search.php:19
+#, php-format
+msgid "Sorry your search for \"%s\" did not turn up any results. Please try again."
+msgstr "Sorry, maar je zoekactie voor \"%s\" heeft geen resultaten opgeleverd. Probeer het a.u.b. nog een keer."
+
+#: searchform.php:4
+msgid "type and press enter"
+msgstr "type en klik op enter"
+
+#: sidebar-feedbox.php:2
+msgid "Get Free Updates"
+msgstr "Krijg Gratis Updates"
+
+#: sidebar-feedbox.php:4
+msgid "Get the latest and the greatest news delivered for free to your reader or your inbox:"
+msgstr "Krijg het laatste en belangrijkste nieuws - helemaal gratis - geleverd in je RSS reader of inbox."
+
+#: sidebar-feedbox.php:5
+msgid "RSS Feed"
+msgstr "RSS Feed"
+
+#: sidebar-feedbox.php:6
+msgid "Email Updates"
+msgstr "E-mail Updates"
+
+#: sidebar-feedbox.php:8
+msgid "Twitter"
+msgstr "Twitter"
+
+#: sidebar.php:12
+msgid "Recent Articles"
+msgstr "Recente Artikelen"
+
+#: functions/comments.php:13
+msgid "permalink"
+msgstr "permalink"
+
+#: functions/comments.php:16
+msgid "<em><strong>Please Note:</strong> Your comment is awaiting moderation.</em>"
+msgstr "<em><strong>Let op:</strong> Je reactie wacht nog op moderatie.</em>"
+
+#: functions/sidebars.php:4
+msgid "Wide Sidebar"
+msgstr "Brede Sidebar"
+
+#: functions/sidebars.php:13
+msgid "Left Sidebar"
+msgstr "Linker Sidebar"
+
+#: functions/sidebars.php:22
+msgid "Right Sidebar"
+msgstr "Rechter Sidebar"
+
+#: functions/vigilance-admin.php:65
+msgid " settings saved!"
+msgstr "instellingen bewaard!"
+
+#: functions/vigilance-admin.php:66
+msgid " settings reset."
+msgstr "instellingen hersteld."
+
+#: functions/vigilance-admin.php:70
+msgid "Options"
+msgstr "Opties"
+
+#: functions/vigilance-admin.php:71
+msgid "Need help with these options?"
+msgstr "Heb je hulp nodig met deze opties?"
+
+#: functions/vigilance-admin.php:71
+msgid "Read the tutorials"
+msgstr "Lees de tutorials"
+
+#: functions/vigilance-admin.php:71
+msgid "or visit the <a href=\"http://themes.jestro.com/forums/\">support forums.</a>"
+msgstr "of bezoek de <a href=\"http://themes.jestro.com/forums/\">support forums.</a>"
+
+#: functions/vigilance-admin.php:83
+#: functions/vigilance-admin.php:181
+msgid "Save changes"
+msgstr "Bewaar de veranderingen"
+
+#: functions/vigilance-admin.php:144
+msgid "show color picker"
+msgstr "toon color picker"
+
+#: functions/vigilance-admin.php:144
+msgid "hide color picker"
+msgstr "verberg color picker"
+
+#: functions/vigilance-admin.php:186
+msgid "Save all changes"
+msgstr "Bewaar alle veranderingen"
+
+#: functions/vigilance-admin.php:192
+msgid "Reset all options"
+msgstr "Herstel alle opties"
+
+#: functions/vigilance-extend.php:29
+msgid "Custom Logo Image <span>insert your custom logo image in the header</span>"
+msgstr "Custom Logo Afbeelding  <span>voeg jouw custom logo afbeelding aan de header toe</span>"
+
+#: functions/vigilance-extend.php:30
+msgid "This option is for PRO members only. To enable this option and use your custom logo please <a href=\"https://themes.jestro.com/members/signup.php\">sign-up</a> for a PRO membership and <a href=\"http://themes.jestro.com/downloads/\">download</a> the Vigilance PRO child theme."
+msgstr "Deze optie is alleen voor PRO leden beschikbaar. Om deze optie te activeren en je eigen logo te kunnen gebruiken, <a href=\"https://themes.jestro.com/members/signup.php\">meld jezelf dan aan</a> voor een PRO lidmaatschap en  <a href=\"http://themes.jestro.com/downloads/\">download</a> het Vigilance PRO child theme."
+
+#: functions/vigilance-extend.php:33
+msgid "Enable custom logo image"
+msgstr "Activeer de custom logo afbeelding"
+
+#: functions/vigilance-extend.php:35
+msgid "Check to use a custom logo in the header."
+msgstr "Check om een custom logo afbeelding in de header te gebruiken."
+
+#: functions/vigilance-extend.php:39
+msgid "Logo image file name"
+msgstr "Logo afbeelding bestandsnaam"
+
+#: functions/vigilance-extend.php:41
+msgid "Upload your logo image here: "
+msgstr "Upload hier je logo afbeelding:"
+
+#: functions/vigilance-extend.php:45
+msgid "Logo image <code>&lt;alt&gt;</code> tag"
+msgstr "Logo afbeelding <code>&lt;alt&gt;</code> tag"
+
+#: functions/vigilance-extend.php:47
+msgid "Specify the <code>&lt;alt&gt;</code> tag for your logo image."
+msgstr "Specificeer de <code>&lt;alt&gt;</code> tag voor jouw logo afbeelding."
+
+#: functions/vigilance-extend.php:51
+msgid "Display tagline"
+msgstr "Toon tagline"
+
+#: functions/vigilance-extend.php:53
+msgid "Check to show your tagline below your logo."
+msgstr "Check om de tagline onder jouw logo te tonen."
+
+#: functions/vigilance-extend.php:57
+msgid "Navigation <span>control your top navigation menu</span>"
+msgstr "Navigatie <span>besturing voor je top navigatie menu</span>"
+
+#: functions/vigilance-extend.php:60
+msgid "Hide all pages"
+msgstr "Verberg alle pagina's"
+
+#: functions/vigilance-extend.php:62
+msgid "Check this box to hide all pages"
+msgstr "Check deze box om alle pagina's te verbergen"
+
+#: functions/vigilance-extend.php:66
+msgid "Exclude specific pages"
+msgstr "Sluit specifieke pagina's uit"
+
+#: functions/vigilance-extend.php:68
+msgid "The page ID of pages you do not want displayed in your navigation menu. Use a comma-delimited list, eg. 1,2,3"
+msgstr "De pagina ID van de pagina's die je niet wil tonen in je navigatiemenu. Gebruik komma's tussen de ID's, bijvoorbeeld: 1,2,3"
+
+#: functions/vigilance-extend.php:72
+msgid "Hide all categories"
+msgstr "Verberg alle categorieën"
+
+#: functions/vigilance-extend.php:74
+msgid "Check this box to hide all categories."
+msgstr "Check deze box om alle categorieën te verbergen."
+
+#: functions/vigilance-extend.php:78
+msgid "Exclude specific categories"
+msgstr "Sluit specifieke categorieën uit."
+
+#: functions/vigilance-extend.php:80
+msgid "The category ID of pages you do not want displayed in your navigation menu.. Use a comma-delimited list, eg. 1,2,3"
+msgstr "De pagina ID van de pagina's die je niet wil tonen in je navigatiemenu. Gebruik komma's tussen de ID's, bijvoorbeeld: 1,2,3"
+
+#: functions/vigilance-extend.php:84
+msgid "Hide home navigation menu item"
+msgstr "Verberg het HOME navigatie menu item"
+
+#: functions/vigilance-extend.php:86
+msgid "Check this box if you are using a static page as your homepage instead of your blog (the default). The extra <em>Home</em> menu item will be removed."
+msgstr "Check deze box als je een statische pagina gebruikt als jouw homepage in plaats van je blog (standaard). The extra <em>Home</en> menu item wordt verwijdert."
+
+#: functions/vigilance-extend.php:90
+msgid "Color Scheme <span>customize your color scheme</span>"
+msgstr "Kleurschema <span>pas je kleurschema aan</span>"
+
+#: functions/vigilance-extend.php:93
+msgid "Customize colors"
+msgstr "Kleuren aanpassen"
+
+#: functions/vigilance-extend.php:95
+msgid "If enabled your theme will use the layouts and colors you choose below."
+msgstr "Wanneer actief, zal je thema de layouts en kleuren gebruiken die je hieronder kan kiezen."
+
+#: functions/vigilance-extend.php:98
+#: functions/vigilance-extend.php:257
+msgid "Disabled"
+msgstr "Inactief"
+
+#: functions/vigilance-extend.php:99
+#: functions/vigilance-extend.php:256
+msgid "Enabled"
+msgstr "Actief"
+
+#: functions/vigilance-extend.php:101
+msgid "Background color"
+msgstr "Achtergrond kleur"
+
+#: functions/vigilance-extend.php:103
+#: functions/vigilance-extend.php:109
+#: functions/vigilance-extend.php:115
+#: functions/vigilance-extend.php:121
+msgid "Use hex values and be sure to include the leading #."
+msgstr "Gebruik HEX waardes en denk aan het vooraan toevoegen van #."
+
+#: functions/vigilance-extend.php:107
+msgid "Border color"
+msgstr "Rand kleur"
+
+#: functions/vigilance-extend.php:113
+msgid "Link color"
+msgstr "Link kleur"
+
+#: functions/vigilance-extend.php:119
+msgid "Link hover color"
+msgstr "Link hover kleur"
+
+#: functions/vigilance-extend.php:125
+msgid "Disable hover background images"
+msgstr "Schakel hover achtergrond afbeeldingen uit"
+
+#: functions/vigilance-extend.php:127
+msgid "Check this box if you use custom link colors and do not want the default red showing when a user hovers over the comments bubble or the sidebar menu items."
+msgstr "Check deze box als je custom link kleuren gebruikt en niet de standaard rode kleur wil zien, wanneer een gebruiker over de reacties bubbles of side menu items hovert."
+
+#: functions/vigilance-extend.php:131
+msgid "Top Banner Image <span>control your top banner image state</span>"
+msgstr "Top banner Afbeelding <span>bestuur je top banner afbeelding status</span>"
+
+#: functions/vigilance-extend.php:134
+msgid "Banner state"
+msgstr "Banner status"
+
+#: functions/vigilance-extend.php:136
+msgid "Add your images to the top banner rotation by uploading them here: "
+msgstr "Voeg je afbeeldingen toe aan de top banner rotatie door ze hier te uploaden:"
+
+#: functions/vigilance-extend.php:136
+#: functions/vigilance-extend.php:206
+msgid "PRO Tutorial: Use page and post specific images"
+msgstr "PRO Tutorial: Het gebruiken van pagina en artikel specifieke afbeeldingen"
+
+#: functions/vigilance-extend.php:139
+#: functions/vigilance-extend.php:210
+msgid "Rotating images"
+msgstr "Roterende afbeeldingen"
+
+#: functions/vigilance-extend.php:140
+#: functions/vigilance-extend.php:211
+#: functions/vigilance-extend.php:228
+msgid "Static image"
+msgstr "Statische afbeeldingen"
+
+#: functions/vigilance-extend.php:141
+#: functions/vigilance-extend.php:213
+msgid "Page or post specific"
+msgstr "Pagina of artikel specifiek"
+
+#: functions/vigilance-extend.php:142
+#: functions/vigilance-extend.php:169
+#: functions/vigilance-extend.php:212
+#: functions/vigilance-extend.php:240
+msgid "Custom code"
+msgstr "Custom code"
+
+#: functions/vigilance-extend.php:143
+#: functions/vigilance-extend.php:214
+msgid "Do not show an image"
+msgstr "Afbeelding niet laten zien"
+
+#: functions/vigilance-extend.php:145
+msgid "Banner height"
+msgstr "Banner hoogte"
+
+#: functions/vigilance-extend.php:147
+msgid "The height of your image. The width is fixed at 596px."
+msgstr "De hoogte van je afbeelding. De breedte is vastgezet op 596px."
+
+#: functions/vigilance-extend.php:151
+msgid "Banner <code>&lt;alt&gt;</code> tag"
+msgstr "Banner <code>&lt;alt&gt;</code> tag"
+
+#: functions/vigilance-extend.php:153
+msgid "Specify the <code>&lt;alt&gt;</code> tag for your banner image(s). Will default to your blog title if left blank."
+msgstr "Specificeer de <code>&lt;alt&gt;</code> tag voor jouw banner afbeelding(en). Wordt standaard je blog titel als je deze leeg laat."
+
+#: functions/vigilance-extend.php:157
+msgid "Static image name"
+msgstr "Statische afbeelding naam"
+
+#: functions/vigilance-extend.php:159
+msgid "Set the <em>Banner State</em> to \"Static Image\" and upload your image here: "
+msgstr "Zet de <em>Banner Status</em> op \"Static Image\" en upload je afbeelding hier:"
+
+#: functions/vigilance-extend.php:163
+msgid "Home image name"
+msgstr "Home afbeelding naam"
+
+#: functions/vigilance-extend.php:165
+msgid "To replace your home top banner with a specific image upload it here: "
+msgstr "Om je home top banner te vervangen door een eigen afbeelding upload hem hier:"
+
+#: functions/vigilance-extend.php:171
+msgid "Replace your top banner with custom code. The <em>Banner State</em> must be set to \"Custom code\" for this to work."
+msgstr "Vervang je top banner met custom code. De <em>Banner Status</em> moet naar  \"Custom code\" gezet worden om dit te laten werken."
+
+#: functions/vigilance-extend.php:177
+msgid "Alert Box <span>toggle your custom alert box</span>"
+msgstr "Alert Box  <span>schakel je custom alert box</span>"
+
+#: functions/vigilance-extend.php:180
+msgid "Alert Box on/off switch"
+msgstr "Alert Box aan/uit schakelaar"
+
+#: functions/vigilance-extend.php:182
+msgid "Toggle the alert box on or off."
+msgstr "Schakel de alert box aan of uit."
+
+#: functions/vigilance-extend.php:185
+msgid "Off"
+msgstr "Uit"
+
+#: functions/vigilance-extend.php:186
+msgid "On"
+msgstr "Aan"
+
+#: functions/vigilance-extend.php:188
+msgid "Alert Title"
+msgstr "Alert Titel"
+
+#: functions/vigilance-extend.php:190
+msgid "The heading for your alert."
+msgstr "The heading voor jouw alert."
+
+#: functions/vigilance-extend.php:194
+msgid "Alert Message"
+msgstr "Alert Bericht"
+
+#: functions/vigilance-extend.php:196
+msgid "Must use HTML in the message including <code>&#60;p&#62;</code> tags."
+msgstr "Je moet HTML gebruiken in het bericht, inclusief <code>&#60;p&#62;</code> tags."
+
+#: functions/vigilance-extend.php:202
+msgid "Sidebar Image <span>control your sidebar image state</span>"
+msgstr "Sidebar Afbeelding <span>bestuur je side afbeelding status</span>"
+
+#: functions/vigilance-extend.php:205
+msgid "Image state"
+msgstr "Afbeelding status"
+
+#: functions/vigilance-extend.php:206
+msgid "Add your images to the sidebar rotation by uploading them here: "
+msgstr "Voeg je afbeeldingen toe aan de sidebar rotatie door ze hier te uploaden:"
+
+#: functions/vigilance-extend.php:216
+msgid "Image height"
+msgstr "Afbeelding hoogte"
+
+#: functions/vigilance-extend.php:218
+msgid "The height of your image. The width is fixed at 300px."
+msgstr "De hoogte van je afbeelding. De breedte is vastgezet op 300px."
+
+#: functions/vigilance-extend.php:222
+msgid "Image <code>&lt;alt&gt;</code> tag"
+msgstr "Afbeelding <code>&lt;alt&gt;</code> tag"
+
+#: functions/vigilance-extend.php:224
+msgid "The <code>&lt;alt&gt;</code> tag for your sidebar image(s). Will default to your blog title if left blank."
+msgstr "De <code>&lt;alt&gt;</code> tag voor jouw sidebar afbeelding(en). Wordt standaard de blog titel wanneer je deze leeg laat."
+
+#: functions/vigilance-extend.php:230
+msgid "Set the <em>Image State</em> to \"Static Image\" and upload your image here: "
+msgstr "Zet de <em>Image Status</em> naar \"Static Image\" en upload je afbeelding hier:"
+
+#: functions/vigilance-extend.php:234
+msgid "Image link"
+msgstr "Afbeelding link"
+
+#: functions/vigilance-extend.php:236
+msgid "Define a hyperlink for your sidebar image. If left empty the anchor tags will not be included."
+msgstr "Definieer een hyperlink voor je sidebar afbeelding. Wanneer je deze leeg laat worden de anker tags niet meegenomen."
+
+#: functions/vigilance-extend.php:242
+msgid "Replace your sidebar image with custom code. The <em>Image State</em> must be set to \"Custom code\" for this to work."
+msgstr "Vervang je sidebar afbeelding met custom code. De <em>Image State</em> moet naar \"Custom code\" gezet worden om dit te laten werken."
+
+#: functions/vigilance-extend.php:248
+msgid "Sidebar Feed Box <span>share feeds and updates with your readers</span>"
+msgstr "Sidebar Feed Box <span>deel feeds en updates met je lezers</span>"
+
+#: functions/vigilance-extend.php:251
+msgid "Feed box state"
+msgstr "Feed box status"
+
+#: functions/vigilance-extend.php:252
+msgid "Enable or disable the feed box in the sidebar."
+msgstr "Schakel de feed box in de sidebar aan of uit."
+
+#: functions/vigilance-extend.php:259
+msgid "Feed box title text"
+msgstr "Feed box titel tekst."
+
+#: functions/vigilance-extend.php:261
+msgid "Header for your feed box."
+msgstr "Heading voor je feed box."
+
+#: functions/vigilance-extend.php:265
+msgid "Feed box intro text"
+msgstr "Feed box introductie tekst"
+
+#: functions/vigilance-extend.php:267
+msgid "Enter your feed intro text here."
+msgstr "Voer hier je feed intro tekst in."
+
+#: functions/vigilance-extend.php:273
+msgid "<a href=\"http://www.feedburner.com\">Feedburner</a> email updates link"
+msgstr "<a href=\"http://www.feedburner.com\">Feedburner</a> e-mail updates link"
+
+#: functions/vigilance-extend.php:275
+msgid "Enter your feed email link here. Do not paste the provided link code, extract and paste the URL only."
+msgstr "Voeg hier je e-mail feed link in. Plak niet de verkregen link code. Plak alleen de URL."
+
+#: functions/vigilance-extend.php:275
+msgid "PRO Tutorial: Find your Feedburner email updates link"
+msgstr "PRO Tutorial: Het vinden van je Feedburner e-mail updates link"
+
+#: functions/vigilance-extend.php:281
+msgid "Enable Twitter"
+msgstr "Activeer Twitter"
+
+#: functions/vigilance-extend.php:283
+msgid "Hip to Twitter? Check this box."
+msgstr "Twitter helemaal hip? Check deze box."
+
+#: functions/vigilance-extend.php:287
+msgid "Twitter updates link"
+msgstr "Twitter updates link"
+
+#: functions/vigilance-extend.php:289
+msgid "Enter your twitter link here."
+msgstr "Voer hier je twitter link in."
+
+#: functions/vigilance-extend.php:292
+msgid "Footer <span>add a copyright notice and tracking codes</span>"
+msgstr "Footer <span>voer hier een copyright statement en tracking code in</span>"
+
+#: functions/vigilance-extend.php:295
+msgid "Copyright notice"
+msgstr "Copyright statement"
+
+#: functions/vigilance-extend.php:297
+msgid "Your name or the name of your business."
+msgstr "Jouw naam of de naam van je organisatie."
+
+#: functions/vigilance-extend.php:301
+msgid "Stats code"
+msgstr "Stats code"
+
+#: functions/vigilance-extend.php:303
+msgid "If you would like to use Google Analytics or any other tracking script in your footer just paste it here. The script will be inserted before the closing <code>&#60;/body&#62;</code> tag."
+msgstr "Als je Google Analytics of een ander tracking script wil gebruiken in je footer, plak het dan hier. Het script wordt toegevoegd voor de afsluitende <code>&#60;/body&#62;</code> tag."
+

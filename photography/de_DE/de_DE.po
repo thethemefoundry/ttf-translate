@@ -1,0 +1,840 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: de_DE\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-10-02 21:41+0100\n"
+"PO-Revision-Date: 2010-12-13 10:30-0700\n"
+"Last-Translator: \n"
+"Language-Team: Ralf Stegemann <ralf@afpos.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: Germany\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../search.php:3
+#: ../header.php:10
+#, php-format
+msgid "Search results for '%s'"
+msgstr "Suchergebnis für '%s'"
+
+#: ../search.php:9
+#: ../index.php:11
+#: ../archive.php:23
+msgid "Read more..."
+msgstr "Mehr lesen..."
+
+#: ../search.php:10
+#: ../single.php:11
+#: ../index.php:14
+#: ../archive.php:25
+#: ../comments.php:51
+msgid "Leave a comment"
+msgstr "Hinterlasse ein Kommentar"
+
+#: ../search.php:10
+#: ../single.php:11
+#: ../index.php:14
+#: ../archive.php:25
+#: ../comments.php:16
+msgid "1 Comment"
+msgstr "1 Kommentar"
+
+#: ../search.php:10
+#: ../single.php:11
+#: ../index.php:14
+#: ../archive.php:25
+msgid "% Comment"
+msgid_plural "% Comments"
+msgstr[0] "% Kommentar"
+msgstr[1] "% Kommentare"
+
+#: ../search.php:11
+#: ../index.php:16
+#: ../archive.php:26
+msgid "j M Y"
+msgstr "Y.M.j."
+
+# Edit This - doesn't wanna change it
+#: ../search.php:12
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: ../search.php:17
+#: ../index.php:21
+#: ../archive.php:31
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Ältere Einträge"
+
+#: ../search.php:18
+#: ../index.php:22
+#: ../archive.php:32
+msgid "Newer Entries &raquo;"
+msgstr "Neuere Einträge &raquo;"
+
+#: ../search.php:22
+#, php-format
+msgid "Sorry your search for \"%s\" did not turn up any results. Please try again."
+msgstr "Sorry your search for \"%s\" did not turn up any results. Please try again."
+
+# Edit This - doesn't wanna change it
+#: ../single.php:15
+#: ../index.php:12
+#: ../archive.php:24
+#: ../page.php:8
+msgid "Edit this"
+msgstr "Bearbeiten"
+
+#: ../single.php:19
+msgid "From"
+msgstr "Von:"
+
+#: ../single.php:20
+msgid "Tags: "
+msgstr "Tags:"
+
+#: ../single.php:22
+#, php-format
+msgid "Posted by %s on"
+msgstr "Geschrieben von %s auf"
+
+#: ../header.php:8
+msgid "Page Not Found |"
+msgstr "Seite nicht gefunden |"
+
+#: ../header.php:41
+msgid "Skip to content"
+msgstr "Direkt zum Inhalt"
+
+#: ../sidebar.php:10
+msgid "Recent Articles"
+msgstr "Aktuelle Artikel"
+
+#: ../sidebar.php:18
+msgid "Archives"
+msgstr "Archiv"
+
+#: ../subscribe.php:3
+msgid "Subscribe"
+msgstr "Abonnieren"
+
+#: ../subscribe.php:7
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../subscribe.php:12
+msgid "Flickr"
+msgstr "Flickr"
+
+#: ../subscribe.php:17
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../subscribe.php:21
+msgid "RSS Feed"
+msgstr "RSS"
+
+#: ../footer.php:3
+msgid "Copyright"
+msgstr "Copyright"
+
+#: ../archive.php:4
+#, php-format
+msgid "Posts from the &#8216;%s&#8217; Category"
+msgstr "Beiträge aus der &#8216;%s&#8217; Kategorie"
+
+#: ../archive.php:6
+#, php-format
+msgid "Posts tagged &#8216;%s&#8217;"
+msgstr "Beiträge tagged &#8216;%s&#8217;"
+
+#: ../archive.php:8
+#: ../archive.php:10
+#: ../archive.php:12
+msgid "Archive for"
+msgstr "Archiv für"
+
+#: ../archive.php:8
+msgid "F jS, Y"
+msgstr "Y. F j."
+
+#: ../archive.php:10
+msgid "F, Y"
+msgstr "Y. F"
+
+#: ../archive.php:12
+msgid "Y"
+msgstr "Y"
+
+#: ../archive.php:14
+#, php-format
+msgid "Posts by %s"
+msgstr "Beiträge von %s"
+
+#: ../archive.php:16
+msgid "Blog Archives"
+msgstr "Blog Archiv"
+
+#: ../comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Dieser Beitrag ist Passwort geschützt. Passwort eingeben um Kommentare zu sehen."
+
+#: ../comments.php:16
+msgid "No Comments Yet"
+msgstr "Noch keine Kommentare"
+
+#: ../comments.php:16
+msgid "% Comments"
+msgstr "% Kommentare"
+
+#: ../comments.php:18
+msgid "Post a comment"
+msgstr "Schreiben Sie eine Kommentar"
+
+#: ../comments.php:29
+msgid "Trackbacks &amp; Pingbacks"
+msgstr "Trackback &amp; Pingback"
+
+#: ../comments.php:35
+#: ../comments.php:40
+msgid "Comments are closed."
+msgstr "Kommentare sind geschlossen."
+
+#: ../comments.php:53
+msgid "You must be"
+msgstr "Sie müssen"
+
+#: ../comments.php:53
+msgid "logged in"
+msgstr "angemeldet"
+
+#: ../comments.php:53
+msgid "to post a comment."
+msgstr "Um einen Kommentar veröffentlichen."
+
+#: ../comments.php:58
+msgid "Logged in as"
+msgstr "Angemeldet als"
+
+#: ../comments.php:58
+msgid "Log out &raquo;"
+msgstr "Abgemeldet &raquo;"
+
+#: ../comments.php:61
+msgid "Name"
+msgstr "Name"
+
+#: ../comments.php:63
+#: ../comments.php:68
+msgid "<span>required</span>"
+msgstr "<span>erforderlich</span>"
+
+#: ../comments.php:66
+msgid "Email"
+msgstr "E-Mail"
+
+#: ../comments.php:71
+msgid "Website"
+msgstr "Homepage"
+
+#: ../comments.php:76
+msgid "Comment"
+msgstr "Kommentar"
+
+#: ../comments.php:80
+msgid "<strong>Note:</strong> HTML is allowed. Your email address will <strong>never</strong> be published."
+msgstr "<strong>Hinweis:</strong> HTML ist erlaubt. Ihre E-Mail-Adresse wird <strong>nicht</strong> veröffentlicht."
+
+#: ../comments.php:81
+msgid "Subscribe to comments"
+msgstr "Abonnieren Sie Kommentare"
+
+#: ../comments.php:84
+msgid "Submit Comment"
+msgstr "Kommentar senden"
+
+#: ../404.php:3
+msgid "404: Page Not Found"
+msgstr "Seite nicht gefunden"
+
+#: ../404.php:5
+msgid "The URL you typed no longer exists. It might have been moved or deleted, or perhaps you mistyped it. We suggest searching the site:"
+msgstr "The URL you typed no longer exists. It might have been moved or deleted, or perhaps you mistyped it. We suggest searching the site:"
+
+#: ../functions.php:43
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: ../functions/photography-admin.php:68
+msgid " settings saved!"
+msgstr "Einstellungen gespeichert!"
+
+#: ../functions/photography-admin.php:69
+msgid " settings reset."
+msgstr "Einstellungen zurückgesetzt."
+
+#: ../functions/photography-admin.php:73
+msgid "Options"
+msgstr "Optionen"
+
+#: ../functions/photography-admin.php:76
+msgid "Need help?"
+msgstr "Brauchen Sie Hilfe?"
+
+#: ../functions/photography-admin.php:76
+msgid "Read the tutorials"
+msgstr "Lesen Sie die Tutorials"
+
+#: ../functions/photography-admin.php:76
+msgid "or visit the <a href=\"http://thethemefoundry.com/forums/\">support forums.</a>"
+msgstr "oder besuchen Sie die <a href=\"http://thethemefoundry.com/forums/\">support forums.</a>"
+
+#: ../functions/photography-admin.php:78
+msgid "Go PRO!"
+msgstr "Go PRO!"
+
+#: ../functions/photography-admin.php:79
+msgid "You are using the free trial version of "
+msgstr "You are using the free trial version of "
+
+#: ../functions/photography-admin.php:80
+msgid "Learn more about "
+msgstr "Learn more about "
+
+#: ../functions/photography-admin.php:92
+#: ../functions/photography-admin.php:203
+msgid "Save changes"
+msgstr "Speichern Sie die Änderungen"
+
+#: ../functions/photography-admin.php:157
+msgid "show color picker"
+msgstr "Farbauswahl zeigen"
+
+#: ../functions/photography-admin.php:157
+msgid "hide color picker"
+msgstr "Farbauswahl ausblenden"
+
+#: ../functions/photography-admin.php:208
+msgid "Save all changes"
+msgstr "Speichern Sie alle Änderungen"
+
+#: ../functions/photography-admin.php:214
+msgid "Reset all options"
+msgstr "Alle Optionen zurücksetzen"
+
+#: ../functions/photography-extend.php:30
+msgid "Custom Logo Image <span>insert your custom logo image in the header</span>"
+msgstr "Benutzer Logo Bild <span>Legen Sie Ihre eigene Logo-Bild in der Kopfzeile </span>"
+
+#: ../functions/photography-extend.php:34
+msgid "Enable custom logo image"
+msgstr "Aktivieren individuelles Logo Bild"
+
+#: ../functions/photography-extend.php:36
+msgid "Check to use a custom logo in the header."
+msgstr "Check to use a custom logo in the header."
+
+#: ../functions/photography-extend.php:42
+msgid "Logo image <code>&lt;alt&gt;</code> tag"
+msgstr "Logo image <code>&lt;alt&gt;</code> tag"
+
+#: ../functions/photography-extend.php:44
+msgid "Specify the <code>&lt;alt&gt;</code> tag for your logo image."
+msgstr "pecify the <code>&lt;alt&gt;</code> tag for your logo image."
+
+#: ../functions/photography-extend.php:50
+msgid "Display tagline"
+msgstr "Display tagline"
+
+#: ../functions/photography-extend.php:52
+msgid "Check to show your tagline below your logo."
+msgstr "Check to show your tagline below your logo."
+
+#: ../functions/photography-extend.php:58
+msgid "Flickr <span>enable Flickr gallery support</span>"
+msgstr "Flickr <span>enable Flickr gallery support</span>"
+
+#: ../functions/photography-extend.php:62
+msgid "Flickr username"
+msgstr "Flickr Benutzername"
+
+#: ../functions/photography-extend.php:64
+msgid "Specify your Flickr username (found in your URL): http://flickr.com/photos/<strong>username</strong>"
+msgstr "Specify your Flickr username (found in your URL): http://flickr.com/photos/<strong>username</strong>"
+
+#: ../functions/photography-extend.php:70
+msgid "Flickr API key"
+msgstr "Flickr API key"
+
+#: ../functions/photography-extend.php:72
+msgid "Specify your Flickr API Key."
+msgstr "Specify your Flickr API Key."
+
+#: ../functions/photography-extend.php:78
+msgid "Flickr API secret"
+msgstr "Flickr API secret"
+
+#: ../functions/photography-extend.php:80
+msgid "Specify your Flickr API Secret."
+msgstr "Specify your Flickr API Secret."
+
+#: ../functions/photography-extend.php:86
+msgid "Color Scheme <span>choose your color scheme</span>"
+msgstr "Farbschema <span>Wählen Sie Ihr Farbschema</span>"
+
+#: ../functions/photography-extend.php:90
+msgid "Color scheme"
+msgstr "Farbschema"
+
+#: ../functions/photography-extend.php:91
+msgid "Choose your color scheme."
+msgstr "Wählen Sie Ihr Farbschema"
+
+#: ../functions/photography-extend.php:97
+msgid "Dark (default)"
+msgstr "Dark (default)"
+
+#: ../functions/photography-extend.php:98
+msgid "Light"
+msgstr "Light"
+
+#: ../functions/photography-extend.php:101
+msgid "Subscribe Links <span>control the subscribe links</span>"
+msgstr "Abonnieren Links <span>Kontrolle der abonnieren Links</span>"
+
+#: ../functions/photography-extend.php:105
+msgid "Enable Twitter"
+msgstr "Enable Twitte"
+
+#: ../functions/photography-extend.php:107
+msgid "Hip to Twitter? Check this box. Please set your Twitter username in the Twitter menu."
+msgstr "Hip to Twitter? Check this box. Please set your Twitter username in the Twitter menu."
+
+#: ../functions/photography-extend.php:113
+msgid "Enable Facebook"
+msgstr "Enable Facebook"
+
+#: ../functions/photography-extend.php:115
+msgid "Check this box to show a link to your Facebook page."
+msgstr "Check this box to show a link to your Facebook page."
+
+#: ../functions/photography-extend.php:121
+msgid "Enable Flickr"
+msgstr "Enable Flickr"
+
+#: ../functions/photography-extend.php:123
+msgid "Check this box to show a link to Flickr."
+msgstr "Check this box to show a link to Flickr."
+
+#: ../functions/photography-extend.php:129
+msgid "Disable all"
+msgstr "Deaktivieren Sie alle"
+
+#: ../functions/photography-extend.php:131
+msgid "Check this box to hide all follow icons (including RSS). This option overrides any other settings."
+msgstr "Check this box to hide all follow icons (including RSS). This option overrides any other settings."
+
+#: ../functions/photography-extend.php:137
+msgid "Twitter name"
+msgstr "Twitter Name"
+
+#: ../functions/photography-extend.php:139
+msgid "Enter your Twitter name."
+msgstr "Twitter Namen eingeben."
+
+#: ../functions/photography-extend.php:145
+msgid "Facebook link"
+msgstr "Facebook link"
+
+#: ../functions/photography-extend.php:147
+msgid "Enter your Facebook link."
+msgstr "Enter your Facebook link."
+
+#: ../functions/photography-extend.php:153
+msgid "Flickr link"
+msgstr "Flickr link"
+
+#: ../functions/photography-extend.php:155
+msgid "Enter your Flickr link."
+msgstr "Enter your Flickr link."
+
+#: ../functions/photography-extend.php:161
+msgid "Footer <span>customize your footer</span>"
+msgstr "Fußzeile<span>Passen Sie Ihre Fußzeile an</span>"
+
+#: ../functions/photography-extend.php:165
+msgid "Copyright notice"
+msgstr "Copyright Notiz"
+
+#: ../functions/photography-extend.php:167
+msgid "Your name or the name of your business."
+msgstr "Ihr Name oder der Name Ihres Unternehmens."
+
+#: ../functions/photography-extend.php:168
+msgid "Your Name Here"
+msgstr "Ihr Name"
+
+#: ../functions/photography-extend.php:172
+msgid "Stats code"
+msgstr "Statistik Code"
+
+#: ../functions/photography-extend.php:174
+msgid "If you use Google Analytics or need any other tracking script in your footer just copy and paste it here. The script will be inserted before the closing <code>&#60;/body&#62;</code> tag."
+msgstr "If you use Google Analytics or need any other tracking script in your footer just copy and paste it here. The script will be inserted before the closing <code>&#60;/body&#62;</code> tag."
+
+#: ../functions/comments.php:24
+#: ../functions/comments.php:48
+msgid "<em><strong>Please Note:</strong> Your comment is awaiting moderation.</em>"
+msgstr "<em><strong>Bitte beachten Sie:</strong> Ihr Kommentar wird moderiert.</em>"
+
+#~ msgid "Search results for &lsquo;%s&rsquo;"
+#~ msgstr "Search results for &lsquo;%s&rsquo;"
+
+#~ msgid "comment"
+#~ msgstr "Kommentar"
+
+#~ msgid "n.j.y"
+#~ msgstr "y.n.j"
+
+#~ msgid "&larr; Older"
+#~ msgstr "&larr; Older"
+
+#~ msgid "Newer &rarr;"
+#~ msgstr "Newer &rarr;"
+
+#~ msgid "No results found for &lsquo;%s&rsquo;"
+#~ msgstr "No results found for &lsquo;%s&rsquo;"
+
+#~ msgid "M j"
+#~ msgstr "M j"
+
+#~ msgid "%s"
+#~ msgstr "%s"
+
+#~ msgid "Filed under"
+#~ msgstr "Filed under"
+
+#~ msgid "Home"
+#~ msgstr "Home"
+
+#~ msgid "Search"
+#~ msgstr "Search"
+
+#~ msgid "Type and press enter"
+#~ msgstr "Type and press enter"
+
+#~ msgid "Links"
+#~ msgstr "Links"
+
+#~ msgid "Categories"
+#~ msgstr "Kategorie"
+
+#~ msgid "Pages"
+#~ msgstr "Seiten"
+
+#~ msgid "All rights reserved."
+#~ msgstr "All rights reserved."
+
+#~ msgid "One Comment"
+#~ msgstr "Ein Kommentar"
+
+#~ msgid "Newer Comments &raquo;"
+#~ msgstr "Newer Comments &raquo;"
+
+#~ msgid "Cancel reply"
+#~ msgstr "Antwort abbrechen"
+
+#~ msgid "(required)"
+#~ msgstr "(required)"
+
+#~ msgid "(required, will not be published)"
+#~ msgstr "(required, will not be published)"
+
+#~ msgid "Logo image file name"
+#~ msgstr "Logo image file name"
+
+#~ msgid "Hip to Twitter? Check this box."
+#~ msgstr "Hip to Twitter? Check this box."
+
+#~ msgid "Check this box to show a link to email updates."
+#~ msgstr "Check this box to show a link to email updates."
+
+#~ msgid "Email link"
+#~ msgstr "Email link"
+
+#~ msgid "Enter your email updates link."
+#~ msgstr "Enter your email updates link."
+
+#~ msgid "Navigation <span>control your top navigation menu</span>"
+#~ msgstr "Navigation <span>control your top navigation menu</span>"
+
+#~ msgid "Hide all pages"
+#~ msgstr "Hide all pages"
+
+#~ msgid "Check this box to hide all pages"
+#~ msgstr "Check this box to hide all pages"
+
+#~ msgid "Exclude specific pages"
+#~ msgstr "Exclude specific pages"
+
+#~ msgid ""
+#~ "The page ID of pages you do not want displayed in your navigation menu. "
+#~ "Use a comma-delimited list, eg. 1,2,3"
+#~ msgstr ""
+#~ "The page ID of pages you do not want displayed in your navigation menu. "
+#~ "Use a comma-delimited list, eg. 1,2,3"
+
+#~ msgid "Hide all categories"
+#~ msgstr "Hide all categories"
+
+#~ msgid "Check this box to hide all categories."
+#~ msgstr "Check this box to hide all categories."
+
+#~ msgid "Exclude specific categories"
+#~ msgstr "Exclude specific categories"
+
+#~ msgid ""
+#~ "The category ID of pages you do not want displayed in your navigation "
+#~ "menu.. Use a comma-delimited list, eg. 1,2,3"
+#~ msgstr ""
+#~ "The category ID of pages you do not want displayed in your navigation "
+#~ "menu.. Use a comma-delimited list, eg. 1,2,3"
+
+#~ msgid "Hide home navigation menu item"
+#~ msgstr "Hide home navigation menu item"
+
+#~ msgid ""
+#~ "Check this box if you are using a static page as your homepage instead of "
+#~ "your blog (the default). The extra <em>Home</em> menu item will be "
+#~ "removed."
+#~ msgstr ""
+#~ "Check this box if you are using a static page as your homepage instead of "
+#~ "your blog (the default). The extra <em>Home</em> menu item will be "
+
+#~ msgid "Customize colors"
+#~ msgstr "Customize colors"
+
+#~ msgid ""
+#~ "If enabled your theme will use the layouts and colors you choose below."
+#~ msgstr ""
+#~ "If enabled your theme will use the layouts and colors you choose below."
+#~ "színeket fogja használni."
+
+#~ msgid "Disabled"
+#~ msgstr "Dektiviert"
+
+#~ msgid "Enabled"
+#~ msgstr "Aktiviert"
+
+#~ msgid "Background color"
+#~ msgstr "Hintergrundfarbe"
+
+#~ msgid "Link color"
+#~ msgstr "Link Farbe"
+
+#~ msgid "Use hex values and be sure to include the leading #."
+#~ msgstr "Use hex values and be sure to include the leading #."
+
+#~ msgid "Link hover color"
+#~ msgstr "Link hover color"
+
+#~ msgid "Alert Box <span>toggle your custom alert box</span>"
+#~ msgstr ""
+#~ "Alert Box <span>toggle your custom alert box</span>"
+
+#~ msgid "Alert Box on/off switch"
+#~ msgstr "Alert Box on/off switch"
+
+#~ msgid "Toggle the alert box on or off."
+#~ msgstr "Toggle the alert box on or off."
+
+#~ msgid "Off"
+#~ msgstr "Aus"
+
+#~ msgid "On"
+#~ msgstr "An"
+
+#~ msgid "The heading for your alert."
+#~ msgstr "Die Überschrift für Ihre Benachrichtigung."
+
+#~ msgid "Alert Message"
+#~ msgstr "Warnmeldung"
+
+#~ msgid "You may use HTML in the message."
+#~ msgstr "You may use HTML in the message."
+
+#~ msgid "Sidebar Image <span>control your sidebar image state</span>"
+#~ msgstr "Sidebar Image <span>control your sidebar image state</span>"
+
+#~ msgid "Image state"
+#~ msgstr "Image state"
+
+#~ msgid ""
+#~ "Add your images to the sidebar rotation by uploading them to the %s "
+#~ "directory."
+#~ msgstr "Add your images to the sidebar rotation by uploading them to the %s "
+
+#~ msgid "Rotating images"
+#~ msgstr "Rotating images"
+
+#~ msgid "Static image"
+#~ msgstr "Static image"
+
+#~ msgid "Custom code"
+#~ msgstr "Custom code"
+
+#~ msgid "Page or post specific"
+#~ msgstr "Page or post specific"
+
+#~ msgid "Do not show an image"
+#~ msgstr "Do not show an image"
+
+#~ msgid "Image <code>&lt;alt&gt;</code> tag"
+#~ msgstr "mage <code>&lt;alt&gt;</code> tag"
+
+#~ msgid ""
+#~ "The <code>&lt;alt&gt;</code> tag for your sidebar image(s). Will default "
+#~ "to your blog title if left blank."
+#~ msgstr ""
+#~ "The <code>&lt;alt&gt;</code> tag for your sidebar image(s). Will default "
+#~ "to your blog title if left blank."
+
+#~ msgid ""
+#~ "Set the <em>Image State</em> to \"Static Image\" and upload your image to "
+#~ "the %s directory."
+#~ msgstr ""
+#~ "Set the <em>Image State</em> to \"Static Image\" and upload your image to "
+#~ "the %s directory."
+
+#~ msgid "Image link"
+#~ msgstr "Image link"
+
+#~ msgid ""
+#~ "Define a hyperlink for your sidebar image. If left empty the anchor tags "
+#~ "will not be included."
+#~ msgstr ""
+#~ "Define a hyperlink for your sidebar image. If left empty the anchor tags "
+#~ "will not be included."
+
+#~ msgid ""
+#~ "Replace your sidebar image with custom code. The <em>Image State</em> "
+#~ "must be set to \"Custom code\" for this to work."
+#~ msgstr ""
+#~ "Replace your sidebar image with custom code. The <em>Image State</em> "
+#~ "must be set to \"Custom code\" for this to work."
+
+#~ msgid "Trackback"
+#~ msgstr "Trackback"
+
+#~ msgid "Pingback"
+#~ msgstr "Pingback"
+
+#~ msgid "Footer"
+#~ msgstr "Footer"
+
+#~ msgid "by %s"
+#~ msgstr "by %s"
+
+#~ msgid "Search results for \"%s\""
+#~ msgstr "Search results for \"%s\""
+
+#~ msgid "by %s on"
+#~ msgstr "by %s on"
+
+#~ msgid "Follow:"
+#~ msgstr "Folgen:"
+
+#~ msgid "RSS"
+#~ msgstr "RSS"
+
+#~ msgid "About"
+#~ msgstr "About"
+
+#~ msgid ""
+#~ "Did you know you can write your own about section just like this one? "
+#~ "It's really easy. Head into the the <em>Titan Options</em> menu and check "
+#~ "out the footer section. Type some stuff in the box, click save, and your "
+#~ "new about section shows up in the footer."
+#~ msgstr ""
+#~ "Did you know you can write your own about section just like this one? "
+#~ "It's really easy. Head into the the <em>Titan Options</em> menu and check "
+#~ "out the footer section. Type some stuff in the box, click save, and your "
+#~ "new about section shows up in the footer."
+
+#~ msgid "%s on"
+#~ msgstr "%s on"
+
+#~ msgid "No comments yet"
+#~ msgstr "Noch keine Kommentare"
+
+#~ msgid "Leave a Reply"
+#~ msgstr "Hinterlasse eine Antwort "
+
+#~ msgid "Log out of this account"
+#~ msgstr "Melden Sie sich von diesem Konto"
+
+#~ msgid "Email:"
+#~ msgstr "E-mail:"
+
+#~ msgid "Subscribe to this comment feed via RSS"
+#~ msgstr "Abonnieren Sie diesen Kommentar via RSS Feed"
+
+#~ msgid "Enter the link to your Twitter page."
+#~ msgstr "Enter the link to your Twitter page."
+
+#~ msgid "Custom notice"
+#~ msgstr "Custom notice"
+
+#~ msgid "Sidebar Sidebox <span>customize your sidebox</span>"
+#~ msgstr "Sidebar Sidebox <span>customize your sidebox</span>"
+
+#, fuzzy
+#~ msgid "Check this box to enable the sidebar adbox."
+#~ msgstr "Check this box to enable the sidebar adbox."
+
+#, fuzzy
+#~ msgid "Ad 1 file name"
+#~ msgstr "Ad 1 file name"
+
+#~ msgid "Upload your image to the %s directory."
+#~ msgstr "Upload your image to the %s directory."
+
+#, fuzzy
+#~ msgid "Ad 1 link"
+#~ msgstr "Ad 1 link"
+
+#, fuzzy
+#~ msgid "Link for the first ad"
+#~ msgstr ""
+#~ "Link for the first ad"
+
+#, fuzzy
+#~ msgid "Ad 1 alt tag"
+#~ msgstr "Ad 1 alt tag"
+
+#, fuzzy
+#~ msgid "Ad 2 file name"
+#~ msgstr "Ad 2 file name"
+
+#, fuzzy
+#~ msgid "Ad 2 link"
+#~ msgstr "Ad 2 link"
+
+#, fuzzy
+#~ msgid "Link for the second ad"
+#~ msgstr ""
+#~ "Link for the second ad"
+
+#, fuzzy
+#~ msgid "Ad 2 alt tag"
+#~ msgstr "Ad 2 alt tag"
+
+#~ msgid "Something about you or your business."
+#~ msgstr "Something about you or your business."
+
+#~ msgid "permalink"
+#~ msgstr "permalink"

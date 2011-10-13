@@ -1,0 +1,800 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Traction WordPress Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-07-19 13:18-0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:8
+msgid "404: Page Not Found"
+msgstr "404: Sidan finns inte"
+
+#: 404.php:10
+msgid "We are terribly sorry, but the URL you typed no longer exists. It might have been moved or deleted, or perhaps you mistyped it. We suggest searching the site:"
+msgstr "Tyvärr verkar något ha gått fel.Den sida du söker finns inte. Det kan bero på att du fått en felaktig länk eller att vi ändrat något på vår hemsida.Använd gärna sökfunktionen. Hittar du ändå inte det söker kontakta gärna oss."
+
+#: archive.php:8
+#, php-format
+msgid "Posts from the\t&#8216;%s&#8217; Category"
+msgstr "Inlägg från\t&#8216;%s&#8217; Kategorin"
+
+#: archive.php:10
+#, php-format
+msgid "Posts tagged &#8216;%s&#8217;"
+msgstr "Inlägg taggade &#8216;%s&#8217;"
+
+#: archive.php:12
+#: archive.php:14
+#: archive.php:16
+msgid "Archive for"
+msgstr "Arkiv för"
+
+#: archive.php:12
+msgid "F jS, Y"
+msgstr "F jS, Y"
+
+#: archive.php:14
+msgid "F, Y"
+msgstr "F, Y"
+
+#: archive.php:16
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:18
+#, php-format
+msgid "Posts by %s"
+msgstr "Inlägg av %s"
+
+#: archive.php:20
+msgid "Blog Archives"
+msgstr "Blogg Arkiv"
+
+#: archive.php:30
+#: index.php:17
+msgid "j"
+msgstr "j"
+
+#: archive.php:31
+#: index.php:18
+msgid "M"
+msgstr "M"
+
+#: archive.php:36
+#: index.php:23
+#: search.php:18
+msgid "Read more"
+msgstr "Läs mer"
+
+#: archive.php:37
+#: index.php:24
+#: page.php:18
+#: search.php:19
+#: single.php:20
+msgid "Edit"
+msgstr "Redigera"
+
+#: archive.php:44
+#: index.php:31
+#: search.php:26
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Äldre inlägg"
+
+#: archive.php:45
+#: index.php:32
+#: search.php:27
+msgid "Newer Entries &raquo;"
+msgstr "Nyare poster &raquo;"
+
+#: comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Detta inlägg är lösenordsskyddad. Skriv in lösenordet för att se kommentarerna."
+
+#: comments.php:16
+msgid "No Comments Yet"
+msgstr "Inga kommentarer än"
+
+#: comments.php:16
+msgid "1 Comment"
+msgstr "1 Kommentar"
+
+#: comments.php:16
+msgid "% Comments"
+msgstr "% Kommentarer"
+
+#: comments.php:18
+msgid "Post a comment"
+msgstr "Skriv en kommentar"
+
+#: comments.php:25
+msgid "Trackbacks &amp; Pingbacks"
+msgstr "Trackbacks &amp; Pingbacks"
+
+#: comments.php:31
+#: comments.php:36
+msgid "Comments are closed."
+msgstr "Kommentarerna är stängda"
+
+#: comments.php:47
+msgid "Share your thoughts, post a comment."
+msgstr "Dela dina funderingar. Skriv en kommentar."
+
+#: comments.php:49
+msgid "You must be"
+msgstr "Du måste vara"
+
+#: comments.php:49
+msgid "logged in"
+msgstr "Logga in"
+
+#: comments.php:49
+msgid "to post a comment."
+msgstr "Att skriva en kommentar."
+
+#: comments.php:54
+msgid "Logged in as"
+msgstr "Logga in som"
+
+#: comments.php:54
+msgid "Log out &raquo;"
+msgstr "Logga ut &raquo;"
+
+#: comments.php:57
+msgid "Name"
+msgstr "Namn"
+
+#: comments.php:59
+#: comments.php:64
+msgid "<span>(required)</span>"
+msgstr "<span>(obligatorisk)</span>"
+
+#: comments.php:62
+msgid "Email"
+msgstr "E-post"
+
+#: comments.php:67
+msgid "Website"
+msgstr "Websida"
+
+#: comments.php:72
+msgid "Comment"
+msgstr "Kommentera"
+
+#: comments.php:76
+msgid "<strong>Note:</strong> HTML is allowed. Your email address will <strong>never</strong> be published."
+msgstr "<strong>Notera:</strong> HTML är tillåtet. Din E-postadress kommer <strong>inte</strong> att publiceras."
+
+#: comments.php:77
+msgid "Subscribe to comments"
+msgstr "Prenumerera på Kommentarer"
+
+#: comments.php:80
+msgid "Submit Comment"
+msgstr "Publicera kommentaren"
+
+#: featured.php:19
+msgid "Featured Articles"
+msgstr "Intressanta Artiklar"
+
+#: footer.php:12
+msgid "Categories"
+msgstr "Kategorier"
+
+#: footer.php:20
+msgid "About"
+msgstr "Om"
+
+#: footer.php:24
+msgid "Did you know you can write your own about section just like this one? It's really easy. Head into the the <em>Traction Options</em> menu and check out the footer section. Type some stuff in the box, click save, and your new about section shows up in the footer."
+msgstr "Visste du att du kan skriva ditt eget om avsnitt precis som den här? Det är verkligen enkelt. Gå till menyn <em>Traction Inställningar</em> och klicka på sidfots sektionen. Skriv in din text i boxen, spara och ditt nya om avsnitt kommer att visas i sidfoten."
+
+#: footer.php:33
+msgid "Pages"
+msgstr "Sidor"
+
+#: footer.php:45
+msgid "Search"
+msgstr "Sök"
+
+#: footer.php:54
+msgid "Copyright"
+msgstr "Copyright"
+
+#: functions.php:34
+msgid "Sidebar"
+msgstr "Sidopanel"
+
+#: functions.php:43
+msgid "Footer Left"
+msgstr "Sidfot Vänster"
+
+#: functions.php:52
+msgid "Footer Center"
+msgstr "Sidfot Mitten"
+
+#: functions.php:61
+msgid "Footer Right"
+msgstr "Sidfot Höger"
+
+#: header.php:9
+msgid "Page Not Found |"
+msgstr "Hittade inte sidan |"
+
+#: header.php:11
+#: search.php:7
+#, php-format
+msgid "Search results for '%s'"
+msgstr "Sökresultat för '%s'"
+
+#: header.php:68
+msgid "Skip to content"
+msgstr "Hoppa till innehållet"
+
+#: header.php:73
+msgid "Home"
+msgstr "Startsida"
+
+#: index.php:7
+#: sidebar.php:41
+msgid "Recent Articles"
+msgstr "Senaste Artiklarna"
+
+#: search.php:32
+#, php-format
+msgid "Sorry your search for \"%s\" did not turn up any results. Please try again."
+msgstr "Du sökte efter \"%s\" och tyvärr fanns inte sökordet med. Vänligen försök igen."
+
+#: sidebar.php:20
+msgid "Sign up for our free newsletter"
+msgstr "Prenumenera på vårt nyhetsbrev"
+
+#: sidebar.php:23
+msgid "Email address"
+msgstr "E-post adress"
+
+#: sidebar.php:24
+msgid "Go"
+msgstr "Gå"
+
+#: sidebar.php:31
+#: subscribe.php:17
+msgid "Twitter"
+msgstr "Twitter"
+
+#: sidebar.php:49
+msgid "Archives"
+msgstr "Arkiv"
+
+#: single.php:5
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: single.php:24
+msgid "<em>Read more from</em>"
+msgstr "<em>Läs mer från</em>"
+
+#: subscribe.php:3
+msgid "Subscribe"
+msgstr "Prenumerera"
+
+#: subscribe.php:7
+msgid "Facebook"
+msgstr "Facebook"
+
+#: subscribe.php:12
+msgid "Flickr"
+msgstr "Flickr"
+
+#: subscribe.php:21
+msgid "RSS Feed"
+msgstr "RSS Flöde"
+
+#: functions/comments.php:31
+msgid "<em><strong>Please Note:</strong> Your comment is awaiting moderation.</em>"
+msgstr "<em><strong>Vänligen Observera:</strong> Din kommentar väntar på godkännande.</em>"
+
+#: functions/traction-admin.php:37
+msgid "The <code>/wp-content/uploads</code> folder is not writable. Try changing the permissions. <a href=\"http://codex.wordpress.org/Changing_File_Permissions\">Learn how to change permissions &rarr;</a>"
+msgstr "Din <code>/wp-content/uploads</code>mapp är inte skrivbar. Försök ändra behörigheten. <a href=\"http://codex.wordpress.org/Changing_File_Permissions\">Lär dig ändra behörigheten &rarr;</a>"
+
+#: functions/traction-admin.php:51
+msgid "There was an error uploading the file. Please try again."
+msgstr "Det blev ett fel vid uppladningen av filen. Vänligen försök igen."
+
+#: functions/traction-admin.php:71
+msgid "There was an error, please remove the logo and try again."
+msgstr "Det blev ett fel, vänligen ta bort logotypen och försök igen."
+
+#: functions/traction-admin.php:116
+msgid " settings saved!"
+msgstr "inställningarna sparade!"
+
+#: functions/traction-admin.php:117
+msgid " settings reset."
+msgstr "Återställ allt"
+
+#: functions/traction-admin.php:121
+msgid "Options"
+msgstr "Inställningar"
+
+#: functions/traction-admin.php:122
+msgid "Need help?"
+msgstr "Behöver du hjälp?"
+
+#: functions/traction-admin.php:122
+msgid "Read the tutorials"
+msgstr "Läs handledningen"
+
+#: functions/traction-admin.php:122
+msgid "or visit the <a href=\"http://thethemefoundry.com/forums/\">support forums.</a>"
+msgstr "eller besök <a href=\"http://thethemefoundry.com/forums/\">supportforumet.</a>"
+
+#: functions/traction-admin.php:134
+#: functions/traction-admin.php:260
+msgid "Save changes"
+msgstr "Spara ändringarna"
+
+#: functions/traction-admin.php:186
+msgid "Choose your image"
+msgstr "Välj din bild"
+
+#: functions/traction-admin.php:191
+msgid "Remove"
+msgstr "Ta bort"
+
+#: functions/traction-admin.php:194
+msgid "Preview logo"
+msgstr "Förhandsgranska logotypen"
+
+#: functions/traction-admin.php:195
+msgid "Cannot locate your logo image, it may have been moved or renamed. Please remove and try uploading again."
+msgstr "Kan inte hitta din logotyp bild, den kan ha flyttats eller bytt namn. Ta bort och försök lägga upp den igen."
+
+#: functions/traction-admin.php:216
+msgid "show color picker"
+msgstr "Visa färgväljaren"
+
+#: functions/traction-admin.php:216
+msgid "hide color picker"
+msgstr "Dölj färgväljaren"
+
+#: functions/traction-admin.php:265
+msgid "Save all changes"
+msgstr "Spara alla ändringar"
+
+#: functions/traction-admin.php:271
+msgid "Reset all options"
+msgstr "Återställ alla inställningar"
+
+#: functions/traction-extend.php:30
+msgid "Custom Logo Image <span>insert your custom logo image in the header</span>"
+msgstr "Egen Logotyp <span>Lägg till din egen logotyp bild i sidhuvudet</span>"
+
+#: functions/traction-extend.php:34
+msgid "Enable custom logo image"
+msgstr "Aktivera logotyp bilden"
+
+#: functions/traction-extend.php:36
+msgid "Check to use a custom logo in the header."
+msgstr "Klicka här för att använda egen logotyp bild i sidhuvudet."
+
+#: functions/traction-extend.php:41
+msgid "Prefer FTP? Specify a file name."
+msgstr "Föredrar ni FTP? Specificera ett filnamn"
+
+#: functions/traction-extend.php:43
+#, php-format
+msgid "Choose an image from your computer or specify any image file name you have uploaded to the %s directory."
+msgstr "Välj en bild från din dator eller specificera något filnamn som du laddat upp till sökvägen %s ."
+
+#: functions/traction-extend.php:50
+msgid "Logo image <code>&lt;alt&gt;</code> tag"
+msgstr "Logotyp bild <code>&lt;alt&gt;</code> tag"
+
+#: functions/traction-extend.php:52
+msgid "Specify the <code>&lt;alt&gt;</code> tag for your logo image."
+msgstr "Specificera <code>&lt;alt&gt;</code> taggen för din logotyp bild."
+
+#: functions/traction-extend.php:57
+msgid "Display tagline"
+msgstr "Visa slogan"
+
+#: functions/traction-extend.php:59
+msgid "Check to show your tagline below your logo."
+msgstr "Klicka här för att visa din slogan under logotypen."
+
+#: functions/traction-extend.php:64
+msgid "Featured Slider <span>take control of your featured slider.</span>"
+msgstr "Rubrikväxlaren <span>Ta kontroll över din rubrikväxlare.</span>"
+
+#: functions/traction-extend.php:68
+msgid "Enable featured slider"
+msgstr "Aktivera rubrikväxlaren"
+
+#: functions/traction-extend.php:70
+msgid "Check to turn on your featured slider."
+msgstr "Klicka här för att aktivera din rubrikväxlare."
+
+#: functions/traction-extend.php:75
+msgid "Autostart"
+msgstr "Autostart"
+
+#: functions/traction-extend.php:77
+msgid "Check to start your featured slider automatically."
+msgstr "Klicka här för att starta din rubrikväxlare automatiskt."
+
+#: functions/traction-extend.php:82
+msgid "Autostart delay"
+msgstr "Fördröjning autostart"
+
+#: functions/traction-extend.php:84
+msgid "Delay before the autostart and the delay between slides in milliseconds (1000 = 1 second)."
+msgstr "Fördröjning före autostarten och fördröjningen mellan bildväxlingen i millisekunder (1000 = 1 sekund)."
+
+#: functions/traction-extend.php:89
+msgid "Slide animation speed"
+msgstr "Hastighet bildväxling"
+
+#: functions/traction-extend.php:91
+msgid "Speed of the sliding animation in milliseconds (1000 = 1 second)."
+msgstr "Hastighet på bildväxlingen i millisekunder (1000 = 1 sekund)."
+
+#: functions/traction-extend.php:96
+msgid "Fade speed"
+msgstr "Hastighet bildövergång"
+
+#: functions/traction-extend.php:98
+msgid "Speed of the fading animation in milliseconds (1000 = 1 second)."
+msgstr "Hastighet på bildövergången i millisekunder (1000 = 1 sekund)."
+
+#: functions/traction-extend.php:103
+msgid "Color Scheme <span>choose your color scheme</span>"
+msgstr "Färgschema <span>Välj ditt färgschema</span>"
+
+#: functions/traction-extend.php:107
+msgid "Color scheme"
+msgstr "Färgschema"
+
+#: functions/traction-extend.php:108
+msgid "Choose your color scheme."
+msgstr "Välj ditt färg schema."
+
+#: functions/traction-extend.php:113
+msgid "Default (blue)"
+msgstr "Förinställt (blå)"
+
+#: functions/traction-extend.php:114
+msgid "Red"
+msgstr "Röd"
+
+#: functions/traction-extend.php:115
+msgid "Green"
+msgstr "Grön"
+
+#: functions/traction-extend.php:118
+msgid "Navigation <span>control your top navigation menu</span>"
+msgstr "Navigering <span>Kontrollera din navigering i sidhuvudet</span>"
+
+#: functions/traction-extend.php:122
+msgid "Use WordPress menus"
+msgstr "Använd Wordpress menyn"
+
+#: functions/traction-extend.php:124
+msgid "Check this box to use the built in WordPress menus (overrides all other navigation options). This option <strong>requires WordPress 3.0 or higher</strong>."
+msgstr "Klicka här för att använda WordPress inbyggda meny (åsidosätter alla andra inställningar i navigeringen). Detta alternativ <strong>kräver WordPress 3.0 eller senare</strong>."
+
+#: functions/traction-extend.php:129
+msgid "Hide all pages"
+msgstr "Dölj alla sidor"
+
+#: functions/traction-extend.php:131
+msgid "Check this box to hide all pages."
+msgstr "Klicka här för att dölja alla sidor."
+
+#: functions/traction-extend.php:136
+msgid "Exclude specific pages"
+msgstr "Uteslut specificerade sidor"
+
+#: functions/traction-extend.php:138
+msgid "The page ID of pages you do not want displayed in your navigation menu. Use a comma-delimited list, eg. 1,2,3."
+msgstr "ID på sidorna du inte vill visa i navigationsmenyn. Använd  kommaavgränsade, eg. 1,2,3."
+
+#: functions/traction-extend.php:143
+msgid "Hide all categories"
+msgstr "Dölj alla kategorier"
+
+#: functions/traction-extend.php:145
+msgid "Check this box to hide all categories."
+msgstr "Klicka här för att dölja alla kategorier."
+
+#: functions/traction-extend.php:150
+msgid "Exclude specific categories"
+msgstr "Uteslut specificerade kategorier"
+
+#: functions/traction-extend.php:152
+msgid "The category ID of pages you do not want displayed in your navigation menu. Use a comma-delimited list, eg. 1,2,3."
+msgstr "Kategori ID över sidorna du inte vill visa i navigationsmenyn. Använd  kommaavgränsade, eg. 1,2,3."
+
+#: functions/traction-extend.php:157
+msgid "Hide home navigation menu item"
+msgstr "Dölj alternativet startsida i navigationsmenyn"
+
+#: functions/traction-extend.php:159
+msgid "Check this box if you are using a static page as your homepage instead of your blog (the default). The extra <em>Home</em> menu item will be removed."
+msgstr "Klicka här om du använder en statisk sida istället för din blogg (standard). Länken <em>Startsida</em> kommer att tas bort."
+
+#: functions/traction-extend.php:164
+msgid "Advertising <span>fill in your ad spots</span>"
+msgstr "Annonsering <span>Fyll i din annonsplats</span>"
+
+#: functions/traction-extend.php:168
+msgid "Enable top banner ad"
+msgstr "Aktivera den översta webbannonsen"
+
+#: functions/traction-extend.php:170
+msgid "Check this box to enable the top banner."
+msgstr "Klicka här för att aktivera den översta webbannonsen"
+
+#: functions/traction-extend.php:175
+msgid "Top banner ad file name"
+msgstr "Filnamn på den översta webbannonsen"
+
+#: functions/traction-extend.php:177
+#: functions/traction-extend.php:205
+#: functions/traction-extend.php:226
+#, php-format
+msgid "Upload your image to the %s directory."
+msgstr "Lägg upp din bild till sökvägen %s ."
+
+#: functions/traction-extend.php:182
+msgid "Top banner ad link"
+msgstr "Webbannons länk"
+
+#: functions/traction-extend.php:184
+msgid "Link for the top banner ad"
+msgstr "Länk för webbannonsen"
+
+#: functions/traction-extend.php:189
+msgid "Top banner alt tag"
+msgstr "Webbannons alt tag"
+
+#: functions/traction-extend.php:191
+msgid "Alt tag for the top banner ad"
+msgstr "Alt tag för webbannonsen"
+
+#: functions/traction-extend.php:196
+msgid "Enable sidebar adbox"
+msgstr "Aktivera annonsboxen i sidokolumnen"
+
+#: functions/traction-extend.php:198
+msgid "Check this box to enable the sidebar adbox."
+msgstr "Klicka här för att aktivera annonsboxen i sidokolumnen."
+
+#: functions/traction-extend.php:203
+msgid "Ad 1 file name"
+msgstr "Annons 1 filnamn"
+
+#: functions/traction-extend.php:210
+msgid "Ad 1 link"
+msgstr "Annons 1 länk"
+
+#: functions/traction-extend.php:212
+msgid "Link for the first ad"
+msgstr "Länk till den första annonsen"
+
+#: functions/traction-extend.php:217
+msgid "Ad 1 alt tag"
+msgstr "Annons 1 alt tag"
+
+#: functions/traction-extend.php:219
+msgid "Alt tag for the first ad"
+msgstr "Alt tag till första annonsen"
+
+#: functions/traction-extend.php:224
+msgid "Ad 2 file name"
+msgstr "Annons 2 filnamn"
+
+#: functions/traction-extend.php:231
+msgid "Ad 2 link"
+msgstr "Annons 2 länk"
+
+#: functions/traction-extend.php:233
+msgid "Link for the second ad"
+msgstr "Länk till den andra annonsen"
+
+#: functions/traction-extend.php:238
+msgid "Ad 2 alt tag"
+msgstr "Annons 2 alt tag"
+
+#: functions/traction-extend.php:240
+msgid "Alt tag for the second ad"
+msgstr "Alt tag till andra annonsen"
+
+#: functions/traction-extend.php:245
+msgid "Subscribe Links <span>control the subscribe links</span>"
+msgstr "Prenumerations Länkar <span>Kontrollera din prenumerations länkar</span>"
+
+#: functions/traction-extend.php:249
+msgid "Enable Twitter"
+msgstr "Aktivera Twitter"
+
+#: functions/traction-extend.php:251
+msgid "Hip to Twitter? Check this box. Please set your Twitter username in the Twitter menu."
+msgstr "Tycker du om Twitter? Klicka här. Vänligen skriv in ditt Twitternamn i  Twitter menyn."
+
+#: functions/traction-extend.php:256
+msgid "Enable Facebook"
+msgstr "Aktivera Facebook"
+
+#: functions/traction-extend.php:258
+msgid "Check this box to show a link to your Facebook page."
+msgstr "Klicka här för att visa länken till din Facebook sida."
+
+#: functions/traction-extend.php:263
+msgid "Enable Flickr"
+msgstr "Aktivera Flickr"
+
+#: functions/traction-extend.php:265
+msgid "Check this box to show a link to Flickr."
+msgstr "Klicka här för att visa länken till Flickr."
+
+#: functions/traction-extend.php:270
+msgid "Disable all"
+msgstr "Avaktivera allt"
+
+#: functions/traction-extend.php:272
+msgid "Check this box to hide all follow icons (including RSS). This option overrides any other settings."
+msgstr "Klicka här för att dölja alla ikoner (inklusive RSS). Det här alternativet åsidosätter alla andra inställningar."
+
+#: functions/traction-extend.php:277
+msgid "Facebook link"
+msgstr "Facebook länk"
+
+#: functions/traction-extend.php:279
+msgid "Enter your Facebook link."
+msgstr "Skriv in din Facebook länk."
+
+#: functions/traction-extend.php:284
+msgid "Flickr link"
+msgstr "Flickr länk"
+
+#: functions/traction-extend.php:286
+msgid "Enter your Flickr link."
+msgstr "Skriv in din Flickr länk."
+
+#: functions/traction-extend.php:291
+msgid "Sidebar <span>customize your sidebar</span>"
+msgstr "Sidokolumnen <span>Inställningar för sidokolumnen</span>"
+
+#: functions/traction-extend.php:295
+msgid "Disable sidebox"
+msgstr "Inaktivera sidboxen"
+
+#: functions/traction-extend.php:297
+msgid "Check this box to disable the sidebar sidebox."
+msgstr "Klicka här för att avaktivera sidboxen i sidkolumnen."
+
+#: functions/traction-extend.php:302
+msgid "Custom code"
+msgstr "Egen kod"
+
+#: functions/traction-extend.php:304
+msgid "Check this box to use custom code for the sidebox."
+msgstr "Klicka här för att använda egen kod i sidkolumnen."
+
+#: functions/traction-extend.php:309
+msgid "Custom code content"
+msgstr "Innehåll för egen kod"
+
+#: functions/traction-extend.php:311
+msgid "Must use properly formatted XHTML/HTML."
+msgstr "Endast korrekt formaterad XHTML/HTML."
+
+#: functions/traction-extend.php:319
+msgid "Enable newsletter"
+msgstr "Aktivera nyhetsbrev"
+
+#: functions/traction-extend.php:321
+msgid "The newsletter sign-up uses Feedburner by default."
+msgstr "Nyhetsbrevets prenumeration använder Feedburner som standard."
+
+#: functions/traction-extend.php:326
+msgid "Feed Title"
+msgstr "Feed Titel"
+
+#: functions/traction-extend.php:328
+msgid "Title displayed inside the newsletter signup box"
+msgstr "Titeln visas inuti nyhetsbrevets prenumerations box"
+
+#: functions/traction-extend.php:333
+msgid "Feedburner feed name"
+msgstr "Feedburner feed namn"
+
+#: functions/traction-extend.php:335
+msgid "Click the <em>Edit Feed Details</em> link inside FeedBurner"
+msgstr "Klicka på <em>Edit Feed Details</em> länken inuti FeedBurner"
+
+#: functions/traction-extend.php:340
+msgid "Twitter <span>show your latest tweets in the sidebar</span>"
+msgstr "Twitter <span>Visar dina senaste tweets i sidokolumnen</span>"
+
+#: functions/traction-extend.php:344
+msgid "Twitter sidebar updates"
+msgstr "Uppdatera Twitter i sidokolumnen"
+
+#: functions/traction-extend.php:346
+msgid "Check this box to show your latest tweets in the sidebar."
+msgstr "Klicka här för att visa dina senaste tweets i sidokolumnen."
+
+#: functions/traction-extend.php:351
+msgid "Twitter name"
+msgstr "Twitter namn"
+
+#: functions/traction-extend.php:353
+msgid "Enter your twitter name here."
+msgstr "Skriv in ditt Twitter namn här"
+
+#: functions/traction-extend.php:358
+msgid "Number of updates"
+msgstr "Antal uppdateringar"
+
+#: functions/traction-extend.php:360
+msgid "The number of tweets to show in the sidebar."
+msgstr "Antalet tweets att visa i sidokolumnen."
+
+#: functions/traction-extend.php:365
+msgid "Footer <span>customize your footer</span>"
+msgstr "Sidfot <span>Ändra din sidfot</span>"
+
+#: functions/traction-extend.php:371
+msgid "Something about you or your business."
+msgstr "Skriv något om dig eller ditt företag här."
+
+#: functions/traction-extend.php:379
+msgid "Disable About"
+msgstr "Avaktivera Om"
+
+#: functions/traction-extend.php:381
+msgid "Check this box to disable the About section and enable the footer widget instead."
+msgstr "Markera det här alternativet för att avaktivera Om sektionen och istället aktivera widgets i sidfoten."
+
+#: functions/traction-extend.php:386
+msgid "Copyright notice"
+msgstr "Copyright notering"
+
+#: functions/traction-extend.php:388
+msgid "Your name or the name of your business."
+msgstr "Ditt namn eller namnet på företaget"
+
+#: functions/traction-extend.php:389
+msgid "Your Name Here"
+msgstr "Ditt namn här"
+
+#: functions/traction-extend.php:393
+msgid "Stats code"
+msgstr "Webbanalys kod"
+
+#: functions/traction-extend.php:395
+msgid "If you use Google Analytics or need any other tracking script in your footer just copy and paste it here. The script will be inserted before the closing <code>&#60;/body&#62;</code> tag."
+msgstr "Om du använder Google Analytics eller behöver annan webbanalys kod i sidfoten kopierar och klistar du in den här. Koden blir placerad före slut <code>&#60;/body&#62;</code> taggen."
+
+#: functions/traction-extend.php:488
+msgid "Top Navigation"
+msgstr "Toppmenyn"
+
+#: functions/traction-extend.php:489
+msgid "Header Navigation"
+msgstr "Sidhuvud Navigering"
+

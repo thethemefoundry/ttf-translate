@@ -1,0 +1,647 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Titan WordPress Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-05-20 22:31-0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: J. Boydstun <jboydstun@jestro.com>\n"
+"Language-Team: Mateus HonÃ³rio Rodrigues <mateushonoriorodrigues@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: BRAZIL\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:2
+msgid "404: Page Not Found"
+msgstr "404: PÃ¡gina NÃ£o Encontrada"
+
+#: 404.php:4
+msgid "We are terribly sorry, but the URL you typed no longer exists. It might have been moved or deleted, or perhaps you mistyped it. We suggest searching the site:"
+msgstr "Desculpe, mas a URL que vocÃª requeriu nÃ£o existe mais. Ela pode ter sido movida ou excluÃ­da, ou talvez vocÃª se confundiu. Sugerimos uma pesquisa no site:"
+
+#: archive.php:4
+#, php-format
+msgid "Posts from the  &#8216;%s&#8217; Category"
+msgstr "Posts da Categoria  &#8216;%s&#8217;"
+
+#: archive.php:6
+#, php-format
+msgid "Posts tagged &#8216;%s&#8217;"
+msgstr "Posts com a tag &#8216;%s&#8217;"
+
+#: archive.php:8
+#: archive.php:10
+#: archive.php:12
+msgid "Archive for"
+msgstr "Arquivo para"
+
+#: archive.php:8
+#: archive.php:21
+#: single.php:8
+msgid "F jS, Y"
+msgstr "j \\d\\e F \\d\\e Y"
+
+#: archive.php:10
+msgid "F, Y"
+msgstr "F \\d\\e Y"
+
+#: archive.php:12
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:14
+#, php-format
+msgid "Posts by %s"
+msgstr "Posts por %s"
+
+#: archive.php:16
+msgid "Blog Archives"
+msgstr "Arquivos do Blog"
+
+#: archive.php:21
+#, php-format
+msgid "%s on"
+msgstr "%s em"
+
+#: archive.php:26
+#: index.php:22
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Posts Anteriores"
+
+#: archive.php:27
+#: index.php:23
+msgid "Newer Entries &raquo;"
+msgstr "PrÃ³ximos Posts &raquo;"
+
+#: comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Esse post Ã© protegido por senha. Entre com esta para visualizar os comentÃ¡rios."
+
+#: comments.php:15
+msgid "No Comments Yet"
+msgstr "Sem ComentÃ¡rios Ainda"
+
+#: comments.php:15
+msgid "One Comment"
+msgstr "Um ComentÃ¡rio"
+
+#: comments.php:15
+msgid "% Comments"
+msgstr "% ComentÃ¡rios"
+
+#: comments.php:17
+msgid "Leave One"
+msgstr "Deixe Um"
+
+#: comments.php:24
+msgid "&laquo; Older Comments"
+msgstr "&laquo; ComentÃ¡rios Anteriores"
+
+#: comments.php:25
+msgid "Newer Comments &raquo;"
+msgstr "PrÃ³ximos ComentÃ¡rios &raquo;"
+
+#: comments.php:28
+msgid "Trackbacks &amp; Pingbacks"
+msgstr "Trackbacks &amp; Pingbacks"
+
+#: comments.php:34
+#: comments.php:45
+msgid "Comments are closed."
+msgstr "ComentÃ¡rios desabilitados"
+
+#: comments.php:40
+msgid "No comments yet"
+msgstr "Sem ComentÃ¡rios Ainda"
+
+#: comments.php:57
+msgid "Leave a Reply"
+msgstr "Deixe um ComentÃ¡rio"
+
+#: comments.php:59
+msgid "You must be"
+msgstr "VocÃª deve estar"
+
+#: comments.php:59
+msgid "logged in"
+msgstr "logado"
+
+#: comments.php:59
+msgid "to post a comment."
+msgstr "para enviar um comentÃ¡rio."
+
+#: comments.php:64
+msgid "Logged in as"
+msgstr "Login feito como"
+
+#: comments.php:64
+msgid "Log out &raquo;"
+msgstr "Logout &raquo;"
+
+#: comments.php:67
+msgid "Name:"
+msgstr "Nome:"
+
+#: comments.php:67
+#: comments.php:71
+msgid "(required)"
+msgstr "(obrigatÃ³rio)"
+
+#: comments.php:71
+msgid "Email:"
+msgstr "Email:"
+
+#: comments.php:75
+msgid "Website:"
+msgstr "Site:"
+
+#: comments.php:80
+msgid "Comment:"
+msgstr "ComentÃ¡rio:"
+
+#: comments.php:83
+msgid "<strong>Note:</strong> XHTML is allowed. Your email address will <strong>never</strong> be published."
+msgstr "<strong>Nota:</strong> XHTML Ã© permitido. Seu endereÃ§o de email <strong>nunca</strong> serÃ¡ exibido."
+
+#: comments.php:84
+msgid "Subscribe to this comment feed via RSS"
+msgstr "Assine o RSS feed desse comentÃ¡rio"
+
+#: comments.php:87
+msgid "Submit Comment"
+msgstr "Enviar ComentÃ¡rio"
+
+#: footer.php:7
+#: functions/titan-extend.php:213
+msgid "About"
+msgstr "Sobre"
+
+#: footer.php:11
+msgid "Did you know you can write your own about section just like this one? It's really easy. Head into the the <em>Titan Options</em> menu and check out the footer section. Type some stuff in the box, click save, and your new about section shows up in the footer."
+msgstr "VocÃª sabia que vocÃª pode escrever sua prÃ³pria seÃ§Ã£o \"Sobre\" como esta? Ã‰ muito fÃ¡cil. Entre no menu <em>OpÃ§Ãµes Titan</em> e ache a seÃ§Ã£o do rodapÃ©. Escreva algo na caixa, clique em salvar, e sua nova seÃ§Ã£o \"Sobre\" aparecerÃ¡ no RodapÃ© do seu blog."
+
+#: footer.php:12
+msgid "Wondering about those Flickr photos on the right?"
+msgstr "Se perguntando sobre essas fotos do Flickr Ã  direita?"
+
+#: footer.php:13
+msgid "We didn't take them, they are a random sampling of the most popular photos on Flickr with the tag 'nature'. All rights are reserved to the original copyright holders where applicable."
+msgstr "NÃ³s nÃ£o as fotografamos, elas sÃ£o uma amostra aleatÃ³ria das fotos mais populares do Flickr com a tag 'natureza'. Todos os direitos estÃ£o reservados para os originais possuidores dos direitos autorais."
+
+#: footer.php:21
+#: sidebar.php:30
+msgid "Categories"
+msgstr "Categorias"
+
+#: footer.php:29
+msgid "Flickr"
+msgstr "Flickr"
+
+#: footer.php:47
+#: searchform.php:4
+msgid "Search"
+msgstr "Pesquisa"
+
+#: footer.php:54
+msgid "Copyright"
+msgstr "Copyright"
+
+#: functions.php:31
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:41
+msgid "Footer"
+msgstr "RodapÃ©"
+
+#: header.php:9
+msgid "Page Not Found |"
+msgstr "PÃ¡gina NÃ£o Encontrada |"
+
+#: header.php:11
+#: search.php:3
+#: search.php:25
+#, php-format
+msgid "Search results for '%s'"
+msgstr "Resultados da pesquisa para '%s'"
+
+#: header.php:56
+msgid "Follow:"
+msgstr "Seguir:"
+
+#: header.php:57
+msgid "RSS"
+msgstr "RSS"
+
+#: header.php:59
+msgid "Email"
+msgstr "Email"
+
+#: header.php:62
+msgid "Twitter"
+msgstr "Twitter"
+
+#: header.php:74
+msgid "Home"
+msgstr "Home"
+
+#: index.php:6
+#: search.php:7
+msgid "M j"
+msgstr "j M"
+
+#: index.php:8
+#: search.php:9
+#, php-format
+msgid "by %s"
+msgstr "por %s"
+
+#: index.php:12
+#: search.php:12
+#: single.php:12
+msgid "read more..."
+msgstr "leia mais..."
+
+#: index.php:13
+#: page.php:7
+#: search.php:13
+#: single.php:13
+#: functions/comments.php:19
+msgid "Edit"
+msgstr "Editar"
+
+#: index.php:17
+#: search.php:16
+msgid "Leave a comment"
+msgstr "Deixe um comentÃ¡rio"
+
+#: index.php:17
+#: search.php:16
+msgid "1 Comment"
+msgstr "1 ComentÃ¡rio"
+
+#: index.php:17
+#: search.php:16
+msgid "% Comment"
+msgid_plural "% Comments"
+msgstr[0] "% ComentÃ¡rio"
+msgstr[1] "% ComentÃ¡rios"
+
+#: search.php:27
+#, php-format
+msgid "Sorry your search for \"%s\" did not turn up any results. Please try again."
+msgstr "Sua pesquisa por \"%s\" nÃ£o trouxe nenhum resultado. Por favor tente novamente."
+
+#: sidebar.php:22
+msgid "Recent Articles"
+msgstr "Posts Recentes"
+
+#: sidebar.php:36
+msgid "Archives"
+msgstr "Arquivos"
+
+#: single.php:8
+#, php-format
+msgid "by %s on"
+msgstr "por %s em"
+
+#: single.php:17
+msgid "From"
+msgstr "De"
+
+#: functions/comments.php:9
+msgid "permalink"
+msgstr "Link permanente"
+
+#: functions/comments.php:12
+msgid "<em><strong>Please Note:</strong> Your comment is awaiting moderation.</em>"
+msgstr "<em><strong>Nota:</strong> Seu comentÃ¡rio estÃ¡ aguardando moderaÃ§Ã£o.</em>"
+
+#: functions/titan-admin.php:60
+msgid " settings saved!"
+msgstr "configuraÃ§Ãµes salvas!"
+
+#: functions/titan-admin.php:61
+msgid " settings reset."
+msgstr "configuraÃ§Ãµes resetadas."
+
+#: functions/titan-admin.php:65
+msgid "Options"
+msgstr "OpÃ§Ãµes"
+
+#: functions/titan-admin.php:68
+msgid "Need help?"
+msgstr "Precisa de ajuda?"
+
+#: functions/titan-admin.php:68
+msgid "Read the tutorials"
+msgstr "Leia os tutoriais"
+
+#: functions/titan-admin.php:68
+msgid "or visit the <a href=\"http://thethemefoundry.com/forums/\">support forums.</a>"
+msgstr "ou visite os <a href=\"http://thethemefoundry.com/forums/\">fÃ³runs de suporte.</a>"
+
+#: functions/titan-admin.php:70
+msgid "Go PRO!"
+msgstr "Seja PRO!"
+
+#: functions/titan-admin.php:71
+msgid "You are using the free version of Titan. Upgrade to Titan PRO for extra features, access to dedicated support, priority theme updates, and comprehensive theme tutorials."
+msgstr "VocÃª estÃ¡ usando uma versÃ£o grÃ¡tis do Titan. Atualize para o Titan PRO para recursos extras, acesse o suporte dedicado, atualizaÃ§Ãµes de tema com prioridade, e tutoriais compreensivos."
+
+#: functions/titan-admin.php:72
+msgid "Learn more about Titan PRO &rarr;"
+msgstr "Leia mais sobre Titan PRO &rarr;"
+
+#: functions/titan-admin.php:84
+#: functions/titan-admin.php:196
+msgid "Save changes"
+msgstr "Salvae mudanÃ§as"
+
+#: functions/titan-admin.php:150
+msgid "show color picker"
+msgstr "mostrar paleta de cores"
+
+#: functions/titan-admin.php:150
+msgid "hide color picker"
+msgstr "esconder paleta de cores"
+
+#: functions/titan-admin.php:201
+msgid "Save all changes"
+msgstr "Salvar todas as mudanÃ§as"
+
+#: functions/titan-admin.php:207
+msgid "Reset all options"
+msgstr "Resetar todas opÃ§Ãµes"
+
+#: functions/titan-extend.php:29
+msgid "Custom Logo Image <span>insert your custom logo image in the header</span>"
+msgstr "Personalizar Imagem do Logo <span>inserir sua prÃ³pria imagem do logo no cabeÃ§alho</pan>"
+
+#: functions/titan-extend.php:32
+msgid "Enable custom logo image"
+msgstr "Habilitar imagem personalizada do logo"
+
+#: functions/titan-extend.php:35
+msgid "Check to use a custom logo in the header."
+msgstr "Cheque para usar uma imagem customizada no logo do header."
+
+#: functions/titan-extend.php:39
+msgid "Logo image file name"
+msgstr "TÃ­tulo do arquivo da imagem do header"
+
+#: functions/titan-extend.php:42
+msgid "Upload your logo image here: "
+msgstr "FaÃ§a upload da imagem aqui:"
+
+#: functions/titan-extend.php:46
+msgid "Logo image <code>&lt;alt&gt;</code> tag"
+msgstr "Tag <code>&lt;alt&gt;</code> para a imagem"
+
+#: functions/titan-extend.php:49
+msgid "Specify the <code>&lt;alt&gt;</code> tag for your logo image."
+msgstr "Especifique a tag <code>&lt;alt&gt;</code> para sua imagem de logo."
+
+#: functions/titan-extend.php:53
+msgid "Display tagline"
+msgstr "Mostrar tagline"
+
+#: functions/titan-extend.php:56
+msgid "Check to show your tagline below your logo."
+msgstr "Cheque para exibir sua tagline abaixo do seu logo."
+
+#: functions/titan-extend.php:60
+msgid "Navigation <span>control your top navigation menu</span>"
+msgstr "NavegaÃ§Ã£o <span>controle seu menu de navegaÃ§Ã£o do topo</span>"
+
+#: functions/titan-extend.php:63
+msgid "Hide all pages"
+msgstr "Esconder todas as pÃ¡ginas"
+
+#: functions/titan-extend.php:65
+msgid "Check this box to hide all pages"
+msgstr "Marque essa caixa para esconder todas as pÃ¡ginas"
+
+#: functions/titan-extend.php:69
+msgid "Exclude specific pages"
+msgstr "Excluir pÃ¡ginas especÃ­ficas"
+
+#: functions/titan-extend.php:72
+msgid "The page ID of pages you do not want displayed in your navigation menu. Use a comma-delimited list, eg. 1,2,3"
+msgstr "O ID da pÃ¡gina que vocÃª quer que nÃ£o apareÃ§a no seu menu de navegaÃ§Ã£o. Para delimitÃ¡-los use uma vÃ­rgula, ex. 1,2,3"
+
+#: functions/titan-extend.php:76
+msgid "Hide all categories"
+msgstr "Esconder todas categorias"
+
+#: functions/titan-extend.php:78
+msgid "Check this box to hide all categories."
+msgstr "Marque essa caixa para esconder todas categorias."
+
+#: functions/titan-extend.php:82
+msgid "Exclude specific categories"
+msgstr "Excluir categorias especÃ­ficas"
+
+#: functions/titan-extend.php:85
+msgid "The category ID of pages you do not want displayed in your navigation menu.. Use a comma-delimited list, eg. 1,2,3"
+msgstr "O ID da categoria das pÃ¡ginas que vocÃª quer que nÃ£o apareÃ§a no seu menu de navegaÃ§Ã£o. Para separÃ¡-los use uma vÃ­rgula, ex. 1,2,3"
+
+#: functions/titan-extend.php:89
+msgid "Hide home navigation menu item"
+msgstr "Esconder item HOME do menu de navegaÃ§Ã£o"
+
+#: functions/titan-extend.php:92
+msgid "Check this box if you are using a static page as your homepage instead of your blog (the default). The extra <em>Home</em> menu item will be removed."
+msgstr "Marque essa caixa se vocÃª estiver usando uma pÃ¡gina estÃ¡tica como sua homepage ao invÃ©s dos posts recentes do seu blog (o padrÃ£o). O item <em>Home</em> extra serÃ¡ removido."
+
+#: functions/titan-extend.php:96
+msgid "Follow Links <span>top right follow links</span>"
+msgstr "Links Seguir <span>links seguir Ã  direita no topo</span>"
+
+#: functions/titan-extend.php:99
+msgid "Email updates link"
+msgstr "Link atualizaÃ§Ãµes por email"
+
+#: functions/titan-extend.php:101
+msgid "Enter your feed email link here."
+msgstr "Entre com seu link de RSS por email aqui."
+
+#: functions/titan-extend.php:106
+msgid "Disable email link"
+msgstr "Desabilitar link email"
+
+#: functions/titan-extend.php:108
+msgid "Don't want to offer email updates, check the box."
+msgstr "Se nÃ£o quiser oferecer atualizaÃ§Ãµes via email, marque a caixa."
+
+#: functions/titan-extend.php:112
+msgid "Twitter updates link"
+msgstr "Link atualizaÃ§Ãµes do Twitter"
+
+#: functions/titan-extend.php:114
+msgid "Enter the link to your Twitter page."
+msgstr "Entre com <strong>o link</strong> da sua pÃ¡gina do twitter aqui."
+
+#: functions/titan-extend.php:117
+msgid "Disable Twitter"
+msgstr "Desabilitar o Twitter"
+
+#: functions/titan-extend.php:119
+msgid "Not hip to Twitter? That's cool, just check this box."
+msgstr "Desabilitar o Twitter? Apenas marque essa caixa."
+
+#: functions/titan-extend.php:123
+msgid "Homepage Notice <span>display a notice on your homepage</span>"
+msgstr "Aviso na Homepage <span>mostrar um aviso na sua homepage</span>"
+
+#: functions/titan-extend.php:126
+msgid "Enable homepage notice"
+msgstr "Habilitar aviso na homepage"
+
+#: functions/titan-extend.php:129
+msgid "Check this box to use a custom notice on the home page."
+msgstr "Marque essa caixa para usar uma aviso personalizado na sua homepage"
+
+#: functions/titan-extend.php:133
+msgid "Custom notice"
+msgstr "Aviso personalizado"
+
+#: functions/titan-extend.php:136
+msgid "The content of your custom notice."
+msgstr "O conteÃºdo se seu aviso personalizado."
+
+#: functions/titan-extend.php:142
+msgid "Sidebar Sidebox <span>customize your sidebox</span>"
+msgstr "Sidebox na Sidebar <span>Personalize a sua sidebox</span>"
+
+#: functions/titan-extend.php:145
+msgid "Disable sidebox"
+msgstr "Desabilitar sidebox"
+
+#: functions/titan-extend.php:147
+msgid "Check this box to disable the sidebar sidebox."
+msgstr "Marque essa caixa para desabilitar a sidebox na sidebar"
+
+#: functions/titan-extend.php:151
+msgid "Custom code"
+msgstr "CÃ³digo personalizado"
+
+#: functions/titan-extend.php:153
+msgid "Check this box to use custom code for the sidebox."
+msgstr "Marque essa caixa para usar um cÃ³digo customizado na sidebox"
+
+#: functions/titan-extend.php:157
+msgid "Custom code content"
+msgstr "ConteÃºdo do cÃ³digo customizado"
+
+#: functions/titan-extend.php:159
+msgid "Must use properly formatted XHTML/HTML."
+msgstr "Deve ser adequadamente formatado usando XHTML/HTML"
+
+#: functions/titan-extend.php:165
+msgid "Sidebar Adbox <span>control ads in your sidebar</span>"
+msgstr "Caixa de anÃºncios na Sidebar <span>controlar anÃºncios na sua Sidebar</span>"
+
+#: functions/titan-extend.php:168
+msgid "Enable adbox"
+msgstr "Habilitar caixa de anÃºncios"
+
+#: functions/titan-extend.php:170
+msgid "Check this box to enable the sidebar adbox."
+msgstr "Marque essa caixa para habilitar a caixa de anÃºncios na sidebar"
+
+#: functions/titan-extend.php:174
+msgid "Ad 1 file name"
+msgstr "Nome do arquivo AnÃºncio 1"
+
+#: functions/titan-extend.php:176
+#: functions/titan-extend.php:194
+msgid "Upload your image here: "
+msgstr "FaÃ§a upload da sua imagem aqui:"
+
+#: functions/titan-extend.php:180
+msgid "Ad 1 link"
+msgstr "Link do anÃºncio 1"
+
+#: functions/titan-extend.php:182
+msgid "Link for the first ad"
+msgstr "Link para o primeiro anÃºncio"
+
+#: functions/titan-extend.php:186
+msgid "Ad 1 alt tag"
+msgstr "Tag alt do AnÃºncio 1"
+
+#: functions/titan-extend.php:188
+msgid "Alt tag for the first ad"
+msgstr "Tag Alt do primeiro anÃºncio"
+
+#: functions/titan-extend.php:192
+msgid "Ad 2 file name"
+msgstr "Nome do arquivo AnÃºncio 2"
+
+#: functions/titan-extend.php:198
+msgid "Ad 2 link"
+msgstr "Link do anÃºncio 2"
+
+#: functions/titan-extend.php:200
+msgid "Link for the second ad"
+msgstr "Link para o segundo anÃºncio"
+
+#: functions/titan-extend.php:204
+msgid "Ad 2 alt tag"
+msgstr "Tag alt do AnÃºncio 2"
+
+#: functions/titan-extend.php:206
+msgid "Alt tag for the second ad"
+msgstr "Tag Alt do segundo anÃºncio"
+
+#: functions/titan-extend.php:210
+msgid "Footer <span>customize your footer</span>"
+msgstr "RodapÃ© <span>personalize o seu rodapÃ©</span>"
+
+#: functions/titan-extend.php:215
+msgid "Something about you or your business."
+msgstr "Algo sobre vocÃª ou seu negÃ³cio."
+
+#: functions/titan-extend.php:220
+msgid "Flickr link"
+msgstr "Link do Flickr"
+
+#: functions/titan-extend.php:222
+msgid "Create a <a href=\"http://www.flickr.com/badge_new.gne\">javascript Flickr badge</a>. At the end of the process extract the URL and paste here."
+msgstr "Criar <a href=\"http://www.flickr.com/badge_new.gne\">javascript para badge Flickr</a>. Ao fim do precesso, extraia a URL e cole aqui."
+
+#: functions/titan-extend.php:227
+msgid "Disable Flickr"
+msgstr "Desabilitar Flickr"
+
+#: functions/titan-extend.php:229
+msgid "Check this box to disable Flickr and enable the footer widget instead."
+msgstr "Marque essa caixa para desabilitar o Flickr e habilitar os widgets do RodapÃ©."
+
+#: functions/titan-extend.php:233
+msgid "Copyright notice"
+msgstr "Nota de Copyright"
+
+#: functions/titan-extend.php:235
+msgid "Your name or the name of your business."
+msgstr "Seu nome ou o nome da sua empresa."
+
+#: functions/titan-extend.php:236
+msgid "Your Name Here"
+msgstr "Seu Nome Aqui"
+
+#: functions/titan-extend.php:239
+msgid "Stats code"
+msgstr "CÃ³digo do Stats"
+
+#: functions/titan-extend.php:241
+msgid "If you use Google Analytics or need any other tracking script in your footer just copy and paste it here. The script will be inserted before the closing <code>&#60;/body&#62;</code> tag."
+msgstr "Se vocÃª usa o Googlr Analytics ou precisa de outro script rodando no seu RodapÃ©, apenas copie e cole-o aqui. O script serÃ¡ inserido antes da tag de fechamento <code>&#60;/body&#62;</code>."
+

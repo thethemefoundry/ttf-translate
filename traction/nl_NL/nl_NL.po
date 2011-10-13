@@ -1,0 +1,750 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Traction WordPress Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-31 10:34-0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Drew Strojny <themes@jestro.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:8
+msgid "404: Page Not Found"
+msgstr "404: Page Not Found"
+
+#: 404.php:10
+msgid "We are terribly sorry, but the URL you typed no longer exists. It might have been moved or deleted, or perhaps you mistyped it. We suggest searching the site:"
+msgstr "We are terribly sorry, but the URL you typed no longer exists. It might have been moved or deleted, or perhaps you mistyped it. We suggest searching the site:"
+
+#: archive.php:8
+#, php-format
+msgid "Posts from the  &#8216;%s&#8217; Category"
+msgstr "Berichten voor de  &#8216;%s&#8217; Categorie"
+
+#: archive.php:10
+#, php-format
+msgid "Posts tagged &#8216;%s&#8217;"
+msgstr "Berichten getagged &#8216;%s&#8217;"
+
+#: archive.php:12
+#: archive.php:14
+#: archive.php:16
+msgid "Archive for"
+msgstr "Archief voor"
+
+#: archive.php:12
+msgid "F jS, Y"
+msgstr "j F Y"
+
+#: archive.php:14
+msgid "F, Y"
+msgstr "F Y"
+
+#: archive.php:16
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:18
+#, php-format
+msgid "Posts by %s"
+msgstr "Berichten door %s"
+
+#: archive.php:20
+msgid "Blog Archives"
+msgstr "Blog Archieven"
+
+#: archive.php:30
+#: index.php:17
+#: search.php:12
+msgid "j"
+msgstr "j"
+
+#: archive.php:31
+#: index.php:18
+#: search.php:13
+msgid "M"
+msgstr "M"
+
+#: archive.php:36
+#: index.php:23
+#: page.php:17
+#: search.php:18
+#: single.php:23
+msgid "Read more"
+msgstr "Lees verder"
+
+#: archive.php:37
+#: index.php:24
+#: page.php:18
+#: search.php:19
+#: single.php:24
+msgid "Edit This"
+msgstr "Wijzig dit"
+
+#: archive.php:44
+#: index.php:31
+#: search.php:26
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Oudere Berichten"
+
+#: archive.php:45
+#: index.php:32
+#: search.php:27
+msgid "Newer Entries &raquo;"
+msgstr "Recente Berichten &raquo;"
+
+#: comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Dit bericht is met een paswoord beschermd. Vul het paswoord in om het bericht te bekijken."
+
+#: comments.php:16
+msgid "No Comments Yet"
+msgstr "Nog geen Reacties"
+
+#: comments.php:16
+msgid "1 Comment"
+msgstr "1 Reactie"
+
+#: comments.php:16
+msgid "% Comments"
+msgstr "% Reacties"
+
+#: comments.php:18
+msgid "Post a comment"
+msgstr "Reageer"
+
+#: comments.php:25
+msgid "Trackbacks &amp; Pingbacks"
+msgstr "Trackbacks &amp; Pingbacks"
+
+#: comments.php:31
+#: comments.php:36
+msgid "Comments are closed."
+msgstr "Reageren kan niet meer"
+
+#: comments.php:47
+msgid "Share your thoughts, post a comment."
+msgstr "Deel je mening, plaats een reactie."
+
+#: comments.php:49
+msgid "You must be"
+msgstr "U moet"
+
+#: comments.php:49
+msgid "logged in"
+msgstr "Ingelogd"
+
+#: comments.php:49
+msgid "to post a comment."
+msgstr "om te reageren."
+
+#: comments.php:54
+msgid "Logged in as"
+msgstr "Ingelogd als"
+
+#: comments.php:54
+msgid "Log out &raquo;"
+msgstr "Log uit &raquo;"
+
+#: comments.php:57
+msgid "Name"
+msgstr "Naam"
+
+#: comments.php:59
+#: comments.php:64
+msgid "<span>(required)</span>"
+msgstr "<span>(verplicht)</span>"
+
+#: comments.php:62
+msgid "Email"
+msgstr "E-mail"
+
+#: comments.php:67
+msgid "Website"
+msgstr "Website"
+
+#: comments.php:72
+msgid "Comment"
+msgstr "Reactie"
+
+#: comments.php:76
+msgid "<strong>Note:</strong> HTML is allowed. Your email address will <strong>never</strong> be published."
+msgstr "<strong>Nota:</strong> HTML is toegestaan. Uw e-mail adres zal <strong>nooit</strong> gepubliseerd worden."
+
+#: comments.php:77
+msgid "Subscribe to comments"
+msgstr "Abonneer op de Reacties"
+
+#: comments.php:80
+msgid "Submit Comment"
+msgstr "Plaats Reactie"
+
+#: footer.php:8
+msgid "About"
+msgstr "Over"
+
+#: footer.php:12
+msgid "Did you know you can write your own about section just like this one? It's really easy. Head into the the <em>Traction Options</em> menu and check out the footer section. Type some stuff in the box, click save, and your new about section shows up in the footer."
+msgstr "Wist je dat je een eigen 'over' sectie net als deze kan schrijven? Het is heel makkelijk. Ga naar de <em>Traction Options</em> menu en bekijk de footer sectie. Typ je gegevens, klik op save en je nieuwe 'over' sectie staat in de footer."
+
+#: footer.php:20
+msgid "Pages"
+msgstr "Pagina's"
+
+#: footer.php:32
+msgid "Search"
+msgstr "Zoek"
+
+#: footer.php:44
+msgid "Copyright"
+msgstr "Copyright"
+
+#: functions.php:28
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:38
+msgid "Footer Center"
+msgstr "Footer Midden"
+
+#: functions.php:47
+msgid "Footer Right"
+msgstr "Footer Rechts"
+
+#: header.php:9
+msgid "Page Not Found |"
+msgstr "Pagina niet gevonden |"
+
+#: header.php:11
+#: search.php:3
+#, php-format
+msgid "Search results for '%s'"
+msgstr "Zoek resultaten voor '%s'"
+
+#: header.php:69
+msgid "Skip to content"
+msgstr "Skip to content"
+
+#: header.php:74
+msgid "Home"
+msgstr "Home"
+
+#: index.php:7
+#: sidebar.php:41
+msgid "Recent Articles"
+msgstr "Recente Berichten"
+
+#: search.php:32
+#, php-format
+msgid "Sorry your search for \"%s\" did not turn up any results. Please try again."
+msgstr "Sorry je zoekopdracht voor \"%s\" gaf geen resultaten. Probeer opnieuw."
+
+#: sidebar.php:20
+msgid "Sign up for our free newsletter"
+msgstr "Teken in voor onze gratis nieuwsbrief"
+
+#: sidebar.php:23
+msgid "Email address"
+msgstr "E-mailadres"
+
+#: sidebar.php:24
+msgid "Go"
+msgstr "Ga"
+
+#: sidebar.php:31
+#: subscribe.php:17
+msgid "Twitter"
+msgstr "Twitter"
+
+#: sidebar.php:49
+msgid "Archives"
+msgstr "Archieven"
+
+#: single.php:9
+msgid "F j, Y"
+msgstr "j F Y"
+
+#: single.php:28
+msgid "<em>Read more from</em>"
+msgstr "<em>Lees meer over</em>"
+
+#: subscribe.php:3
+msgid "Subscribe"
+msgstr "Abonneer"
+
+#: subscribe.php:7
+msgid "Facebook"
+msgstr "Facebook"
+
+#: subscribe.php:12
+msgid "Flickr"
+msgstr "Flickr"
+
+#: subscribe.php:21
+msgid "RSS Feed"
+msgstr "RSS Feed"
+
+#: functions/comments.php:31
+msgid "<em><strong>Please Note:</strong> Your comment is awaiting moderation.</em>"
+msgstr "<em><strong>Aandacht:</strong> Uw reactie wacht op moderatie.</em>"
+
+#: functions/traction-admin.php:60
+msgid " settings saved!"
+msgstr "instellingen opgeslagen!"
+
+#: functions/traction-admin.php:61
+msgid " settings reset."
+msgstr "instellingen hersteld."
+
+#: functions/traction-admin.php:65
+msgid "Options"
+msgstr "Opties"
+
+#: functions/traction-admin.php:68
+msgid "Need help?"
+msgstr "Hulp nodig?"
+
+#: functions/traction-admin.php:68
+msgid "Read the tutorials"
+msgstr "Lees de handleidingen"
+
+#: functions/traction-admin.php:68
+msgid "or visit the <a href=\"http://thethemefoundry.com/forums/\">support forums.</a>"
+msgstr "of bezoek de <a href=\"http://thethemefoundry.com/forums/\">support forums.</a>"
+
+#: functions/traction-admin.php:70
+msgid "Free Trial"
+msgstr "Gratis Proefversie"
+
+#: functions/traction-admin.php:71
+msgid "You are using the free trial version of Traction. Feel free to test it for as long as you wish. Upgrade to Traction PRO for extra features, unlimited access to dedicated support, priority theme updates, and comprehensive theme tutorials."
+msgstr "U gebruikt de gratis Traction proefversie. U kan deze zo lang uitproberen als u wil. Upgrade naar Traction PRO voor extra mogelijkheden, ongelimiteerde toegang tot toegewijde hulp, voorrang op thema updates en uitgebreide thema handleidingen."
+
+#: functions/traction-admin.php:72
+msgid "Learn more about Traction PRO &rarr;"
+msgstr "Leer meer over Traction PRO &rarr;"
+
+#: functions/traction-admin.php:84
+#: functions/traction-admin.php:199
+msgid "Save changes"
+msgstr "Bewaar wijzigingen"
+
+#: functions/traction-admin.php:153
+msgid "show color picker"
+msgstr "toon kleurkiezer"
+
+#: functions/traction-admin.php:153
+msgid "hide color picker"
+msgstr "verberg kleurkiezer"
+
+#: functions/traction-admin.php:204
+msgid "Save all changes"
+msgstr "Bewaar alle wijzigingen"
+
+#: functions/traction-admin.php:210
+msgid "Reset all options"
+msgstr "Herstel alle opties"
+
+#: functions/traction-extend.php:29
+msgid "Custom Logo Image <span>insert your custom logo image in the header</span>"
+msgstr "Eigen Logo Afbeelding <span>plaats uw eigen logo afbeelding in de header</span>"
+
+#: functions/traction-extend.php:32
+msgid "Enable custom logo image"
+msgstr "Schakel de eigen logo afbeelding in"
+
+#: functions/traction-extend.php:35
+msgid "Check to use a custom logo in the header."
+msgstr "Vink dit aan om een eigen logo in de header te gebruiken."
+
+#: functions/traction-extend.php:39
+msgid "Logo image file name"
+msgstr "Logo afbeelding bestandsnaam"
+
+#: functions/traction-extend.php:42
+msgid "Upload your logo image here: "
+msgstr "Upload uw logo afbeelding hier:"
+
+#: functions/traction-extend.php:46
+msgid "Logo image <code>&lt;alt&gt;</code> tag"
+msgstr "Logo afbeelding <code>&lt;alt&gt;</code> tag"
+
+#: functions/traction-extend.php:49
+msgid "Specify the <code>&lt;alt&gt;</code> tag for your logo image."
+msgstr "Specifieer de <code>&lt;alt&gt;</code> tag voor uw logo afbeelding."
+
+#: functions/traction-extend.php:53
+msgid "Display tagline"
+msgstr "Toon tagline"
+
+#: functions/traction-extend.php:56
+msgid "Check to show your tagline below your logo."
+msgstr "Vink dit aan om de tagline onder uw logo te tonen."
+
+#: functions/traction-extend.php:60
+msgid "Featured Slider <span>take control of your featured slider.</span>"
+msgstr "Hoofdartikel Slider <span>beheer uw hoofdartikel slider.</span>"
+
+#: functions/traction-extend.php:61
+msgid "The featured slider shows demo posts only in the free trial version of Traction."
+msgstr "De hoofdartikel slider toont enkel demo berichten op de proefversie van Traction."
+
+#: functions/traction-extend.php:64
+msgid "Enable featured slider"
+msgstr "Hoofdartikel slider inschakelen"
+
+#: functions/traction-extend.php:66
+msgid "Check to turn on your featured slider."
+msgstr "Vink dit aan om de hoofdartikel slider in te schakelen."
+
+#: functions/traction-extend.php:70
+msgid "Autostart"
+msgstr "Autostart"
+
+#: functions/traction-extend.php:72
+msgid "Check to start your featured slider automatically."
+msgstr "Vink dit aan om de hoofdartikel slider automatisch te starten."
+
+#: functions/traction-extend.php:76
+msgid "Autostart delay"
+msgstr "Wachttijd autostart"
+
+#: functions/traction-extend.php:78
+msgid "Delay before the autostart and the delay between slides in milliseconds (1000 = 1 second)."
+msgstr "Wachttijd voor de autostart en de wachttijd tussen twee dia's in milliseconden (1000 = 1 seconde)."
+
+#: functions/traction-extend.php:82
+msgid "Slide animation speed"
+msgstr "Schuif animatie snelheid"
+
+#: functions/traction-extend.php:85
+msgid "Speed of the sliding animation in milliseconds (1000 = 1 second)."
+msgstr "Snelheid van de schuif animatie in milliseconden (1000 = 1 seconde)."
+
+#: functions/traction-extend.php:89
+msgid "Fade speed"
+msgstr "Vervaging snelheid"
+
+#: functions/traction-extend.php:92
+msgid "Speed of the fading animation in milliseconds (1000 = 1 second)."
+msgstr "Snelheid van de vervaging animatie in milliseconden (1000 = 1 seconde)."
+
+#: functions/traction-extend.php:96
+msgid "Color Scheme <span>choose your color scheme</span>"
+msgstr "Kleurschema <span>kies uw kleurschema</span>"
+
+#: functions/traction-extend.php:99
+msgid "Color scheme"
+msgstr "Kleurschema"
+
+#: functions/traction-extend.php:100
+msgid "Choose your color scheme."
+msgstr "Kies uw kleurschema"
+
+#: functions/traction-extend.php:105
+msgid "Default (blue)"
+msgstr "Standaard (Blauw)"
+
+#: functions/traction-extend.php:106
+msgid "Red"
+msgstr "Rood"
+
+#: functions/traction-extend.php:108
+msgid "Navigation <span>control your top navigation menu</span>"
+msgstr "Navigatie <span>beheer uw top navigation menu</span>"
+
+#: functions/traction-extend.php:111
+msgid "Hide all pages"
+msgstr "Verberg alle pagina's"
+
+#: functions/traction-extend.php:113
+msgid "Check this box to hide all pages."
+msgstr "Vink dit aan om alle pagina's te verbergen"
+
+#: functions/traction-extend.php:117
+msgid "Exclude specific pages"
+msgstr "Specifieke pagina's uitsluiten"
+
+#: functions/traction-extend.php:120
+msgid "The page ID of pages you do not want displayed in your navigation menu. Use a comma-delimited list, eg. 1,2,3."
+msgstr "De pagina ID van de pagina's die u niet wil vertonen in uw navigatie menu. Gebruik een komma tussen de getallen, vb. 1,2,3."
+
+#: functions/traction-extend.php:124
+msgid "Hide all categories"
+msgstr "Verberg alle categroriën"
+
+#: functions/traction-extend.php:126
+msgid "Check this box to hide all categories."
+msgstr "Vink dit aan om alle categoriën te verbergen."
+
+#: functions/traction-extend.php:130
+msgid "Exclude specific categories"
+msgstr "Specifieke categoriën uitsluiten"
+
+#: functions/traction-extend.php:133
+msgid "The category ID of pages you do not want displayed in your navigation menu. Use a comma-delimited list, eg. 1,2,3."
+msgstr "De categorie ID van de pagina's die u niet wil vertonen in uw navigatie menu. Gebruik een komma tussen de getallen, vb. 1,2,3."
+
+#: functions/traction-extend.php:137
+msgid "Hide home navigation menu item"
+msgstr "Verberg home navigatie menu item"
+
+#: functions/traction-extend.php:140
+msgid "Check this box if you are using a static page as your homepage instead of your blog (the default). The extra <em>Home</em> menu item will be removed."
+msgstr "Vink dit aan als u een statische pagina als homepage gebruikt in plaats van de blog (de standaard). De extra <em>Home</em> menu item wordt verwijderd."
+
+#: functions/traction-extend.php:144
+msgid "Advertising <span>fill in your ad spots</span>"
+msgstr "Adverteren <span>vul uw advertentie spots in</span>"
+
+#: functions/traction-extend.php:147
+msgid "Enable top banner ad"
+msgstr "Top banner advertentie inshakelen"
+
+#: functions/traction-extend.php:150
+msgid "Check this box to enable the top banner."
+msgstr "Vink dit aan om de top banner in te schakelen."
+
+#: functions/traction-extend.php:154
+msgid "Top banner ad file name"
+msgstr "Top banner advertentie bestandsnaam"
+
+#: functions/traction-extend.php:157
+#: functions/traction-extend.php:183
+#: functions/traction-extend.php:201
+msgid "Upload your image here: "
+msgstr "Upload uw afbeelding hier: "
+
+#: functions/traction-extend.php:161
+msgid "Top banner ad link"
+msgstr "Top banner advertentie link"
+
+#: functions/traction-extend.php:164
+msgid "Link for the top banner ad"
+msgstr "Link voor de top banner advertentie"
+
+#: functions/traction-extend.php:168
+msgid "Top banner alt tag"
+msgstr "Top banner alt tag"
+
+#: functions/traction-extend.php:171
+msgid "Alt tag for the top banner ad"
+msgstr "Alt tag voor de top banner advertentie"
+
+#: functions/traction-extend.php:175
+msgid "Enable sidebar adbox"
+msgstr "Sidebar advertentiebox inschakelen"
+
+#: functions/traction-extend.php:177
+msgid "Check this box to enable the sidebar adbox."
+msgstr "Vink dit aan om de sidebar advertentiebox in te schakelen."
+
+#: functions/traction-extend.php:181
+msgid "Ad 1 file name"
+msgstr "Advertentie 1 bestandsnaam"
+
+#: functions/traction-extend.php:187
+msgid "Ad 1 link"
+msgstr "Advertentie 1 link"
+
+#: functions/traction-extend.php:189
+msgid "Link for the first ad"
+msgstr "Link voor de eerste advetentie"
+
+#: functions/traction-extend.php:193
+msgid "Ad 1 alt tag"
+msgstr "Advertentie 1 alt tag"
+
+#: functions/traction-extend.php:195
+msgid "Alt tag for the first ad"
+msgstr "Alt tag voor de eerste advertentie"
+
+#: functions/traction-extend.php:199
+msgid "Ad 2 file name"
+msgstr "Advertentie 2 bestandsnaam"
+
+#: functions/traction-extend.php:205
+msgid "Ad 2 link"
+msgstr "Advertentie 2 link"
+
+#: functions/traction-extend.php:207
+msgid "Link for the second ad"
+msgstr "Link voor de tweede advertentie"
+
+#: functions/traction-extend.php:211
+msgid "Ad 2 alt tag"
+msgstr "Advertentie 2 alt tag"
+
+#: functions/traction-extend.php:213
+msgid "Alt tag for the second ad"
+msgstr "Alt tag voor de tweede advertentie"
+
+#: functions/traction-extend.php:217
+msgid "Subscribe Links <span>control the subscribe links</span>"
+msgstr "Inteken Links <span>beheer de inteken links</span>"
+
+#: functions/traction-extend.php:220
+msgid "Enable Twitter"
+msgstr "Twitter inschakelen"
+
+#: functions/traction-extend.php:223
+msgid "Hip to Twitter? Check this box. Please set your Twitter username in the Twitter menu."
+msgstr "Gebruik je Twitter? Vink dit aan. Voer uw Twitter gebruikersnaam in het Twitter menu."
+
+#: functions/traction-extend.php:227
+msgid "Enable Facebook"
+msgstr "Facebook inschakelen"
+
+#: functions/traction-extend.php:229
+msgid "Check this box to show a link to your Facebook page."
+msgstr "Vink dit aan om een link naar uw Facebook pagina te tonen."
+
+#: functions/traction-extend.php:233
+msgid "Enable Flickr"
+msgstr "Flickr inschakelen"
+
+#: functions/traction-extend.php:235
+msgid "Check this box to show a link to Flickr."
+msgstr "Vink dit aan om een link naar Flickr te tonen."
+
+#: functions/traction-extend.php:239
+msgid "Disable all"
+msgstr "Schakel alles uit"
+
+#: functions/traction-extend.php:241
+msgid "Check this box to hide all follow icons (including RSS). This option overrides any other settings."
+msgstr "Vink dit aan om alle volg iconen (RSS inbegrepen) te verbergen. Deze optie onderdrukt alle andere instellingen."
+
+#: functions/traction-extend.php:245
+msgid "Facebook link"
+msgstr "Facebook link"
+
+#: functions/traction-extend.php:247
+msgid "Enter your Facebook link."
+msgstr "Voer uw Facebook link in."
+
+#: functions/traction-extend.php:250
+msgid "Flickr link"
+msgstr "Flickr link"
+
+#: functions/traction-extend.php:252
+msgid "Enter your Flickr link."
+msgstr "Voer uw Flickr link in."
+
+#: functions/traction-extend.php:255
+msgid "Sidebar <span>customize your sidebar</span>"
+msgstr "Sidebar <span>wijzig uw sidebar</span>"
+
+#: functions/traction-extend.php:258
+msgid "Disable sidebox"
+msgstr "Sidebox uitschakelen"
+
+#: functions/traction-extend.php:260
+msgid "Check this box to disable the sidebar sidebox."
+msgstr "Vink dit aan om de sidebar sidebox uit te schakelen."
+
+#: functions/traction-extend.php:264
+msgid "Custom code"
+msgstr "Eigen code"
+
+#: functions/traction-extend.php:266
+msgid "Check this box to use custom code for the sidebox."
+msgstr "Vink dit aan om eigen code voor de sidebox te gebruiken."
+
+#: functions/traction-extend.php:270
+msgid "Custom code content"
+msgstr "Eigen code inhoud"
+
+#: functions/traction-extend.php:272
+msgid "Must use properly formatted XHTML/HTML."
+msgstr "correct geformateerd XHTML/HTML vereist."
+
+#: functions/traction-extend.php:278
+msgid "Enable newsletter"
+msgstr "Gebruik nieuwsbrief"
+
+#: functions/traction-extend.php:280
+msgid "The newsletter sign-up uses Feedburner by default."
+msgstr "De nieuwsbrief intekening gebruikt standaard Feedburner."
+
+#: functions/traction-extend.php:284
+msgid "Feed Title"
+msgstr "Feed Titel"
+
+#: functions/traction-extend.php:286
+msgid "Title displayed inside the newsletter signup box"
+msgstr "Titel getoond in de nieuwsbrief aanmeldingsbox"
+
+#: functions/traction-extend.php:290
+msgid "Feedburner feed name"
+msgstr "Feedburner feed naam"
+
+#: functions/traction-extend.php:292
+msgid "Click the <em>Edit Feed Details</em> link inside FeedBurner"
+msgstr "klik de <em>Wijzig Feed Details</em> link in FeedBurner"
+
+#: functions/traction-extend.php:295
+msgid "Twitter <span>show your latest tweets in the sidebar</span>"
+msgstr "Twitter <span>toon uw laatste tweets in de sidebar</span>"
+
+#: functions/traction-extend.php:298
+msgid "Twitter sidebar updates"
+msgstr "Twitter sidebar updates"
+
+#: functions/traction-extend.php:301
+msgid "Check this box to show your latest tweets in the sidebar."
+msgstr "Vink dit aan om je laatste tweets zichtbaar te maken in de sidebar."
+
+#: functions/traction-extend.php:305
+msgid "Twitter name"
+msgstr "Twitter naam"
+
+#: functions/traction-extend.php:308
+msgid "Enter your twitter name here."
+msgstr "Vul hier uw twitter naam in."
+
+#: functions/traction-extend.php:311
+msgid "Number of updates"
+msgstr "Aantal updates"
+
+#: functions/traction-extend.php:314
+msgid "The number of tweets to show in the sidebar."
+msgstr "Het aantal zichtbare tweets in de sidebar."
+
+#: functions/traction-extend.php:318
+msgid "Footer <span>customize your footer</span>"
+msgstr "Footer <span>wijzig uw footer</span>"
+
+#: functions/traction-extend.php:323
+msgid "Something about you or your business."
+msgstr "Iets over u of uw bedrijf."
+
+#: functions/traction-extend.php:328
+msgid "Copyright notice"
+msgstr "Copyright bericht"
+
+#: functions/traction-extend.php:330
+msgid "Your name or the name of your business."
+msgstr "Uw naam of de naam van uw bedrijf."
+
+#: functions/traction-extend.php:331
+msgid "Your Name Here"
+msgstr "Uw Naam Hier"
+
+#: functions/traction-extend.php:334
+msgid "Stats code"
+msgstr "Stats code"
+
+#: functions/traction-extend.php:336
+msgid "If you use Google Analytics or need any other tracking script in your footer just copy and paste it here. The script will be inserted before the closing <code>&#60;/body&#62;</code> tag."
+msgstr "Als u Google Analytics of enig ander tracking script in de footer wil aanbrengen copy en paste het hier. Het script wordt toegevoegd net voor de <code>&#60;/body&#62;</code> eindtag."
+

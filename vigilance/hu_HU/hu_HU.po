@@ -1,0 +1,738 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Vigilance WordPress Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-07 10:52-0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: PC-Mágus <magus@pc-magus.hu>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Hungarian\n"
+"X-Poedit-Country: HUNGARY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:2
+msgid "404: Page Not Found"
+msgstr "Négyszáznégy: Hát ez az oldal bizony hiányzik..."
+
+#: 404.php:4
+msgid "We are terribly sorry, but the URL you typed no longer exists. It might have been moved or deleted, or perhaps you mistyped it. We suggest searching the site:"
+msgstr "Bocsi, de ez az oldal már nem létezik. Lehet, hogy máshová raktam, töröltem, vagy rosszul írtad be a címet. Javaslom, hogy keress rá az oldalon:"
+
+#: archive.php:4
+#, php-format
+msgid "Posts from the  &#8216;%s&#8217; Category"
+msgstr "A  &#8216;%s&#8217; kategória bejegyzései"
+
+#: archive.php:6
+#, php-format
+msgid "Posts tagged &#8216;%s&#8217;"
+msgstr "Bejegyzések ezekkel a cimkékkel: &#8216;%s&#8217;"
+
+#: archive.php:8
+#: archive.php:10
+#: archive.php:12
+msgid "Archive for"
+msgstr "Archívum: "
+
+#: archive.php:8
+msgid "F jS, Y"
+msgstr "Y. F j."
+
+#: archive.php:10
+msgid "F, Y"
+msgstr "Y. F"
+
+#: archive.php:12
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:14
+#, php-format
+msgid "Posts by %s"
+msgstr "%s bejegyzései"
+
+#: archive.php:16
+msgid "Blog Archives"
+msgstr "Blog Archívum"
+
+#: archive.php:18
+msgid "comment"
+msgstr "megjegyzés"
+
+#: archive.php:22
+#: search.php:8
+msgid "n.j.y"
+msgstr "y.n.j"
+
+#: archive.php:27
+#: index.php:26
+#: search.php:13
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Régebbi bejegyzések"
+
+#: archive.php:28
+#: index.php:27
+#: search.php:14
+msgid "Newer Entries &raquo;"
+msgstr "Újabb bejegyzések &raquo;"
+
+#: comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Ez a bejegyzés jelszóvédett. Add meg a jelszót a hozzászólások megtekintéséhez."
+
+#: comments.php:16
+msgid "No Responses"
+msgstr "Nincs hozzászólás"
+
+#: comments.php:16
+msgid "One Response"
+msgstr "Egy hozzászólás"
+
+#: comments.php:16
+msgid "% Responses"
+msgstr "% hozzászólás"
+
+#: comments.php:18
+msgid "Leave One"
+msgstr "szólj hozzá"
+
+#: comments.php:18
+msgid "leave one &rarr;"
+msgstr "szólj hozzá &rarr;"
+
+#: comments.php:27
+msgid "&laquo; Older Comments"
+msgstr "&laquo; Régebbi hozzászólások"
+
+#: comments.php:28
+msgid "Newer Comments &raquo;"
+msgstr "Újabb hozzászólások &raquo;"
+
+#: comments.php:31
+msgid "Trackbacks and Pingbacks"
+msgstr "Visszakövetés és Visszapingelés"
+
+#: comments.php:37
+#: comments.php:48
+msgid "Comments are closed."
+msgstr "Hozzászólások lezárva."
+
+#: comments.php:43
+msgid "No comments yet"
+msgstr "Még nincs hozzászólás"
+
+#: comments.php:60
+msgid "Leave a Reply"
+msgstr "Szólj hozzá"
+
+#: comments.php:62
+msgid "You must be"
+msgstr "Be kell"
+
+#: comments.php:62
+msgid "logged in"
+msgstr "jelentkezned"
+
+#: comments.php:62
+msgid "to post a comment."
+msgstr "ahhoz, hogy hozzászólhass."
+
+#: comments.php:67
+msgid "Logged in as"
+msgstr "Bejelentkezve, mint"
+
+#: comments.php:67
+msgid "Log out &raquo;"
+msgstr "Kijelentkezés &raquo;"
+
+#: comments.php:69
+msgid "Name:"
+msgstr "Név:"
+
+#: comments.php:69
+#: comments.php:70
+msgid "(required)"
+msgstr "(nincs mese)"
+
+#: comments.php:70
+msgid "Email:"
+msgstr "E-mail:"
+
+#: comments.php:71
+msgid "Website:"
+msgstr "Weboldal:"
+
+#: comments.php:73
+msgid "Comment:"
+msgstr "Hozzászólás:"
+
+#: comments.php:74
+msgid "<strong>Note:</strong> You can use basic XHTML in your comments. Your email address will <strong>never</strong> be published."
+msgstr "<strong>Megjegyzés:</strong> A hozzászólásaidban használhatsz alap szintű XHTML-t. Az e-mail címed <strong>soha</strong> nem lesz közzétéve."
+
+#: comments.php:75
+msgid "Subscribe to this comment feed via RSS"
+msgstr "Iratkozz fel a hozzászólás-folyamra (RSS)"
+
+#: comments.php:80
+msgid "Submit Comment"
+msgstr "Hozzászólás elküldése"
+
+#: footer.php:3
+msgid "Copyright"
+msgstr "Minden jog fenntartva"
+
+#: header.php:9
+msgid "Page Not Found |"
+msgstr "Nem találom az oldalt |"
+
+#: header.php:11
+#: search.php:3
+#: search.php:17
+#, php-format
+msgid "Search results for '%s'"
+msgstr "'%s' találatainak keresése"
+
+#: header.php:39
+msgid "Skip to content"
+msgstr "Ugrás a tartalomhoz"
+
+#: header.php:48
+msgid "Home"
+msgstr "Nyitólap"
+
+#: index.php:7
+#: single.php:7
+msgid "F j"
+msgstr "F j"
+
+#: index.php:8
+msgid "Leave a comment"
+msgstr "Hagyj üzenetet"
+
+#: index.php:8
+msgid "1 Comment"
+msgstr "1 hozzászólás"
+
+#: index.php:8
+msgid "% Comment"
+msgid_plural "% Comments"
+msgstr[0] "% hozzászólás"
+msgstr[1] "% hozzászólás"
+
+#: index.php:11
+msgid "tags: "
+msgstr "cimkék: "
+
+#: index.php:12
+#: single.php:11
+#, php-format
+msgid "by %s"
+msgstr "szerző: %s"
+
+#: index.php:16
+msgid "read more..."
+msgstr "tovább a teljes cikkre..."
+
+#: index.php:17
+#: page.php:7
+#: single.php:16
+msgid "Edit This"
+msgstr "Szerkeszt"
+
+#: index.php:21
+#: single.php:20
+msgid "from"
+msgstr "kategória"
+
+#: search.php:19
+#, php-format
+msgid "Sorry your search for \"%s\" did not turn up any results. Please try again."
+msgstr "Sajnálom, a \"%s\" keresésed nem járt eredménnyel. Próbáld újra."
+
+#: searchform.php:1
+msgid "Search"
+msgstr "Keresés"
+
+#: searchform.php:4
+msgid "type and press enter"
+msgstr "keresés"
+
+#: sidebar-feedbox.php:2
+msgid "Get Free Updates"
+msgstr "Ingyen frissítések"
+
+#: sidebar-feedbox.php:4
+msgid "Get the latest and the greatest news delivered for free to your reader or your inbox:"
+msgstr "A legfrissebb és legjobb információkért kattints ide:"
+
+#: sidebar-feedbox.php:5
+msgid "RSS Feed"
+msgstr "RSS"
+
+#: sidebar-feedbox.php:6
+msgid "Email Updates"
+msgstr "Hírlevél"
+
+#: sidebar-feedbox.php:8
+msgid "Twitter"
+msgstr "Twitter"
+
+#: sidebar.php:15
+msgid "Recent Articles"
+msgstr "Friss bejegyzések"
+
+#: functions/comments.php:26
+msgid "permalink"
+msgstr "permalink"
+
+#: functions/comments.php:32
+msgid "<em><strong>Please Note:</strong> Your comment is awaiting moderation.</em>"
+msgstr "<em><strong>Figyelem:</strong> A hozzászólásod moderációra vár.</em>"
+
+#: functions/sidebars.php:4
+msgid "Wide Sidebar"
+msgstr "Széles oldalsáv"
+
+#: functions/sidebars.php:13
+msgid "Left Sidebar"
+msgstr "Bal oldalsáv"
+
+#: functions/sidebars.php:22
+msgid "Right Sidebar"
+msgstr "Jobb oldalsáv"
+
+#: functions/vigilance-admin.php:60
+msgid " settings saved!"
+msgstr " beállítások elmentve!"
+
+#: functions/vigilance-admin.php:61
+msgid " settings reset."
+msgstr "beállítások resetelve."
+
+#: functions/vigilance-admin.php:65
+msgid "Options"
+msgstr "Lehetőségek"
+
+#: functions/vigilance-admin.php:68
+msgid "Need help?"
+msgstr "Segítség kell?"
+
+#: functions/vigilance-admin.php:68
+msgid "Read the tutorials"
+msgstr "Olvasd el a tutoriálokat"
+
+#: functions/vigilance-admin.php:68
+msgid "or visit the <a href=\"http://thethemefoundry.com/forums/\">support forums.</a>"
+msgstr "vagy látogasd meg a <a href=\"http://thethemefoundry.com/forums/\">támogatási fórumokat.</a>"
+
+#: functions/vigilance-admin.php:70
+msgid "Go PRO!"
+msgstr "Ingyenes próbaverzió"
+
+#: functions/vigilance-admin.php:71
+msgid "You are using the free version of Vigilance. Upgrade to Vigilance PRO for extra features, access to dedicated support, priority theme updates, and comprehensive theme tutorials."
+msgstr "A Vigliance ingyenes próbaverzióját használod. Használd és teszteld ameddig akarod. Frissíts Vigliance PRO változatra extra szolgáltatásokért, korlátlan támogatásért, téma-frissítésekért és téma tutoriálokért."
+
+#: functions/vigilance-admin.php:72
+msgid "Learn more about Vigilance PRO &rarr;"
+msgstr "Még több a Vigilance PRO-ról &rarr;"
+
+#: functions/vigilance-admin.php:84
+#: functions/vigilance-admin.php:199
+msgid "Save changes"
+msgstr "Módosítások mentése"
+
+#: functions/vigilance-admin.php:153
+msgid "show color picker"
+msgstr "színválasztó mutatása"
+
+#: functions/vigilance-admin.php:153
+msgid "hide color picker"
+msgstr "színválasztó elrejtése"
+
+#: functions/vigilance-admin.php:204
+msgid "Save all changes"
+msgstr "Minden változtatás mentése"
+
+#: functions/vigilance-admin.php:210
+msgid "Reset all options"
+msgstr "Minden érték alaphelyzetbe állítása"
+
+#: functions/vigilance-extend.php:29
+msgid "Custom Logo Image <span>insert your custom logo image in the header</span>"
+msgstr "Egyéni logo <span>illessz be egyéni logot a fejlécbe</span>"
+
+#: functions/vigilance-extend.php:32
+msgid "Enable custom logo image"
+msgstr "Egyéni logo engedélyezése"
+
+#: functions/vigilance-extend.php:35
+msgid "Check to use a custom logo in the header."
+msgstr "Jelöld be, ha egyéni logot szeretnél használni a fejlécben."
+
+#: functions/vigilance-extend.php:39
+msgid "Logo image file name"
+msgstr "Logo fájl név"
+
+#: functions/vigilance-extend.php:42
+msgid "Upload your logo image here: "
+msgstr "Töltsd fel a logodat itt:"
+
+#: functions/vigilance-extend.php:46
+msgid "Logo image <code>&lt;alt&gt;</code> tag"
+msgstr "Logo <code>&lt;alt&gt;</code> cimke"
+
+#: functions/vigilance-extend.php:49
+msgid "Specify the <code>&lt;alt&gt;</code> tag for your logo image."
+msgstr "Legyen ez a logo <code>&lt;alt&gt;</code> cimkéje."
+
+#: functions/vigilance-extend.php:53
+msgid "Display tagline"
+msgstr "Tagline megjelenítése"
+
+#: functions/vigilance-extend.php:56
+msgid "Check to show your tagline below your logo."
+msgstr "Jelöld be, ha a tagline-t szeretnéd megjeleníteni a logo alatt."
+
+#: functions/vigilance-extend.php:60
+msgid "Navigation <span>control your top navigation menu</span>"
+msgstr "Navigáció <span>a felső navigációs menü testreszabása</span>"
+
+#: functions/vigilance-extend.php:63
+msgid "Hide all pages"
+msgstr "Minden oldal elrejtése"
+
+#: functions/vigilance-extend.php:65
+msgid "Check this box to hide all pages"
+msgstr "Jelöld be az összes oldal elrejtéséhez."
+
+#: functions/vigilance-extend.php:69
+msgid "Exclude specific pages"
+msgstr "Kiválasztott oldalak kihagyása"
+
+#: functions/vigilance-extend.php:72
+msgid "The page ID of pages you do not want displayed in your navigation menu. Use a comma-delimited list, eg. 1,2,3"
+msgstr "Azon oldalak azonosítója, amiket nem akarsz a navigációs menüben megjeleníteni. Válaszd el őket vesszővel, pl. 1,2,3"
+
+#: functions/vigilance-extend.php:76
+msgid "Hide all categories"
+msgstr "Minden kategória elrejtése"
+
+#: functions/vigilance-extend.php:78
+msgid "Check this box to hide all categories."
+msgstr "Jelöld be az összes kategória elrejtéséhez."
+
+#: functions/vigilance-extend.php:82
+msgid "Exclude specific categories"
+msgstr "Kiválasztott kategóriák kihagyása"
+
+#: functions/vigilance-extend.php:85
+msgid "The category ID of pages you do not want displayed in your navigation menu.. Use a comma-delimited list, eg. 1,2,3"
+msgstr "Azon kategóriák azonosítója, amiket nem akarsz a navigációs menüben megjeleníteni. Válaszd el őket vesszővel, pl. 1,2,3"
+
+#: functions/vigilance-extend.php:89
+msgid "Hide home navigation menu item"
+msgstr "A főoldal navigációs elem elrejtése"
+
+#: functions/vigilance-extend.php:92
+msgid "Check this box if you are using a static page as your homepage instead of your blog (the default). The extra <em>Home</em> menu item will be removed."
+msgstr "Jelöld be, ha a blog helyett egy statikus oldalt használsz a honlapodnak (alapérték). Az extra <em>Főoldal</em> elem el lesz távolítva."
+
+#: functions/vigilance-extend.php:96
+msgid "Color Scheme <span>customize your color scheme</span>"
+msgstr "Színséma <span>színséma testreszabása</span>"
+
+#: functions/vigilance-extend.php:99
+msgid "Customize colors"
+msgstr "Színek testreszabása"
+
+#: functions/vigilance-extend.php:101
+msgid "If enabled your theme will use the layouts and colors you choose below."
+msgstr "Ha engedélyezve van, akkor a téma a lent kiválasztott elrendezéseket és színeket fogja használni."
+
+#: functions/vigilance-extend.php:104
+#: functions/vigilance-extend.php:266
+msgid "Disabled"
+msgstr "Tiltott"
+
+#: functions/vigilance-extend.php:105
+#: functions/vigilance-extend.php:267
+msgid "Enabled"
+msgstr "Engedélyezett"
+
+#: functions/vigilance-extend.php:107
+msgid "Background color"
+msgstr "Háttérszín"
+
+#: functions/vigilance-extend.php:110
+#: functions/vigilance-extend.php:116
+#: functions/vigilance-extend.php:122
+#: functions/vigilance-extend.php:128
+msgid "Use hex values and be sure to include the leading #."
+msgstr "Használj hex értékeket, és győződj meg róla, hogy #-tel kezdődik."
+
+#: functions/vigilance-extend.php:114
+msgid "Border color"
+msgstr "Keret színe"
+
+#: functions/vigilance-extend.php:120
+msgid "Link color"
+msgstr "Link színe"
+
+#: functions/vigilance-extend.php:126
+msgid "Link hover color"
+msgstr "Link fölött színe"
+
+#: functions/vigilance-extend.php:132
+msgid "Disable hover background images"
+msgstr "Lebegő háttérképek tiltása"
+
+#: functions/vigilance-extend.php:134
+msgid "Check this box if you use custom link colors and do not want the default red showing when a user hovers over the comments bubble or the sidebar menu items."
+msgstr "Jelöld be, ha egyéni link színeket használsz, és nem akarod, hogy a hozzászólás-buborék vagy az oldalsáv elemek pirosra váltsanak az egérkurzor hatására."
+
+#: functions/vigilance-extend.php:138
+msgid "Top Banner Image <span>control your top banner image state</span>"
+msgstr "Felső  Banner kép <span>a felső banner testreszabása</span>"
+
+#: functions/vigilance-extend.php:141
+msgid "Banner state"
+msgstr "Banner állapota"
+
+#: functions/vigilance-extend.php:143
+msgid "Add your images to the top banner rotation by uploading them here: "
+msgstr "A felső banner-rotációhoz ide töltsd fel a képeket:"
+
+#: functions/vigilance-extend.php:143
+#: functions/vigilance-extend.php:216
+msgid "PRO Tutorial: Use page and post specific images"
+msgstr "PRO tutoriál: használj oldal- és hozzászólás-specifikus képeket"
+
+#: functions/vigilance-extend.php:146
+#: functions/vigilance-extend.php:220
+msgid "Rotating images"
+msgstr "Váltakozó képek"
+
+#: functions/vigilance-extend.php:147
+#: functions/vigilance-extend.php:221
+#: functions/vigilance-extend.php:238
+msgid "Static image"
+msgstr "Statikus kép"
+
+#: functions/vigilance-extend.php:148
+#: functions/vigilance-extend.php:223
+msgid "Page or post specific"
+msgstr "Oldal- vagy hozzászólás-specifikus"
+
+#: functions/vigilance-extend.php:148
+#: functions/vigilance-extend.php:175
+#: functions/vigilance-extend.php:221
+#: functions/vigilance-extend.php:249
+msgid "Custom code"
+msgstr "Egyéni kód"
+
+#: functions/vigilance-extend.php:149
+#: functions/vigilance-extend.php:223
+msgid "Do not show an image"
+msgstr "Ne mutasd a képet"
+
+#: functions/vigilance-extend.php:152
+msgid "Banner height"
+msgstr "Banner magassága"
+
+#: functions/vigilance-extend.php:154
+msgid "The height of your image. The width is fixed at 596px."
+msgstr "A képed magassága. A szélessége fixen 596px."
+
+#: functions/vigilance-extend.php:158
+msgid "Banner <code>&lt;alt&gt;</code> tag"
+msgstr "Banner <code>&lt;alt&gt;</code> cimke"
+
+#: functions/vigilance-extend.php:160
+msgid "Specify the <code>&lt;alt&gt;</code> tag for your banner image(s). Will default to your blog title if left blank."
+msgstr "Állítsd be a banner kép(ek) <code>&lt;alt&gt;</code> cimkéjét. Alapbeállításként, ha üresen hagyod, a blogod címe lesz az."
+
+#: functions/vigilance-extend.php:164
+msgid "Static image name"
+msgstr "Statikus kép név"
+
+#: functions/vigilance-extend.php:166
+msgid "Set the <em>Banner State</em> to \"Static Image\" and upload your image here: "
+msgstr "Állítsd a <em>Banner állapotá</em>t \"Statikus kép\"-re és itt töltsd föl a képedet:"
+
+#: functions/vigilance-extend.php:170
+msgid "Home image name"
+msgstr "Főoldal képének neve"
+
+#: functions/vigilance-extend.php:172
+msgid "To replace your home top banner with a specific image upload it here: "
+msgstr "Ha egy kiválasztott képre akarod lecserélni a főoldal felső bannerét, akkor azt töltsd föl itt:"
+
+#: functions/vigilance-extend.php:178
+msgid "Replace your top banner with custom code. The <em>Banner State</em> must be set to \"Custom code\" for this to work."
+msgstr "Cseréld le a felső bannert egyéni kódra. Ehhez a <em>Banner állapotá</em>t állítsd \"Egyéni kód\"-ra."
+
+#: functions/vigilance-extend.php:184
+msgid "Alert Box <span>toggle your custom alert box</span>"
+msgstr "Figyelmeztető doboz <span>állíts be egyéni figyelmeztető dobozt</span>"
+
+#: functions/vigilance-extend.php:187
+msgid "Alert Box on/off switch"
+msgstr "Figyelmeztető doboz be-/kikapcsolása."
+
+#: functions/vigilance-extend.php:190
+msgid "Toggle the alert box on or off."
+msgstr "Kapcsold be / ki a figyelmeztető dobozt."
+
+#: functions/vigilance-extend.php:193
+msgid "Off"
+msgstr "Ki"
+
+#: functions/vigilance-extend.php:194
+msgid "On"
+msgstr "Be"
+
+#: functions/vigilance-extend.php:196
+msgid "Alert Title"
+msgstr "Figyelmeztetés címe"
+
+#: functions/vigilance-extend.php:199
+msgid "The heading for your alert."
+msgstr "A figyelmeztető üzeneted fejléce."
+
+#: functions/vigilance-extend.php:203
+msgid "Alert Message"
+msgstr "Figyelmeztető üzenet"
+
+#: functions/vigilance-extend.php:206
+msgid "A special alert message that is shown on the homepage of your blog"
+msgstr "Egy speciális figyelmeztető üzenet, ami a blogod főoldalán jelenik meg."
+
+#: functions/vigilance-extend.php:212
+msgid "Sidebar Image <span>control your sidebar image state</span>"
+msgstr "Oldalsáv kép <span>az oldalsáv képének testreszabása</span>"
+
+#: functions/vigilance-extend.php:215
+msgid "Image state"
+msgstr "Kép állapota"
+
+#: functions/vigilance-extend.php:216
+msgid "Add your images to the sidebar rotation by uploading them here: "
+msgstr "Az oldalsáv kép-rotációhoz ide töltsd fel a képeket:"
+
+#: functions/vigilance-extend.php:226
+msgid "Image height"
+msgstr "Kép magassága"
+
+#: functions/vigilance-extend.php:228
+msgid "The height of your image. The width is fixed at 300px."
+msgstr "A kép magassága. A szélesség fixen 300px."
+
+#: functions/vigilance-extend.php:232
+msgid "Image <code>&lt;alt&gt;</code> tag"
+msgstr "Kép <code>&lt;alt&gt;</code> cimkéje"
+
+#: functions/vigilance-extend.php:234
+msgid "The <code>&lt;alt&gt;</code> tag for your sidebar image(s). Will default to your blog title if left blank."
+msgstr "Az oldalsávban lévő kép(ek) <code>&lt;alt&gt;</code> cimkéje(i). Alapbeállításként, ha üresen hagyod, a blogod címe lesz az."
+
+#: functions/vigilance-extend.php:240
+msgid "Set the <em>Image State</em> to \"Static Image\" and upload your image here: "
+msgstr "Állítsd a <em>Kép állapotá</em>t \"Statikus kép\"-re és töltsd fel őket ide: "
+
+#: functions/vigilance-extend.php:244
+msgid "Image link"
+msgstr "Kép link"
+
+#: functions/vigilance-extend.php:246
+msgid "Define a hyperlink for your sidebar image. If left empty the anchor tags will not be included."
+msgstr "Adj meg egy linket az oldalsáv képhez. Ha üresen hagyod, akkor a képhez nem lesz link."
+
+#: functions/vigilance-extend.php:252
+msgid "Replace your sidebar image with custom code. The <em>Image State</em> must be set to \"Custom code\" for this to work."
+msgstr "Cseréld le az oldalsáv képet egyéni kódra. Ehhez a <em>Kép állapotá</em>t állítsd \"Egyéni kód\"-ra."
+
+#: functions/vigilance-extend.php:258
+msgid "Sidebar Feed Box <span>share feeds and updates with your readers</span>"
+msgstr "Hírdoboz az oldalsávon <span>ossz meg híreket és frissítéseket az olvasóiddal</span>"
+
+#: functions/vigilance-extend.php:261
+msgid "Feed box state"
+msgstr "Hírdoboz állapot"
+
+#: functions/vigilance-extend.php:262
+msgid "Enable or disable the feed box in the sidebar."
+msgstr "Hírdoboz engedélyezése vagy tiltása az oldalsávon."
+
+#: functions/vigilance-extend.php:269
+msgid "Feed box title text"
+msgstr "Hírdoboz címsora"
+
+#: functions/vigilance-extend.php:271
+msgid "Header for your feed box."
+msgstr "Hírdoboz fejléce"
+
+#: functions/vigilance-extend.php:275
+msgid "Feed box intro text"
+msgstr "Hírdoboz bevezető szövege"
+
+#: functions/vigilance-extend.php:277
+msgid "Enter your feed intro text here."
+msgstr "Itt add meg a hírdoboz bevezető szövegét."
+
+#: functions/vigilance-extend.php:283
+msgid "<a href=\"http://www.feedburner.com\">Feedburner</a> email updates link"
+msgstr "<a href=\"http://www.feedburner.com\">Feedburner</a> e-mail frissítések linkje"
+
+#: functions/vigilance-extend.php:285
+msgid "Enter your feed email link here. Do not paste the provided link code, extract and paste the URL only."
+msgstr "Itt add meg a hír e-mail linkjét. Csak az URL-t másosd be, ne a teljes link kódot. "
+
+#: functions/vigilance-extend.php:285
+msgid "PRO Tutorial: Find your Feedburner email updates link"
+msgstr "PRO tutoriál: Találd meg a saját Feedburner e-mail frissítések linkedet"
+
+#: functions/vigilance-extend.php:291
+msgid "Enable Twitter"
+msgstr "Twitter engedélyezése"
+
+#: functions/vigilance-extend.php:293
+msgid "Hip to Twitter? Check this box."
+msgstr "Twitterezel? Jelöld be ezt a dobozt."
+
+#: functions/vigilance-extend.php:297
+msgid "Twitter updates link"
+msgstr "Twitter frissítések linkja"
+
+#: functions/vigilance-extend.php:299
+msgid "Enter your twitter link here."
+msgstr "Ide írd a twitter linkedet."
+
+#: functions/vigilance-extend.php:302
+msgid "Footer <span>add a copyright notice and tracking codes</span>"
+msgstr "Lábléc <span>itt állíthatsz be szerzői jog felhívást és egyéb kódot</span>"
+
+#: functions/vigilance-extend.php:305
+msgid "Copyright notice"
+msgstr "Szerzői jogok"
+
+#: functions/vigilance-extend.php:307
+msgid "Your name or the name of your business."
+msgstr "A neved vagy a cégneved."
+
+#: functions/vigilance-extend.php:311
+msgid "Stats code"
+msgstr "Analitika  kód"
+
+#: functions/vigilance-extend.php:313
+msgid "If you would like to use Google Analytics or any other tracking script in your footer just paste it here. The script will be inserted before the closing <code>&#60;/body&#62;</code> tag."
+msgstr "Ha szeretnél Google Analytics vagy egyéb követő szkriptet használni a láblécben, akkor másold ide. A szkript a záró  <code>&#60;/body&#62;</code> cimke elé lesz beillesztve."
+

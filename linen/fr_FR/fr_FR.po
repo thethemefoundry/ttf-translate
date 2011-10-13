@@ -1,0 +1,484 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Linen\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-07-21 17:47+0100\n"
+"PO-Revision-Date: 2011-08-01 11:12-0800\n"
+"Last-Translator: Andy Adams <aadams@jestro.com>\n"
+"Language-Team: Wolforg <contact@wolforg.eu>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen\n"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/archive.php:5
+#, php-format
+msgid "Posts from the  &#8216;%s&#8217; Category"
+msgstr "Articles de la catégorie  &#8216;%s&#8217; "
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/archive.php:7
+#, php-format
+msgid "Posts tagged &#8216;%s&#8217;"
+msgstr "Articles avec le mot-clé &#8216;%s&#8217;"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/archive.php:9
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/archive.php:11
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/archive.php:13
+#, php-format
+msgid "Archive for %s"
+msgstr "Archive pour %s"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/archive.php:15
+#, php-format
+msgid "Posts by %s"
+msgstr "Articles par %s"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/archive.php:24
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/index.php:7
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/search.php:8
+msgid "M j"
+msgstr "M j"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/archive.php:28
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/index.php:13
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/search.php:12
+msgid "1 Comment"
+msgstr "1 Commentaire"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/archive.php:33
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/index.php:18
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/search.php:17
+#, php-format
+msgid "Permanent Link to %s"
+msgstr "Lien Permanent pour %s"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/archive.php:35
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/index.php:20
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/search.php:19
+msgid "Read more"
+msgstr "Lire plus"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/archive.php:36
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/search.php:20
+msgid "Edit"
+msgstr "Modifier"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/archive.php:41
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/search.php:28
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Articles plus anciens"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/archive.php:42
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/search.php:29
+msgid "Newer Entries &raquo;"
+msgstr "Articles plus récents &raquo;"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/comments.php:9
+msgid "No Comments"
+msgstr "0 Commentaires"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/comments.php:9
+msgid "One Comment"
+msgstr "Un Commentaire"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/comments.php:9
+msgid "%s Comments"
+msgstr "%s Commentaires"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/comments.php:19
+msgid "&laquo; Older Comments"
+msgstr "&laquo; Commentaires plus anciens"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/comments.php:20
+msgid "Newer Comments &raquo;"
+msgstr "Commentaires plus récents &raquo;"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/comments.php:29
+msgid "&laquo; Older Pingbacks"
+msgstr "&laquo; Pingbacks plus anciens"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/comments.php:30
+msgid "Newer Pingbacks &raquo;"
+msgstr "Pingbacks plus récents &raquo;"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/comments.php:59
+msgid "Subscribe to this comment feed via RSS"
+msgstr "Suivre ce commentaire via son fil RSS"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/comments.php:60
+msgid "You may use basic HTML in your comments. Your email address will not be published."
+msgstr "Vous pouvez utiliser des balises HTML basiques dans votre commentaire. Votre adresse email ne sera pas publiée."
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/comments.php:68
+msgid "Name <span>(required)</span>:"
+msgstr "Nom <span>(requis)</span>:"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/comments.php:69
+msgid "Name:"
+msgstr "Nom :"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/comments.php:79
+msgid "Email <span>(required)</span>:"
+msgstr "Email <span>(requis)</span>:"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/comments.php:80
+msgid "Email:"
+msgstr "Email :"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/comments.php:88
+msgid "Website:"
+msgstr "Site Web :"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/comments.php:93
+msgid "Submit Comment"
+msgstr "Envoyer"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/comments.php:94
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out &raquo;</a>"
+msgstr "Connecté en tant que <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Déconnexion de ce compte\">Déconnexion &raquo;</a>"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/comments.php:95
+msgid "Leave a Reply"
+msgstr "Laisser une réponse"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/comments.php:96
+#, php-format
+msgid "Leave a comment to %s"
+msgstr "Laisser un commentaire sur %s"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/footer.php:7
+#, php-format
+msgid "<a href=\"%1$s\">Linen Theme</a> by <a href=\"%2$s\">The Theme Foundry</a>"
+msgstr "<a href=\"%1$s\">Linen Theme</a> par <a href=\"%2$s\">The Theme Foundry</a>. Traduit par <a href=\"http://www.wolforg.eu\">Wolforg</a>."
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/footer.php:15
+#, php-format
+msgid "Copyright &copy; %1$s %2$s. All rights reserved."
+msgstr "Copyright &copy; %1$s %2$s. Tous Droits Réservés."
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/header.php:10
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/search.php:3
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/search.php:33
+#, php-format
+msgid "Search results for '%s'"
+msgstr "Résultats de recherche pour  '%s'"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/header.php:19
+#, php-format
+msgid "Design is copyright %1$s The Theme Foundry"
+msgstr "Design sous le copyright %1$s The Theme Foundry"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/index.php:21
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/page.php:7
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/single.php:14
+msgid "Edit this"
+msgstr "Modifier"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/index.php:26
+msgid "&larr; Older Entries"
+msgstr "&larr; Articles plus anciens"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/index.php:27
+msgid "Newer Entries &rarr;"
+msgstr "Articles plus récents &rarr;"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/search.php:35
+#, php-format
+msgid "Sorry your search for \"%s\" did not turn up any results. Please try again."
+msgstr "Désolé, mais votre recherche sur \"%s\" n'a donné aucun résultat. Essayez encore svp."
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/single.php:7
+#, php-format
+msgid "by %s on"
+msgstr "par %s le"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/single.php:22
+#, php-format
+msgid "From: %s"
+msgstr "De : %s"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:133
+msgid "Sidebar"
+msgstr "Barre latérale"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:161
+msgid "Top Navigation"
+msgstr "Navigation du haut"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:186
+msgid "Custom Logo Image <span>insert your custom logo image in the header</span>"
+msgstr "Logo personnalisé <span>insérez votre logo personnalisé en haut</span>"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:190
+msgid "Enable custom logo image"
+msgstr "Activer le logo personnalisé"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:192
+msgid "Check to use a custom logo in the header."
+msgstr "Cocher pour utiliser un logo dans l'en-tête."
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:198
+msgid "Logo URL"
+msgstr "URL du logo"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:200
+msgid "Upload an image or enter an URL for your image."
+msgstr "Ajoutez une image ou entrez l'URL de votre image."
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:208
+msgid "Logo image <code>&lt;alt&gt;</code> tag"
+msgstr "Balise <code>&lt;alt&gt;</code> du logo"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:210
+msgid "Specify the <code>&lt;alt&gt;</code> tag for your logo image."
+msgstr "Spécifie la balise <code>&lt;alt&gt;</code> pour votre logo"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:216
+msgid "Display tagline"
+msgstr "Afficher le slogan"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:218
+msgid "Check to show your tagline below your logo."
+msgstr "Cochez pour afficher votre slogan sous le logo."
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:224
+msgid "Featured Slider <span>take control of your featured slider.</span>"
+msgstr "Diaporama à la une <span>contrôle votre diaporama pour l'accueil</span>"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:228
+msgid "Enable featured slider"
+msgstr "Activer diaporama à la une"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:230
+msgid "Check to turn on your featured slider. The featured slider requires a minimum of 2 sticky posts."
+msgstr "Cochez pour activer votre diaporama. Il requiert au minimum deux articles mis en avant."
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:236
+msgid "Autostart"
+msgstr "Démarrage automatique"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:238
+msgid "Check to start your featured slider automatically."
+msgstr "Cochez pour que votre diaporama se lance automatiquement."
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:244
+msgid "Autostart delay"
+msgstr "Délai de lancement auto."
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:246
+msgid "Delay before the autostart and the delay between slides in milliseconds (1000 = 1 second)."
+msgstr "Délai avant le lancement automatique du diaporama et entre les articles en millisecondes (100 = 1 seconde)"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:252
+msgid "Slide animation speed"
+msgstr "Vitesse d'animation"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:254
+msgid "Speed of the sliding animation in milliseconds (1000 = 1 second)."
+msgstr "La vitesse de l'animation en millisecondes (1000 = 1 seconde)"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:260
+msgid "Subscribe Links <span>control the subscribe links</span>"
+msgstr "Liens d'abonnement : <span>Contrôle les liens d'abonnement</span>"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:264
+msgid "Enable Twitter"
+msgstr "Activer Twitter"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:266
+msgid "Hip to Twitter? Check this box. Please set your Twitter username in the Twitter menu."
+msgstr "Vous êtes sur Twitter? Cochez cette case et inscrivez votre nom d'utilisateur Twitter dans le menu Twitter."
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:272
+msgid "Enable Facebook"
+msgstr "Activer FaceBook"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:274
+msgid "Check this box to show a link to your Facebook page."
+msgstr "Cochez cette case pour afficher un lien vers votre page FaceBook"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:280
+msgid "Enable Flickr"
+msgstr "Activer Flickr"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:282
+msgid "Check this box to show a link to Flickr."
+msgstr "Cochez cette case pour afficher un lien vers Flickr"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:288
+msgid "Disable all"
+msgstr "Tout désactiver"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:290
+msgid "Check this box to hide all follow icons (including RSS). This option overrides any other settings."
+msgstr "Cochez cette case pour cacher tous les icônes (RSS compris). Cette option écrase toutes les autres."
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:296
+msgid "Twitter name"
+msgstr "Nom Twitter"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:298
+msgid "Enter your Twitter name."
+msgstr "Entrez votre nom Twitter"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:304
+msgid "Facebook link"
+msgstr "Lien FaceBook"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:306
+msgid "Enter your Facebook link."
+msgstr "Entrez votre lien FaceBook."
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:312
+msgid "Flickr link"
+msgstr "Lien Flickr"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:314
+msgid "Enter your Flickr link."
+msgstr "Entrez votre lien Flickr"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:320
+msgid "Typography <span>customize your fonts</span>"
+msgstr "Typographie <span>personnalise vos polices de caractères</span>"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:324
+msgid "Accent font"
+msgstr "Police des accents"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:325
+msgid "Used for accents and headers. Fallback font stack is \"Helvetica, Arial, sans-serif\". Added page weight is in parentheses."
+msgstr "Used for accents and headers. Fallback font stack is \"Helvetica, Arial, sans-serif\". Added page weight is in parentheses."
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:331
+msgid "Arvo (27kb)"
+msgstr "Arvo (27ko)"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:332
+msgid "Cabin (39kb)"
+msgstr "Cabin (39ko)"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:333
+msgid "Copse (22kb)"
+msgstr "Copse (22ko)"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:334
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:348
+msgid "Droid Sans (26kb)"
+msgstr "Droid Sans (26ko)"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:335
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:349
+msgid "Droid Serif (28kb)"
+msgstr "Droid Serif (28ko)"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:336
+msgid "Helvetica"
+msgstr "Helvetica"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:337
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:351
+msgid "Lato (49kb)"
+msgstr "Lato (49ko)"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:340
+msgid "Body font"
+msgstr "Police du corps"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:341
+msgid "Used for the body text. Fallback font stack is \"Georgia, Times, serif\". Added page weight is in parentheses."
+msgstr "Used for the body text. Fallback font stack is \"Georgia, Times, serif\". Added page weight is in parentheses."
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:347
+msgid "Cantarell (53kb)"
+msgstr "Cantarell (53ko)"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:350
+msgid "Georgia"
+msgstr "Georgia"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:352
+msgid "Neuton (18kb)"
+msgstr "Neuton (18ko)"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:353
+msgid "Nobile (57kb)"
+msgstr "Nobile (57ko)"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:354
+msgid "Puritan (60kb)"
+msgstr "Puritan (60ko)"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:357
+msgid "Layout <span>change the default layout</span>"
+msgstr "Style <span>change le style par défaut</span>"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:361
+msgid "Disable Sidebar"
+msgstr "Désactiver la barre latérale"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:363
+msgid "Check this box to disable the sidebar. This removes the sidebar from <strong>all</strong> pages and posts."
+msgstr "Cochez cette case pour désactiver la barre latérale. Cela enlèvera la barre latérale pour <span>tous</span>les articles et les pages."
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:369
+msgid "Disable Footer"
+msgstr "Désactiver le pied."
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:371
+msgid "Check this box to disable the footer widget area. This removes the footer from <strong>all</strong> pages and posts."
+msgstr "Cochez cette case pour désactiver la zone de widgets du pied. Ceci enlèvera le pied pour <span>tous</span> les articles et les pages."
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:377
+msgid "Footer <span>add a copyright notice and tracking codes</span>"
+msgstr "Pied <span>active un copyright et les codes de tracking</span>"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:381
+msgid "Copyright notice"
+msgstr "Copyright"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:383
+msgid "Your name or the name of your business."
+msgstr "Votre nom ou celui de votre business"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:388
+msgid "Stats code"
+msgstr "Code de stats"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/linen-extend.php:390
+#, php-format
+msgid "If you would like to use Google Analytics or any other tracking script in your footer just paste it here. The script will be inserted before the closing %s tag."
+msgstr "Si vous désirez utiliser Google Analytics ou un autre script de tracking collez le ici. Le script sera inséré avant la fermeture de la balise %s"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/ttf-admin.php:75
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/ttf-admin.php:134
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/ttf-admin.php:135
+msgid "Theme Options"
+msgstr "Options du thème"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/ttf-admin.php:147
+#, php-format
+msgid "%s settings saved!"
+msgstr "%s paramètres enregistrés!"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/ttf-admin.php:151
+#, php-format
+msgid "%s settings reset."
+msgstr "%s paramètres remis à zéro."
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/ttf-admin.php:157
+#, php-format
+msgid "%s Options"
+msgstr "Options de %s"
+
+#: /media/wolforg/EURL_Wolforg/Sites/traductions/fichiers/Themes/linen/functions/ttf-admin.php:160
+#, php-format
+msgid "<strong>Need help?</strong> <a href=\"%1$s\">Read the tutorials</a> or visit the <a href=\"%2$s\">support forums.</a>"
+msgstr "<strong>Besoin d'aide?</strong> <a href=\"%1$s\">Lisez les tutoriels</a> ou visitez les <a href=\"%2$s\">forums de support.</a>"
+
