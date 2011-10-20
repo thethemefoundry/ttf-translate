@@ -1,0 +1,322 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Shelf WordPress Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-09-05 13:25-0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: J. Boydstun <jboydstun@jestro.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: card-commentform.php:6
+msgid "What do you think?"
+msgstr "Voleu fer un comentari?"
+
+#: card-commentform.php:7
+msgid "Please keep your comments polite and on-topic."
+msgstr "Sigueu respectuosos amb les vostres opinions."
+
+#: card-commentform.php:13
+msgid "Name:"
+msgstr "Nom:"
+
+#: card-commentform.php:15
+msgid "Email:"
+msgstr "Email:"
+
+#: card-commentform.php:17
+msgid "Website:"
+msgstr "Lloc web:"
+
+#: card-commentform.php:23
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Heu de <a href=\"%s\">entrar</a> per fer un comentari."
+
+#: card-commentform.php:24
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr "Heu entrat com a <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Sortir d'aquest compte\">Sortir?</a>"
+
+#: card-commentform.php:31
+msgid "Cancel reply"
+msgstr "Ometre resposta"
+
+#: card-commentform.php:32
+msgid "Send Message"
+msgstr "Enviar missatge"
+
+#: card-pings.php:5
+#, php-format
+msgid "%d notes"
+msgstr "%d notes"
+
+#: comments.php:4
+msgid "comments"
+msgstr "comentari"
+
+#: footer.php:6
+#, php-format
+msgid "Copyright &copy; %1$s %2$s"
+msgstr "Drets d'autor &copy; %1$s %2$s"
+
+#: footer.php:12
+#, php-format
+msgid "<a href=\"%1$s\">Shelf Theme</a> by <a href=\"%2$s\">The Theme Foundry</a>"
+msgstr "<a href=\"%1$s\">Shelf Theme</a> per <a href=\"%2$s\">The Theme Foundry</a>"
+
+#: footer.php:22
+msgid "&larr; Newer entries"
+msgstr "&larr; Entrades mÃ©s noves"
+
+#: footer.php:24
+msgid "Older Entries &rarr;"
+msgstr "Entrades mÃ©s antigues &rarr;"
+
+#: footer.php:29
+msgid "&larr; %link"
+msgstr "&larr; %link"
+
+#: footer.php:30
+msgid "%link &rarr;"
+msgstr "%link &rarr;"
+
+#: format-audio.php:54
+#: format-image.php:26
+#: format-link.php:23
+#: format-quote.php:22
+#: format-video.php:24
+#: format.php:24
+msgid "1 Comment"
+msgstr "1 Comentari"
+
+#: format-link.php:8
+msgid "Permalink"
+msgstr "Permalink"
+
+#: header.php:8
+msgid "Page Not Found |"
+msgstr "PÃ gina No Trobada |"
+
+#: header.php:10
+#, php-format
+msgid "Search results for '%s'"
+msgstr "Resultats per a '%s'"
+
+#: header.php:41
+msgid "RSS"
+msgstr "RSS"
+
+#: header.php:43
+msgid "Twitter"
+msgstr "Twitter"
+
+#: header.php:46
+msgid "Facebook"
+msgstr "Facebook"
+
+#: header.php:52
+msgid "You can also press the left arrow key to scroll"
+msgstr "Podeu desplaÃ§ar-vos amb la tecla fletxa esquerra"
+
+#: header.php:52
+msgid "Previous"
+msgstr "Anterior"
+
+#: header.php:53
+msgid "You can also press the right arrow key to scroll"
+msgstr "Podeu desplaÃ§ar-vos amb la tecla fletxa dreta"
+
+#: header.php:53
+msgid "Next"
+msgstr "SegÃ¼ent"
+
+#: header.php:74
+msgid "You can scroll the shelf using <b>&larr;</b> and <b>&rarr;</b> keys"
+msgstr "Podeu desplaÃ§ar-vos usant les tecles <b>&larr;</b> i <b>&rarr;</b>"
+
+#: functions/comments.php:12
+#, php-format
+msgid "%s reblogged this and added:"
+msgstr "%s republicat i afegit:"
+
+#: functions/express-app.php:57
+msgid "You are not allowed to upload files to this site."
+msgstr "No teniu permÃ­s per pujar arxius en aquest lloc."
+
+#: functions/express-app.php:83
+#, php-format
+msgid "Could not write file %1$s (%2$s)"
+msgstr "No s'ha pogut desar %1$s (%2$s)"
+
+#: functions/shelf-extend.php:150
+msgid "Home"
+msgstr "Inici"
+
+#: functions/shelf-extend.php:274
+msgid "Top Navigation"
+msgstr "NavegaciÃ³ superior"
+
+#: functions/shelf-extend.php:295
+msgid "Header and logo"
+msgstr "CapÃ§alera i logo"
+
+#: functions/shelf-extend.php:299
+msgid "Enable custom logo image"
+msgstr "Permet veure el logo propi"
+
+#: functions/shelf-extend.php:301
+msgid "Check to use a custom logo in the header."
+msgstr "Activeu per usar el logo propi a la capÃ§alera."
+
+#: functions/shelf-extend.php:306
+msgid "Logo URL"
+msgstr "URL del logo"
+
+#: functions/shelf-extend.php:308
+msgid "Upload an image or enter an URL for your image."
+msgstr "Carregueu una imatge o indiqueu una URL d'aquesta."
+
+#: functions/shelf-extend.php:315
+msgid "Logo image <code>&lt;alt&gt;</code> tag"
+msgstr "Codi <code>&lt;alt&gt;</code> del logo"
+
+#: functions/shelf-extend.php:317
+msgid "Specify the <code>&lt;alt&gt;</code> tag for your logo image."
+msgstr "Especifiqueu el text alternatiu <code>&lt;alt&gt;</code> del logo."
+
+#: functions/shelf-extend.php:322
+msgid "Display blog title"
+msgstr "Mostra el tÃ­tol del blog"
+
+#: functions/shelf-extend.php:324
+msgid "Check to show your title. The title will automatically be shown if the custom logo image is not enabled."
+msgstr "Activeu per mostrar el tÃ­tol. Aquest es mostrarÃ  automÃ ticament si no heu permÃ©s veure el logo propi a la capÃ§alera."
+
+#: functions/shelf-extend.php:329
+msgid "Display tagline"
+msgstr "Mostra el text alternatiu"
+
+#: functions/shelf-extend.php:331
+msgid "Check to show your tagline below your logo."
+msgstr "Activeu per mostrar el text alternatiu sota el logo."
+
+#: functions/shelf-extend.php:336
+msgid "Hide background title"
+msgstr "Oculta el tÃ­tol del fons"
+
+#: functions/shelf-extend.php:338
+msgid "Check to hide the large background site title text."
+msgstr "Activeu per a ocultar el tÃ­tol gran de fons. "
+
+#: functions/shelf-extend.php:343
+msgid "Subscribe links"
+msgstr "EnllaÃ§os de seguiment"
+
+#: functions/shelf-extend.php:347
+msgid "Enable Twitter"
+msgstr "Permet Twitter"
+
+#: functions/shelf-extend.php:349
+msgid "Hip to Twitter? Check this box. Please set your Twitter username in the Twitter menu."
+msgstr "Teniu Twitter? Activeu aquesta casella. Recordeu indicar el vostre compte Twitter."
+
+#: functions/shelf-extend.php:354
+msgid "Enable Facebook"
+msgstr "Permet Facebook"
+
+#: functions/shelf-extend.php:356
+msgid "Check this box to show a link to your Facebook page."
+msgstr "Activa aquesta casella per a mostrar un enllaÃ§ a la teua pÃ gina de Facebook."
+
+#: functions/shelf-extend.php:361
+msgid "Disable all"
+msgstr "Desactiva-ho tot"
+
+#: functions/shelf-extend.php:363
+msgid "Check this box to hide all follow icons (including RSS). This option overrides any other settings."
+msgstr "Activa aquesta casella per ocultar totes les icones de seguiment (inclÃ²s RSS). Aquesta opciÃ³ predomina sobre les altres."
+
+#: functions/shelf-extend.php:368
+msgid "Twitter name"
+msgstr "Compte de Twitter"
+
+#: functions/shelf-extend.php:370
+msgid "Enter your Twitter name."
+msgstr "Indiqueu el vostre compte de Twitter."
+
+#: functions/shelf-extend.php:375
+msgid "Facebook link"
+msgstr "EnllaÃ§ a Facebook"
+
+#: functions/shelf-extend.php:377
+msgid "Enter your Facebook link."
+msgstr "Indiqueu el vostre enllaÃ§ a Facebook"
+
+#: functions/shelf-extend.php:382
+msgid "Footer"
+msgstr "Peu de pÃ gina"
+
+#: functions/shelf-extend.php:386
+msgid "Copyright notice"
+msgstr "AvÃ­s de copyright"
+
+#: functions/shelf-extend.php:388
+msgid "Your name or the name of your business."
+msgstr "El vostre nom o el de la vostra empresa."
+
+#: functions/shelf-extend.php:389
+msgid "Your Name Here"
+msgstr "El vostre nom acÃ­."
+
+#: functions/shelf-extend.php:393
+msgid "Stats code"
+msgstr "Codi de les estadÃ­stiques"
+
+#: functions/shelf-extend.php:395
+#, php-format
+msgid "If you would like to use Google Analytics or any other tracking script in your footer just paste it here. The script will be inserted before the closing %s tag."
+msgstr "Si vulguÃ©reu usar Google Analytics o qualsevol altre codi de seguiment estadÃ­stic, nomÃ©s l'heu d'insertar aquÃ­. El codi s'insertarÃ  abans de la instrucciÃ³ de tancament %s"
+
+#: functions/ttf-admin.php:63
+#: functions/ttf-admin.php:122
+#: functions/ttf-admin.php:123
+#: functions/ttf-admin.php:145
+msgid "Theme Options"
+msgstr "Opcions del Tema"
+
+#: functions/ttf-admin.php:135
+#, php-format
+msgid "%s settings saved!"
+msgstr "%s preferÃ¨ncies guardades!"
+
+#: functions/ttf-admin.php:139
+#, php-format
+msgid "%s settings reset."
+msgstr "%s restaura preferÃ¨ncies."
+
+#: functions/ttf-admin.php:165
+msgid "Edit"
+msgstr "Edita"
+
+#: functions/ttf-admin.php:237
+msgid "show color picker"
+msgstr "Mostra selector de color"
+
+#: functions/ttf-admin.php:237
+msgid "hide color picker"
+msgstr "Oculta selector de color"
+
+#: functions/ttf-admin.php:286
+msgid "Save changes"
+msgstr "Desa els canvis"
+
