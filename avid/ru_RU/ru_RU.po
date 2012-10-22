@@ -1,0 +1,667 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Avid\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-04 11:29+0400\n"
+"PO-Revision-Date: 2012-10-08 22:32+0400\n"
+"Last-Translator: evgeny <work@verha.net>\n"
+"Language-Team: Evgeny Vlasov <work@verha.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;esc_attr_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../404.php:5
+msgid "404: Page Not Found"
+msgstr "Ошибка 404: Страница не найдена"
+
+#: ../404.php:10
+msgid "We are terribly sorry, but the URL you typed no longer exists. It might have been moved or deleted. Try searching the site:"
+msgstr "Нам ужасно жаль, вы набрали адрес который больше не существует. Страница может быть перемещена или удалена. Попробуйте поиск по сайту:"
+
+#: ../archive.php:15
+msgid "No posts found."
+msgstr "Записей нет."
+
+#: ../archive.php:21
+msgid "Older"
+msgstr "Позднее"
+
+#: ../archive.php:22
+msgid "Newer"
+msgstr "Ранее"
+
+#: ../archive.php:26
+#: ../index.php:16
+msgid "Load more"
+msgstr "Загрузить еще"
+
+#: ../attachment.php:35
+msgid "Previous"
+msgstr "Предыдущий"
+
+#: ../attachment.php:36
+msgid "Next"
+msgstr "Следующий"
+
+#: ../comments.php:3
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Данная запись защищена паролем. Введите пароль для просмотра."
+
+#: ../comments.php:17
+msgid "&larr; Older comments"
+msgstr "&larr; Старые комментарии"
+
+#: ../comments.php:18
+msgid "Newer comments &rarr;"
+msgstr "Новые комментарии &rarr;"
+
+#: ../comments.php:22
+msgid "Comments are closed."
+msgstr "Комментирование закрыто."
+
+#: ../comments.php:35
+msgid "Comment"
+msgstr "Комментарий"
+
+#: ../comments.php:44
+#: ../comments.php:45
+msgid "Name:"
+msgstr "Имя:"
+
+#: ../comments.php:47
+#: ../comments.php:49
+msgid "Name"
+msgstr "Имя"
+
+#: ../comments.php:56
+#: ../comments.php:57
+msgid "Email:"
+msgstr "Email:"
+
+#: ../comments.php:59
+#: ../comments.php:61
+msgid "Email"
+msgstr "Email"
+
+#: ../comments.php:66
+msgid "Website:"
+msgstr "Website:"
+
+#: ../comments.php:67
+#: ../comments.php:69
+msgid "Website"
+msgstr "Website"
+
+#: ../comments.php:72
+msgid "Submit Comment"
+msgstr "Опубликовать"
+
+#: ../comments.php:73
+msgid "Leave a Reply"
+msgstr "Прокомментировать"
+
+#: ../comments.php:74
+#, php-format
+msgid "Leave a comment to <em>%s</em>"
+msgstr "Оставить комментарий к <em>%s</em>"
+
+#: ../footer.php:40
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../footer.php:45
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../footer.php:50
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: ../footer.php:55
+msgid "Flickr"
+msgstr "Flickr"
+
+#: ../footer.php:60
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: ../footer.php:64
+#: ../index.php:5
+msgid "RSS feed"
+msgstr "RSS фид"
+
+#: ../full-width.php:13
+#: ../homepage.php:45
+#: ../page.php:8
+#: ../sitemap.php:44
+msgid "Edit this page"
+msgstr "Редактировать страницу"
+
+#: ../functions.php:66
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: ../functions.php:193
+msgid "Go to..."
+msgstr "Перейти к ..."
+
+#: ../functions.php:343
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает проверки"
+
+#: ../functions.php:404
+msgid "Sidebar"
+msgstr "Сайдбар"
+
+#: ../functions.php:412
+msgid "Left Footer"
+msgstr "Левый колонтитул"
+
+#: ../functions.php:420
+msgid "Middle Footer"
+msgstr "Центральный колонтитул"
+
+#: ../functions.php:428
+msgid "Right Footer"
+msgstr "Правый колонтитул"
+
+#: ../functions.php:641
+#: ../functions.php:653
+msgid "Featured"
+msgstr "Популярное"
+
+#: ../header.php:28
+#: ../header.php:35
+msgid "Home"
+msgstr "Домашняя"
+
+#: ../homepage.php:25
+msgid "This is a placeholder. You can remove this placeholder by setting a featured image on the <em>Edit Post</em> screen for this post."
+msgstr "Это плэйсхолдер, вы можете его удалить в настройках записи выбрав изображение."
+
+#: ../search.php:2
+#, php-format
+msgid "Search results for '<em>%s</em>'"
+msgstr "Результат поиска по запросу '<em>%s</em>'"
+
+#: ../search.php:9
+#, php-format
+msgid "Sorry, your search for \"<em>%s</em>\" did not turn up any results. Please try again."
+msgstr "Извините по вашему запросу \"<em>%s</em>\" ничего не найдено. Пожалуйста, попробуйте снова."
+
+#: ../searchform.php:1
+msgid "Type and press Enter to search"
+msgstr "Для поиска введите текст и нажмите Enter"
+
+#: ../searchform.php:6
+#: ../searchform.php:7
+msgid "Search site"
+msgstr "Поиск по сайту"
+
+#: ../sitemap.php:13
+msgid "Pages"
+msgstr "Страницы"
+
+#: ../sitemap.php:17
+msgid "Recent posts"
+msgstr "Новые записи"
+
+#: ../sitemap.php:31
+msgid "Authors"
+msgstr "Авторы"
+
+#: ../sitemap.php:35
+msgid "Categories"
+msgstr "Категории"
+
+#: ../sitemap.php:39
+msgid "Archives"
+msgstr "Архив"
+
+#: ../_ajax-gallery.php:30
+msgid "This page displays all of your gallery posts. You don't appear to have any galleries yet &mdash; create a gallery post, set a featured image for the post, and refresh this page to see your gallery."
+msgstr "На этой странице отображаются все ваши записи галереи. Создайте галерею и обновите страницу для ее отображения."
+
+#: ../_ajax-images.php:37
+msgid "This page displays images attached to your gallery posts. You don't appear to have any galleries with images yet &mdash; create a gallery post, upload images to the post, and refresh this page to see your images."
+msgstr "На этой странице отображаются изображения используемые в записях галереи. Если галереии нет, создайте ее и обновите страницу для просмотра изображений."
+
+#: ../_format-gallery.php:49
+msgid "images"
+msgstr "изображения"
+
+#: ../_format-gallery.php:53
+#: ../_format-standard.php:21
+msgid "Edit this post"
+msgstr "Редактировать запись"
+
+#: ../_format-gallery.php:55
+#: ../_format-standard.php:23
+msgid "Page:"
+msgstr "Страница:"
+
+#: ../_format-standard.php:13
+msgid "By "
+msgstr "Автор"
+
+#: ../_gallery-nav.php:3
+#: ../_gallery-nav.php:5
+msgid "View galleries"
+msgstr "Просмотреть галереи"
+
+#: ../_gallery-nav.php:9
+msgid "View images"
+msgstr "Просмотреть изображения"
+
+#: ../_gallery-nav.php:11
+msgid "View as images"
+msgstr "Просмотреть изображения"
+
+#: ../_gallery-nav.php:24
+msgid "All categories"
+msgstr "Все категории"
+
+#: ../_loop-search.php:12
+msgid "View"
+msgstr "Просмотреть"
+
+#: ../_post-content.php:5
+msgid "Read more"
+msgstr "Читать далее"
+
+#: ../_post-footer.php:6
+msgid "Categories: "
+msgstr "Категории:"
+
+#: ../_post-footer.php:14
+msgid "Tagged: "
+msgstr "Метки:"
+
+#: ../_timeline-image.php:15
+msgid "View image"
+msgstr "Просмотреть изображения"
+
+#: ../_timeline-standard.php:15
+msgid "00"
+msgstr "00"
+
+#: ../_timeline-standard.php:15
+msgid "01"
+msgstr "01"
+
+#: ../_timeline-standard.php:15
+msgid "%"
+msgstr "%"
+
+#: ../_timeline-standard.php:17
+msgid "Comments"
+msgstr "Комментарии"
+
+#: ../_timeline-video.php:14
+msgid "View video"
+msgstr "Просмотреть видео"
+
+#: ../functions/admin.php:35
+msgid "Featured posts"
+msgstr "Новые записи"
+
+#: ../functions/admin.php:36
+msgid "Featured posts are displayed on pages using the \"Homepage\" page template."
+msgstr "Популярные сообщения отображаются на страницах с помощью \"Основного\" шаблона страницы."
+
+#: ../functions/admin.php:37
+msgid "Make sure to set a featured image for your featured posts or it will not display properly in the \"Homepage\" slider."
+msgstr "Убедитесь в корректности настроек записей изображений иначе оно не будет отображаться в \"Основном\" слайдере."
+
+#: ../functions/post-options.php:8
+msgid "Avid Theme Post Options"
+msgstr "Настройки темы Avid"
+
+#: ../functions/post-options.php:33
+msgid "Show in featured slider"
+msgstr "Показать в слайдере \"Популярное\""
+
+#: ../functions/theme-options.php:25
+msgid "Logo &amp; sliders"
+msgstr "Логотип и слайдер"
+
+#: ../functions/theme-options.php:26
+msgid "Display options"
+msgstr "Настройки отображения"
+
+#: ../functions/theme-options.php:27
+msgid "Galleries &amp; Images"
+msgstr "Галереи и изображения"
+
+#: ../functions/theme-options.php:28
+msgid "Background options"
+msgstr "Настройки фона"
+
+#: ../functions/theme-options.php:29
+msgid "Subscribe links &amp; copyright"
+msgstr "Внешние ссылки и копирайт"
+
+#: ../functions/theme-options.php:36
+msgid "Logo image:"
+msgstr "Изображение логотипа:"
+
+#: ../functions/theme-options.php:37
+msgid "Upload an image (making sure to click <strong>\"Insert into post\"</strong>) or enter an <abbr title=\"Universal resource locator\">URL</abbr> for your image. If you choose not to upload a logo, your site's title will be used for the header."
+msgstr "Загрузите изображение (не забудьте нажать кнопку <strong>\"Вставить в сообщение\"</strong>) или укажите ссылку. Если вы не хотите использовать логотип, для заголовка будет использовано название вашего сайта."
+
+#: ../functions/theme-options.php:41
+msgid "High resolution logo"
+msgstr "Изображение логотипа высокого разрешения"
+
+#: ../functions/theme-options.php:42
+msgid "Upload a high resolution logo image for Retina (and similar hi-res) devices. This logo will be scaled down 50% and served only to high resolution devices."
+msgstr "Загрузить изображение с высоким разрешением для устройств с экраном Retina. Этот логотип будет уменьшен на 50% и будет работать только на устройствах с высоким разрешением."
+
+#: ../functions/theme-options.php:46
+msgid "Autostart sliders"
+msgstr "Автозапуск слайдера"
+
+#: ../functions/theme-options.php:47
+msgid "Check to automatically start slideshow animation upon page load for your homepage and gallery sliders."
+msgstr "Отметьте чтобы автоматически запускать анимацию слайд-шоу при загрузке страницы галереи и слайдеров."
+
+#: ../functions/theme-options.php:51
+msgid "Fade (Default)"
+msgstr "Затемнение (по-умолчанию)"
+
+#: ../functions/theme-options.php:52
+msgid "Slide"
+msgstr "Скольжение"
+
+#: ../functions/theme-options.php:54
+msgid "Slider transition:"
+msgstr "Эффект смены слайдов:"
+
+#: ../functions/theme-options.php:55
+msgid "Select a transition style for your sliders."
+msgstr "Выберете эффект смены слайдов."
+
+#: ../functions/theme-options.php:62
+msgid "Hide tags"
+msgstr "Скрыть метки"
+
+#: ../functions/theme-options.php:63
+msgid "Check to hide tags in posts."
+msgstr "Отметьте для скрытия меток в записях"
+
+#: ../functions/theme-options.php:67
+msgid "Hide categories"
+msgstr "Скрыть категории"
+
+#: ../functions/theme-options.php:68
+msgid "Check to hide categories in posts."
+msgstr "Отметьте для скрытия категорий в записях."
+
+#: ../functions/theme-options.php:72
+msgid "Hide categories drop-down"
+msgstr "Скрыть выпадающие категории"
+
+#: ../functions/theme-options.php:73
+msgid "Check to hide the categories drop-down on the Gallery page."
+msgstr "Отметьте, чтобы скрыть раскрывающееся меню категорий на странице галереи."
+
+#: ../functions/theme-options.php:77
+msgid "Hide author"
+msgstr "Скрыть автора"
+
+#: ../functions/theme-options.php:78
+msgid "Check to hide the author in posts."
+msgstr "Отметьте для скрытия автора в записях."
+
+#: ../functions/theme-options.php:82
+msgid "Hide date"
+msgstr "Скрыть дату"
+
+#: ../functions/theme-options.php:83
+msgid "Check to hide dates throughout your site."
+msgstr "Отметьте, чтобы скрыть дату на сайте."
+
+#: ../functions/theme-options.php:87
+msgid "Hide post navigation"
+msgstr "Скрыть навигацию в записях"
+
+#: ../functions/theme-options.php:88
+msgid "Check to hide post navigation in single post view."
+msgstr "Отметьте для скрытия элементов навигации при просмотре страницы записи."
+
+#: ../functions/theme-options.php:92
+msgid "Hide blog search"
+msgstr "Скрыть поиск по сайту"
+
+#: ../functions/theme-options.php:93
+msgid "Check to hide search field and <abbr title=\"Really Simple Syndication\">RSS</abbr> in blog feed view."
+msgstr "Отметьте, чтобы скрыть поле поиска."
+
+#: ../functions/theme-options.php:97
+msgid "Remove Gallery posts from blog/archives"
+msgstr "Удалить записи Галереи из блога/архива"
+
+#: ../functions/theme-options.php:98
+msgid "Check to remove all Gallery posts from blog, archive, category and tag pages. Use this option if you don't want your gallery posts showing up as regular blog posts."
+msgstr "Отметьте, чтобы удалить все сообщения Галереи из блога, архива, категорий и страниц меток. Используйте эту опцию, если вы не хотите, чтобы ваши записи галереи отображались как обычные сообщения в блоге."
+
+#: ../functions/theme-options.php:102
+msgid "Remove Image posts from blog/archives"
+msgstr "Удалить записи изображений из блога/архива"
+
+#: ../functions/theme-options.php:103
+msgid "Check to remove all Image posts from blog, archive, category and tag pages. Use this option if you don't want your image posts showing up as regular blog posts."
+msgstr "Отметьте для удаления всех записей изображений из блога, архива, категорий и страниц меток. Используйте эту опцию, если вы не хотите, чтобы ваши записи изображений отображались как регулярные сообщения в блоге."
+
+#: ../functions/theme-options.php:107
+msgid "Disable Rokkitt webfont"
+msgstr "Отключить поддержку Rokkitt webfont"
+
+#: ../functions/theme-options.php:108
+msgid "If your site is displaying unexpected characters in headings, check this box to replace the Rokkitt webfont with a compatible, web-safe font."
+msgstr "Если на вашем сайте отображаются неожиданные символы в заголовках, отметьте этот флажок, чтобы заменить WebFont Rokkitt на совместимый, веб-безопасный шрифт."
+
+#: ../functions/theme-options.php:115
+msgid "Galleries (Default)"
+msgstr "Галереи (по-умолчанию)"
+
+#: ../functions/theme-options.php:116
+msgid "Images"
+msgstr "Изображения"
+
+#: ../functions/theme-options.php:118
+msgid "Default gallery display:"
+msgstr "Отображаемая по-умолчанию галерея:"
+
+#: ../functions/theme-options.php:119
+msgid "Select a default display option for your Gallery page."
+msgstr "Выберете изображение для отображения по-умолчанию на странице Галереи."
+
+#: ../functions/theme-options.php:122
+msgid "Disable Retina images"
+msgstr "Выключить поддержку дисплеев \"Retina\""
+
+#: ../functions/theme-options.php:123
+msgid "Check to turn off high-resolution images for Retina devices."
+msgstr "Отметьте для выключения изображений высокого разрешения для устройств в экранами Retina"
+
+#: ../functions/theme-options.php:130
+msgid "Market lights (Default)"
+msgstr "Огни магазина (по-умолчанию)"
+
+#: ../functions/theme-options.php:131
+msgid "Railway tracks"
+msgstr "Железнодорожные пути"
+
+#: ../functions/theme-options.php:132
+msgid "City streets"
+msgstr "Городские улицы"
+
+#: ../functions/theme-options.php:133
+msgid "No background"
+msgstr "Без фона"
+
+#: ../functions/theme-options.php:135
+msgid "Background image:"
+msgstr "Фоновое изображение:"
+
+#: ../functions/theme-options.php:136
+msgid "Select from 3 default background images. To remove the background image, select \"No background image\"."
+msgstr "Выберите одно из трех изображений для установки по-умолчанию. Для удаления фонового изображения, выберите \"Удалить фоновое изображение\"."
+
+#: ../functions/theme-options.php:140
+msgid "Custom background image:"
+msgstr "Пользовательские фоновое изображение:"
+
+#: ../functions/theme-options.php:141
+msgid "Upload an image, or enter a URL for your background. This option will override the above \"Background image\" setting."
+msgstr "Загрузите изображение или укажите его адрес для установки фоном. Эта опция переоределяет параметр \"Фоновое изображение\""
+
+#: ../functions/theme-options.php:147
+msgid "Twitter <abbr title=\"Universal resource locator\">URL</abbr>:"
+msgstr "Twitter <abbr title=\"Universal resource locator\">URL</abbr>:"
+
+#: ../functions/theme-options.php:148
+msgid "Enter your Twitter link."
+msgstr "Укажите ссылку на Twitter аккаунт"
+
+#: ../functions/theme-options.php:152
+msgid "Facebook <abbr title=\"Universal resource locator\">URL</abbr>:"
+msgstr "Facebook <abbr title=\"Universal resource locator\">URL</abbr>:"
+
+#: ../functions/theme-options.php:153
+msgid "Enter your Facebook link."
+msgstr "Укажите ссылку на Facebook аккаунт"
+
+#: ../functions/theme-options.php:157
+msgid "Google+ <abbr title=\"Universal resource locator\">URL</abbr>:"
+msgstr "Google+ <abbr title=\"Universal resource locator\">URL</abbr>:"
+
+#: ../functions/theme-options.php:158
+msgid "Enter your Google+ link."
+msgstr "Укажите ссылку на Google+ аккаунт"
+
+#: ../functions/theme-options.php:162
+msgid "Flickr <abbr title=\"Universal resource locator\">URL</abbr>:"
+msgstr "Flickr <abbr title=\"Universal resource locator\">URL</abbr>:"
+
+#: ../functions/theme-options.php:163
+msgid "Enter your Flickr link."
+msgstr "Укажите ссылку на Flickr аккаунт"
+
+#: ../functions/theme-options.php:167
+msgid "Pinterest <abbr title=\"Universal resource locator\">URL</abbr>:"
+msgstr "Pinterest <abbr title=\"Universal resource locator\">URL</abbr>:"
+
+#: ../functions/theme-options.php:168
+msgid "Enter your Pinterest link."
+msgstr "Укажите ссылку на Pinterest аккаунт"
+
+#: ../functions/theme-options.php:173
+msgid "Disable all icons"
+msgstr "Скрыть все иконки"
+
+#: ../functions/theme-options.php:174
+msgid "Check to hide all subscribe icons (including <abbr title=\"Really Simple Syndication\">RSS</abbr>). This option overrides all other icon settings."
+msgstr "Cкрыть все иконки внешних аккаунтов (в том числе иконки <abbr title=\"Really Simple Syndication\">RSS</abbr> фида)."
+
+#: ../functions/theme-options.php:177
+msgid "Credit line text:"
+msgstr "Текст копирайта:"
+
+#: ../functions/theme-options.php:178
+msgid "Enter your credit text to be displayed in the theme footer."
+msgstr "Введите ваш копирайт, он будет отображаться в колонтитуле темы."
+
+#: ../functions/utility.php:155
+msgid "This is an image placeholder. To display an image here, set a featured image for this post. The dimensions for your image should be as close to 1140px by 700px as possible."
+msgstr "Это изображение плэйсхолдер. Для вывода собственного изображения, установите изображение в записи. Размеры изображения должны быть максимально приближены к 1140px на 700px."
+
+#: ../functions/widget.php:7
+msgid "Recent post titles and a short excerpt."
+msgstr "Заголовки новых записей и короткий анонс."
+
+#: ../functions/widget.php:27
+msgid "Recent blog posts"
+msgstr "Новые записи в блоге"
+
+#: ../functions/ttf-common/ttf-common.php:53
+msgid "Page Not Found | "
+msgstr "Страница не найдена |"
+
+#: ../functions/ttf-common/ttf-common.php:55
+msgid "Search results | "
+msgstr "Результат поиска |"
+
+#: ../functions/ttf-common/ttf-common.php:69
+#, php-format
+msgid "Posts from the &#8216%s&#8217 category"
+msgstr "Записи из категории &#8216%s&#8217"
+
+#: ../functions/ttf-common/ttf-common.php:71
+#, php-format
+msgid "Posts tagged &#8216%s&#8217"
+msgstr "Записи с меткой &#8216%s&#8217"
+
+#: ../functions/ttf-common/ttf-common.php:73
+#: ../functions/ttf-common/ttf-common.php:75
+#: ../functions/ttf-common/ttf-common.php:77
+#, php-format
+msgid "Archive for &#8216%s&#8217"
+msgstr "Архив &#8216%s&#8217"
+
+#: ../functions/ttf-common/ttf-common.php:79
+#, php-format
+msgid "Posts by %s"
+msgstr "Опубликовано %s"
+
+#: ../functions/ttf-common/ttf-common.php:81
+msgid "Blog Archives"
+msgstr "Архив блога"
+
+#: ../includes/struts/classes/struts/options.php:127
+msgid "Options already initialized. Struts no longer requires manual initialization."
+msgstr "Параметры уже инициализированны. Не требует ручной инициализации."
+
+#: ../includes/struts/classes/struts/options.php:154
+#: ../includes/struts/classes/struts/options.php:155
+#: ../includes/struts/classes/struts/options.php:310
+msgid "Theme Options"
+msgstr "Настройки темы"
+
+#: ../includes/struts/classes/struts/options.php:263
+#, php-format
+msgid "Section with name &lsquo;%1$s&rsquo; not defined"
+msgstr "Разделы с именем нe &lsquo;%1$s&rsquo; не определены"
+
+#: ../includes/struts/classes/struts/options.php:320
+msgid "Save Settings"
+msgstr "Сохранить изменения"
+
+#: ../includes/struts/classes/struts/options.php:321
+msgid "Reset Defaults"
+msgstr "Сбросить настройки"
+
+#: ../includes/struts/classes/struts/options.php:331
+msgid "Theme settings updated successfully."
+msgstr "Настройки успешно обновлены."
+
+#: ../includes/struts/classes/struts/section.php:97
+msgid "Edit"
+msgstr "Редактировать"
+
+#: ../includes/struts/classes/struts/section.php:104
+msgid "Save changes"
+msgstr "Сохранить изменения"
+
+#: ../includes/struts/classes/struts/option/color.php:35
+msgid "show color picker"
+msgstr "показать палитру цветов"
+
