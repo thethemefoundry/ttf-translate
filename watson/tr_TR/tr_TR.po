@@ -1,0 +1,656 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Watson\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-09 21:04+0100\n"
+"PO-Revision-Date: 2012-12-10 11:19+0100\n"
+"Last-Translator: Oguzhan Ocalan <oguzhanocalan@gmail.com>\n"
+"Language-Team: The Theme Foundry <info@thethemefoundry.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e;_x;_n\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: struts/classes/struts/options.php:127
+#: ../includes/struts/classes/struts/options.php:127
+msgid ""
+"Options already initialized. Struts no longer requires manual initialization."
+msgstr ""
+"SeÃ§enekler baÅŸlamÄ±ÅŸ durumda olduÄŸu iÃ§in Struts artÄ±k el ile baÅŸlatÄ±lmak "
+"zorunda deÄŸil."
+
+#: struts/classes/struts/options.php:154 struts/classes/struts/options.php:155
+#: struts/classes/struts/options.php:310
+#: ../includes/struts/classes/struts/options.php:154
+#: ../includes/struts/classes/struts/options.php:155
+#: ../includes/struts/classes/struts/options.php:310
+msgid "Theme Options"
+msgstr "ArayÃ¼z AyarlarÄ±"
+
+#: struts/classes/struts/options.php:263
+#: ../includes/struts/classes/struts/options.php:263
+#, php-format
+msgid "Section with name &lsquo;%1$s&rsquo; not defined"
+msgstr "&lsquo;%1$s&rsquo; adÄ±nda bir bÃ¶lÃ¼m tanÄ±mlÄ± deÄŸil"
+
+#: struts/classes/struts/options.php:320
+#: ../includes/struts/classes/struts/options.php:320
+msgid "Save Settings"
+msgstr "AyarlarÄ± Kaydet"
+
+#: struts/classes/struts/options.php:321
+#: ../includes/struts/classes/struts/options.php:321
+msgid "Reset Defaults"
+msgstr "AyarlarÄ± SÄ±fÄ±rla"
+
+#: struts/classes/struts/options.php:331
+#: ../includes/struts/classes/struts/options.php:331
+msgid "Theme settings updated successfully."
+msgstr "ArayÃ¼z ayarlarÄ± baÅŸarÄ±yla gÃ¼ncellendi."
+
+#: struts/classes/struts/section.php:97
+#: ../includes/struts/classes/struts/section.php:97
+msgid "Edit"
+msgstr "DÃ¼zenle"
+
+#: struts/classes/struts/section.php:104
+#: ../includes/struts/classes/struts/section.php:104
+msgid "Save changes"
+msgstr "DeÄŸiÅŸiklikleri kaydet"
+
+#: struts/classes/struts/option/color.php:35
+#: ../includes/struts/classes/struts/option/color.php:35
+msgid "show color picker"
+msgstr "renk paletini gÃ¶ster"
+
+#: ../404.php:9
+msgid "404: Page Not Found"
+msgstr "404: Sayfa BulunamadÄ±"
+
+#: ../404.php:12
+msgid ""
+"We are terribly sorry, but the <abbr title=\"Universal resource locator"
+"\">URL</abbr> you typed <em>no longer exists</em>. It might have been moved "
+"or deleted."
+msgstr ""
+"ÃœzgÃ¼nÃ¼z fakat <abbr title=\"Universal resource locator\">URL</abbr> "
+"aramanÄ±za ait herhangi bir <em>sonuÃ§ bulunamadÄ±</em>."
+
+#: ../archive.php:19 ../archive.php:20 ../full-width.php:14 ../index.php:38
+#: ../index.php:47 ../page.php:14 ../search.php:15 ../search.php:16
+#: ../single.php:15 ../with-sidebar.php:16
+msgid "Read article"
+msgstr "YazÄ±yÄ± Oku"
+
+#: ../archive.php:20 ../index.php:34 ../index.php:47 ../search.php:16
+#: ../_featured-slider.php:14 ../_featured-slider.php:17
+#: ../_featured-thumbnails.php:11 ../_post-header.php:11
+msgid "Read full article"
+msgstr "TamamÄ±nÄ± Oku"
+
+#: ../archive.php:26 ../index.php:61 ../search.php:22
+msgid "Older posts"
+msgstr "Ã–nceki yazÄ±lar"
+
+#: ../archive.php:27 ../index.php:62 ../search.php:23
+msgid "Newer posts"
+msgstr "Sonraki yazÄ±lar"
+
+#: ../attachment.php:16
+#, php-format
+msgid "Return to %s"
+msgstr "%s yazÄ±sÄ±na geri git"
+
+#: ../attachment.php:34
+msgid "Previous"
+msgstr "Ã–nceki GÃ¶rsel"
+
+#: ../attachment.php:35
+msgid "Next"
+msgstr "Sonraki GÃ¶rsel"
+
+#: ../comments.php:8
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Bu yazÄ± ÅŸifre korumalÄ±dÄ±r. Åžifreyi girerek, yorumlarÄ± gÃ¶rebilirsiniz."
+
+#: ../comments.php:15
+#, php-format
+msgid "One Response to <em>&ldquo;%2$s&rdquo;</em>"
+msgstr "<em>&ldquo;%2$s&rdquo;</em> yazÄ±sÄ±na bir yorum yapÄ±lmÄ±ÅŸ."
+
+#: ../comments.php:23
+msgid "&larr; Older comments"
+msgstr "&larr; Ã–nceki yorumlar"
+
+#: ../comments.php:24
+msgid "Newer comments &rarr;"
+msgstr "Yeni yorumlar &rarr;"
+
+#: ../comments.php:29
+msgid "Comments are closed."
+msgstr "Yoruma kapalÄ±."
+
+#: ../comments.php:38
+msgid "Comment"
+msgstr "Yorumla"
+
+#: ../comments.php:43
+msgid ""
+"Subscribe to this comment feed via <abbr title=\"Really Simple Syndication"
+"\">RSS<abbr>"
+msgstr "Yorumlara <abbr title=\"Really Simple Syndication\">abone ol<abbr>"
+
+#: ../comments.php:44
+msgid ""
+"Basic <abbr title=\"Hypertext Markup Language\">HTML</abbr> is allowed. Your "
+"email address will not be published."
+msgstr ""
+"Basit <abbr title=\"Hypertext Markup Language\">HTML</abbr> girdisine izin "
+"verilmiÅŸtir. E-Posta adresiniz paylaÅŸÄ±lmayacaktÄ±r."
+
+#: ../comments.php:52
+msgid "Name: <span class=\"required\">&#42;</span>"
+msgstr "Ad: <span class=\"required\">&#42;</span>"
+
+#: ../comments.php:53
+msgid "Name:"
+msgstr "Ad:"
+
+#: ../comments.php:63
+msgid "Email: <span class=\"required\">&#42;</span>"
+msgstr "E-Posta: <span class=\"required\">&#42;</span>"
+
+#: ../comments.php:64
+msgid "Email:"
+msgstr "E-Posta:"
+
+#: ../comments.php:72
+msgid "Website:"
+msgstr "Website:"
+
+#: ../footer.php:27
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../footer.php:32
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../footer.php:37
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: ../footer.php:42
+msgid "Flickr"
+msgstr "Flickr"
+
+#: ../footer.php:46
+msgid "RSS feed"
+msgstr "RSS beslemesi"
+
+#: ../footer.php:66
+msgid "Theme info"
+msgstr "ArayÃ¼z Hk."
+
+#: ../footer.php:67
+msgid "The Theme Foundry home page"
+msgstr "The Theme foundry anasayfasÄ±"
+
+#: ../full-width.php:15 ../page.php:15 ../sitemap.php:53
+#: ../with-sidebar.php:17
+msgid "Edit page"
+msgstr "SayfayÄ± dÃ¼zenle"
+
+#: ../functions.php:67
+msgid "Primary Menu"
+msgstr "Ã–ncelikli MenÃ¼"
+
+#: ../functions.php:159
+msgid "Go to&hellip;"
+msgstr "Git&hellip;"
+
+#: ../functions.php:204
+msgid "Sidebar"
+msgstr "Yan SÃ¼tun"
+
+#: ../functions.php:213
+msgid "Footer Left"
+msgstr "Sol Altbilgi"
+
+#: ../functions.php:222
+msgid "Footer Right"
+msgstr "SaÄŸ Altbilgi"
+
+#: ../functions.php:293
+msgid "Your comment is awaiting moderation."
+msgstr "Yorumunuz onay bekliyor."
+
+#: ../functions.php:315
+#, php-format
+msgid "Posts from the &#8216;%s&#8217; category"
+msgstr "&#8216%s&#8217 Kategorisine Ait YazÄ±lar"
+
+#: ../functions.php:317
+#, php-format
+msgid "Posts tagged &#8216;%s&#8217;"
+msgstr "&#8216%s&#8217 ile EtiketlenmiÅŸ YazÄ±lar"
+
+#: ../functions.php:319 ../functions.php:321 ../functions.php:323
+#, php-format
+msgid "Archive for &#8216;%s&#8217;"
+msgstr "&#8216%s&#8217 iÃ§in ArÅŸiv"
+
+#: ../functions.php:325 ../functions/ttf-common/ttf-common.php:79
+#, php-format
+msgid "Posts by %s"
+msgstr "%s YazÄ±larÄ±"
+
+#: ../functions.php:327 ../functions/ttf-common/ttf-common.php:81
+msgid "Blog Archives"
+msgstr "GÃ¼nlÃ¼k ArÅŸivi"
+
+#: ../header.php:32 ../header.php:39
+msgid "Home"
+msgstr "Anasayfa"
+
+#: ../index.php:43
+msgid "Jump to comments"
+msgstr "Yorumlara git"
+
+#: ../index.php:44
+msgid "0 Comments"
+msgstr "0 Yorum"
+
+#: ../index.php:44
+msgid "1 Comment"
+msgstr "1 Yorum"
+
+#: ../index.php:44
+msgid "% Comments"
+msgstr "% Yorum"
+
+#: ../page.php:16
+msgid "Page:"
+msgstr "Sayfalar:"
+
+#: ../search.php:8
+#, php-format
+msgid "Search results for &#8216%s&#8217"
+msgstr "&#8216%s&#8217 iÃ§in arama sonuÃ§larÄ±"
+
+#: ../search.php:28
+#, php-format
+msgid ""
+"Sorry, your search for &#8216%s&#8217 did not turn up any results. Please "
+"try again."
+msgstr ""
+"ÃœzgÃ¼nÃ¼z, &#8216%s&#8217 aramanÄ±za ait sonuÃ§ bulunamadÄ±. LÃ¼tfen baÅŸka bir "
+"arama yapÄ±n."
+
+#: ../searchform.php:6
+msgid "Type and press Enter to search"
+msgstr "YazÄ±n ve ArayÄ±n"
+
+#: ../searchform.php:12 ../searchform.php:13 ../searchform.php:14
+msgid "Search site&hellip;"
+msgstr "Arama yap&hellip;"
+
+#: ../sidebar.php:9
+msgid "Temporary sidebar"
+msgstr "GeÃ§ici Yan SÃ¼tun"
+
+#: ../sidebar.php:11
+msgid ""
+"Start adding your own Widgets to the sidebar by going to the <em>Appearance "
+"&rarr; Widgets</em> screen on your admin dashboard. This sidebar cannot be "
+"toggled off or removed."
+msgstr ""
+"Kendi bileÅŸenlerinizi yan sÃ¼tuna eklemek iÃ§in sol menÃ¼deki <em>GÃ¶rÃ¼nÃ¼m "
+"&rarr; BileÅŸenler</em> sekmesini kullanabilirsiniz. Yan sÃ¼tun kaldÄ±rÄ±lamaz "
+"ve kapatÄ±lamaz."
+
+#: ../single.php:19
+msgid "Edit post"
+msgstr "YazÄ±yÄ± dÃ¼zenle"
+
+#: ../sitemap.php:17
+msgid "Pages"
+msgstr "Sayfalar"
+
+#: ../sitemap.php:21
+msgid "Recent posts"
+msgstr "Son yazÄ±lar"
+
+#: ../sitemap.php:40
+msgid "Authors"
+msgstr "Yazarlar"
+
+#: ../sitemap.php:44
+msgid "Categories"
+msgstr "Kategoriler"
+
+#: ../sitemap.php:48
+msgid "Archives"
+msgstr "ArÅŸiv"
+
+#: ../_post-footer.php:11
+msgid "Categories: "
+msgstr "Kategoriler:"
+
+#: ../_post-footer.php:12 ../_post-footer.php:20
+msgid ", "
+msgstr ","
+
+#: ../_post-footer.php:19
+msgid "Tagged: "
+msgstr "Etiketler:"
+
+#: ../_post-footer.php:28
+msgid "Read next article"
+msgstr "Sonraki yazÄ±"
+
+#: ../_post-footer.php:29
+msgid "Read previous article"
+msgstr "Ã–nceki yazÄ±"
+
+#: ../_post-header.php:19
+msgid "By "
+msgstr "Yazar"
+
+#: ../functions/admin.php:30
+msgid "Featured slider"
+msgstr "ManÅŸet slaytÄ±"
+
+#: ../functions/admin.php:31
+msgid ""
+"Posts in the <strong>Featured slider</strong> rotate on the home page, above "
+"your regular post list. Each post in the slider will display a large "
+"featured image, the post title, and a small excerpt."
+msgstr ""
+"<strong>ManÅŸet slaytÄ±</strong>'ndaki yazÄ±lar, ana sayfada, son yazÄ±larÄ±nÄ±zÄ±n "
+"hemen Ã¼stÃ¼nde gÃ¶sterilecektir. Slayttaki her yazÄ± eÄŸer ekeldiyseniz geniÅŸ "
+"gÃ¶rseli, baÅŸlÄ±ÄŸÄ± ve aÃ§Ä±klamasÄ±yla birlikte yayÄ±mlanacaktÄ±r."
+
+#: ../functions/admin.php:45
+msgid "Featured thumbnails"
+msgstr "Alt manÅŸetler"
+
+#: ../functions/admin.php:46
+msgid ""
+"The <strong>Featured thumbnails</strong> section is perfect for including "
+"teasers of your favourite posts on your site&#8217s home page. This section "
+"displays up to four posts of your choice. Each featured thumbnail post "
+"displays a small thumbnail image and post title."
+msgstr ""
+"<strong>Alt manÅŸetler</strong> beÄŸendiÄŸiniz ya da Ã§ok baskÄ±n olmadan Ã¶ne "
+"Ã§Ä±kmasÄ±nÄ± istediÄŸiniz yazÄ±larÄ±, ana sayfada gÃ¶sterebilmenizi saÄŸlar. Her alt "
+"manÅŸet yazÄ±sÄ±, kÃ¼Ã§Ã¼k bir gÃ¶rsel ve baÅŸlÄ±kla yayÄ±mlanacaktÄ±r."
+
+#: ../functions/admin.php:60
+msgid "Custom editor buttons"
+msgstr "Ã–zelleÅŸtirilmiÅŸ editÃ¶r butonu"
+
+#: ../functions/admin.php:61
+msgid ""
+"Watson provides custom formatting buttons for styling your content. Click "
+"the \"show kitchen sink\" button to view Watson&#8217s formatting buttons."
+msgstr ""
+"Watson iÃ§eriÄŸinizi gÃ¼zel sunabilmeniz iÃ§in, size Ã¶zel butonlar "
+"barÄ±ndÄ±rÄ±yor.  \"show kitchen sink\" ikonuna tÄ±klayarak bu Ã¶zel biÃ§em "
+"seÃ§eneklerine ulaÅŸabilirsiniz."
+
+#: ../functions/admin.php:77
+msgid "Page templates"
+msgstr "Sayfa ÅŸablonlarÄ±"
+
+#: ../functions/admin.php:78
+msgid ""
+"Watson provides 4 page templates, each with slightly different layouts and "
+"functionality. The default page template is center-aligned (not full-width) "
+"without a sidebar."
+msgstr ""
+"Watson 4 sayfa ÅŸablonuyla, iÃ§eriÄŸinizi dÃ¶rt farklÄ± ÅŸekilde sunabilmenizi "
+"saÄŸlÄ±yor. Normal ÅŸablon, ortalanmÄ±ÅŸ ve yan sÃ¼tunu olmayan sayfadÄ±r."
+
+#: ../functions/post-options.php:14
+msgid "Watson Theme Post Options"
+msgstr "Watson ArayÃ¼zÃ¼ YazÄ± AyarlarÄ±"
+
+#: ../functions/post-options.php:40
+msgid "Show in featured slider"
+msgstr "ManÅŸete ata"
+
+#: ../functions/post-options.php:50
+msgid "Show in featured thumbnails"
+msgstr "Alt baÅŸlÄ±k olarak ata"
+
+#: ../functions/theme-options.php:26
+msgid "Logo &amp; featured slider"
+msgstr "Logo &amp; ManÅŸet"
+
+#: ../functions/theme-options.php:27
+msgid "Display options"
+msgstr "GÃ¶rÃ¼nÃ¼m AyarlarÄ±"
+
+#: ../functions/theme-options.php:28
+msgid "Subscribe links &amp; copyright"
+msgstr "Abone olunmuÅŸ baÄŸlantÄ±lar &amp; telif hakkÄ±"
+
+#: ../functions/theme-options.php:35
+msgid "Logo image:"
+msgstr "Logo gÃ¶rseli:"
+
+#: ../functions/theme-options.php:36
+msgid ""
+"Upload an image (making sure to click <strong>\"Insert into post\"</strong>) "
+"or enter an <abbr title=\"Universal resource locator\">URL</abbr> for your "
+"image. If you choose not to upload a logo, your site's title will be used "
+"for the header."
+msgstr ""
+"GÃ¶rsel yÃ¼kleyin (<strong>\"YazÄ±ya dahil et\"</strong> seÃ§eneÄŸine "
+"tÄ±kladÄ±ÄŸÄ±nÄ±zdan emin olun) ya da gÃ¶rselinize ait <abbr title=\"Universal "
+"resource locator\">URL (adresini)</abbr> girin. "
+
+#: ../functions/theme-options.php:40
+msgid "High resolution logo"
+msgstr "YÃ¼ksek Ã§Ã¶zÃ¼nÃ¼rlÃ¼klÃ¼ logo"
+
+#: ../functions/theme-options.php:41
+msgid ""
+"Upload a high resolution logo image for Retina (and similar hi-res) devices. "
+"This logo will be scaled down 50% and served only to high resolution devices."
+msgstr ""
+"YÃ¼ksek Ã§Ã¶zÃ¼nÃ¼rlÃ¼klÃ¼ logo, Retina ekranÄ± ve buna benzer yÃ¼ksek Ã§Ã¶zÃ¼nÃ¼rlÃ¼k "
+"kullanan araÃ§larda keskin gÃ¶rÃ¼ntÃ¼ oluÅŸturmak iÃ§in kullanÄ±lmaktadÄ±r. Ã–rneÄŸin, "
+"bu logo, %50 oranÄ±nda kÃ¼Ã§Ã¼ltÃ¼lerek, sadece yÃ¼ksek Ã§Ã¶zÃ¼nÃ¼rlÃ¼klÃ¼ araÃ§larda "
+"gÃ¶sterilmek Ã¼zere, sayfaya gÃ¶mÃ¼lecektir."
+
+#: ../functions/theme-options.php:45
+msgid "Autostart slider"
+msgstr "SlaytÄ± otomatik baÅŸlat"
+
+#: ../functions/theme-options.php:46
+msgid ""
+"Check to automatically start slideshow animation for the featured slider."
+msgstr ""
+"Anasayfada yayÄ±mlanacak, manÅŸet slaytÄ±nÄ± otomatik baÅŸlatmak iÃ§in burayÄ± "
+"iÅŸaretleyin."
+
+#: ../functions/theme-options.php:50
+msgid "Remove slider posts from blog/archives"
+msgstr "Slayt yazÄ±larÄ±nÄ± blog/arÅŸiv sayfalarÄ±ndan kaldÄ±rÄ±n"
+
+#: ../functions/theme-options.php:51
+msgid ""
+"Check to remove all featured slider posts from blog, archive, category and "
+"tag pages."
+msgstr ""
+"BurayÄ± iÅŸaretleyerek, manÅŸet slaytÄ±ndaki yazÄ±larÄ± blog, arÅŸiv, kategori ve "
+"etiket sayfalarÄ±ndan kaldÄ±rabilirsiniz."
+
+#: ../functions/theme-options.php:58
+msgid "Hide tags"
+msgstr "Etiketleri gÃ¶sterme"
+
+#: ../functions/theme-options.php:59
+msgid "Check to hide tags in posts."
+msgstr "Etiketleri gÃ¶stermek istemiyorsanÄ±z, burayÄ± iÅŸaretleyebilirsiniz."
+
+#: ../functions/theme-options.php:63
+msgid "Hide categories"
+msgstr "Kategorileri gÃ¶sterme"
+
+#: ../functions/theme-options.php:64
+msgid "Check to hide categories in posts."
+msgstr "Kategorileri gÃ¶stermek istemiyorsanÄ±z, burayÄ± iÅŸaretleyebilirsiniz."
+
+#: ../functions/theme-options.php:68
+msgid "Hide author"
+msgstr "YazarÄ± gÃ¶sterme"
+
+#: ../functions/theme-options.php:69
+msgid "Check to hide the author in posts."
+msgstr "YazarÄ± gÃ¶stermek istemiyorsanÄ±z, burayÄ± iÅŸaretleyebilirsiniz."
+
+#: ../functions/theme-options.php:73
+msgid "Hide date"
+msgstr "Tarihi gÃ¶sterme"
+
+#: ../functions/theme-options.php:74
+msgid "Check to hide dates throughout your site."
+msgstr ""
+"Tarihi, sitenin hiÃ§bir tarafÄ±nda gÃ¶stermek istemiyorsanÄ±z, burayÄ± "
+"iÅŸaretleyebilirsiniz."
+
+#: ../functions/theme-options.php:78
+msgid "Hide post featured image"
+msgstr "YazÄ± gÃ¶rselini gÃ¶sterme"
+
+#: ../functions/theme-options.php:79
+msgid "Check to hide featured images in the single blog post view."
+msgstr ""
+"YazÄ±nÄ±n ana gÃ¶rselini gÃ¶stermek istemiyorsanÄ±z, burayÄ± iÅŸaretleyebilirsiniz."
+
+#: ../functions/theme-options.php:83
+msgid "Hide post navigation"
+msgstr "YazÄ± navigasyonunu gÃ¶sterme"
+
+#: ../functions/theme-options.php:84
+msgid "Check to hide post navigation in the single blog post view."
+msgstr ""
+"YazÄ± navigasyonunu, tekil blog yazÄ±sÄ± gÃ¶rÃ¼nÃ¼mÃ¼nde gÃ¶stermek istemiyorsanÄ±z, "
+"burayÄ± iÅŸaretleyebilirsiniz."
+
+#: ../functions/theme-options.php:88
+msgid "Primary color"
+msgstr "Birincil renk"
+
+#: ../functions/theme-options.php:89
+msgid ""
+"Choose the primary color for your theme. The primary color is used for link "
+"text and other accents."
+msgstr ""
+"ArayÃ¼zÃ¼nÃ¼zÃ¼n birincil rengini seÃ§in. Birincil renk, baÄŸlantÄ± adresleri ve "
+"diÄŸer Ã¶nemli yerlerde kullanÄ±lacaktÄ±r."
+
+#: ../functions/theme-options.php:96
+msgid "Twitter <abbr title=\"Universal resource locator\">URL</abbr>:"
+msgstr "Twitter <abbr title=\"Universal resource locator\">Adresi</abbr>:"
+
+#: ../functions/theme-options.php:97
+msgid "Enter your Twitter link."
+msgstr "Twitter adresinizi girin."
+
+#: ../functions/theme-options.php:101
+msgid "Facebook <abbr title=\"Universal resource locator\">URL</abbr>:"
+msgstr "Facebook <abbr title=\"Universal resource locator\">Adresi</abbr>:"
+
+#: ../functions/theme-options.php:102
+msgid "Enter your Facebook link."
+msgstr "Facebook adresinizi girin."
+
+#: ../functions/theme-options.php:106
+msgid "Google+ <abbr title=\"Universal resource locator\">URL</abbr>:"
+msgstr "Google+ <abbr title=\"Universal resource locator\">Adresi</abbr>:"
+
+#: ../functions/theme-options.php:107
+msgid "Enter your Google+ link."
+msgstr "Google+ adresinizi girin."
+
+#: ../functions/theme-options.php:111
+msgid "Flickr <abbr title=\"Universal resource locator\">URL</abbr>:"
+msgstr "Flickr <abbr title=\"Universal resource locator\">Adresiniz</abbr>:"
+
+#: ../functions/theme-options.php:112
+msgid "Enter your Flickr link."
+msgstr "Flickr adresinizi girin."
+
+#: ../functions/theme-options.php:117
+msgid "Disable all icons"
+msgstr "Ä°konlarÄ± kaldÄ±r"
+
+#: ../functions/theme-options.php:118
+msgid ""
+"Check to hide all subscribe icons (including <abbr title=\"Really Simple "
+"Syndication\">RSS</abbr>). This option overrides all other icon settings."
+msgstr ""
+"BurayÄ± iÅŸaretleyerek, sayfanÄ±n altÄ±ndaki baÄŸlantÄ± adreslerini ve "
+"abonelikleri (RSS/Geri besleme de dahil) saklayabilirsiniz. Bu seÃ§enek, "
+"diÄŸer tÃ¼m ikon ayarlarÄ±nÄ±n Ã¼stÃ¼ne yazÄ±lÄ±r."
+
+#: ../functions/theme-options.php:121
+msgid "Credit line text:"
+msgstr "Alt metin:"
+
+#: ../functions/theme-options.php:122
+msgid ""
+"Enter your credit text to be displayed in the theme footer. Basic HTML is "
+"allowed."
+msgstr ""
+"ArayÃ¼zÃ¼n alt tarafÄ±nda gÃ¶sterilmek Ã¼zere alt metni girebilirsiniz. Basit "
+"HTML kodu kullanÄ±labilir."
+
+#: ../functions/widget.php:14
+msgid "Watson Theme Recently Discussed"
+msgstr "Watson ArayÃ¼zÃ¼ Son Yorumlar"
+
+#: ../functions/widget.php:15
+msgid ""
+"Posts with recent comments. Shows post featured image, title and time of "
+"last comment."
+msgstr ""
+"En son yorum yapÄ±lan yazÄ±lar. ManÅŸet gÃ¶rselini, baÅŸlÄ±ÄŸÄ± ve son yorumun "
+"zamanÄ±nÄ± gÃ¶sterir."
+
+#: ../functions/widget.php:66
+msgid "Recently discussed"
+msgstr "Son Yorumlar"
+
+#: ../functions/ttf-common/ttf-common.php:53
+msgid "Page Not Found | "
+msgstr "Sayfa BulunamadÄ± | "
+
+#: ../functions/ttf-common/ttf-common.php:55
+msgid "Search results | "
+msgstr "Arama sonuÃ§larÄ± | "
+
+#: ../functions/ttf-common/ttf-common.php:69
+#, php-format
+msgid "Posts from the &#8216%s&#8217 category"
+msgstr "&#8216%s&#8217 kategorisine ait yazÄ±lar"
+
+#: ../functions/ttf-common/ttf-common.php:71
+#, php-format
+msgid "Posts tagged &#8216%s&#8217"
+msgstr "&#8216%s&#8217 ile etiketlenmiÅŸ yazÄ±lar"
+
+#: ../functions/ttf-common/ttf-common.php:73
+#: ../functions/ttf-common/ttf-common.php:75
+#: ../functions/ttf-common/ttf-common.php:77
+#, php-format
+msgid "Archive for &#8216%s&#8217"
+msgstr "&#8216%s&#8217 iÃ§in arÅŸiv"
