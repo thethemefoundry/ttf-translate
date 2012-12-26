@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Watson\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-12-09 21:04+0100\n"
-"PO-Revision-Date: 2012-12-10 11:19+0100\n"
+"PO-Revision-Date: 2012-12-19 16:17+0100\n"
 "Last-Translator: Oguzhan Ocalan <oguzhanocalan@gmail.com>\n"
 "Language-Team: The Theme Foundry <info@thethemefoundry.com>\n"
 "MIME-Version: 1.0\n"
@@ -84,7 +84,7 @@ msgstr ""
 #: ../index.php:47 ../page.php:14 ../search.php:15 ../search.php:16
 #: ../single.php:15 ../with-sidebar.php:16
 msgid "Read article"
-msgstr "YazÄ±yÄ± Oku"
+msgstr "TamamÄ±nÄ± Oku"
 
 #: ../archive.php:20 ../index.php:34 ../index.php:47 ../search.php:16
 #: ../_featured-slider.php:14 ../_featured-slider.php:17
@@ -103,15 +103,15 @@ msgstr "Sonraki yazÄ±lar"
 #: ../attachment.php:16
 #, php-format
 msgid "Return to %s"
-msgstr "%s yazÄ±sÄ±na geri git"
+msgstr "%s geri git"
 
 #: ../attachment.php:34
 msgid "Previous"
-msgstr "Ã–nceki GÃ¶rsel"
+msgstr "Ã–nceki"
 
 #: ../attachment.php:35
 msgid "Next"
-msgstr "Sonraki GÃ¶rsel"
+msgstr "Sonraki"
 
 #: ../comments.php:8
 msgid "This post is password protected. Enter the password to view comments."
@@ -120,7 +120,7 @@ msgstr "Bu yazÄ± ÅŸifre korumalÄ±dÄ±r. Åžifreyi girerek, yorumlarÄ± 
 #: ../comments.php:15
 #, php-format
 msgid "One Response to <em>&ldquo;%2$s&rdquo;</em>"
-msgstr "<em>&ldquo;%2$s&rdquo;</em> yazÄ±sÄ±na bir yorum yapÄ±lmÄ±ÅŸ."
+msgstr "&ldquo;%2$s&rdquo; yazÄ±sÄ±na 1 yorum yapÄ±lmÄ±ÅŸ."
 
 #: ../comments.php:23
 msgid "&larr; Older comments"
@@ -142,15 +142,14 @@ msgstr "Yorumla"
 msgid ""
 "Subscribe to this comment feed via <abbr title=\"Really Simple Syndication"
 "\">RSS<abbr>"
-msgstr "Yorumlara <abbr title=\"Really Simple Syndication\">abone ol<abbr>"
+msgstr "Yorumlara abone ol."
 
 #: ../comments.php:44
 msgid ""
 "Basic <abbr title=\"Hypertext Markup Language\">HTML</abbr> is allowed. Your "
 "email address will not be published."
 msgstr ""
-"Basit <abbr title=\"Hypertext Markup Language\">HTML</abbr> girdisine izin "
-"verilmiÅŸtir. E-Posta adresiniz paylaÅŸÄ±lmayacaktÄ±r."
+"Basit HTML girdisine izin verilmiÅŸtir. E-Posta adresiniz paylaÅŸÄ±lmayacaktÄ±r."
 
 #: ../comments.php:52
 msgid "Name: <span class=\"required\">&#42;</span>"
@@ -232,12 +231,12 @@ msgstr "Yorumunuz onay bekliyor."
 #: ../functions.php:315
 #, php-format
 msgid "Posts from the &#8216;%s&#8217; category"
-msgstr "&#8216%s&#8217 Kategorisine Ait YazÄ±lar"
+msgstr "&#8216;%s&#8217; kategorisine ait yazÄ±lar"
 
 #: ../functions.php:317
 #, php-format
 msgid "Posts tagged &#8216;%s&#8217;"
-msgstr "&#8216%s&#8217 ile EtiketlenmiÅŸ YazÄ±lar"
+msgstr "&#8216;%s&#8217; ile etiketlenmiÅŸ yazÄ±lar"
 
 #: ../functions.php:319 ../functions.php:321 ../functions.php:323
 #, php-format
@@ -359,7 +358,7 @@ msgstr "Ã–nceki yazÄ±"
 
 #: ../_post-header.php:19
 msgid "By "
-msgstr "Yazar"
+msgstr "Yazan â€”"
 
 #: ../functions/admin.php:30
 msgid "Featured slider"
