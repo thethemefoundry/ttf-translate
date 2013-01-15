@@ -1,0 +1,993 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Portfolio Translation v1.0\n"
+"POT-Creation-Date: 2013-01-14 18:00+0100\n"
+"PO-Revision-Date: 2013-01-14 18:02+0100\n"
+"Last-Translator: David Sahli <david.sahli@gmail.com>\n"
+"Language-Team: David Sahli <david.sahli@gmail.com>\n"
+"Language: Français\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/404.php:2
+msgid "404: Page Not Found"
+msgstr "404&nbsp;: Page introuvable"
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/404.php:4
+msgid ""
+"We are terribly sorry, but the URL you typed no longer exists. It might have "
+"been moved or deleted. Try searching the site:"
+msgstr ""
+"L&rsquo;adresse que vous avez tap&eacute;e n&rsquo;existe pas ou plus. "
+"Essayez en utilisant le moteur de recherche."
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/archive.php:10
+msgid "No posts found."
+msgstr "Aucun article trouv&eacute;."
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/attachment.php:26
+msgid "Previous"
+msgstr "Pr&eacute;c&eacute;dent"
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/attachment.php:27
+msgid "Next"
+msgstr "Suivant"
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/attachment.php:30
+#, php-format
+msgid "Return to %s"
+msgstr "Revenir &agrave; %s"
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/comments.php:3
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Cet article est prot&eacute;g&eacute; par un mot de passe. Entrez le mot de "
+"passe pour voir les commentaires."
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/comments.php:10
+#, php-format
+msgid "One Response to <em>&ldquo;%2$s&rdquo;</em>"
+msgid_plural "%1$s Responses to &ldquo;%2$s&rdquo;"
+msgstr[0] "Une r&eacute;ponse &agrave; <em>&ldquo;%2$s&rdquo;</em>"
+msgstr[1] "%1$s r&eacute;ponses &agrave; &ldquo;%2$s&rdquo;"
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/comments.php:18
+msgid "&larr; Older comments"
+msgstr "&larr; Commentaires plus anciens"
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/comments.php:19
+msgid "Newer comments &rarr;"
+msgstr "Commentaires plus r&eacute;cents &rarr;"
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/comments.php:24
+msgid "Comments are closed."
+msgstr "Les commentaires sont ferm&eacute;s."
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/comments.php:33
+msgctxt "noun"
+msgid "Comment"
+msgstr "Commentaire&nbsp;"
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/comments.php:38
+msgid ""
+"Subscribe to this comment feed via <abbr title=\"Really Simple Syndication"
+"\">RSS<abbr>"
+msgstr ""
+"Suivez le fil des commentaires via <abbr title=\"Really Simple Syndication"
+"\">RSS<abbr>"
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/comments.php:39
+msgid ""
+"Basic <abbr title=\"Hypertext Markup Language\">HTML</abbr> is allowed. Your "
+"email address will not be published."
+msgstr ""
+"Le <abbr title=\"Hypertext Markup Language\">HTML</abbr> basique est "
+"autoris&eacute;. Votre adresse email ne sera pas publi&eacute;e."
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/comments.php:47
+msgid "Name: <span class=\"required\">&#42;</span>"
+msgstr "Nom&nbsp;: <span class=\"required\">&#42;</span>"
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/comments.php:48
+msgid "Name:"
+msgstr "Nom&nbsp;:"
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/comments.php:58
+msgid "Email: <span class=\"required\">&#42;</span>"
+msgstr "Email&nbsp;: <span class=\"required\">&#42;</span>"
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/comments.php:59
+msgid "Email:"
+msgstr "Email&nbsp;:"
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/comments.php:67
+msgid "Website:"
+msgstr "Site internet&nbsp;:"
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/comments.php:72
+msgid "Submit Comment"
+msgstr "Envoyer"
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/comments.php:73
+msgid "Leave a Reply"
+msgstr "Faire un commentaire"
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/comments.php:74
+#, php-format
+msgid "Leave a comment to <em>%s</em>"
+msgstr "Faire un commentaire sur <em>%s</em>"
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/footer.php:7
+msgid "Twitter"
+msgstr "Twitter"
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/footer.php:12
+msgid "Facebook"
+msgstr "Facebook"
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/footer.php:17
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/footer.php:22
+msgid "Flickr"
+msgstr "Flickr"
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/footer.php:26
+msgid "RSS"
+msgstr "RSS"
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/functions.php:63
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/functions.php:319
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de mod&eacute;ration."
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/functions.php:341
+msgid "Sidebar"
+msgstr "Barre lat&eacute;rale"
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/header.php:23
+msgid "Home"
+msgstr "Accueil"
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/homepage.php:37
+#: Shibuyette\Theme\portfolio/page.php:8
+#: Shibuyette\Theme\portfolio/portfolio.php:40
+#: Shibuyette\Theme\portfolio/sitemap.php:48
+#: Shibuyette\Theme\portfolio/with-sidebar.php:13
+msgid "Edit this page"
+msgstr "&Eacute;diter cette page"
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/portfolio.php:30
+msgid ""
+"It looks like your portfolio items may not have featured images - make sure "
+"to set a featured image for each of your portfolio items, or they won't show "
+"up on this page!"
+msgstr ""
+"Il semble que votre portfolio ne contienne pas d&rsquo;image &agrave; la "
+"une. Attribuez une image &agrave; la une pour chacun des &eacute;l&eacute;"
+"ments de votre portfolio, sinon ils n&rsquo;appara&icirc;tront pas sur cette "
+"page."
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/portfolio.php:36
+msgid ""
+"You don't have any portfolio items set for this page. Create a portfolio "
+"item by going to <em>Posts &rarr; Add New</em> on your admin panel and "
+"assign it to this page to showcase your work."
+msgstr ""
+"Vos n&rsquo;avez aucun &eacute;l&eacute;ment de portfolio configur&eacute; "
+"sur cette page. Cr&eacute;ez un &eacute;l&eacute;ment de portfolio en "
+"cliquant sur <em>Articles &rarr; Ajouter</em> dans votre interface de "
+"gestion et associez-le &agrave; cette page pour l&rsquo;y faire appara&icirc;"
+"tre."
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/portfolio.php:37
+msgid ""
+"If you've already created portfolio items, you can add them to this page "
+"from the <em>Edit Post</em> screen. Make sure you set a featured image for "
+"your portfolio items, or they will use a placeholder!"
+msgstr ""
+"Si vous avez d&eacute;j&agrave; cr&eacute;&eacute; des &eacute;l&eacute;"
+"ments de portfolio, vous pouvez les ajouter &agrave; cette page depuis la "
+"vue <em>&Eacute;diter</em>. Assurez-vous d&rsquo;avoir attribu&eacute; une "
+"image &agrave; la une pour chacun des &eacute;l&eacute;ments de votre "
+"portfolio, sinon ils seront remplac&eacute;s par une marque substitutive."
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/search.php:2
+#, php-format
+msgid "Search results for '<em>%s</em>'"
+msgstr "R&eacute;sultats de la recherche pour '<em>%s</em>'"
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/search.php:8
+#, php-format
+msgid ""
+"Sorry, your search for \"<em>%s</em>\" did not turn up any results. Please "
+"try again."
+msgstr ""
+"D&eacute;sol&eacute;, votre recherche pour \"<em>%s</em>\" n&rsquo;a "
+"donn&eacute; aucun r&eacute;sultat. Essayez une autre occurrence."
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/searchform.php:6
+#: Shibuyette\Theme\portfolio/searchform.php:7
+#: Shibuyette\Theme\portfolio/searchform.php:8
+msgid "Search&hellip;"
+msgstr "Rechercher"
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/single.php:19
+msgid "Newer post"
+msgstr "Article plus r&eacute;cent"
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/single.php:19
+msgid "Older post"
+msgstr "Article plus ancien"
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/sitemap.php:13
+msgid "Pages"
+msgstr "Pages"
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/sitemap.php:17
+msgid "Recent posts"
+msgstr "Articles r&eacute;cents"
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/sitemap.php:35
+msgid "Authors"
+msgstr "Auteurs"
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/sitemap.php:39
+msgid "Categories"
+msgstr "Cat&eacute;gories"
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/sitemap.php:43
+msgid "Archives"
+msgstr "Archives"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/_featured-slider.php:14
+#: Shibuyette\Theme\portfolio/_portfolio-item-thumb.php:11
+msgid ""
+"This is a placeholder. You can remove this placeholder by setting a featured "
+"image on the <em>Edit Post</em> screen for this post."
+msgstr ""
+"Ceci est une marque substitutive. Vous pouvez la remplacer en d&eacute;"
+"finissant une image &agrave; la une dans la vue <em>&Eacute;diter</em> de "
+"cet article."
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/_featured-slider.php:19
+msgid "Read more"
+msgstr "Lire plus"
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/_loop.php:11
+msgid "Older posts"
+msgstr "Articles plus anciens"
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/_loop.php:12
+msgid "Newer posts"
+msgstr "Articles plus r&eacute;cents"
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/_post-content.php:5
+msgid "Continue reading&hellip;"
+msgstr "Continuer de lire&hellip;"
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/_post-content.php:7
+msgid "Edit this post"
+msgstr "&Eacute;diter cet article"
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/_post-footer.php:4
+msgid "Leave a comment"
+msgstr "Faire un commentaire"
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/_post-footer.php:4
+msgid "1 Comment"
+msgstr "1 commentaire"
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/_post-footer.php:4
+msgid "% Comments"
+msgstr "% commentaires"
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/_post-footer.php:17
+msgid "Categories: "
+msgstr "Cat&eacute;gories&nbsp;:"
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/_post-footer.php:25
+msgid "Tagged: "
+msgstr "Tagu&eacute;s&nbsp;:"
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/_post-header.php:19
+msgid "By "
+msgstr "Par"
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/_post-header.php:23
+msgid "on "
+msgstr "le"
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/_post-header.php:27
+msgid "Permalink"
+msgstr "Lien"
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/functions/admin.php:40
+msgid "View project"
+msgstr "Voir le projet"
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/functions/admin.php:41
+msgid "Quote text here."
+msgstr "Citer le texte ici."
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/functions/admin.php:41
+msgid "Citation here"
+msgstr "Citation ici"
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/functions/admin.php:43
+msgid ""
+"To use these elements, just copy and paste the HTML provided into your "
+"excerpt and replace the URLs and text with your own values."
+msgstr ""
+"Pour utiliser ces &eacute;l&eacute;ments, copiez-collez le HTML fourni dans "
+"votre extrait et remplacez les URL et le texte par les v&ocirc;tres."
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/functions/admin.php:44
+msgid "External link styling:"
+msgstr "Style des liens externes&nbsp;:"
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/functions/admin.php:46
+msgid "Quotation with citation:"
+msgstr "R&eacute;ponse avec citation&nbsp;:"
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/functions/admin.php:60
+msgid "Click to hide excerpt HTML help"
+msgstr "Cliquez pour masquer l&rsquo;aide HTML de l&rsquo;extrait"
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/functions/admin.php:62
+msgid "Click to show excerpt HTML help"
+msgstr "Cliquer pour afficher l&rsquo;aide HTML de l'extrait"
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/functions/admin.php:78
+msgctxt "noun: A notice"
+msgid "Note:"
+msgstr "Nota&nbsp;:"
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/functions/admin.php:80
+msgid "Portfolio items"
+msgstr "&Eacute;l&eacute;ments de portfolio"
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/functions/admin.php:81
+msgid ""
+"Portfolio items are given a special display and can be added to pages using "
+"the \"Porfolio\" page template."
+msgstr ""
+"Les &eacute;l&eacute;ments de portfolio s&rsquo;affichent d&rsquo;une façon "
+"sp&eacute;ciale et peuvent &ecirc;tre ajout&eacute;s en utilisant le "
+"mod&egrave;le de page \"Porfolio\"."
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/functions/admin.php:82
+msgid ""
+"Use portfolio items for work that you want to be highlighted on your site."
+msgstr ""
+"Utilisez les &eacute;l&eacute;ments de portfolio pour le travail que vous "
+"souhaitez mettre en avant sur votre site."
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/functions/admin.php:83
+#, php-format
+msgid "Only <strong>%s</strong> posts can be marked as portfolio items."
+msgstr ""
+"Seuls les articles <strong>%s</strong> peuvent &ecirc;tre signal&eacute;s "
+"comme des &eacute;l&eacute;ments de portfolio."
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/functions/admin.php:83
+msgctxt "A post format"
+msgid "standard"
+msgstr "standard"
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/functions/admin.php:89
+#: Shibuyette\Theme\portfolio/functions/post-options.php:72
+msgid "Portfolio item description"
+msgstr "Description de l&rsquo;&eacute;l&eacute;ment du portfolio"
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/functions/admin.php:90
+msgid ""
+"This should be a short description of your portfolio item. This description "
+"will be used below the featured image on the Homepage and Portfolio page "
+"templates."
+msgstr ""
+"Ceci doit &ecirc;tre une courte description de votre &eacute;l&eacute;ment "
+"de portfolio. Cette description appara&icirc;tra sous l&rsquo;image &agrave; "
+"la une de la page d&rsquo;accueil et des pages de type portfolio."
+
+#: D:\Data\Adèle\Influences Shibuyette\Theme\portfolio/functions/admin.php:91
+msgid "If you don't add a description here, the excerpt will be used instead."
+msgstr ""
+"Si vous n'ajoutez pas de description ici, l&rsquo;extrait sera "
+"utilis&eacute; &agrave; la place."
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/page-options.php:7
+msgid "Portfolio Page Options"
+msgstr "Portfolio - Options de la page"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/page-options.php:50
+msgid "Use this box to add, remove and sort your portfolio items on this page."
+msgstr ""
+"Utilisez cette bo&icirc;te pour ajouter, supprimer et trier les &eacute;"
+"l&eacute;ments du portfolio sur cette page."
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/page-options.php:52
+msgid ""
+"You haven't created any portfolio items yet. To create a portfolio item, "
+"mark a standard Post as a <strong>portfolio item</strong> on the <em>Edit "
+"Post</em> screen."
+msgstr ""
+"Vous n&rsquo;avez pas encore cr&eacute;&eacute; d&rsquo;&eacute;l&eacute;"
+"ments de portfolio. Pour cr&eacute;er un &eacute;l&eacute;ment de portfolio, "
+"donnez &agrave; un article standard la valeur d&rsquo;<strong>&eacute;"
+"l&eacute;ment de portfolio</strong> dans la vue <em>&Eacute;diter</em>."
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/page-options.php:55
+msgid "Drag-and-drop your portfolio items into order:"
+msgstr ""
+"Glissez-d&eacute;posez vos &eacute;l&eacute;ments de portfolio dans l&rsquo;"
+"ordre&nbsp;:"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/page-options.php:56
+msgid ""
+"You don't have any portfolio items associated with this page. Available "
+"items are listed below."
+msgstr ""
+"Vous n&rsquo;avez aucun &eacute;l&eacute;ment de portfolio associ&eacute; "
+"&agrave; cette page. Les &eacute;l&eacute;ments disponibles sont list&eacute;"
+"s ci-dessous."
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/page-options.php:57
+msgid ""
+"If you don't see the item you're looking for, make sure it is marked as a "
+"<strong>portfolio item</strong> on the <em>Edit Post</em> screen."
+msgstr ""
+"Si vous ne voyez pas l&rsquo;&eacute;l&eacute;ment que vous cherchez, "
+"assurez-vous qu&rsquo;il a bien la valeur d&rsquo;<strong>&eacute;l&eacute;"
+"ment de portfolio</strong> dans la vue <em>&Eacute;diter</em>."
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/page-options.php:58
+msgid "Drag items here to add them to the page:"
+msgstr ""
+"D&eacute;posez les &eacute;l&eacute;ments ici pour les ajouter &agrave; la "
+"page."
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/page-options.php:65
+msgid "Available items"
+msgstr "&Eacute;l&eacute;ments disponibles"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/page-options.php:66
+msgid "Check to add to the list of active items above:"
+msgstr ""
+"Cochez pour ajouter &agrave; la liste des &eacute;l&eacute;ments actifs ci-"
+"dessus&nbsp;:"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/page-options.php:97
+#: Shibuyette\Theme\portfolio/functions/post-options.php:91
+msgid "Untitled"
+msgstr "Sans titre"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/page-options.php:109
+msgid "edit"
+msgstr "&eacute;diter"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/post-options.php:15
+msgid "Portfolio Theme Post Options"
+msgstr "Portfolio - Options de publication"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/post-options.php:54
+msgid "Show in featured slider"
+msgstr "Montrer dans le slider"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/post-options.php:64
+msgid "This is a portfolio item"
+msgstr "C&rsquo;est un &eacute;l&eacute;ment de portfolio"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/post-options.php:78
+msgid "Check to include this post in the following portfolio pages:"
+msgstr ""
+"Cochez pour inclure cet article dans les pages du portfolio suivant&nbsp;:"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/post-options.php:107
+msgid ""
+"You don't have any pages using the <strong>Portfolio</strong> page template "
+"yet!"
+msgstr ""
+"Vous n&rsquo;avez pas encore de page utilisant le mod&egrave;le "
+"<strong>Portfolio</strong>&nbsp;!"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/post-options.php:110
+msgid "existing pages"
+msgstr "pages existantes"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/post-options.php:111
+msgid "create a new page"
+msgstr "cr&eacute;er une nouvelle page"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/post-options.php:112
+#, php-format
+msgid ""
+"Update one of your %s or %s and select the <strong>Portfolio</strong> page "
+"template, then return here to add your item."
+msgstr ""
+"Mettez &agrave; jour un de vos %s ou %s et s&eacute;lectionner le mod&egrave;"
+"le de page <strong>Portfolio</strong>, puis revenez ici pour ajouter votre "
+"&eacute;l&eacute;ment."
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:27
+msgid "Logo &amp; featured slider"
+msgstr "Logo &amp; slider"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:28
+msgid "Fonts &amp; colors"
+msgstr "Polices &amp; couleurs"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:29
+msgid "Display options"
+msgstr "Options d&rsquo;affichage"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:30
+msgid "Subscribe links &amp; copyright"
+msgstr "Liens de souscription &amp; copyright"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:37
+msgid "Logo URL:"
+msgstr "URL du logo&nbsp;:"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:38
+msgid ""
+"Upload an image or enter an <abbr title=\"Universal resource locator\">URL</"
+"abbr> for your image. If you choose not to upload a logo, your site's title "
+"will be used for the header."
+msgstr ""
+"Uploadez une image ou renseignez l&rsquo;<abbr title=\"Universal Resource "
+"Locator\">URL</abbr> de votre image. Si vous choisissez de ne pas uploader "
+"un logo, le titre de votre site sera utilis&eacute; en lieu et place."
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:42
+msgid "Autostart featured slider"
+msgstr "D&eacute;marrage automatique du slider"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:43
+msgid "Check to automatically start slideshow animation upon page load."
+msgstr ""
+"Cochez pour d&eacute;marrer automatiquement l&rsquo;animation du slider au "
+"chargement de la page."
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:47
+msgid "Slide (Default)"
+msgstr "Glissement (par d&eacute;faut)"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:48
+msgid "Fade"
+msgstr "Fondu"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:50
+msgid "Slider animation:"
+msgstr "Animation du slider&nbsp;:"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:51
+msgid "Select an animation style for your slider."
+msgstr "S&eacute;lectionner un style d&rsquo;animation pour votre slider."
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:58
+msgid "Georgia (default)"
+msgstr "Georgia (par d&eacute;faut)"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:59
+msgid "Gudea"
+msgstr "Gudea"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:60
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:73
+msgid "Gentium Book Basic"
+msgstr "Gentium Book Basic"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:61
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:74
+msgid "Arial"
+msgstr "Arial"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:62
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:75
+msgid "Helvetica"
+msgstr "Helvetica"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:63
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:76
+msgid "Lekton"
+msgstr "Lekton"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:64
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:77
+msgid "PT Sans"
+msgstr "PT Sans"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:66
+msgid "Accent font:"
+msgstr "Police de surlignage&nbsp;:"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:67
+msgid "The accent font is used for blockquotes."
+msgstr ""
+"La police de surlignage est utilis&eacute;e pour les blocs de citation."
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:71
+msgid "Gudea (default)"
+msgstr "Gudea (par d&eacute;faut)"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:72
+msgid "Georgia"
+msgstr "Georgia"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:79
+msgid "Body font:"
+msgstr "Police du corps&nbsp;:"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:80
+msgid ""
+"The body font is used for all content not covered by the accent font."
+"<br><br><strong>Note:</strong> For optimum load times, use the "
+"<strong>Georgia</strong> or <strong>Arial</strong> font family. All other "
+"fonts will slightly increase page load time."
+msgstr ""
+"La police du corps est utilis&eacute;e pour tout  contenu non pris en charge "
+"par la police de surlignage.<br><br><strong>Nota :</strong> Pour des temps "
+"de chargement optimaux, utilisez les polices de la famille <strong>Georgia</"
+"strong> ou <strong>Arial</strong>. Toutes les autres polices augmenteront "
+"l&eacute;g&egrave;rement le temps de chargement des pages."
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:84
+msgid "Primary color"
+msgstr "Couleur principale"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:85
+msgid ""
+"Choose the primary color for your theme. The primary color is used for link "
+"text, buttons, <code>&lt;h5&gt;</code> and <code>&lt;h6&gt;</code> tags as "
+"well as other accents."
+msgstr ""
+"Choisissez la couleur principale de votre th&egrave;me. La couleur "
+"principale est utilis&eacute;e pour les liens hypertextes, les boutons, les "
+"balises <code>&lt;h5&gt;</code> et  <code>&lt;h6&gt;</code> aussi bien que "
+"pour les autres éléments surlign&eacute;s."
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:93
+msgid "Hide tags"
+msgstr "Masquer les tags"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:94
+msgid "Check to hide tags in posts."
+msgstr "Cochez pour masquer les tags dans les articles."
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:98
+msgid "Hide categories"
+msgstr "Masquer les cat&eacute;gories"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:99
+msgid "Check to hide categories in posts."
+msgstr "Cochez pour masquer les cat&eacute;gories dans les articles."
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:103
+msgid "Hide author"
+msgstr "Masquer l&rsquo;auteur"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:104
+msgid "Check to hide the author in posts."
+msgstr "Cochez pour masquer l&rsquo;auteur dans les articles."
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:108
+msgid "Hide post navigation"
+msgstr "Masquer la navigation"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:109
+msgid "Check to hide post navigation in single post view."
+msgstr "Cochez pour masquer la navigation dans la vue d&rsquo;un article seul."
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:113
+msgid "Hide post date"
+msgstr "Masquer la date de l&rsquo;article"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:114
+msgid "Check to hide dates in posts."
+msgstr "Cochez pour masquer les dates dans les articles."
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:118
+msgid "Hide portfolio date"
+msgstr "Masquer la date du portfolio"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:119
+msgid "Check to hide dates in portfolio pages."
+msgstr "Cochez pour masquer les dates dans les pages de portfolio."
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:123
+msgid "Sticky post text:"
+msgstr "Texte du post-it&nbsp;:"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:124
+msgid ""
+"Enter the text you would like to appear in the sticky post title. To remove "
+"the title completely, leave this option blank."
+msgstr ""
+"Entrez le texte que vous aimeriez faire appara&icirc;tre dans le titre du "
+"post-it. Pour supprimer compl&egrave;tement le titre, laissez ce champ vide."
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:129
+msgid "Portfolio item button label:"
+msgstr "&Eacute;tiquette/bouton du portfolio&nbsp;:"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:130
+msgid ""
+"Enter the text you would like to appear below the portfolio item description "
+"(on the Homepage page template). To remove the label completely, leave this "
+"option blank."
+msgstr ""
+"Entrez le texte que vous aimeriez faire appara&icirc;tre sous la description "
+"de l&rsquo;&eacute;l&eacute;ment de portfolio (sur la page d'accueil). Pour "
+"supprimer compl&egrave;tement l&rsquo;&eacute;tiquette, laissez ce champ "
+"vide."
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:134
+msgid "Fade images in"
+msgstr "Effet de fondu"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:135
+msgid ""
+"Check to enable a fade effect when images load on screen. This effect will "
+"not be enabled for visitors using Internet Explorer 8 and below."
+msgstr ""
+"Cochez pour activer l&rsquo;effet de fondu lorsque les images chargent "
+"&agrave; l&rsquo;&eacute;cran. Cet effet ne sera pas activ&eacute; pour les "
+"visiteurs utilisant Internet Explorer 8 ou une version plus ancienne."
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:139
+msgid "Remove portfolio items from blog/archives"
+msgstr ""
+"Supprimer les &eacute;l&eacute;ments de portfolio du blog / des archives"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:140
+msgid ""
+"Check to remove all portfolio items from blog, archive, category and tag "
+"pages. Use this option if you don't want your portfolio items showing up as "
+"regular blog posts."
+msgstr ""
+"Cochez pour supprimer tous les &eacute;l&eacute;ments de portfolio des pages "
+"de blog, archive, cat&eacute;gorie et tag. Utilisez cette option si vous ne "
+"souhaitez pas que vos &eacute;l&eacute;ments de portfolio apparaissent comme "
+"des articles standards."
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:147
+msgid "Twitter <abbr title=\"Universal resource locator\">URL</abbr>:"
+msgstr "Twitter <abbr title=\"Universal Resource Locator\">URL</abbr>:"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:148
+msgid "Enter your Twitter link."
+msgstr "Entrez votre lien Twitter."
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:151
+msgid "Facebook <abbr title=\"Universal resource locator\">URL</abbr>:"
+msgstr "Facebook <abbr title=\"Universal resource locator\">URL</abbr>:"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:152
+msgid "Enter your Facebook link."
+msgstr "Entrez votre lien Facebook."
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:155
+msgid "Google+ <abbr title=\"Universal resource locator\">URL</abbr>:"
+msgstr "Google+ <abbr title=\"Universal resource locator\">URL</abbr>:"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:156
+msgid "Enter your Google+ link."
+msgstr "Entrez votre lien Google+."
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:159
+msgid "Flickr <abbr title=\"Universal resource locator\">URL</abbr>:"
+msgstr "Flickr <abbr title=\"Universal resource locator\">URL</abbr>:"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:160
+msgid "Enter your Flickr link."
+msgstr "Entrez votre lien Flickr."
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:164
+msgid "Disable all icons"
+msgstr "D&eacute;sactiver toutes les ic&ocirc;nes"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:165
+msgid ""
+"Check to hide all subscribe icons (including <abbr title=\"Really Simple "
+"Syndication\">RSS</abbr>). This option overrides all other icon settings."
+msgstr ""
+"Cochez pour masquer toutes les ic&ocirc;nes de souscription (y compris <abbr "
+"title=\"Really Simple Syndication\">RSS</abbr>). Cette option &eacute;crase "
+"toutes les autres."
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:168
+msgid "Copyright text:"
+msgstr "Texte du copyright&nbsp;:"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/theme-options.php:169
+msgid "Enter your copyright notice to be displayed in the theme footer."
+msgstr ""
+"Entrez le texte du copyright qui doit &ecirc;tre affich&eacute; dans le pied "
+"de page."
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/ttf-common/ttf-common.php:53
+msgid "Page Not Found | "
+msgstr "Page non trouv&eacute;e | "
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/ttf-common/ttf-common.php:55
+msgid "Search results | "
+msgstr "R&eacute;sultats de la recherche | "
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/ttf-common/ttf-common.php:69
+#, php-format
+msgid "Posts from the &#8216%s&#8217 category"
+msgstr "Articles de la cat&eacute;gorie &#8216%s&#8217"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/ttf-common/ttf-common.php:71
+#, php-format
+msgid "Posts tagged &#8216%s&#8217"
+msgstr "Articles tagu&eacute;s &#8216%s&#8217"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/ttf-common/ttf-common.php:73
+#: Shibuyette\Theme\portfolio/functions/ttf-common/ttf-common.php:75
+#: Shibuyette\Theme\portfolio/functions/ttf-common/ttf-common.php:77
+#, php-format
+msgid "Archive for &#8216%s&#8217"
+msgstr "Archives pour &#8216%s&#8217"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/ttf-common/ttf-common.php:79
+#, php-format
+msgid "Posts by %s"
+msgstr "Articles de %s"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/functions/ttf-common/ttf-common.php:81
+msgid "Blog Archives"
+msgstr "Archives du blog"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/includes/struts/classes/struts/options.php:127
+msgid ""
+"Options already initialized. Struts no longer requires manual initialization."
+msgstr ""
+"Options d&eacute;j&agrave; initialis&eacute;es. Struts ne n&eacute;cessite "
+"plus d&rsquo;initialisation manuelle."
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/includes/struts/classes/struts/options.php:154
+#: Shibuyette\Theme\portfolio/includes/struts/classes/struts/options.php:155
+#: Shibuyette\Theme\portfolio/includes/struts/classes/struts/options.php:310
+msgid "Theme Options"
+msgstr "Options du th&egrave;me"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/includes/struts/classes/struts/options.php:263
+#, php-format
+msgid "Section with name &lsquo;%1$s&rsquo; not defined"
+msgstr "Section avec nom &lsquo;%1$s&rsquo; non d&eacute;fini"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/includes/struts/classes/struts/options.php:320
+msgid "Save Settings"
+msgstr "Sauvegarder les r&eacute;glages"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/includes/struts/classes/struts/options.php:321
+msgid "Reset Defaults"
+msgstr "Restaurer les valeurs par d&eacute;faut"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/includes/struts/classes/struts/options.php:331
+msgid "Theme settings updated successfully."
+msgstr ""
+"Les r&eacute;galges du th&egrave;me ont &eacute;t&eacute; mis &agrave; jour "
+"avec succ&egrave;s."
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/includes/struts/classes/struts/section.php:97
+msgid "Edit"
+msgstr "&Eacute;diter"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/includes/struts/classes/struts/section.php:104
+msgid "Save changes"
+msgstr "Sauvegarder les modifications"
+
+#: D:\Data\Adèle\Influences
+#: Shibuyette\Theme\portfolio/includes/struts/classes/struts/option/color.php:35
+msgid "show color picker"
+msgstr "Afficher la palette"

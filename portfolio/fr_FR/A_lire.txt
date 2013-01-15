@@ -1,0 +1,51 @@
+==================================================
+TRADUCTION fr_FR DU THEME PORTFOLIO POUR WORDPRESS
+==================================================
+
+THEME : Portfolio by The Theme Foundry
+VERSION : 1.3.12
+SITE : http://thethemefoundry.com/wordpress/portfolio/
+
+TRADUCTION : en_EN to fr_FR
+TRADUCTEUR : David SAHLI / david.sahli@gmail.com
+VERSION : 1.0
+
+--------------------------------------------------
+
+Procédure de mise en place des fichiers de traduction (via FTP) :
+
+0. Vérifier que le paramètre de langue défini dans le fichier 'wp-config.php' (à la racine de votre installation WordPress) est bien le suivant :
+
+define('WPLANG', 'fr_FR');
+
+
+1. Créer un dossier '\languages' dans le dossier '..\wp-content\themes\portfolio' ou dans le dossier '..\wp-content\themes\portfolio_child' si vous utilisez un thème enfant.
+
+2. Copier à l'intérieur de ce dossier les fichiers 'fr_FR.po' et 'fr_FR.mo'.
+
+C'est terminé !
+
+
+Nota : Il se peut que la traduction automatique ne s'applique pas à la page 'ttf-common.php' (c'est ce qui s'est produit dans mon cas), il convient alors de procéder manuellement aux modifications suivantes :
+
+Dans le fichier 'ttf-common.php' (qui se trouve dans '..\wp-content\themes\portfolio\functions\', remplacer :
+
+( 'Posts from the &#8216%s&#8217 category', 'ttf_common' )
+par
+( 'Billets de la cat&eacute;gorie &#8216%s&#8217', 'ttf_common' )
+
+( 'Posts tagged &#8216%s&#8217', 'ttf_common' )
+par
+( 'Billets tagu&eacute;s &#8216%s&#8217', 'ttf_common' )
+
+( 'Archive for &#8216%s&#8217', 'ttf_common' )
+par
+( 'Archives pour &#8216%s&#8217', 'ttf_common' )
+
+( 'Posts by %s', 'ttf_common' )
+par
+( 'Billets de %s', 'ttf_common' )
+
+( 'Blog Archives', 'ttf_common' )
+par
+( 'Archives du blog', 'ttf_common' )

@@ -1,0 +1,345 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Shelf WordPress Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-09-05 13:25-0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Julien <juju@jujudeshighlands.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Language: fr_FR\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: card-commentform.php:6
+msgid "What do you think?"
+msgstr "Qu'en pensez vous?"
+
+#: card-commentform.php:7
+msgid "Please keep your comments polite and on-topic."
+msgstr "Merci de rester correct et courtois dans vos commentaires."
+
+#: card-commentform.php:13
+msgid "Name:"
+msgstr "Nom:"
+
+#: card-commentform.php:15
+msgid "Email:"
+msgstr "Email:"
+
+#: card-commentform.php:17
+msgid "Website:"
+msgstr "Site web:"
+
+#: card-commentform.php:23
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+"Vous devez Ãªtre <a href=\"%s\">identifiÃ©</a> pour poster un commentaire."
+
+#: card-commentform.php:24
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+"ConnectÃ© en tant que <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Se "
+"dÃ©connecter de ce compte\">Se dÃ©connecter?</a>"
+
+#: card-commentform.php:31
+msgid "Cancel reply"
+msgstr "Annuler la rÃ©ponse"
+
+#: card-commentform.php:32
+msgid "Send Message"
+msgstr "Envoyer le message"
+
+#: card-pings.php:5
+#, php-format
+msgid "%d notes"
+msgstr "%d notes"
+
+#: comments.php:4
+msgid "comments"
+msgstr "commentaires"
+
+#: footer.php:6
+#, php-format
+msgid "Copyright &copy; %1$s %2$s"
+msgstr "Copyright &copy; %1$s %2$s"
+
+#: footer.php:12
+#, php-format
+msgid ""
+"<a href=\"%1$s\">Shelf Theme</a> by <a href=\"%2$s\">The Theme Foundry</a>"
+msgstr ""
+"<a href=\"%1$s\">Shelf Theme</a> by <a href=\"%2$s\">The Theme Foundry</a>"
+
+#: footer.php:22
+msgid "&larr; Newer entries"
+msgstr "&larr; EntrÃ©es plus rÃ©centes"
+
+#: footer.php:24
+msgid "Older Entries &rarr;"
+msgstr "EntrÃ©es plus anciennes &rarr;"
+
+#: footer.php:29
+msgid "&larr; %link"
+msgstr "&larr; %link"
+
+#: footer.php:30
+msgid "%link &rarr;"
+msgstr "%link &rarr;"
+
+#: format-audio.php:54 format-image.php:26 format-link.php:23
+#: format-quote.php:22 format-video.php:24 format.php:24
+msgid "1 Comment"
+msgstr "1 Commentaire"
+
+#: format-link.php:8
+msgid "Permalink"
+msgstr "Permalien"
+
+#: header.php:8
+msgid "Page Not Found |"
+msgstr "Page non trouvÃ©e"
+
+#: header.php:10
+#, php-format
+msgid "Search results for '%s'"
+msgstr "RÃ©sultat de la recherche pour '%s'"
+
+#: header.php:41
+msgid "RSS"
+msgstr "RSS"
+
+#: header.php:43
+msgid "Twitter"
+msgstr "Twitter"
+
+#: header.php:46
+msgid "Facebook"
+msgstr "Facebook"
+
+#: header.php:52
+msgid "You can also press the left arrow key to scroll"
+msgstr ""
+"Vous pouvez aussi utiliser la flÃ¨che directionnelle gauche pour faire dÃ©filer"
+
+#: header.php:52
+msgid "Previous"
+msgstr "PrÃ©cÃ©dent"
+
+#: header.php:53
+msgid "You can also press the right arrow key to scroll"
+msgstr ""
+"Vous pouvez aussi utiliser la flÃ¨che directionnelle droite pour faire dÃ©filer"
+
+#: header.php:53
+msgid "Next"
+msgstr "Suivant"
+
+#: header.php:74
+msgid "You can scroll the shelf using <b>&larr;</b> and <b>&rarr;</b> keys"
+msgstr ""
+"Vous pouvez faire dÃ©filer le fil en utilisant les touches <b>&larr;</b> et "
+"<b>&rarr;</b>"
+
+#: functions/comments.php:12
+#, php-format
+msgid "%s reblogged this and added:"
+msgstr "%s a rebloguÃ© ceci et ajoutÃ©:"
+
+#: functions/express-app.php:57
+msgid "You are not allowed to upload files to this site."
+msgstr "Vous n'Ãªtes pas autorisÃ© Ã  envoyer des fichiers vers ce site."
+
+#: functions/express-app.php:83
+#, php-format
+msgid "Could not write file %1$s (%2$s)"
+msgstr "impossible de modifier le fichier %1$s (%2$s)"
+
+#: functions/shelf-extend.php:150
+msgid "Home"
+msgstr "Accueil"
+
+#: functions/shelf-extend.php:274
+msgid "Top Navigation"
+msgstr "Retour en haut"
+
+#: functions/shelf-extend.php:295
+msgid "Header and logo"
+msgstr "BanniÃ¨re et logo"
+
+#: functions/shelf-extend.php:299
+msgid "Enable custom logo image"
+msgstr "Activer le logo image personnalisÃ©"
+
+#: functions/shelf-extend.php:301
+msgid "Check to use a custom logo in the header."
+msgstr "Cocher pour utiliser un logo image personnalisÃ© dans la banniÃ¨re"
+
+#: functions/shelf-extend.php:306
+msgid "Logo URL"
+msgstr "URL du logo"
+
+#: functions/shelf-extend.php:308
+msgid "Upload an image or enter an URL for your image."
+msgstr "Envoyer une image ou saisir une URL de cette image."
+
+#: functions/shelf-extend.php:315
+msgid "Logo image <code>&lt;alt&gt;</code> tag"
+msgstr "Image logo tag <code>&lt;alt&gt;</code>"
+
+#: functions/shelf-extend.php:317
+msgid "Specify the <code>&lt;alt&gt;</code> tag for your logo image."
+msgstr "PrÃ©cisez le tag <code>&lt;alt&gt;</code> pour votre logo image."
+
+#: functions/shelf-extend.php:322
+msgid "Display blog title"
+msgstr "Afficher le titre du blog"
+
+#: functions/shelf-extend.php:324
+msgid ""
+"Check to show your title. The title will automatically be shown if the "
+"custom logo image is not enabled."
+msgstr ""
+"Cochez pour afficher le titre. Il sera automatiquement affichÃ© si vous "
+"n'ajoutez pas de logo image personnalisÃ©."
+
+#: functions/shelf-extend.php:329
+msgid "Display tagline"
+msgstr "Afficher la liste de tags"
+
+#: functions/shelf-extend.php:331
+msgid "Check to show your tagline below your logo."
+msgstr "Cochez pour afficher la liste des tags sous votre logo."
+
+#: functions/shelf-extend.php:336
+msgid "Hide background title"
+msgstr "Masquer le titre en arriÃ¨re plan"
+
+#: functions/shelf-extend.php:338
+msgid "Check to hide the large background site title text."
+msgstr "Cochez pour masquer l'incrustation du titre en arriÃ¨re plan"
+
+#: functions/shelf-extend.php:343
+msgid "Subscribe links"
+msgstr "Liens de souscription"
+
+#: functions/shelf-extend.php:347
+msgid "Enable Twitter"
+msgstr "Activer Twitter"
+
+#: functions/shelf-extend.php:349
+msgid ""
+"Hip to Twitter? Check this box. Please set your Twitter username in the "
+"Twitter menu."
+msgstr ""
+"Actif sur Twitter? Cochez cette case. N'oubliez pas de  dÃ©finir votre nom de "
+"compte dans le menu Twitter."
+
+#: functions/shelf-extend.php:354
+msgid "Enable Facebook"
+msgstr "Activer Facebook"
+
+#: functions/shelf-extend.php:356
+msgid "Check this box to show a link to your Facebook page."
+msgstr "Cochez cette case pour afficher un lien vers votre page Facebook."
+
+#: functions/shelf-extend.php:361
+msgid "Disable all"
+msgstr "Tout dÃ©sactiver"
+
+#: functions/shelf-extend.php:363
+msgid ""
+"Check this box to hide all follow icons (including RSS). This option "
+"overrides any other settings."
+msgstr ""
+"Cochez cette case pour masquer toutes les icÃ´nes sociales (RSS y compris). "
+"Cette option Ã©crase tout autre paramÃ¨tre."
+
+#: functions/shelf-extend.php:368
+msgid "Twitter name"
+msgstr "Nom d'utilisateur"
+
+#: functions/shelf-extend.php:370
+msgid "Enter your Twitter name."
+msgstr "Saisissez votre nom d'utilisateur Twitter."
+
+#: functions/shelf-extend.php:375
+msgid "Facebook link"
+msgstr "Lien Facebook"
+
+#: functions/shelf-extend.php:377
+msgid "Enter your Facebook link."
+msgstr "Saisissez l'adresse de votre profil Facebook."
+
+#: functions/shelf-extend.php:382
+msgid "Footer"
+msgstr "Pied de page"
+
+#: functions/shelf-extend.php:386
+msgid "Copyright notice"
+msgstr "Mention du copyright"
+
+#: functions/shelf-extend.php:388
+msgid "Your name or the name of your business."
+msgstr "Votre nom ou le nom de votre entreprise."
+
+#: functions/shelf-extend.php:389
+msgid "Your Name Here"
+msgstr "Votre nom ici"
+
+#: functions/shelf-extend.php:393
+msgid "Stats code"
+msgstr "Code stats"
+
+#: functions/shelf-extend.php:395
+#, php-format
+msgid ""
+"If you would like to use Google Analytics or any other tracking script in "
+"your footer just paste it here. The script will be inserted before the "
+"closing %s tag."
+msgstr ""
+"Si vous souhaitez utiliser Google Analytics ou tout autre script de suivi "
+"dans votre pied de page, collez le ici. Il sera insÃ©rÃ© avant la balise "
+"fermante %s."
+
+#: functions/ttf-admin.php:63 functions/ttf-admin.php:122
+#: functions/ttf-admin.php:123 functions/ttf-admin.php:145
+msgid "Theme Options"
+msgstr "Options du thÃ¨me"
+
+#: functions/ttf-admin.php:135
+#, php-format
+msgid "%s settings saved!"
+msgstr "%s paramÃ¨tres enregistrÃ©s!"
+
+#: functions/ttf-admin.php:139
+#, php-format
+msgid "%s settings reset."
+msgstr "%s paramÃ¨tres rÃ©initialisÃ©s!"
+
+#: functions/ttf-admin.php:165
+msgid "Edit"
+msgstr "Editer"
+
+#: functions/ttf-admin.php:237
+msgid "show color picker"
+msgstr "Afficher la pipette"
+
+#: functions/ttf-admin.php:237
+msgid "hide color picker"
+msgstr "Masquer la pipette"
+
+#: functions/ttf-admin.php:286
+msgid "Save changes"
+msgstr "Enregistrer les changements"
+
