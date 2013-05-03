@@ -1,0 +1,818 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Watson\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-02-19 12:14-0800\n"
+"PO-Revision-Date: 2013-05-03 10:31+0100\n"
+"Last-Translator: Amaury Balmer <amaury@beapi.fr>\n"
+"Language-Team: The Theme Foundry <info@thethemefoundry.com>\n"
+"Language: French\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;gettext_noop;esc_attr_e;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.5\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: struts/classes/struts/options.php:127
+#: ../includes/struts/classes/struts/options.php:127
+msgid ""
+"Options already initialized. Struts no longer requires manual initialization."
+msgstr ""
+"Options déjà initialisées. Struts ne nécessite plus l'initialisation "
+"manuelle."
+
+#: struts/classes/struts/options.php:154 struts/classes/struts/options.php:155
+#: struts/classes/struts/options.php:310
+#: ../includes/struts/classes/struts/options.php:154
+#: ../includes/struts/classes/struts/options.php:155
+#: ../includes/struts/classes/struts/options.php:310
+msgid "Theme Options"
+msgstr "Options du thème"
+
+#: struts/classes/struts/options.php:263
+#: ../includes/struts/classes/struts/options.php:263
+#, php-format
+msgid "Section with name &lsquo;%1$s&rsquo; not defined"
+msgstr "Veuillez renseigner les champs &lsquo;%1$s&rsquo;"
+
+#: struts/classes/struts/options.php:320
+#: ../includes/struts/classes/struts/options.php:320
+msgid "Save Settings"
+msgstr "Sauvegarder les réglages"
+
+#: struts/classes/struts/options.php:321
+#: ../includes/struts/classes/struts/options.php:321
+msgid "Reset Defaults"
+msgstr "Réinitialiser les paramètres par défaut"
+
+#: struts/classes/struts/options.php:331
+#: ../includes/struts/classes/struts/options.php:331
+msgid "Theme settings updated successfully."
+msgstr "Les réglages du thème ont bien été mis à jour."
+
+#: struts/classes/struts/section.php:97
+#: ../includes/struts/classes/struts/section.php:97
+msgid "Edit"
+msgstr "Modifier"
+
+#: struts/classes/struts/section.php:104
+#: ../includes/struts/classes/struts/section.php:104
+msgid "Save changes"
+msgstr "Sauvegarder les changements"
+
+#: struts/classes/struts/option/color.php:35
+#: ../includes/struts/classes/struts/option/color.php:35
+msgid "show color picker"
+msgstr "Afficher le sélecteur de couleur"
+
+#: ../404.php:9
+msgid "404: Page Not Found"
+msgstr "404: Page non trouvée"
+
+#: ../404.php:12
+msgid ""
+"We are terribly sorry, but the <abbr title=\"Universal resource locator"
+"\">URL</abbr> you typed <em>no longer exists</em>. It might have been moved "
+"or deleted."
+msgstr ""
+"Nous sommes désolés, mais l'<abbr title=\"Universal resource locator\">URL</"
+"abbr> que vous avez saisi <em>n'existe plus</em>. Elle a peut-être été "
+"déplacée ou supprimée."
+
+#: ../_featured-slider.php:14 ../_featured-slider.php:17
+#: ../_featured-thumbnails.php:11 ../_post-header.php:11 ../archive.php:20
+#: ../index.php:34 ../index.php:50 ../search.php:16
+msgid "Read full article"
+msgstr "Lire l'article complet"
+
+#: ../_post-footer.php:11
+msgid "Categories: "
+msgstr "Catégories:"
+
+#: ../_post-footer.php:12 ../_post-footer.php:20
+msgid ", "
+msgstr ","
+
+#: ../_post-footer.php:19
+msgid "Tagged: "
+msgstr "Tagué:"
+
+#: ../_post-footer.php:28
+msgid "Read next article"
+msgstr "Lire l'article suivant"
+
+#: ../_post-footer.php:29
+msgid "Read previous article"
+msgstr "Lire l'article précèdent"
+
+#: ../_post-header.php:19
+msgid "By "
+msgstr "Par"
+
+#: ../archive.php:19 ../archive.php:20 ../full-width.php:14 ../index.php:38
+#: ../index.php:50 ../page.php:14 ../search.php:15 ../search.php:16
+#: ../single.php:15 ../with-sidebar.php:16
+msgid "Read article"
+msgstr "Lire l'article"
+
+#: ../archive.php:26 ../index.php:64 ../search.php:22
+msgid "Older posts"
+msgstr "Articles plus anciens"
+
+#: ../archive.php:27 ../index.php:65 ../search.php:23
+msgid "Newer posts"
+msgstr "Articles plus récents"
+
+#: ../attachment.php:16
+#, php-format
+msgid "Return to %s"
+msgstr "Retourner sur %s"
+
+#: ../attachment.php:34
+msgid "Previous"
+msgstr "Suivant"
+
+#: ../attachment.php:35
+msgid "Next"
+msgstr "Précédent"
+
+#: ../comments.php:8
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Cet article est protégé par un mot de passe. Vous devez le saisir pour "
+"visionner les commentaires."
+
+#: ../comments.php:15
+#, php-format
+msgid "One Response to <em>&ldquo;%2$s&rdquo;</em>"
+msgstr "1 réponse à <em>&ldquo;%2$s&rdquo;</em>"
+
+#: ../comments.php:23
+msgid "&larr; Older comments"
+msgstr "&larr; Commentaires plus anciens"
+
+#: ../comments.php:24
+msgid "Newer comments &rarr;"
+msgstr "Commentaires plus récents &rarr;"
+
+#: ../comments.php:29
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: ../comments.php:38
+msgid "Comment"
+msgstr "Commentaire"
+
+#: ../comments.php:43
+msgid ""
+"Subscribe to this comment feed via <abbr title=\"Really Simple Syndication"
+"\">RSS<abbr>"
+msgstr ""
+"Abonnez-vous à ces commentaires via <abbr title=\"Really Simple Syndication"
+"\">RSS<abbr>"
+
+#: ../comments.php:44
+msgid ""
+"Basic <abbr title=\"Hypertext Markup Language\">HTML</abbr> is allowed. Your "
+"email address will not be published."
+msgstr ""
+"Le code <abbr title=\"Hypertext Markup Language\">HTML</abbr> basique est "
+"autorisé. Votre adresse email ne sera pas publiée."
+
+#: ../comments.php:52
+msgid "Name: <span class=\"required\">&#42;</span>"
+msgstr "Nom : <span class=\"required\">&#42;</span>"
+
+#: ../comments.php:53
+msgid "Name:"
+msgstr "Nom :"
+
+#: ../comments.php:63
+msgid "Email: <span class=\"required\">&#42;</span>"
+msgstr "Email: <span class=\"required\">&#42;</span>"
+
+#: ../comments.php:64
+msgid "Email:"
+msgstr "Email:"
+
+#: ../comments.php:72
+msgid "Website:"
+msgstr "Site web:"
+
+#: ../footer.php:27
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../footer.php:32
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../footer.php:37
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: ../footer.php:42
+msgid "Flickr"
+msgstr "Flickr"
+
+#: ../footer.php:46
+msgid "RSS feed"
+msgstr "Flux RSS"
+
+#: ../footer.php:66
+msgid "Theme info"
+msgstr "Information du thème"
+
+#: ../footer.php:67
+msgid "The Theme Foundry home page"
+msgstr "Page d'accueil de \"The Theme Foundry\""
+
+#: ../full-width.php:15 ../page.php:15 ../sitemap.php:53
+#: ../with-sidebar.php:17
+msgid "Edit page"
+msgstr "Modifier la page"
+
+#: ../functions.php:68
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: ../functions.php:130
+msgid "Go to&hellip;"
+msgstr "Aller vers&hellip;"
+
+#: ../functions.php:173
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: ../functions.php:182
+msgid "Footer Left"
+msgstr "Pied de page gauche"
+
+#: ../functions.php:191
+msgid "Footer Right"
+msgstr "Pied de page droite"
+
+#: ../functions.php:330
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de modération"
+
+#: ../functions.php:352 ../functions/ttf-common/ttf-common.php:69
+#, php-format
+msgid "Posts from the &#8216;%s&#8217; category"
+msgstr "Articles de la catégorie &#8216;%s&#8217;"
+
+#: ../functions.php:354 ../functions/ttf-common/ttf-common.php:71
+#, php-format
+msgid "Posts tagged &#8216;%s&#8217;"
+msgstr "Articles tagués dans &#8216;%s&#8217;"
+
+#: ../functions.php:356 ../functions.php:358 ../functions.php:360
+#: ../functions/ttf-common/ttf-common.php:73
+#: ../functions/ttf-common/ttf-common.php:75
+#: ../functions/ttf-common/ttf-common.php:77
+#, php-format
+msgid "Archive for &#8216;%s&#8217;"
+msgstr "Résultats de recherche pour &#8216;%s&#8217;"
+
+#: ../functions.php:362 ../functions/ttf-common/ttf-common.php:79
+#, php-format
+msgid "Posts by %s"
+msgstr "Articles rédigées par %s"
+
+#: ../functions.php:364 ../functions/ttf-common/ttf-common.php:81
+msgid "Blog Archives"
+msgstr "Archives du blog"
+
+#: ../header.php:32 ../header.php:39
+msgid "Home"
+msgstr "Accueil"
+
+#: ../index.php:45
+msgid "Jump to comments"
+msgstr "Aller aux commentaires"
+
+#: ../index.php:46
+msgid "0 Comments"
+msgstr "0 commentaire"
+
+#: ../index.php:46
+msgid "1 Comment"
+msgstr "1 Commentaire"
+
+#: ../index.php:46
+msgid "% Comments"
+msgstr "% Commentaires"
+
+#: ../page.php:16
+msgid "Page:"
+msgstr "Page:"
+
+#: ../search.php:8
+#, php-format
+msgid "Search results for &#8216;%s&#8217;"
+msgstr "Résultats de recherche pour &#8216;%s&#8217;"
+
+#: ../search.php:28
+#, php-format
+msgid ""
+"Sorry, your search for &#8216%s&#8217 did not turn up any results. Please "
+"try again."
+msgstr ""
+"Désolé, votre recherche pour &#8216%s&#8217 n'a donné aucun résultat. "
+"Veuiller essayer de nouveau."
+
+#: ../searchform.php:6
+msgid "Type and press Enter to search"
+msgstr ""
+"Saisir les mots clefs de votre recherche et appuyez sur la touche entée."
+
+#: ../searchform.php:12 ../searchform.php:13 ../searchform.php:14
+msgid "Search site&hellip;"
+msgstr "Chercher dans le site&hellip;"
+
+#: ../sidebar.php:9
+msgid "Temporary sidebar"
+msgstr "Sidebar temporaire"
+
+#: ../sidebar.php:11
+msgid ""
+"Start adding your own Widgets to the sidebar by going to the <em>Appearance "
+"&rarr; Widgets</em> screen on your admin dashboard. This sidebar cannot be "
+"toggled off or removed."
+msgstr ""
+"Commencer à ajouter vos propres widgets à la barre latérale en allant sur la "
+"page <em>Apparence &rarr; Widgets </ em> dans votre interface "
+"d'administration. Cette barre latérale ne peut pas être désactivée ou "
+"supprimée."
+
+#: ../single.php:19
+msgid "Edit post"
+msgstr "Modifier l'article"
+
+#: ../sitemap.php:17
+msgid "Pages"
+msgstr "Pages"
+
+#: ../sitemap.php:21
+msgid "Recent posts"
+msgstr "Articles récents"
+
+#: ../sitemap.php:40
+msgid "Authors"
+msgstr "Auteurs"
+
+#: ../sitemap.php:44
+msgid "Categories"
+msgstr "Catégories"
+
+#: ../sitemap.php:48
+msgid "Archives"
+msgstr "Archives"
+
+#: ../functions/admin.php:30
+msgid "Featured slider"
+msgstr "Sliders à la une"
+
+#: ../functions/admin.php:31
+msgid ""
+"Posts in the <strong>Featured slider</strong> rotate on the home page, above "
+"your regular post list. Each post in the slider will display a large "
+"featured image, the post title, and a small excerpt."
+msgstr ""
+"Les articles dans le <strong>slider à la une</strong> s'affiche sur la page "
+"d'accueil, au dessus de la liste classique des articles. Chaque article du "
+"slider affiche l'image du slider, le titre et un court extrait."
+
+#: ../functions/admin.php:45
+msgid "Featured thumbnails"
+msgstr "Articles favoris"
+
+#: ../functions/admin.php:46
+msgid ""
+"The <strong>Featured thumbnails</strong> section is perfect for including "
+"teasers of your favourite posts on your site&#8217s home page. This section "
+"displays up to four posts of your choice. Each featured thumbnail post "
+"displays a small thumbnail image and post title."
+msgstr ""
+"La section <strong>Articles favoris</strong> est parfaite pour promouvoir "
+"vos articles préférés sur la page d'accueil. Cette section affiche jusqu'à 4 "
+"articles de votre choix. Chaque article présente une petite miniature et un "
+"titre."
+
+#: ../functions/admin.php:60
+msgid "Custom editor buttons"
+msgstr "Boutons personnalisés de l'éditeur"
+
+#: ../functions/admin.php:61
+msgid ""
+"Watson provides custom formatting buttons for styling your content. Click "
+"the \"show kitchen sink\" button to view Watson&#8217s formatting buttons."
+msgstr ""
+"Le thème \"Watson\" forunit différents boutons pour formatter votre contenu. "
+"Cliquez le bouton \"\"show kitchen sink\" pour afficher le bouton de "
+"formattage Watson."
+
+#: ../functions/admin.php:77
+msgid "Page templates"
+msgstr "Modèles de page"
+
+#: ../functions/admin.php:78
+msgid ""
+"Watson provides 4 page templates, each with slightly different layouts and "
+"functionality. The default page template is center-aligned (not full-width) "
+"without a sidebar."
+msgstr ""
+"Le thème \"Watson\" fournit 4 modèles de page, chacun avec sa propre "
+"disposition et ses fonctionnalités. Le modèle par défaut est centré en "
+"largeur (pas en taille complète) et sans sidebar."
+
+#: ../functions/post-options.php:32
+msgid "Show in featured thumbnails"
+msgstr "Afficher dans les articles favoris"
+
+#: ../functions/post-options.php:124
+msgid "Watson Theme Post Options"
+msgstr "Options du thème Watson"
+
+#: ../functions/theme-options.php:26
+msgid "Logo &amp; featured slider"
+msgstr "Logo &amp; slider à la une"
+
+#: ../functions/theme-options.php:27
+msgid "Display options"
+msgstr "Options d'affichage"
+
+#: ../functions/theme-options.php:28
+msgid "Subscribe links &amp; copyright"
+msgstr "Liens d'abonnement &amp; copyright"
+
+#: ../functions/theme-options.php:35
+msgid "Logo image:"
+msgstr "Image du logo :"
+
+#: ../functions/theme-options.php:36
+msgid ""
+"Upload an image (making sure to click <strong>\"Insert into post\"</strong>) "
+"or enter an <abbr title=\"Universal resource locator\">URL</abbr> for your "
+"image. If you choose not to upload a logo, your site's title will be used "
+"for the header."
+msgstr ""
+"Envoyer une image (n'oubliez pas de cliquer sur <strong>\"Insérer dans "
+"l'article\"</strong>)  ou entrer une <abbr title=\"Universal resource locator"
+"\">URL </abbr> pour votre image. Si vous choisissez de ne pas télécharger un "
+"logo, le titre de votre site sera utilisé pour l'en-tête."
+
+#: ../functions/theme-options.php:40
+msgid "High resolution logo"
+msgstr "Logo en haute résolution"
+
+#: ../functions/theme-options.php:41
+msgid ""
+"Upload a high resolution logo image for Retina (and similar hi-res) devices. "
+"This logo will be scaled down 50% and served only to high resolution devices."
+msgstr ""
+"Envoyer un logo en haute résolutions pour les écrans rétinas. Le logo sera "
+"réduit de 50% pour les écrans classiques."
+
+#: ../functions/theme-options.php:45
+msgid "Autostart slider"
+msgstr "Défilement automatique"
+
+#: ../functions/theme-options.php:46
+msgid ""
+"Check to automatically start slideshow animation for the featured slider."
+msgstr ""
+"Cocher pour démarrer automatiquement le défilement dans le slider à la une"
+
+#: ../functions/theme-options.php:50
+msgid "Remove slider posts from blog/archives"
+msgstr "Désactiver le slider à la une des archives du blg"
+
+#: ../functions/theme-options.php:51
+msgid ""
+"Check to remove all featured slider posts from blog, archive, category and "
+"tag pages."
+msgstr ""
+"Cocher pour désactiver le slider à la une des vues blogs, archives, "
+"catégories et tags."
+
+#: ../functions/theme-options.php:58
+msgid "Hide tags"
+msgstr "Masquer les tags"
+
+#: ../functions/theme-options.php:59
+msgid "Check to hide tags in posts."
+msgstr "Cocher la case pour masquer les tags dans les articles."
+
+#: ../functions/theme-options.php:63
+msgid "Hide categories"
+msgstr "Masquer les catégories"
+
+#: ../functions/theme-options.php:64
+msgid "Check to hide categories in posts."
+msgstr "Cocher la case pour masquer les catégories dans les articles."
+
+#: ../functions/theme-options.php:68
+msgid "Hide author"
+msgstr "Masquer l'auteur"
+
+#: ../functions/theme-options.php:69
+msgid "Check to hide the author in posts."
+msgstr "Cocher la case pour masquer l'auteur dans les articles."
+
+#: ../functions/theme-options.php:73
+msgid "Hide date"
+msgstr "Masquer la date"
+
+#: ../functions/theme-options.php:74
+msgid "Check to hide dates throughout your site."
+msgstr "Cocher la case pour masquer les dates de publication sur votre site"
+
+#: ../functions/theme-options.php:78
+msgid "Hide post featured image"
+msgstr "Masquer l'image à la une"
+
+#: ../functions/theme-options.php:79
+msgid "Check to hide featured images in the single blog post view."
+msgstr ""
+"Cocher la case pour masquer l'image à la une dans la vue détaillée des "
+"articles."
+
+#: ../functions/theme-options.php:83
+msgid "Hide post navigation"
+msgstr "Masquer la navigation des articles"
+
+#: ../functions/theme-options.php:84
+msgid "Check to hide post navigation in the single blog post view."
+msgstr ""
+"Cocher la case pour masquer la navigation dans la vue détaillée des articles."
+
+#: ../functions/theme-options.php:88
+msgid "Disable web fonts"
+msgstr "Désactiver toutes les polices web"
+
+#: ../functions/theme-options.php:89
+msgid "Check to turn off web fonts."
+msgstr "Désactiver les polices web"
+
+#: ../functions/theme-options.php:93
+msgid "Primary color"
+msgstr "Couleur principale"
+
+#: ../functions/theme-options.php:94
+msgid ""
+"Choose the primary color for your theme. The primary color is used for link "
+"text and other accents."
+msgstr ""
+"Choisir la couleur principale de votre thème. Cette couleur est utilisée "
+"pour les liens hypertextes."
+
+#: ../functions/theme-options.php:101
+msgid "Twitter <abbr title=\"Universal resource locator\">URL</abbr>:"
+msgstr "<abbr title=\"Universal resource locator\">URL</abbr> Twitter:"
+
+#: ../functions/theme-options.php:102
+msgid "Enter your Twitter link."
+msgstr "Saisir le lien de votre Twitter."
+
+#: ../functions/theme-options.php:106
+msgid "Facebook <abbr title=\"Universal resource locator\">URL</abbr>:"
+msgstr "<abbr title=\"Universal resource locator\">URL</abbr> Facebook:"
+
+#: ../functions/theme-options.php:107
+msgid "Enter your Facebook link."
+msgstr "Saisir le lien de votre Facebook."
+
+#: ../functions/theme-options.php:111
+msgid "Google+ <abbr title=\"Universal resource locator\">URL</abbr>:"
+msgstr "<abbr title=\"Universal resource locator\">URL</abbr> Google+:"
+
+#: ../functions/theme-options.php:112
+msgid "Enter your Google+ link."
+msgstr "Saisir le lien de votre Google+."
+
+#: ../functions/theme-options.php:116
+msgid "Flickr <abbr title=\"Universal resource locator\">URL</abbr>:"
+msgstr "<abbr title=\"Universal resource locator\">URL</abbr> Flickr:"
+
+#: ../functions/theme-options.php:117
+msgid "Enter your Flickr link."
+msgstr "Saisir le lien de votre Flickr."
+
+#: ../functions/theme-options.php:122
+msgid "Disable all icons"
+msgstr "Désactiver toutes les icônes"
+
+#: ../functions/theme-options.php:123
+msgid ""
+"Check to hide all subscribe icons (including <abbr title=\"Really Simple "
+"Syndication\">RSS</abbr>). This option overrides all other icon settings."
+msgstr ""
+"Cocher pour masquer tous les icônes du pied de page (en incluant <abbr title="
+"\"Really Simple Syndication\">RSS</abbr>). Cette option remplace tous les "
+"autres paramètres d'icônes."
+
+#: ../functions/theme-options.php:126
+msgid "Credit line text:"
+msgstr "Texte du copyright:"
+
+#: ../functions/theme-options.php:127
+msgid ""
+"Enter your credit text to be displayed in the theme footer. Basic HTML is "
+"allowed."
+msgstr ""
+"Renseigner votre copyright pour qu'il s'affiche dans le pied de page du "
+"theme. Le HTML basique est autorisé."
+
+#: ../functions/widget.php:14
+msgid "Watson Theme Recently Discussed"
+msgstr "Thème Watson - Discussions récentes"
+
+#: ../functions/widget.php:15
+msgid ""
+"Posts with recent comments. Shows post featured image, title and time of "
+"last comment."
+msgstr ""
+"Articles avec des commentaires récents. Affiche l'image à la une, le titre "
+"et la date du dernier commentaire."
+
+#: ../functions/widget.php:66
+msgid "Recently discussed"
+msgstr "Discussions récentes"
+
+#: ../functions/foundry-slider/includes/post-meta.php:76
+msgid "Foundry Slider"
+msgstr "Slider foundry"
+
+#: ../functions/foundry-slider/includes/post-meta.php:102
+#: ../functions/foundry-slider/includes/quick-edit.php:105
+msgid "Show in featured slider"
+msgstr "Afficher dans le slider à la une"
+
+#: ../functions/foundry-slider/includes/quick-edit.php:65
+msgid "Featured Slider"
+msgstr "Slider à la une"
+
+#: ../functions/foundry-slider/includes/quick-edit.php:83
+msgid "Featured"
+msgstr "A la une"
+
+#: ../functions/ttf-common/ttf-common.php:53
+msgid "Page Not Found | "
+msgstr "Page non trouvée |  "
+
+#: ../functions/ttf-common/ttf-common.php:55
+msgid "Search results | "
+msgstr "Résultats de la recherche | "
+
+#~ msgid "Untitled"
+#~ msgstr "Sans titre"
+
+#~ msgid "Permalink"
+#~ msgstr "Permalien"
+
+#~ msgid "Print this page "
+#~ msgstr "Imprimer cette page"
+
+#~ msgid "Print this post "
+#~ msgstr "Imprimer cet article"
+
+#~ msgid "Show menu"
+#~ msgstr "Afficher le menu"
+
+#~ msgid "No posts found."
+#~ msgstr "Aucun article trouvé."
+
+#~ msgid "Archives by Month"
+#~ msgstr "Archives par Mois"
+
+#~ msgid "Post a comment"
+#~ msgstr "Poster un commentaire"
+
+#~ msgid "Trackbacks &amp; Pingbacks"
+#~ msgstr "Rétroliens"
+
+#~ msgid "&laquo; Older Pingbacks"
+#~ msgstr "&raquo; Rétroliens plus anciens"
+
+#~ msgid "Newer Pingbacks &raquo;"
+#~ msgstr "Rétroliens plus récents &raquo;"
+
+#~ msgid "Submit Comment"
+#~ msgstr "Soumettre le commentaire"
+
+#~ msgid ""
+#~ "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out "
+#~ "of this account\">Log out &raquo;</a>"
+#~ msgstr ""
+#~ "Connecté en tant que <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title="
+#~ "\"Se déconnecter de ce compte\">Se déconnecter &raquo;</a>"
+
+#~ msgid "Leave a Reply"
+#~ msgstr "Laisser une réponse"
+
+#~ msgid "Leave a comment to %s"
+#~ msgstr "Laisser un commentaire à %s"
+
+#~ msgid "RSS"
+#~ msgstr "RSS"
+
+#~ msgid "Hide menu"
+#~ msgstr "Masquer le menu"
+
+#~ msgid "Archive for <em>%s</em>"
+#~ msgstr "Archive pour <em>%s</em>"
+
+#~ msgid "Logo"
+#~ msgstr "Logo"
+
+#~ msgid "Fonts &amp; colors"
+#~ msgstr "Polices d'écritures &amp; couleurs"
+
+#~ msgid "Droid Sans (default)"
+#~ msgstr "Droid Sans (defaut)"
+
+#~ msgid "Gentium Book Basic"
+#~ msgstr "Gentium Book Basic"
+
+#~ msgid "Georgia"
+#~ msgstr "Georgia"
+
+#~ msgid "Arial"
+#~ msgstr "Arial"
+
+#~ msgid "PT Sans"
+#~ msgstr "PT Sans"
+
+#~ msgid "Rosario"
+#~ msgstr "Rosario"
+
+#~ msgid "Accent font:"
+#~ msgstr "Police accentué:"
+
+#~ msgid ""
+#~ "The accent font is used for headings, block quotes and other highlighted "
+#~ "areas."
+#~ msgstr ""
+#~ "La police accentuée est utilisée pour les titres, les citations et "
+#~ "d'autres zones mises en évidence."
+
+#~ msgid "Gentium Book Basic (default)"
+#~ msgstr "Gentium Book Basic (défaut)"
+
+#~ msgid "Droid Sans"
+#~ msgstr "Droid Sans"
+
+#~ msgid "Lekton"
+#~ msgstr "Lekton"
+
+#~ msgid "Body font:"
+#~ msgstr "Police du corps de texte:"
+
+#~ msgid ""
+#~ "The body font is used for all content not covered by the accent font."
+#~ "<br><br><strong>Note:</strong> For optimum load times, use the "
+#~ "<strong>Georgia</strong> or <strong>Arial</strong> font family. All other "
+#~ "fonts will slightly increase page load time."
+#~ msgstr ""
+#~ "La police de corps de texte est utilisé pour tous les contenus et n'est "
+#~ "pas couverte par la police d'accent.<br><br><strong>Remarque:</strong>  "
+#~ "Pour l'optimisation du temps de chargement des pages, utiliser plutôt la "
+#~ "famille de police <strong>Georgia</strong> ou <strong>Arial</strong>. "
+#~ "Toutes les autres polices d'écriture vont légèrement augmenter le temps "
+#~ "de chargement."
+
+#~ msgid "Choose the primary color for your theme."
+#~ msgstr "Choisisser une couleur principale pour votre theme."
+
+#~ msgid "Secondary color"
+#~ msgstr "Couleur secondaire"
+
+#~ msgid "Choose the secondary color for your theme."
+#~ msgstr "Choisisser une couleur secondaire pour votre theme."
+
+#~ msgid "Hide print link"
+#~ msgstr "Masquer le lien d'impression"
+
+#~ msgid "Check to hide print link in posts and pages."
+#~ msgstr ""
+#~ "Cocher la case pour maquer le lien d'impression dans les articles et les "
+#~ "pages."
+
+#~ msgid "Sticky post text:"
+#~ msgstr "Titre de l'article épinglé:"
+
+#~ msgid ""
+#~ "Enter your text you would like to appear in the sticky post title. To "
+#~ "remove the title completely, leave this option blank."
+#~ msgstr ""
+#~ "Entrer votre texte que vous souhaitez voir apparaître dans le titre de "
+#~ "l'article épinglé. Pour supprimer le titre complètement, laissez cette "
+#~ "option vide."
+
+#~ msgid "Search"
+#~ msgstr "Rechercher"
