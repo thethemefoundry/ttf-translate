@@ -1,0 +1,567 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Chalk\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-13 09:49-0800\n"
+"PO-Revision-Date: 2013-04-19 15:44+0100\n"
+"Last-Translator: Amaury Balmer <amaury@beapi.fr>\n"
+"Language-Team: The Theme Foundry <info@thethemefoundry.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;gettext_noop;esc_attr_e;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.5\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: French\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:3
+msgid "404: Page Not Found"
+msgstr "404: Page non trouvée"
+
+#: ../404.php:4
+msgid ""
+"We are terribly sorry, but the URL you typed no longer exists. It might have "
+"been moved or deleted. Try searching the site:"
+msgstr ""
+"Nous sommes désolés, mais l'URL que vous avez tapé n'existe plus. Elle a "
+"peut-être été déplacée ou supprimée. Merci de réaliser une nouvelle "
+"recherche."
+
+#: ../_format-audio.php:10
+msgid "Untitled"
+msgstr "Sans titre"
+
+#: ../_format-default.php:8
+msgid "Permalink"
+msgstr "Permalien"
+
+#: ../_index-footer.php:3
+msgid "Older posts"
+msgstr "Articles plus anciens"
+
+#: ../_index-footer.php:4
+msgid "Newer posts"
+msgstr "Articles plus récents"
+
+#: ../_page-header.php:7
+msgid "Print this page "
+msgstr "Imprimer cette page"
+
+#: ../_post-content.php:5
+msgid "Read more"
+msgstr "En savoir plus"
+
+#: ../_post-footer.php:2
+msgid "Edit post"
+msgstr "Modifier l'article"
+
+#: ../_post-footer.php:9
+msgid "Categories: "
+msgstr "Catégories:"
+
+#: ../_post-footer.php:17
+msgid "Tagged: "
+msgstr "Tagué:"
+
+#: ../_post-header.php:25
+msgid "Print this post "
+msgstr "Imprimer cet article"
+
+#: ../_post-meta.php:10
+msgid "No comments"
+msgstr "Aucun commentaire"
+
+#: ../_post-meta.php:10
+msgid "1 Comment"
+msgstr "1 Commentaire"
+
+#: ../_post-meta.php:10
+msgid "% Comments"
+msgstr "% Commentaires"
+
+#: ../_site-menu.php:13
+msgid "Show menu"
+msgstr "Afficher le menu"
+
+#: ../archive.php:8
+msgid "No posts found."
+msgstr "Aucun article trouvé."
+
+#: ../archives.php:11
+msgid "Recent Posts"
+msgstr "Articles récents"
+
+#: ../archives.php:15
+msgid "Categories"
+msgstr "Catégories"
+
+#: ../archives.php:19
+msgid "Archives by Month"
+msgstr "Archives par Mois"
+
+#: ../archives.php:23
+msgid "Archives by Year"
+msgstr "Archives par Année"
+
+#: ../archives.php:27
+msgid "Edit page"
+msgstr "Modifier la page"
+
+#: ../attachment.php:26
+msgid "Previous"
+msgstr "Suivant"
+
+#: ../attachment.php:27
+msgid "Next"
+msgstr "Précédent"
+
+#: ../attachment.php:30
+#, php-format
+msgid "Return to %s"
+msgstr "Retourner sur %s"
+
+#: ../comments.php:12
+msgid "Post a comment"
+msgstr "Poster un commentaire"
+
+#: ../comments.php:23
+msgid "Older Comments"
+msgstr "Commentaires plus anciens"
+
+#: ../comments.php:26
+msgid "Newer Comments"
+msgstr "Commentaires plus récents"
+
+#: ../comments.php:33
+msgid "Trackbacks &amp; Pingbacks"
+msgstr "Rétroliens"
+
+#: ../comments.php:40
+msgid "&laquo; Older Pingbacks"
+msgstr "&raquo; Rétroliens plus anciens"
+
+#: ../comments.php:41
+msgid "Newer Pingbacks &raquo;"
+msgstr "Rétroliens plus récents &raquo;"
+
+#: ../comments.php:47
+msgid "<em>Comments are closed.</em>"
+msgstr "<em>Les commentaires sont fermés.</em>"
+
+#: ../comments.php:51
+msgid "No comments yet&hellip;"
+msgstr "Aucun commentaire pour le moment&hellip;"
+
+#: ../comments.php:62
+msgid "Comment:"
+msgstr "Commentaire:"
+
+#: ../comments.php:67
+msgid ""
+"Subscribe to this comment feed via <abbr title=\"Really Simple Syndication"
+"\">RSS<abbr>"
+msgstr ""
+"Abonnez-vous à ces commentaires via <abbr title=\"Really Simple Syndication"
+"\">RSS<abbr>"
+
+#: ../comments.php:68
+msgid ""
+"Basic <abbr title=\"Hypertext Markup Language\">HTML</abbr> is allowed. Your "
+"email address will not be published."
+msgstr ""
+"Le code <abbr title=\"Hypertext Markup Language\">HTML</abbr> basique est "
+"autorisé. Votre adresse email ne sera pas publiée."
+
+#: ../comments.php:76
+msgid "Name: <span class=\"required\">*</span>"
+msgstr "Nom : <span class=\"required\">*</span>"
+
+#: ../comments.php:77
+msgid "Name:"
+msgstr "Nom :"
+
+#: ../comments.php:87
+msgid "Email: <span class=\"required\">*</span>"
+msgstr "Email: <span class=\"required\">*</span>"
+
+#: ../comments.php:88
+msgid "Email:"
+msgstr "Email:"
+
+#: ../comments.php:96
+msgid "Website:"
+msgstr "Site web:"
+
+#: ../comments.php:101
+msgid "Submit Comment"
+msgstr "Soumettre le commentaire"
+
+#: ../comments.php:102
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out &raquo;</a>"
+msgstr ""
+"Connecté en tant que <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Se "
+"déconnecter de ce compte\">Se déconnecter &raquo;</a>"
+
+#: ../comments.php:103
+msgid "Leave a Reply"
+msgstr "Laisser une réponse"
+
+#: ../comments.php:104
+#, php-format
+msgid "Leave a comment to %s"
+msgstr "Laisser un commentaire à %s"
+
+#: ../footer.php:11
+msgid "Twtitter"
+msgstr "Twitter"
+
+#: ../footer.php:16
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../footer.php:21
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: ../footer.php:26
+msgid "Flickr"
+msgstr "Flickr"
+
+#: ../footer.php:30
+msgid "RSS"
+msgstr "RSS"
+
+#: ../functions.php:29
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: ../functions.php:79
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: ../functions.php:143
+msgid "Hide menu"
+msgstr "Masquer le menu"
+
+#: ../functions.php:386
+msgid "Page not found | "
+msgstr "Page non trouvée |  "
+
+#: ../functions.php:388
+msgid "Search results | "
+msgstr "Résultats de la recherche | "
+
+#: ../functions.php:402
+#, php-format
+msgid "Posts from the &#8220;<em>%s</em>&#8221; Category"
+msgstr "Articles de la catégorie &#8220;<em>%s</em>&#8221;"
+
+#: ../functions.php:404
+#, php-format
+msgid "Posts tagged &#8220;<em>%s</em>&#8221;"
+msgstr "Articles tagués dans &#8220;<em>%s</em>&#8221;"
+
+#: ../functions.php:406 ../functions.php:408 ../functions.php:410
+#, php-format
+msgid "Archive for <em>%s</em>"
+msgstr "Archive pour <em>%s</em>"
+
+#: ../functions.php:412
+#, php-format
+msgid "Posts by <em>%s</em>"
+msgstr "Articles rédigées par <em>%s</em>"
+
+#: ../functions.php:414
+msgid "Site archives"
+msgstr "Archives du site"
+
+#: ../functions.php:617
+msgid "Logo"
+msgstr "Logo"
+
+#: ../functions.php:618
+msgid "Fonts &amp; colors"
+msgstr "Polices d'écritures &amp; couleurs"
+
+#: ../functions.php:619
+msgid "Display options"
+msgstr "Options d'affichage"
+
+#: ../functions.php:620
+msgid "Footer"
+msgstr "Pied de page"
+
+#: ../functions.php:627
+msgid "Logo URL:"
+msgstr "URL du logo:"
+
+#: ../functions.php:628
+msgid ""
+"Upload an image or enter an <abbr title=\"Universal resource locator\">URL</"
+"abbr> for your image. If you choose not to upload a logo, your site's title "
+"will be used for the header."
+msgstr ""
+"Télécharger une image ou entrer une <abbr title=\"Universal resource locator"
+"\">URL </abbr> pour votre image. Si vous choisissez de ne pas télécharger un "
+"logo, le titre de votre site sera utilisé pour l'en-tête."
+
+#: ../functions.php:635
+msgid "Droid Sans (default)"
+msgstr "Droid Sans (defaut)"
+
+#: ../functions.php:636
+msgid "Gentium Book Basic"
+msgstr "Gentium Book Basic"
+
+#: ../functions.php:637 ../functions.php:649
+msgid "Georgia"
+msgstr "Georgia"
+
+#: ../functions.php:638 ../functions.php:650
+msgid "Arial"
+msgstr "Arial"
+
+#: ../functions.php:639 ../functions.php:652
+msgid "PT Sans"
+msgstr "PT Sans"
+
+#: ../functions.php:640 ../functions.php:653
+msgid "Rosario"
+msgstr "Rosario"
+
+#: ../functions.php:642
+msgid "Accent font:"
+msgstr "Police accentué:"
+
+#: ../functions.php:643
+msgid ""
+"The accent font is used for headings, block quotes and other highlighted "
+"areas."
+msgstr ""
+"La police accentuée est utilisée pour les titres, les citations et d'autres "
+"zones mises en évidence."
+
+#: ../functions.php:647
+msgid "Gentium Book Basic (default)"
+msgstr "Gentium Book Basic (défaut)"
+
+#: ../functions.php:648
+msgid "Droid Sans"
+msgstr "Droid Sans"
+
+#: ../functions.php:651
+msgid "Lekton"
+msgstr "Lekton"
+
+#: ../functions.php:655
+msgid "Body font:"
+msgstr "Police du corps de texte:"
+
+#: ../functions.php:656
+msgid ""
+"The body font is used for all content not covered by the accent font."
+"<br><br><strong>Note:</strong> For optimum load times, use the "
+"<strong>Georgia</strong> or <strong>Arial</strong> font family. All other "
+"fonts will slightly increase page load time."
+msgstr ""
+"La police de corps de texte est utilisé pour tous les contenus et n'est pas "
+"couverte par la police d'accent.<br><br><strong>Remarque:</strong>  Pour "
+"l'optimisation du temps de chargement des pages, utiliser plutôt la famille "
+"de police <strong>Georgia</strong> ou <strong>Arial</strong>. Toutes les "
+"autres polices d'écriture vont légèrement augmenter le temps de chargement."
+
+#: ../functions.php:660
+msgid "Primary color"
+msgstr "Couleur principale"
+
+#: ../functions.php:661
+msgid "Choose the primary color for your theme."
+msgstr "Choisisser une couleur principale pour votre theme."
+
+#: ../functions.php:665
+msgid "Secondary color"
+msgstr "Couleur secondaire"
+
+#: ../functions.php:666
+msgid "Choose the secondary color for your theme."
+msgstr "Choisisser une couleur secondaire pour votre theme."
+
+#: ../functions.php:673
+msgid "Hide tags"
+msgstr "Masquer les tags"
+
+#: ../functions.php:674
+msgid "Check to hide tags in posts."
+msgstr "Cocher la case pour masquer les tags dans les articles."
+
+#: ../functions.php:678
+msgid "Hide categories"
+msgstr "Masquer les catégories"
+
+#: ../functions.php:679
+msgid "Check to hide categories in posts."
+msgstr "Cocher la case pour masquer les catégories dans les articles."
+
+#: ../functions.php:683
+msgid "Hide author"
+msgstr "Masquer l'auteur"
+
+#: ../functions.php:684
+msgid "Check to hide the author in posts."
+msgstr "Cocher la case pour masquer l'auteur dans les articles."
+
+#: ../functions.php:688
+msgid "Hide post navigation"
+msgstr "Masquer la navigation des articles"
+
+#: ../functions.php:689
+msgid "Check to hide post navigation in single post view."
+msgstr "Cocher la case pour masquer la navigation dans les articles."
+
+#: ../functions.php:693
+msgid "Hide print link"
+msgstr "Masquer le lien d'impression"
+
+#: ../functions.php:694
+msgid "Check to hide print link in posts and pages."
+msgstr ""
+"Cocher la case pour maquer le lien d'impression dans les articles et les "
+"pages."
+
+#: ../functions.php:698
+msgid "Sticky post text:"
+msgstr "Titre de l'article épinglé:"
+
+#: ../functions.php:699
+msgid ""
+"Enter your text you would like to appear in the sticky post title. To remove "
+"the title completely, leave this option blank."
+msgstr ""
+"Entrer votre texte que vous souhaitez voir apparaître dans le titre de "
+"l'article épinglé. Pour supprimer le titre complètement, laissez cette "
+"option vide."
+
+#: ../functions.php:706
+msgid "Copyright text:"
+msgstr "Texte du copyright:"
+
+#: ../functions.php:707
+msgid "Enter your copyright notice to be displayed in the theme footer."
+msgstr ""
+"Renseigner votre copyright pour qu'il s'affiche dans le pied de page du "
+"theme."
+
+#: ../functions.php:711
+msgid "Twitter <abbr title=\"Universal resource locator\">URL</abbr>:"
+msgstr "<abbr title=\"Universal resource locator\">URL</abbr> Twitter:"
+
+#: ../functions.php:712
+msgid "Enter your Twitter link."
+msgstr "Entrer le lien de votre Twitter."
+
+#: ../functions.php:715
+msgid "Facebook <abbr title=\"Universal resource locator\">URL</abbr>:"
+msgstr "<abbr title=\"Universal resource locator\">URL</abbr> Facebook:"
+
+#: ../functions.php:716
+msgid "Enter your Facebook link."
+msgstr "Entrer le lien de votre Facebook."
+
+#: ../functions.php:719
+msgid "Google+ <abbr title=\"Universal resource locator\">URL</abbr>:"
+msgstr "<abbr title=\"Universal resource locator\">URL</abbr> Google+:"
+
+#: ../functions.php:720
+msgid "Enter your Google+ link."
+msgstr "Entrer le lien de votre Google+."
+
+#: ../functions.php:723
+msgid "Flickr <abbr title=\"Universal resource locator\">URL</abbr>:"
+msgstr "<abbr title=\"Universal resource locator\">URL</abbr> Flickr:"
+
+#: ../functions.php:724
+msgid "Enter your Flickr link."
+msgstr "Entrer le lien de votre Flickr."
+
+#: ../functions.php:728
+msgid "Disable all icons"
+msgstr "Désactiver toutes les icônes"
+
+#: ../functions.php:729
+msgid ""
+"Check to hide all footer icons (including <abbr title=\"Really Simple "
+"Syndication\">RSS</abbr>). This option overrides all other icon settings."
+msgstr ""
+"Cocher pour masquer tous les icônes du pied de page (en incluant <abbr title="
+"\"Really Simple Syndication\">RSS</abbr>). Cette option remplace tous les "
+"autres paramètres d''icônes."
+
+#: ../search.php:3
+#, php-format
+msgid "Search results for <em>&#8220;%s&#8221;</em>"
+msgstr "Résultats de recherche pour <em>&#8220;%s&#8221;</em>"
+
+#: ../search.php:8
+#, php-format
+msgid ""
+"Sorry, your search for <em>&#8220;%s&#8221;</em> did not turn up any "
+"results. Please try again."
+msgstr ""
+"Désolé, votre recherche pour <em>&#8220;%s&#8221;</em> n'a donné aucun "
+"résultat. Veuiller essayer de nouveau."
+
+#: ../searchform.php:4
+msgid "Search"
+msgstr "Rechercher"
+
+#: ../sitemap.php:12
+msgid "Pages"
+msgstr "Pages"
+
+#: ../includes/struts/classes/struts/options.php:127
+msgid ""
+"Options already initialized. Struts no longer requires manual initialization."
+msgstr ""
+"Options déjà initialisées. Struts ne nécessite plus l'initialisation "
+"manuelle."
+
+#: ../includes/struts/classes/struts/options.php:154
+#: ../includes/struts/classes/struts/options.php:155
+#: ../includes/struts/classes/struts/options.php:307
+msgid "Theme Options"
+msgstr "Options du thème"
+
+#: ../includes/struts/classes/struts/options.php:260
+#, php-format
+msgid "Section with name &lsquo;%1$s&rsquo; not defined"
+msgstr "Veuillez renseigner les champs &lsquo;%1$s&rsquo;"
+
+#: ../includes/struts/classes/struts/options.php:317
+msgid "Save Settings"
+msgstr "Sauvegarder les réglages"
+
+#: ../includes/struts/classes/struts/options.php:318
+msgid "Reset Defaults"
+msgstr "Réinitialiser les paramètres par défaut"
+
+#: ../includes/struts/classes/struts/options.php:328
+msgid "Theme settings updated successfully."
+msgstr "Les réglages du thème ont bien été mis à jour."
+
+#: ../includes/struts/classes/struts/section.php:97
+msgid "Edit"
+msgstr "Modifier"
+
+#: ../includes/struts/classes/struts/section.php:104
+msgid "Save changes"
+msgstr "Sauvegarder les changements"
+
+#: ../includes/struts/classes/struts/option/color.php:35
+msgid "show color picker"
+msgstr "Afficher le sélecteur de couleur"
