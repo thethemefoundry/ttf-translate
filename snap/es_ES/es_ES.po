@@ -1,0 +1,799 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Chalk\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-05-06 20:58-0800\n"
+"PO-Revision-Date: 2013-07-13 21:18-0500\n"
+"Last-Translator: Alain Rodriguezz <alainrodriguezz@gmail.com>\n"
+"Language-Team: The Theme Foundry <info@thethemefoundry.com>\n"
+"Language: French\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;gettext_noop;esc_attr_e;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.7\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: foundry-slider/includes/post-meta.php:76
+#: ../includes/foundry-slider/includes/post-meta.php:76
+msgid "Foundry Slider"
+msgstr ""
+
+#: foundry-slider/includes/post-meta.php:102
+#: foundry-slider/includes/quick-edit.php:105
+#: ../includes/foundry-slider/includes/post-meta.php:102
+#: ../includes/foundry-slider/includes/quick-edit.php:105
+msgid "Show in featured slider"
+msgstr "Mostrar en el slider destacado"
+
+#: foundry-slider/includes/quick-edit.php:65
+#: ../includes/foundry-slider/includes/quick-edit.php:65
+msgid "Featured Slider"
+msgstr "Slider destacado"
+
+#: foundry-slider/includes/quick-edit.php:83 ../_post-content.php:41
+#: ../includes/foundry-slider/includes/quick-edit.php:83
+msgid "Featured"
+msgstr "Destacado"
+
+#: ../404.php:8
+msgid "404: Page Not Found"
+msgstr "404: PÃ¡gina no encontrada"
+
+#: ../404.php:13
+#, php-format
+msgid ""
+"We are terribly sorry, but the %1$s you typed no longer exists. It might "
+"have been moved or deleted. Try searching the site:"
+msgstr ""
+"Lo sentimos mucho, pero el %1$s que has ingresado, ya no existe. Tal vez "
+"haya sido movido o borrado. Intenta buscar en el sitio:"
+
+#: ../404.php:19
+msgid "Uniform resource locator (Web address)"
+msgstr "Uniformizar la fuente (PÃ¡gina web)"
+
+#: ../404.php:20
+msgid "URL"
+msgstr "URL"
+
+#: ../_date.php:10
+msgid "Published on"
+msgstr "Publicado en"
+
+#: ../_list-view.php:16
+#, php-format
+msgid "Search results for '%s'"
+msgstr "Buscar resultados para '%s'"
+
+#: ../_list-view.php:18
+msgid "Post listing"
+msgstr "Listado de artÃ­culos"
+
+#: ../_list-view.php:25
+msgid "Read full article"
+msgstr "Leer el artÃ­culo completo"
+
+#: ../_list-view.php:29
+msgid "By"
+msgstr "Por"
+
+#: ../_list-view.php:29
+msgid "on"
+msgstr "en"
+
+#: ../_list-view.php:36 ../loop.php:13
+msgid "Newer posts"
+msgstr "ArtÃ­culos recientes"
+
+#: ../_list-view.php:37 ../loop.php:14
+msgid "Older posts"
+msgstr "ArtÃ­culos anteriores"
+
+#: ../_list-view.php:55
+msgid "No posts found."
+msgstr "No se han encontrado artÃ­culos."
+
+#: ../_list-view.php:57
+#, php-format
+msgid ""
+"Sorry, your search for \"%s\" did not turn up any results. Please try again."
+msgstr ""
+"Lo siento, tu bÃºsqueda para \"%s\" no entregÃ³ ningÃºn resultado. Por favor, "
+"intenta nuevamente."
+
+#: ../_portfolio-description.php:15 ../homepage.php:74
+#: ../functions/options.php:198
+msgid "View Project"
+msgstr "Ver proyecto"
+
+#: ../_post-content.php:27
+#, php-format
+msgid ""
+"<strong>Admin:</strong> Oh snap! It looks like this post is using a <a href="
+"\"%1$s\" title=\"Writing &amp; Editing, Featured Images\">Featured Image</a> "
+"that is too small for this area. Please add a Featured Image in the <a href="
+"\"%2$s\" title=\"Edit %3$s\">Edit Post</a> screen that is at least 300px "
+"wide."
+msgstr ""
+
+#: ../_post-content.php:62
+msgid "Read more"
+msgstr "Leer mÃ¡s"
+
+#: ../attachment.php:30 ../functions.php:513
+msgid "Previous image"
+msgstr "Imagen anterior"
+
+#: ../attachment.php:31 ../functions.php:512
+msgid "Next image"
+msgstr "Siguiente imagen"
+
+#: ../comments.php:8
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Esta publicaciÃ³n esta protegida. Ingresa el password para ver los "
+"comentarios."
+
+#: ../comments.php:15
+#, php-format
+msgid "One Response to <span>%2$s</span>"
+msgstr "Una respuesta para <span>%2$s</span>"
+
+#: ../comments.php:23
+msgid "Older comments"
+msgstr "Comentarios anteriores"
+
+#: ../comments.php:24
+msgid "Newer comments"
+msgstr "Comentarios recientes"
+
+#: ../comments.php:29
+msgid "Comments are closed."
+msgstr "Comentarios desactivados."
+
+#: ../footer.php:16
+msgid "Theme info"
+msgstr "InformaciÃ³n del tema"
+
+#: ../footer.php:16
+msgid "by"
+msgstr "por"
+
+#: ../footer.php:16
+msgid "The Theme Foundry home page"
+msgstr ""
+
+#: ../full-width.php:17 ../homepage.php:95 ../page.php:18
+#, php-format
+msgid ""
+"<strong>Admin:</strong> Oh snap! It looks like you haven't added any "
+"content. You can add content in the <a href=\"%1$s\" title=\"Edit %2$s"
+"\">Edit Page</a> screen."
+msgstr ""
+
+#: ../functions.php:52
+msgid "Primary Menu"
+msgstr "MenÃº principal"
+
+#: ../functions.php:99 ../functions/attached-posts.php:113
+msgid "Selected Posts"
+msgstr "ArtÃ­culos seleccionados"
+
+#: ../functions.php:113
+msgid "Portfolio Posts"
+msgstr "ArtÃ­culos de Portafolio"
+
+#: ../functions.php:227
+msgid "Show Menu"
+msgstr "Mostrar menÃº"
+
+#: ../functions.php:234
+msgid "Hide Menu"
+msgstr "Ocultar MenÃº"
+
+#: ../functions.php:302
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: ../functions.php:304
+msgid ""
+"When widgets are used, this sidebar appears on posts and the pages using the "
+"Default Template."
+msgstr ""
+"Cuando los widgets son usados, este sidebar aparece en artÃ­culos y pÃ¡ginas "
+"que usan el  Default Template"
+
+#: ../functions.php:337
+msgid "Permalink"
+msgstr "Enlace"
+
+#: ../functions.php:346
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario estÃ¡ esperando moderaciÃ³n"
+
+#: ../functions.php:372
+msgid "Comment"
+msgstr "Comentario"
+
+#: ../functions.php:376
+msgid ""
+"Basic <abbr title=\"Hypertext Markup Language\">HTML</abbr> is allowed. Your "
+"email address will not be published."
+msgstr ""
+"<abbr title=\"Hypertext Markup Language\">HTML bÃ¡sico</abbr> estÃ¡ permitido. "
+"Tu correo electrÃ³nico no serÃ¡ publicado."
+
+#: ../functions.php:389
+msgid "Name <span class=\"required\">(Required)</span>"
+msgstr "Nombre <span class=\"required\">(Requerido)</span>"
+
+#: ../functions.php:397
+msgid "Email <span class=\"required\">(Required)</span>"
+msgstr "Email <span class=\"required\">(Requerido)</span>"
+
+#: ../functions.php:405
+msgid "Website"
+msgstr "Sitio web"
+
+#: ../functions.php:440
+msgid "Page Not Found | "
+msgstr "PÃ¡gina no encontrada | "
+
+#: ../functions.php:442
+msgid "Search results | "
+msgstr "Resultados de bÃºsqueda | "
+
+#: ../functions.php:613
+#, php-format
+msgid "Posts from the <strong>%s</strong> category"
+msgstr "ArtÃ­culos de la <strong>%s</strong> categorÃ­a"
+
+#: ../functions.php:615
+#, php-format
+msgid "Posts tagged <strong>%s</strong>"
+msgstr "ArtÃ­culos taggeados <strong>%s</strong>"
+
+#: ../functions.php:617 ../functions.php:619 ../functions.php:621
+#, php-format
+msgid "Archive for <strong>%s</strong>"
+msgstr "Archivo para <strong>%s</strong>"
+
+#: ../functions.php:626
+#, php-format
+msgid "Posts by <strong>%s</strong>"
+msgstr "ArtÃ­culos de <strong>%s</strong>"
+
+#: ../functions.php:631
+msgid "Blog Archives"
+msgstr "Archivos del Blog"
+
+#: ../functions.php:742
+msgid "Homepage Featured Slider"
+msgstr ""
+
+#: ../header.php:39 ../header.php:42
+msgid "Home"
+msgstr "Inicio"
+
+#: ../homepage.php:33
+#, php-format
+msgid ""
+"<strong>Admin:</strong> Oh snap! It looks like this post doesn't have a <a "
+"href=\"%1$s\" title=\"Writing &amp; Editing, Featured Images\">Featured "
+"Image</a>. Please add a Featured Image in the <a href=\"%2$s\" title=\"Edit "
+"%3$s\">Edit Post</a> screen."
+msgstr ""
+
+#: ../homepage.php:45
+#, php-format
+msgid ""
+"<strong>Admin:</strong> Oh snap! It looks like this post is using a <a href="
+"\"%1$s\" title=\"Writing &amp; Editing, Featured Images\">Featured Image</a> "
+"that is too small. Please add a Featured Image in the <a href=\"%2$s\" title="
+"\"Edit %3$s\">Edit Post</a> screen that is at least 994px wide."
+msgstr ""
+
+#: ../homepage.php:57
+#, php-format
+msgid ""
+"<strong>Admin:</strong> Oh snap! It looks like there is an issue adding your "
+"post. Please try adding a different <a href=\"%1$s\" title=\"Writing &amp; "
+"Editing, Featured Images\">Featured Image</a> in the <a href=\"%2$s\" title="
+"\"Edit %3$s\">Edit Post</a> screen."
+msgstr ""
+
+#: ../homepage.php:122 ../loop.php:37
+#, php-format
+msgid ""
+"<strong>Admin:</strong> Oh snap! It looks like you haven't added any posts "
+"yet. <a href=\"%s\" title=\"Add post\">Add your first post</a> now!"
+msgstr ""
+
+#: ../portfolio.php:36
+#, php-format
+msgid ""
+"<strong>Admin:</strong> Oh snap! It looks like this post is using a <a href="
+"\"%1$s\" title=\"Writing &amp; Editing, Featured Images\">Featured Image</a> "
+"that is too small for this area. Please add a Featured Image in the <a href="
+"\"%2$s\" title=\"Edit %3$s\">Edit Post</a> screen that is at least 994px "
+"wide."
+msgstr ""
+
+#: ../portfolio.php:53
+#, php-format
+msgid ""
+"<strong>Admin:</strong> You can remove this placeholder by setting a <a href="
+"\"%1$s\" title=\"Writing &amp; Editing, Featured Images\">Featured Image</a> "
+"in the <a href=\"%2$s\" title=\"Edit %3$s\">Edit Post</a> screen for this "
+"post."
+msgstr ""
+
+#: ../portfolio.php:73
+#, php-format
+msgid ""
+"<strong>Admin:</strong> Oh snap! You need to add portfolio items to this "
+"page. You can do so in the <strong>Portfolio Posts</strong> section of the "
+"<a href=\"%s\" title=\"Edit page\">Edit Page</a> screen."
+msgstr ""
+
+#: ../profile.php:34
+#, php-format
+msgid ""
+"<strong>Admin:</strong> Oh snap! It looks like this post is using a <a href="
+"\"%1$s\" title=\"Writing &amp; Editing, Featured Images\">Featured Image</a> "
+"that is too small for this area. Please add a Featured Image in the <a href="
+"\"%2$s\" title=\"Edit %3$s\">Edit Page</a> screen that is at least 292px "
+"wide."
+msgstr ""
+
+#: ../profile.php:62
+#, php-format
+msgid ""
+"<strong>Admin:</strong> Oh snap! You need to add content to this page. It is "
+"recommended that you add a <a href=\"%1$s\" title=\"Writing &amp; Editing, "
+"Featured Images\">Featured Image</a>, <a href=\"%2$s\" title=\"\">Excerpt</"
+"a>, and <a href=\"%3$s\" title=\"\">Post Content</a> to this page. You can "
+"add these items in the <a href=\"%4$s\" title=\"Edit %5$s\">Edit Post</a> "
+"screen."
+msgstr ""
+
+#: ../searchform.php:6
+msgid "Type and press Enter to search"
+msgstr "Escribe y pulsa Enter para buscar"
+
+#: ../searchform.php:7
+msgid "Search site&hellip;"
+msgstr "Buscar en el sitio&hellip;"
+
+#: ../sidebar.php:15
+#, php-format
+msgid ""
+"<strong>Admin:</strong> Oh snap! It looks like you haven't added any <a href="
+"\"%1$s\" title=\"WordPress Widgets\">Widgets</a>. Head over to the <a href="
+"\"%2$s\">Widgets admin page</a> to add Widgets."
+msgstr ""
+
+#: ../single.php:17
+#, php-format
+msgid "By <strong>%s</strong>"
+msgstr "Por <strong>%s</strong>"
+
+#: ../single.php:29
+msgid "Tags: "
+msgstr ""
+
+#: ../single.php:32
+#, php-format
+msgid "Categories: %s"
+msgstr "CategorÃ­as: %s"
+
+#: ../single.php:40
+msgid "Read previous post"
+msgstr "Leer el artÃ­culo anterior"
+
+#: ../single.php:41
+msgid "Read next post"
+msgstr "Leer el siguiente artÃ­culo"
+
+#: ../functions/attached-posts.php:112
+msgid "Attached Posts"
+msgstr "ArtÃ­culos adjuntos"
+
+#: ../functions/attached-posts.php:114
+msgid "No posts currently associated with this page."
+msgstr "NingÃºn artÃ­culo asociado con esta pÃ¡gina"
+
+#: ../functions/attached-posts.php:115
+msgid "Choose Posts"
+msgstr "Elegir artÃ­culo"
+
+#: ../functions/attached-posts.php:116
+msgid "Recent Posts"
+msgstr "ArtÃ­culos recientes"
+
+#: ../functions/attached-posts.php:117
+msgid "Search"
+msgstr "Buscar"
+
+#: ../functions/attached-posts.php:118
+msgid "No posts available"
+msgstr "NingÃºn artÃ­culo disponible"
+
+#: ../functions/attached-posts.php:224
+msgid "Drag-and-drop post into order"
+msgstr "Arrastra y suelta el artÃ­culo para ordenar"
+
+#: ../functions/attached-posts.php:226 ../functions/attached-posts.php:323
+msgid "Remove post"
+msgstr "Eliminar artÃ­culo"
+
+#: ../functions/attached-posts.php:227 ../functions/attached-posts.php:324
+msgid "(Remove)"
+msgstr "(Remover)"
+
+#: ../functions/attached-posts.php:262
+msgid "Add post"
+msgstr "Agregar artÃ­culo"
+
+#: ../functions/attached-posts.php:277
+msgid "Search for posts"
+msgstr "Buscar artÃ­culos"
+
+#: ../functions/logo.php:87
+msgid "Logo"
+msgstr "Logo"
+
+#: ../functions/logo.php:106
+msgid "Regular Logo"
+msgstr "Logo normal"
+
+#: ../functions/logo.php:127
+msgid "Retina Logo"
+msgstr "Logo Retina"
+
+#: ../functions/options.php:20
+msgid "Footer"
+msgstr "Footer"
+
+#: ../functions/options.php:38
+msgid "Footer Text"
+msgstr "Texto de Footer"
+
+#: ../functions/options.php:58
+msgid "Twitter URL"
+msgstr "URL Twitter"
+
+#: ../functions/options.php:78
+msgid "Facebook URL"
+msgstr "URL Facebook"
+
+#: ../functions/options.php:98
+msgid "Google Plus URL"
+msgstr "URL Google Plus"
+
+#: ../functions/options.php:118
+msgid "Flickr URL"
+msgstr "URL Flickr"
+
+#: ../functions/options.php:138
+msgid "Pinterest URL"
+msgstr "URL Pinterest"
+
+#: ../functions/options.php:158
+msgid "LinkedIn URL"
+msgstr "URL LinkedIn"
+
+#: ../functions/options.php:178
+msgid "RSS URL"
+msgstr "URL RSS"
+
+#: ../functions/options.php:189
+msgid "Display"
+msgstr "Mostrar"
+
+#: ../functions/options.php:207
+msgid "Portfolio Item Button Text"
+msgstr "Texto de botÃ³n en Portafolio"
+
+#: ../functions/options.php:227
+msgid "Hide featured image on post pages"
+msgstr "Ocultar la imagen destacada en pÃ¡ginas de artÃ­culos"
+
+#: ../functions/options.php:247
+msgid "Disable Merriweather web font"
+msgstr "Desactivar la fuente Merriweather"
+
+#: ../functions/options.php:268
+msgid "Primary Color"
+msgstr "Color principal"
+
+#: ../functions/options.php:290
+msgid "Secondary Color"
+msgstr "Color secundario"
+
+#~ msgid "Untitled"
+#~ msgstr "Sans titre"
+
+#~ msgid "Print this page "
+#~ msgstr "Imprimer cette page"
+
+#~ msgid "Tagged: "
+#~ msgstr "TaguÃ©:"
+
+#~ msgid "Print this post "
+#~ msgstr "Imprimer cet article"
+
+#~ msgid "No comments"
+#~ msgstr "Aucun commentaire"
+
+#~ msgid "1 Comment"
+#~ msgstr "1 Commentaire"
+
+#~ msgid "% Comments"
+#~ msgstr "% Commentaires"
+
+#~ msgid "Categories"
+#~ msgstr "CatÃ©gories"
+
+#~ msgid "Archives by Month"
+#~ msgstr "Archives par Mois"
+
+#~ msgid "Archives by Year"
+#~ msgstr "Archives par AnnÃ©e"
+
+#~ msgid "Edit page"
+#~ msgstr "Modifier la page"
+
+#~ msgid "Next"
+#~ msgstr "PrÃ©cÃ©dent"
+
+#~ msgid "Return to %s"
+#~ msgstr "Retourner sur %s"
+
+#~ msgid "Post a comment"
+#~ msgstr "Poster un commentaire"
+
+#~ msgid "Trackbacks &amp; Pingbacks"
+#~ msgstr "RÃ©troliens"
+
+#~ msgid "&laquo; Older Pingbacks"
+#~ msgstr "&raquo; RÃ©troliens plus anciens"
+
+#~ msgid "Newer Pingbacks &raquo;"
+#~ msgstr "RÃ©troliens plus rÃ©cents &raquo;"
+
+#~ msgid "No comments yet&hellip;"
+#~ msgstr "Aucun commentaire pour le moment&hellip;"
+
+#~ msgid ""
+#~ "Subscribe to this comment feed via <abbr title=\"Really Simple Syndication"
+#~ "\">RSS<abbr>"
+#~ msgstr ""
+#~ "Abonnez-vous Ã  ces commentaires via <abbr title=\"Really Simple "
+#~ "Syndication\">RSS<abbr>"
+
+#~ msgid "Name:"
+#~ msgstr "Nom :"
+
+#~ msgid "Email:"
+#~ msgstr "Email:"
+
+#~ msgid "Submit Comment"
+#~ msgstr "Soumettre le commentaire"
+
+#~ msgid ""
+#~ "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out "
+#~ "of this account\">Log out &raquo;</a>"
+#~ msgstr ""
+#~ "ConnectÃ© en tant que <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title="
+#~ "\"Se dÃ©connecter de ce compte\">Se dÃ©connecter &raquo;</a>"
+
+#~ msgid "Leave a Reply"
+#~ msgstr "Laisser une rÃ©ponse"
+
+#~ msgid "Leave a comment to %s"
+#~ msgstr "Laisser un commentaire Ã  %s"
+
+#~ msgid "RSS"
+#~ msgstr "RSS"
+
+#~ msgid "Posts tagged &#8220;<em>%s</em>&#8221;"
+#~ msgstr "Articles taguÃ©s dans &#8220;<em>%s</em>&#8221;"
+
+#~ msgid "Fonts &amp; colors"
+#~ msgstr "Polices d'Ã©critures &amp; couleurs"
+
+#~ msgid "Logo URL:"
+#~ msgstr "URL du logo:"
+
+#~ msgid ""
+#~ "Upload an image or enter an <abbr title=\"Universal resource locator"
+#~ "\">URL</abbr> for your image. If you choose not to upload a logo, your "
+#~ "site's title will be used for the header."
+#~ msgstr ""
+#~ "TÃ©lÃ©charger une image ou entrer une <abbr title=\"Universal resource "
+#~ "locator\">URL </abbr> pour votre image. Si vous choisissez de ne pas "
+#~ "tÃ©lÃ©charger un logo, le titre de votre site sera utilisÃ© pour l'en-tÃªte."
+
+#~ msgid "Droid Sans (default)"
+#~ msgstr "Droid Sans (defaut)"
+
+#~ msgid "Gentium Book Basic"
+#~ msgstr "Gentium Book Basic"
+
+#~ msgid "Georgia"
+#~ msgstr "Georgia"
+
+#~ msgid "Arial"
+#~ msgstr "Arial"
+
+#~ msgid "PT Sans"
+#~ msgstr "PT Sans"
+
+#~ msgid "Rosario"
+#~ msgstr "Rosario"
+
+#~ msgid "Accent font:"
+#~ msgstr "Police accentuÃ©:"
+
+#~ msgid ""
+#~ "The accent font is used for headings, block quotes and other highlighted "
+#~ "areas."
+#~ msgstr ""
+#~ "La police accentuÃ©e est utilisÃ©e pour les titres, les citations et "
+#~ "d'autres zones mises en Ã©vidence."
+
+#~ msgid "Gentium Book Basic (default)"
+#~ msgstr "Gentium Book Basic (dÃ©faut)"
+
+#~ msgid "Droid Sans"
+#~ msgstr "Droid Sans"
+
+#~ msgid "Lekton"
+#~ msgstr "Lekton"
+
+#~ msgid "Body font:"
+#~ msgstr "Police du corps de texte:"
+
+#~ msgid ""
+#~ "The body font is used for all content not covered by the accent font."
+#~ "<br><br><strong>Note:</strong> For optimum load times, use the "
+#~ "<strong>Georgia</strong> or <strong>Arial</strong> font family. All other "
+#~ "fonts will slightly increase page load time."
+#~ msgstr ""
+#~ "La police de corps de texte est utilisÃ© pour tous les contenus et n'est "
+#~ "pas couverte par la police d'accent.<br><br><strong>Remarque:</strong>  "
+#~ "Pour l'optimisation du temps de chargement des pages, utiliser plutÃ´t la "
+#~ "famille de police <strong>Georgia</strong> ou <strong>Arial</strong>. "
+#~ "Toutes les autres polices d'Ã©criture vont lÃ©gÃ¨rement augmenter le temps "
+#~ "de chargement."
+
+#~ msgid "Choose the primary color for your theme."
+#~ msgstr "Choisisser une couleur principale pour votre theme."
+
+#~ msgid "Choose the secondary color for your theme."
+#~ msgstr "Choisisser une couleur secondaire pour votre theme."
+
+#~ msgid "Hide tags"
+#~ msgstr "Masquer les tags"
+
+#~ msgid "Check to hide tags in posts."
+#~ msgstr "Cocher la case pour masquer les tags dans les articles."
+
+#~ msgid "Hide categories"
+#~ msgstr "Masquer les catÃ©gories"
+
+#~ msgid "Check to hide categories in posts."
+#~ msgstr "Cocher la case pour masquer les catÃ©gories dans les articles."
+
+#~ msgid "Hide author"
+#~ msgstr "Masquer l'auteur"
+
+#~ msgid "Check to hide the author in posts."
+#~ msgstr "Cocher la case pour masquer l'auteur dans les articles."
+
+#~ msgid "Hide post navigation"
+#~ msgstr "Masquer la navigation des articles"
+
+#~ msgid "Check to hide post navigation in single post view."
+#~ msgstr "Cocher la case pour masquer la navigation dans les articles."
+
+#~ msgid "Hide print link"
+#~ msgstr "Masquer le lien d'impression"
+
+#~ msgid "Check to hide print link in posts and pages."
+#~ msgstr ""
+#~ "Cocher la case pour maquer le lien d'impression dans les articles et les "
+#~ "pages."
+
+#~ msgid "Sticky post text:"
+#~ msgstr "Titre de l'article Ã©pinglÃ©:"
+
+#~ msgid ""
+#~ "Enter your text you would like to appear in the sticky post title. To "
+#~ "remove the title completely, leave this option blank."
+#~ msgstr ""
+#~ "Entrer votre texte que vous souhaitez voir apparaÃ®tre dans le titre de "
+#~ "l'article Ã©pinglÃ©. Pour supprimer le titre complÃ¨tement, laissez cette "
+#~ "option vide."
+
+#~ msgid "Copyright text:"
+#~ msgstr "Texte du copyright:"
+
+#~ msgid "Enter your copyright notice to be displayed in the theme footer."
+#~ msgstr ""
+#~ "Renseigner votre copyright pour qu'il s'affiche dans le pied de page du "
+#~ "theme."
+
+#~ msgid "Twitter <abbr title=\"Universal resource locator\">URL</abbr>:"
+#~ msgstr "<abbr title=\"Universal resource locator\">URL</abbr> Twitter:"
+
+#~ msgid "Enter your Twitter link."
+#~ msgstr "Entrer le lien de votre Twitter."
+
+#~ msgid "Facebook <abbr title=\"Universal resource locator\">URL</abbr>:"
+#~ msgstr "<abbr title=\"Universal resource locator\">URL</abbr> Facebook:"
+
+#~ msgid "Enter your Facebook link."
+#~ msgstr "Entrer le lien de votre Facebook."
+
+#~ msgid "Google+ <abbr title=\"Universal resource locator\">URL</abbr>:"
+#~ msgstr "<abbr title=\"Universal resource locator\">URL</abbr> Google+:"
+
+#~ msgid "Enter your Google+ link."
+#~ msgstr "Entrer le lien de votre Google+."
+
+#~ msgid "Flickr <abbr title=\"Universal resource locator\">URL</abbr>:"
+#~ msgstr "<abbr title=\"Universal resource locator\">URL</abbr> Flickr:"
+
+#~ msgid "Enter your Flickr link."
+#~ msgstr "Entrer le lien de votre Flickr."
+
+#~ msgid "Disable all icons"
+#~ msgstr "DÃ©sactiver toutes les icÃ´nes"
+
+#~ msgid ""
+#~ "Check to hide all footer icons (including <abbr title=\"Really Simple "
+#~ "Syndication\">RSS</abbr>). This option overrides all other icon settings."
+#~ msgstr ""
+#~ "Cocher pour masquer tous les icÃ´nes du pied de page (en incluant <abbr "
+#~ "title=\"Really Simple Syndication\">RSS</abbr>). Cette option remplace "
+#~ "tous les autres paramÃ¨tres d''icÃ´nes."
+
+#~ msgid "Search results for <em>&#8220;%s&#8221;</em>"
+#~ msgstr "RÃ©sultats de recherche pour <em>&#8220;%s&#8221;</em>"
+
+#~ msgid "Pages"
+#~ msgstr "Pages"
+
+#~ msgid ""
+#~ "Options already initialized. Struts no longer requires manual "
+#~ "initialization."
+#~ msgstr ""
+#~ "Options dÃ©jÃ  initialisÃ©es. Struts ne nÃ©cessite plus l'initialisation "
+#~ "manuelle."
+
+#~ msgid "Section with name &lsquo;%1$s&rsquo; not defined"
+#~ msgstr "Veuillez renseigner les champs &lsquo;%1$s&rsquo;"
+
+#~ msgid "Save Settings"
+#~ msgstr "Sauvegarder les rÃ©glages"
+
+#~ msgid "Reset Defaults"
+#~ msgstr "RÃ©initialiser les paramÃ¨tres par dÃ©faut"
+
+#~ msgid "Theme settings updated successfully."
+#~ msgstr "Les rÃ©glages du thÃ¨me ont bien Ã©tÃ© mis Ã  jour."
+
+#~ msgid "Edit"
+#~ msgstr "Modifier"
+
+#~ msgid "Save changes"
+#~ msgstr "Sauvegarder les changements"
+
+#~ msgid "show color picker"
+#~ msgstr "Afficher le sÃ©lecteur de couleur"
