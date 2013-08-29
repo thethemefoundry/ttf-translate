@@ -1,0 +1,850 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Photography 2\n"
+"POT-Creation-Date: 2013-08-28 22:36+0100\n"
+"PO-Revision-Date: 2013-08-28 22:40+0100\n"
+"Last-Translator: Sebitsena <sebitsena@yahoo.fr>\n"
+"Language-Team: Sébastien Ortega-Dubois <sebastien@ortega-dubois.fr>\n"
+"Language: Français\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n_noop:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;esc_attr__;esc_attr_e;"
+"esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2 ; plural=(n>1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: flickr/metabox.php:54 flickr/setup.php:126 ../footer.php:48
+#: ../includes/flickr/metabox.php:54 ../includes/flickr/setup.php:126
+msgid "Flickr"
+msgstr "Flickr"
+
+#: flickr/metabox.php:80 ../includes/flickr/metabox.php:80
+msgid "Enable Flickr"
+msgstr "Activer Flickr"
+
+#: flickr/metabox.php:85 ../includes/flickr/metabox.php:85
+msgid "Flickr set"
+msgstr "Flickr set"
+
+#: flickr/metabox.php:101 ../includes/flickr/metabox.php:101
+msgid ""
+"You currently have no Flickr sets. Please add some Flickr sets. You may also "
+"need to reauthenticate your Flickr account."
+msgstr ""
+"Aucun set Flickr. Merci d'ajouter quelques sets Flickr. Une nouvelle "
+"authentification auprès de Flickr peut être demandée."
+
+#: flickr/setup.php:131 ../includes/flickr/setup.php:131
+msgid "Consumer Key"
+msgstr "Consumer Key"
+
+#: flickr/setup.php:132 ../includes/flickr/setup.php:132
+msgid "Enter your Flickr API Consumer Key"
+msgstr "Entrer l'API Consumer Key"
+
+#: flickr/setup.php:136 ../includes/flickr/setup.php:136
+msgid "Consumer Secret"
+msgstr "Consumer Secret"
+
+#: flickr/setup.php:137 ../includes/flickr/setup.php:137
+msgid "Enter your Flickr API Consumer Secret"
+msgstr "Entrer l'API Consumer Secret"
+
+#: flickr/setup.php:168 ../includes/flickr/setup.php:168
+msgid "Authenticate with Flickr"
+msgstr "Authentification Flickr"
+
+#: flickr/setup.php:169 ../includes/flickr/setup.php:169
+msgid "Authenticate"
+msgstr "Authentification"
+
+#: flickr/setup.php:213 flickr/setup.php:223 flickr/setup.php:229
+#: flickr/setup.php:239 flickr/setup.php:314 flickr/setup.php:324
+#: flickr/setup.php:341 flickr/setup.php:348 ../includes/flickr/setup.php:213
+#: ../includes/flickr/setup.php:223 ../includes/flickr/setup.php:229
+#: ../includes/flickr/setup.php:239 ../includes/flickr/setup.php:314
+#: ../includes/flickr/setup.php:324 ../includes/flickr/setup.php:341
+#: ../includes/flickr/setup.php:348
+msgid "An error occurred while trying to connect to Flickr."
+msgstr "Une erreur est survenue lors de la connexion à Flickr."
+
+#: flickr/setup.php:278 flickr/setup.php:287 ../includes/flickr/setup.php:278
+#: ../includes/flickr/setup.php:287
+msgid "An authentication error occurred with Flickr."
+msgstr "Une erreur d'authentification est survenue avec Flickr."
+
+#: struts/classes/struts/options.php:127
+#: ../includes/struts/classes/struts/options.php:127
+msgid ""
+"Options already initialized. Struts no longer requires manual initialization."
+msgstr ""
+"Options déjà initialisées. Struts ne nécessite plus d'initialisation "
+"manuelle."
+
+#: struts/classes/struts/options.php:160 struts/classes/struts/options.php:161
+#: struts/classes/struts/options.php:316
+#: ../includes/struts/classes/struts/options.php:160
+#: ../includes/struts/classes/struts/options.php:161
+#: ../includes/struts/classes/struts/options.php:316
+msgid "Theme Options"
+msgstr "Options du thème"
+
+#: struts/classes/struts/options.php:269
+#: ../includes/struts/classes/struts/options.php:269
+#, php-format
+msgid "Section with name &lsquo;%1$s&rsquo; not defined"
+msgstr "La section portant le nom &lsquo;%1$s&rsquo; n'est pas définie"
+
+#: struts/classes/struts/options.php:324
+#: ../includes/struts/classes/struts/options.php:324
+msgid "Click OK if you want to reset your theme options to the defaults."
+msgstr "Cliquer sur OK pour réinitialiser le thème."
+
+#: struts/classes/struts/options.php:327
+#: ../includes/struts/classes/struts/options.php:327
+msgid "Save Settings"
+msgstr "Enregistrer les paramètres"
+
+#: struts/classes/struts/options.php:328
+#: ../includes/struts/classes/struts/options.php:328
+msgid "Reset Defaults"
+msgstr "Configuration d'origine"
+
+#: struts/classes/struts/options.php:338
+#: ../includes/struts/classes/struts/options.php:338
+msgid "Theme settings updated successfully."
+msgstr "Paramètres du thème mis à jour."
+
+#: struts/classes/struts/section.php:97
+#: ../includes/struts/classes/struts/section.php:97
+msgid "Edit"
+msgstr "Modifier"
+
+#: struts/classes/struts/section.php:104
+#: ../includes/struts/classes/struts/section.php:104
+msgid "Save changes"
+msgstr "Enregistrer les modifications"
+
+#: struts/classes/struts/option/color.php:35
+#: ../includes/struts/classes/struts/option/color.php:35
+msgid "show color picker"
+msgstr "Montrer le sélecteur de couleurs"
+
+#: struts/classes/struts/option/image.php:11
+#: ../includes/struts/classes/struts/option/image.php:11
+msgid "Upload Image"
+msgstr "Mettre une image en ligne"
+
+#: ../404.php:9
+msgid ""
+"We&rsquo;re sorry, this page no longer exists. It may have been deleted. Try "
+"searching:"
+msgstr ""
+"Cette page n'existe plus. Elle a pu être effacée. Essayer une recherche :"
+
+#: ../_content.php:16
+msgid "Read more"
+msgstr "Lire la suite"
+
+#: ../_featured.php:8 ../_format-image.php:9
+msgid "View full post"
+msgstr "Voir l'article complet"
+
+#: ../_header.php:11
+#, php-format
+msgid "Search results for &#8216;%s&#8217;"
+msgstr "Résultats de la recherche pour &#8216;%s&#8217;"
+
+#: ../_header.php:13
+msgid "404: Page Not Found"
+msgstr "404 : Page non trouvée"
+
+#: ../_header.php:21
+msgid "Featured"
+msgstr "En avant (featured)"
+
+#: ../_links.php:6
+msgid "Pages:"
+msgstr "Pages : "
+
+#: ../_nav-footer.php:11
+msgid "Older posts"
+msgstr "Articles précédents"
+
+#: ../_nav-footer.php:12
+msgid "Newer posts"
+msgstr "Articles récents"
+
+#: ../_post-footer.php:10
+msgid "Leave a comment"
+msgstr "Laisser un commentaire"
+
+#: ../_post-footer.php:10
+msgid "1 Comment"
+msgstr "1 commentaire"
+
+#: ../_post-footer.php:10
+msgid "% Comments"
+msgstr "% commentaires"
+
+#: ../_post-footer.php:23
+msgid "Categories: "
+msgstr "Catégories : "
+
+#: ../_post-footer.php:30
+msgid "Tags: "
+msgstr "Tags : "
+
+#: ../archive.php:13
+msgid "No posts found."
+msgstr "Aucun article trouvé."
+
+#: ../attachment.php:33
+msgid "&larr; Previous image"
+msgstr "&larr; Image précédente"
+
+#: ../attachment.php:34
+msgid "Next image &rarr;"
+msgstr "Image suivante &rarr;"
+
+#: ../comments.php:17
+#, php-format
+msgid "One Response to <em>&ldquo;%s&rdquo;</em>"
+msgstr "Une réponse à <em>&ldquo;%s&rdquo;</em>"
+
+#: ../comments.php:22
+#, php-format
+msgid "%d Responses to &ldquo;%s&rdquo;"
+msgstr "%d Réponses à <em>&ldquo;%2$s&rdquo;</em>"
+
+#: ../comments.php:36
+msgid "&larr; Older comments"
+msgstr "&larr; Commentaires précédents"
+
+#: ../comments.php:37
+msgid "Newer comments &rarr;"
+msgstr "Commentaires récents &rarr;"
+
+#: ../comments.php:42
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: ../footer.php:25
+msgid "Theme info"
+msgstr "Information sur le thème"
+
+#: ../footer.php:25
+msgid "The Theme Foundry home page"
+msgstr "Page d'accueil de The Theme Foundry"
+
+#: ../footer.php:33
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../footer.php:38
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../footer.php:43
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: ../footer.php:53
+msgid "500px"
+msgstr "500px"
+
+#: ../footer.php:57
+msgid "RSS feed"
+msgstr "Flux RSS"
+
+#: ../functions.php:75
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: ../functions.php:94
+msgid "Sidebar"
+msgstr "Barre latérale"
+
+#: ../functions.php:130
+msgid "Your comment is awaiting moderation."
+msgstr "Commentaire en attente de modération."
+
+#: ../functions.php:179 ../header.php:50
+msgid "Show Menu"
+msgstr "Montrer le menu"
+
+#: ../functions.php:180
+msgid "Hide Menu"
+msgstr "Cacher le menu"
+
+#: ../functions.php:265
+msgctxt "noun"
+msgid "Comment"
+msgstr "Commentaire"
+
+#: ../functions.php:270
+msgid ""
+"Subscribe to this comment feed via <abbr title=\"Really Simple Syndication"
+"\">RSS</abbr>"
+msgstr ""
+"S'abonner au flux des commentaires via <abbr title=\"Really Simple "
+"Syndication\">RSS</abbr>"
+
+#: ../functions.php:271
+msgid ""
+"Basic <abbr title=\"Hypertext Markup Language\">HTML</abbr> is allowed. Your "
+"email address will not be published."
+msgstr ""
+"Le langage <abbr title=\"Hypertext Markup Language\">HTML</abbr> est "
+"autorisé. L'adresse email ne sera pas publiée."
+
+#: ../functions.php:277
+msgid "Name:"
+msgstr "Nom :"
+
+#: ../functions.php:283
+msgid "Email:"
+msgstr "Email :"
+
+#: ../functions.php:289
+msgid "Website:"
+msgstr "Site :"
+
+#: ../functions.php:369
+#, php-format
+msgid "Posts from the &#8216;%s&#8217; category"
+msgstr "Articles de la catégorie &#8216;%s&#8217;"
+
+#: ../functions.php:371
+#, php-format
+msgid "Posts tagged &#8216;%s&#8217;"
+msgstr "Articles taggés &#8216;%s&#8217;"
+
+#: ../functions.php:373 ../functions.php:375 ../functions.php:377
+#, php-format
+msgid "Archive for &#8216;%s&#8217;"
+msgstr "Archive pour %s"
+
+#: ../functions.php:382
+#, php-format
+msgid "Posts by %s"
+msgstr "Articles par %s"
+
+#: ../functions.php:387
+msgid "Blog Archives"
+msgstr "Archives du blog"
+
+#: ../functions.php:408
+msgid "Page Not Found | "
+msgstr "Page non trouvée | "
+
+#: ../functions.php:410
+msgid "Search results | "
+msgstr "Résultats de la recherche | "
+
+#: ../gallery.php:66
+msgid ""
+"This is a placeholder. You can remove this placeholder by setting a featured "
+"image in the Edit Post screen for this post."
+msgstr ""
+"Ceci est un espace réservé. Il est possible de l'enlever en choisissant une "
+"image à mettre en avant dans \"Modifier l'article\"."
+
+#: ../header.php:32 ../header.php:38
+msgid "Home"
+msgstr "Accueil"
+
+#: ../search.php:14
+msgid "Read article"
+msgstr "Lire l'article"
+
+#: ../search.php:15
+msgid "View more"
+msgstr "Voir plus"
+
+#: ../search.php:20
+#, php-format
+msgid ""
+"Sorry, your search for &#8216;%s&#8217; did not turn up any results. Please "
+"try again."
+msgstr ""
+"La recherche pour &#8216%s&#8217 n'a retourné aucun résultat. Essayer à "
+"nouveau."
+
+#: ../searchform.php:6
+msgid "Type and press Enter to search"
+msgstr "Appuyer sur Entrée pour lancer la recherche"
+
+#: ../searchform.php:12
+msgid "Search site&hellip;"
+msgstr "Recherche ..."
+
+#: ../single.php:45
+msgid "By "
+msgstr "Par "
+
+#: ../single.php:50
+msgid "on "
+msgstr "le "
+
+#: ../single.php:72
+msgid "Read next article"
+msgstr "Lire l'article suivant"
+
+#: ../single.php:73
+msgid "Read previous article"
+msgstr "Lire l'article précédent"
+
+#: ../sitemap.php:14
+msgid "Pages"
+msgstr "Pages"
+
+#: ../sitemap.php:18
+msgid "Recent posts"
+msgstr "Articles récents"
+
+#: ../sitemap.php:35
+msgid "Authors"
+msgstr "Auteurs"
+
+#: ../sitemap.php:39
+msgid "Categories"
+msgstr "Catégories"
+
+#: ../sitemap.php:43
+msgid "Archives"
+msgstr "Archives"
+
+#: ../functions/admin-pointers.php:18
+msgid "Custom Editor Buttons"
+msgstr "Boutons personnalisés de l'éditeur"
+
+#: ../functions/admin-pointers.php:19
+msgid ""
+"Photography provides custom formatting buttons for styling your content. "
+"Click the \"show kitchen sink\" button to view Photography&#8217s formatting "
+"buttons."
+msgstr ""
+"Photography fournit des boutons personnalisés pour styler le contenu. "
+"Cliquer sur le bouton \"show kitchen sink\" pour voir les boutons spéciaux "
+"de Photography."
+
+#: ../functions/admin-pointers.php:36 ../functions/metabox.php:70
+msgid "Stage Height"
+msgstr "Hauteur (stage)"
+
+#: ../functions/admin-pointers.php:37
+msgid ""
+"The height of the gallery can be adjusted by changing this value. The "
+"default value is 640."
+msgstr ""
+"La hauteur de la galerie peut être ajustée en chageant cette valeur. Par "
+"défaut, la valeur est de 640."
+
+#: ../functions/admin-pointers.php:54
+msgid "Photo Orientation"
+msgstr "Orientation"
+
+#: ../functions/admin-pointers.php:55
+msgid ""
+"Using this control, you can choose to display thumbnails on this Gallery "
+"page in either landscape or portrait orientation."
+msgstr ""
+"Ce sélecteur permet de choisir la façon d'afficher les miniatures dans la "
+"page Galerie, soit en orientation paysage, soit en orientation portrait."
+
+#: ../functions/avatar.php:67
+msgid "Man of Mystery (default)"
+msgstr "Man of Mystery (default)"
+
+#: ../functions/item-order.php:54
+msgid "Gallery Page Options"
+msgstr "Options de la page Galerie"
+
+#: ../functions/item-order.php:89
+msgid "Use this box to add, remove and sort your gallery items on this page."
+msgstr ""
+"Utiliser cette boîte pour ajouter, retirer et trier les éléments de la "
+"galerie sur cette page."
+
+#: ../functions/item-order.php:93
+msgid "Drag-and-drop your gallery items into order:"
+msgstr "Glisser-déposer les éléments de la galerie dans l'ordre souhaité :"
+
+#: ../functions/item-order.php:96
+msgid ""
+"You don't have any gallery items associated with this page. Available items "
+"are listed below."
+msgstr ""
+"Aucune galerie associée à cette page. Les éléments disponibles sont listés "
+"ci-dessous."
+
+#: ../functions/item-order.php:99
+msgid ""
+"If you don't see the item you're looking for, make sure it is marked as a "
+"<strong>gallery item</strong> on the <em>Edit Post</em> screen."
+msgstr ""
+"Si les éléments recherchés n'apparaissent pas, s'assurer qu'ils ont été "
+"marqués comme <strong>galerie</strong> dans l'écran <em>Modifier l'article</"
+"em>."
+
+#: ../functions/item-order.php:101
+msgid "Drag items here to add them to the page:"
+msgstr "Placer les éléments ici pour les ajouter à la page :"
+
+#: ../functions/item-order.php:108
+msgid "Available items"
+msgstr "Éléments disponibles"
+
+#: ../functions/item-order.php:110
+msgid "Check to add to the list of active items above:"
+msgstr "Cocher pour ajouter à la liste des éléments actifs ci-dessus :"
+
+#: ../functions/item-order.php:112
+msgid "Drag items here to remove them from the page:"
+msgstr "Placer les éléments ici pour les enlever de la page :"
+
+#: ../functions/item-order.php:119
+msgid ""
+"You haven't created any gallery items yet. To create a gallery item, mark a "
+"standard Post as a <strong>gallery item</strong> on the <em>Edit Post</em> "
+"screen."
+msgstr ""
+"Aucune galerie créée. Pour créer une galerie, marquer un article comme "
+"<strong>galerie</strong> dans l'écran <em>Modifier l'article</em>."
+
+#: ../functions/item-order.php:279
+msgid "Untitled"
+msgstr "Sans titre"
+
+#: ../functions/item-order.php:284
+msgid "edit"
+msgstr "modifier"
+
+#: ../functions/metabox.php:60
+msgid "Orientation"
+msgstr "Orientation"
+
+#: ../functions/metabox.php:102
+msgid "Landscape"
+msgstr "Paysage"
+
+#: ../functions/metabox.php:109
+msgid "Portrait"
+msgstr "Portrait"
+
+#: ../functions/theme-options.php:26
+msgid "Custom logo image"
+msgstr "Logo personnalisé"
+
+#: ../functions/theme-options.php:27
+msgid "Display options"
+msgstr "Options d'affichage"
+
+#: ../functions/theme-options.php:28
+msgid "Gallery display"
+msgstr "Option de galerie"
+
+#: ../functions/theme-options.php:29
+msgid "Subscribe links &amp; credit text"
+msgstr "Abonnements &amp; Copyright"
+
+#: ../functions/theme-options.php:36
+msgid "Logo image:"
+msgstr "Logo :"
+
+#: ../functions/theme-options.php:37
+msgid ""
+"Upload an image (making sure to click <strong>\"Insert into post\"</strong>) "
+"or enter an <abbr title=\"Universal resource locator\">URL</abbr> for your "
+"image. If you choose not to upload a logo, your site's title will be used "
+"for the header."
+msgstr ""
+"Uploader une image (s'assurer de cliquer <strong>\"Insérer dans l'article\"</"
+"strong>) ou entrer une <abbr title=\"Universal resource locator\">URL</abbr> "
+"pour l'image. Si aucun logo n'est uploadé, le titre du site sera utilisé "
+"pour l'en-tête du site."
+
+#: ../functions/theme-options.php:41
+msgid "High resolution logo"
+msgstr "Logo haute résolution"
+
+#: ../functions/theme-options.php:42
+msgid ""
+"Upload a high resolution logo image for Retina (and similar hi-res) devices. "
+"This logo will be scaled down 50% and served only to high resolution devices."
+msgstr ""
+"Uploader une image haute résolution pour afficher le logo sur les appareils "
+"Retina (et similaires). Ce logo sera réduit de 50% et servira uniquement "
+"pour les appareils avec écrans haute résolution."
+
+#: ../functions/theme-options.php:48
+msgid "Hide Gallery posts in the blog"
+msgstr "Masquer les articles Galerie du blog"
+
+#: ../functions/theme-options.php:49
+msgid "Check to hide Gallery posts in the blog."
+msgstr "Cocher pour masquer les articles Galerie du blog."
+
+#: ../functions/theme-options.php:53
+msgid "Hide Gallery post content in the blog"
+msgstr "Masquer les articles Galerie du blog"
+
+#: ../functions/theme-options.php:54
+msgid "Check to hide the Gallery post content in blog and archive listings."
+msgstr "Cocher pour masquer les articles Galerie du blog."
+
+#: ../functions/theme-options.php:58
+msgid "Hide Video posts in the blog"
+msgstr "Masquer les articles Vidéo du blog"
+
+#: ../functions/theme-options.php:59
+msgid "Check to hide Video posts in the blog."
+msgstr "Cocher pour masquer les articles Vidéo du blog."
+
+#: ../functions/theme-options.php:63
+msgid "Hide Video post content in the blog"
+msgstr "Masquer les articles Vidéo du blog"
+
+#: ../functions/theme-options.php:64
+msgid "Check to hide the Video post content in blog and archive listings."
+msgstr "Cocher pour masquer les articles Vidéo du blog."
+
+#: ../functions/theme-options.php:68
+msgid "Dark (default)"
+msgstr "Foncée (par défaut)"
+
+#: ../functions/theme-options.php:69
+msgid "Light"
+msgstr "Claire"
+
+#: ../functions/theme-options.php:72
+msgid "Color Scheme:"
+msgstr "Couleur dominante :"
+
+#: ../functions/theme-options.php:73
+msgid "Choose your color scheme."
+msgstr "Choisir la couleur dominante du theme."
+
+#: ../functions/theme-options.php:77
+msgid "Hide tags"
+msgstr "Masquer les tags"
+
+#: ../functions/theme-options.php:78
+msgid "Check to hide tags in posts."
+msgstr "Cocher pour masquer les tags dans les articles."
+
+#: ../functions/theme-options.php:82
+msgid "Hide categories"
+msgstr "Masquer les catégories"
+
+#: ../functions/theme-options.php:83
+msgid "Check to hide categories in posts."
+msgstr "Cocher pour masquer les catégories dans les articles."
+
+#: ../functions/theme-options.php:87
+msgid "Hide author"
+msgstr "Masquer l'auteur"
+
+#: ../functions/theme-options.php:88
+msgid "Check to hide the author in posts."
+msgstr "Cocher pour masquer l'auteur dans les articles."
+
+#: ../functions/theme-options.php:92
+msgid "Hide date"
+msgstr "Masquer la date"
+
+#: ../functions/theme-options.php:93
+msgid "Check to hide dates throughout your site."
+msgstr "Cocher pour masquer les dates sur le site."
+
+#: ../functions/theme-options.php:97
+msgid "Hide post featured image"
+msgstr "Masquer l'image mise en avant"
+
+#: ../functions/theme-options.php:98
+msgid "Check to hide featured images in the single blog post view."
+msgstr "Cocher pour masquer l'image mise en avant dans l'article seul."
+
+#: ../functions/theme-options.php:102
+msgid "Helvetica Neue and Source Sans Pro"
+msgstr "Helvetica Neue et Source Sans Pro"
+
+#: ../functions/theme-options.php:103
+msgid "Helvetica Neue and Droid Serif"
+msgstr "Helvetica Neue et Droid Serif"
+
+#: ../functions/theme-options.php:104
+msgid "Merriweather and Open Sans"
+msgstr "Merriweather et Open Sans"
+
+#: ../functions/theme-options.php:105
+msgid "Helvetica Neue (Non web font)"
+msgstr "Helvetica Neue (Police Système)"
+
+#: ../functions/theme-options.php:108
+msgid "Fonts:"
+msgstr "Polices :"
+
+#: ../functions/theme-options.php:109
+msgid ""
+"Change the font sets used for your site. For optimum load times, use the "
+"<em>Helvetica Neue (Non web font)</em> option. All other fonts will slightly "
+"increase page load time."
+msgstr ""
+"Changer les polices utilisées pour ce site. Pour de meilleurs temps de "
+"chargement, utiliser la police <em>Helvetica Neue (Non web font)</em>. "
+"Toutes les autres polices augmenteront légèrement le temps de chargement des "
+"pages."
+
+#: ../functions/theme-options.php:116
+msgid "On (default)"
+msgstr "On (par défaut)"
+
+#: ../functions/theme-options.php:117
+msgid "Off"
+msgstr "Off"
+
+#: ../functions/theme-options.php:119
+msgid "Slideshow Autoplay:"
+msgstr "Diaporama automatique :"
+
+#: ../functions/theme-options.php:120
+msgid ""
+"Choose whether or not to automatically loop images in the gallery slideshows."
+msgstr "Choisir la lecture en boucle ou non des images dans les diaporamas."
+
+#: ../functions/theme-options.php:124
+msgid "Off (default)"
+msgstr "Off (par défaut)"
+
+#: ../functions/theme-options.php:125
+msgid "Basic caption"
+msgstr "Légende simple"
+
+#: ../functions/theme-options.php:126
+msgid "Fancy overlay"
+msgstr "Fancy"
+
+#: ../functions/theme-options.php:128
+msgid "Gallery captions:"
+msgstr "Légendes (galerie) :"
+
+#: ../functions/theme-options.php:129
+msgid "Choose which style to use to display image captions."
+msgstr "Choisir le style à appliquer pour afficher les légendes."
+
+#: ../functions/theme-options.php:133
+msgid "Enable simple gallery display"
+msgstr "Activer la galerie de base"
+
+#: ../functions/theme-options.php:134
+msgid ""
+"Show only the slideshow on individual galleries that are attached to a "
+"gallery page. Title and description will be hidden."
+msgstr ""
+"Affiche uniquement le diaporama sur les galeries individuelles rattachées la "
+"galerie. Titre et description seront masqués."
+
+#: ../functions/theme-options.php:140
+msgid "Twitter <abbr title=\"Universal resource locator\">URL</abbr>:"
+msgstr "Twitter <abbr title=\"Universal resource locator\">URL</abbr> :"
+
+#: ../functions/theme-options.php:141
+msgid "Enter your Twitter link."
+msgstr "Entrer le lien Twitter."
+
+#: ../functions/theme-options.php:145
+msgid "Facebook <abbr title=\"Universal resource locator\">URL</abbr>:"
+msgstr "Facebook <abbr title=\"Universal resource locator\">URL</abbr> :"
+
+#: ../functions/theme-options.php:146
+msgid "Enter your Facebook link."
+msgstr "Entrer le lien Facebook."
+
+#: ../functions/theme-options.php:150
+msgid "Google+ <abbr title=\"Universal resource locator\">URL</abbr>:"
+msgstr "Google+ <abbr title=\"Universal resource locator\">URL</abbr> :"
+
+#: ../functions/theme-options.php:151
+msgid "Enter your Google+ link."
+msgstr "Entrer le lien Google +."
+
+#: ../functions/theme-options.php:155
+msgid "Flickr <abbr title=\"Universal resource locator\">URL</abbr>:"
+msgstr "Flickr <abbr title=\"Universal resource locator\">URL</abbr> :"
+
+#: ../functions/theme-options.php:156
+msgid "Enter your Flickr link."
+msgstr "Entrer le lien Flickr."
+
+#: ../functions/theme-options.php:160
+msgid "500px <abbr title=\"Universal resource locator\">URL</abbr>:"
+msgstr "500px <abbr title=\"Universal resource locator\">URL</abbr> :"
+
+#: ../functions/theme-options.php:161
+msgid "Enter your 500px link."
+msgstr "Entrer le lien 500px."
+
+#: ../functions/theme-options.php:166
+msgid "Disable all icons"
+msgstr "Désactiver toutes les icônes"
+
+#: ../functions/theme-options.php:167
+msgid ""
+"Check to hide all subscribe icons (including <abbr title=\"Really Simple "
+"Syndication\">RSS</abbr>). This option overrides all other icon settings."
+msgstr ""
+"Cocher pour cacher toutes les icônes d'abonnement (<abbr title=\"Really "
+"Simple Syndication\">RSS</abbr> compris). Cette option écrase les paramètres "
+"de tous les autres icônes d'abonnement."
+
+#: ../functions/theme-options.php:170
+msgid "Credit line text:"
+msgstr "Texte du crédit :"
+
+#: ../functions/theme-options.php:171
+msgid ""
+"Enter your credit text to be displayed in the theme footer. Basic HTML is "
+"allowed."
+msgstr "Entrer le crédit à afficher dans le pied de page. HTML autorisé."
+
+#: ../functions/widgets/recently-discussed.php:18
+msgid "Recently Discussed Posts"
+msgstr "Articles récemments discutés"
+
+#: ../functions/widgets/recently-discussed.php:20
+msgid "Display the most recently discussed articles"
+msgstr "Afficher les articles les plus récemment discutés"
+
+#: ../functions/widgets/recently-discussed.php:43
+#: ../functions/widgets/recently-discussed.php:117
+msgid "Recently Discussed"
+msgstr "Discussions récentes"
+
+#: ../functions/widgets/recently-discussed.php:122
+msgid "Title:"
+msgstr "Titre :"
+
+#: ../functions/widgets/recently-discussed.php:126
+msgid "Number of posts to show:"
+msgstr "Nombre d'articles à afficher :"
+
+#: ../functions/widgets/recently-discussed.php:131
+msgid "Display post date?"
+msgstr "Afficher les articles par date ?"
+
+#~ msgid ""
+#~ "This post is password protected. Enter the password to view comments."
+#~ msgstr ""
+#~ "Cet article est protégé par un mot de passe. Entrer le mot de passe pour "
+#~ "voir les commentaires."
+
+#~ msgid "%1$s"
+#~ msgstr "%1$s"
