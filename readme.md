@@ -2,7 +2,7 @@
 
 1. Download this package (ZIP button above).
 2. Unzip the package and find the .po and .mo files for your theme and language.
-3. Create a `/languages` directory within your theme directory or your pro child theme directory and copy the .po and .mo files into that directory.
+3. Create a `/includes` directory within your theme directory or your pro child theme directory and copy the .po and .mo files into that directory.
 4. Define the language in your `wp-config.php` file.
 
 ### Create your own translation file
