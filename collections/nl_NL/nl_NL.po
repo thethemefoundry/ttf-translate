@@ -1,0 +1,443 @@
+# Copyright (C) 2013 The Theme Foundry
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Collections 1.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/build\n"
+"POT-Creation-Date: 2013-10-10 19:33:03+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-10-15 09:44+0100\n"
+"Last-Translator: Rob Hogendoorn <rob.hogendoorn@openboeddhisme.nl>\n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.5.7\n"
+
+#: 404.php:16
+msgid "Sorry, this %1$s no longer exists. Try searching the site:"
+msgstr "Sorry, deze %1$s bestaat niet meer. Doorzoek de site:"
+
+#: 404.php:23
+msgid "Uniform resource locator"
+msgstr "Uniform resource locator"
+
+#: 404.php:24
+msgid "URL"
+msgstr "URL"
+
+#: _entry-title.php:20
+msgid "404: Page Not Found"
+msgstr "404: Pagina niet gevonden"
+
+#: _homepage-column.php:12 _homepage-column.php:54 _return-link.php:16
+msgid "View all %s"
+msgstr "Bekijk alle %s"
+
+#: _homepage-column.php:15 _homepage-column.php:34 _homepage-column.php:46
+msgid "View post"
+msgstr "Lees bericht"
+
+#: _return-link.php:9 _sidebar-header.php:8 _sidebar-header.php:10
+#: homepage.php:22 homepage.php:24
+msgid "Home"
+msgstr "Voorpagina"
+
+#: _secondary-searchform.php:6 searchform.php:6
+msgid "Type and press Enter to search"
+msgstr "Vul zoekterm in en druk op Enter"
+
+#: _secondary-searchform.php:7
+msgid "Search&hellip;"
+msgstr "Zoek&hellip;"
+
+#: _stream-item.php:14
+msgid "View"
+msgstr "Bekijk"
+
+#: attachment.php:36
+msgid "Previous image"
+msgstr "Vorige afbeelding"
+
+#: attachment.php:37
+msgid "Next image"
+msgstr "Volgende afbeelding"
+
+#: comments.php:25
+msgid "Older comments"
+msgstr "Eerdere reacties"
+
+#: comments.php:26
+msgid "Newer comments"
+msgstr "Latere reacties"
+
+#: comments.php:31
+msgid "Comments are closed."
+msgstr "Reageren niet meer mogelijk."
+
+#: footer.php:15
+msgid "http://wordpress.com/"
+msgstr "http://wordpress.com/"
+
+#: footer.php:15
+msgid "Semantic Personal Publishing Platform"
+msgstr "Semantic Personal Publishing Platform"
+
+#: footer.php:15
+msgid "Proudly powered by %s"
+msgstr "Draait volledig op %s"
+
+#: footer.php:16
+msgid "Theme info"
+msgstr "Thema info"
+
+#: footer.php:16
+msgctxt "attributed to"
+msgid "by"
+msgstr "door"
+
+#: footer.php:16
+msgid "The Theme Foundry homepage"
+msgstr "Voorpagina The Theme Foundry"
+
+#: format-archive-gallery.php:20 format-archive-gallery.php:27
+#: format-archive-image.php:20 format-archive-image.php:27
+msgid "Gallery format placeholder"
+msgstr "Houder Gallerij formaat"
+
+#: format-archive.php:25 format-archive.php:33
+msgid "Reply"
+msgstr "Reageer"
+
+#: format-link.php:19
+msgid "Visit page"
+msgstr "Bezoek pagina"
+
+#: format-link.php:20
+msgid "Link"
+msgstr "Link"
+
+#: functions/audio-video.php:354
+msgid "Protected: %s"
+msgstr "Beschermd: %s"
+
+#: functions/audio-video.php:357
+msgid "Private: %s"
+msgstr "PrivÃ©: %s"
+
+#: functions/avatar.php:87
+msgid "Mop Top (default)"
+msgstr "Mop Top (default)"
+
+#: functions/formats.php:19
+msgid "Articles"
+msgstr "Teksten"
+
+#: functions/formats.php:29
+msgid "Links"
+msgstr "Links"
+
+#: functions/formats.php:36
+msgid "Photos"
+msgstr "Beelden"
+
+#: functions/formats.php:44
+msgid "Audio"
+msgstr "Geluid"
+
+#: functions/formats.php:51
+msgid "Videos"
+msgstr "Films"
+
+#: functions/formats.php:58
+msgid "Quotes"
+msgstr "Citaten"
+
+#: functions/formats.php:224
+msgid "Article"
+msgstr "Tekst"
+
+#: functions/formats.php:237
+msgid "Photo"
+msgstr "Beeld"
+
+#: functions/formats.php:483
+msgid "Older"
+msgstr "Eerder"
+
+#: functions/formats.php:483
+msgid "Newer"
+msgstr "Later"
+
+#: functions/logo.php:89
+msgid "Logo"
+msgstr "Logo"
+
+#: functions/logo.php:109
+msgid "Regular Logo"
+msgstr "Gewoon logo"
+
+#: functions/logo.php:132
+msgid "Retina Logo"
+msgstr "Retina logo"
+
+#: functions/options-shared.php:28
+msgid "Featured images are not supported for this format."
+msgstr "Uitgelichte afbeeldingen worden in dit format niet ondersteund."
+
+#: functions/options-shared.php:54
+msgid "Twitter"
+msgstr "Twitter"
+
+#: functions/options-shared.php:57
+msgid "Facebook"
+msgstr "Facebook"
+
+#: functions/options-shared.php:60
+msgid "Google+"
+msgstr "Google+"
+
+#: functions/options-shared.php:63
+msgid "Flickr"
+msgstr "Flickr"
+
+#: functions/options-shared.php:66
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: functions/options-shared.php:69
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: functions/options-shared.php:72
+msgid "RSS"
+msgstr "RSS"
+
+#: functions/options-wpcom.php:20
+msgid "Theme"
+msgstr "Thema"
+
+#: functions/options-wpcom.php:40 functions/options.php:40
+msgid "Hide the Homepage About section"
+msgstr "Verberg de sectie 'over' op de voorpagina"
+
+#: functions/options-wpcom.php:61 functions/options.php:61
+msgid "Disable Fast page loading"
+msgstr "Schakel snel pagina laden uit"
+
+#: functions/options-wpcom.php:82 functions/options.php:105
+msgid "Footer Text"
+msgstr "Voettekst"
+
+#: functions/options-wpcom.php:103 functions/options.php:126
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: functions/options-wpcom.php:124 functions/options.php:147
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: functions/options-wpcom.php:145 functions/options.php:168
+msgid "Google Plus URL"
+msgstr "Google Plus URL"
+
+#: functions/options-wpcom.php:166 functions/options.php:189
+msgid "Flickr URL"
+msgstr "Flickr URL"
+
+#: functions/options-wpcom.php:187 functions/options.php:210
+msgid "Pinterest URL"
+msgstr "Pinterest URL"
+
+#: functions/options-wpcom.php:208 functions/options.php:231
+msgid "LinkedIn URL"
+msgstr "LinkedIn URL"
+
+#: functions/options-wpcom.php:229 functions/options.php:252
+msgid "RSS URL"
+msgstr "RSS URL"
+
+#: functions/options.php:20
+msgid "Display"
+msgstr "Toon"
+
+#: functions/options.php:85
+msgid "Footer"
+msgstr "Voettekst"
+
+#: functions/template.php:74 functions/template.php:91
+msgid "read more"
+msgstr "lees verder"
+
+#: functions/template.php:187
+msgid "Page Not Found | "
+msgstr "Pagina niet gevonden |"
+
+#: functions/template.php:189
+msgid "Search results | "
+msgstr "Zoekresultaten |"
+
+#: functions/template.php:220
+msgid "Load More"
+msgstr "Toon meer"
+
+#: functions/tinymce.php:35
+msgid "Note"
+msgstr "Noot"
+
+#: functions/tinymce.php:40
+msgid "Quote Attribution"
+msgstr "Bron citaat"
+
+#: functions/tinymce.php:45
+msgid "Raised Cap"
+msgstr "Begin kapitaal"
+
+#: functions.php:104
+msgid "Homepage Menu"
+msgstr "Voorpagina Menu"
+
+#: functions.php:126
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr "aan"
+
+#: functions.php:130
+msgctxt "PT Serif font: on or off"
+msgid "on"
+msgstr "aan"
+
+#: functions.php:134
+msgctxt "Satisfy font: on or off"
+msgid "on"
+msgstr "aan"
+
+#: functions.php:258
+msgctxt "noun"
+msgid "Comment"
+msgstr "Reactie"
+
+#: functions.php:262
+msgid ""
+"Basic <abbr title=\"Hypertext Markup Language\">HTML</abbr> is allowed. Your "
+"email address will not be published."
+msgstr ""
+"Eenvoudige <abbr title=\"Hypertext Markup Language\">HTML</abbr> codes zijn "
+"toegestaan. Uw e-mail adres wordt niet gepubliceerd."
+
+#: functions.php:275
+msgid "Name <span class=\"required\">(Required)</span>"
+msgstr "Naam <span class=\"required\">(Verplicht)</span>"
+
+#: functions.php:283
+msgid "Email <span class=\"required\">(Required)</span>"
+msgstr "E-mail <span class=\"required\">(Verplicht)</span>"
+
+#: functions.php:291
+msgid "Website"
+msgstr "Website"
+
+#: functions.php:333
+msgid "Your comment is awaiting moderation."
+msgstr "Uw reactie wordt gemodereerd."
+
+#: functions.php:345
+msgid "Permalink"
+msgstr "Permalink"
+
+#: functions.php:394
+msgid "Posts from the <strong>%s</strong> category"
+msgstr "Berichten uit de categorie <strong>%s</strong>"
+
+#: functions.php:396
+msgid "Posts tagged &#8216;<strong>%s</strong>&#8217;"
+msgstr "Berichten met de tag &#8216;<strong>%s</strong>&#8217;"
+
+#: functions.php:398 functions.php:400 functions.php:402
+msgid "Archive for <strong>%s</strong>"
+msgstr "Archief met <strong>%s</strong>"
+
+#: functions.php:408
+msgid "Posts by <strong>%s</strong>"
+msgstr "Berichten door <strong>%s</strong>"
+
+#: functions.php:415
+msgid "%1$d result for: &#8216;<strong>%2$s</strong>&#8217;"
+msgid_plural "%1$d results for &#8216;<strong>%2$s</strong>&#8217;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:417
+msgid "Blog Archives"
+msgstr "Blog archief"
+
+#: homepage.php:57
+msgid "Archive"
+msgstr "Archief"
+
+#: index.php:31
+msgid ""
+"<strong>Admin:</strong> It looks like you haven't added any posts yet. <a "
+"href=\"%s\" title=\"Add post\">Add your first post</a> now!"
+msgstr ""
+"<strong>Admin:</strong> Je hebt nog geen berichten toegevoegd, lijkt het. <a "
+"href=\"%s\" title=\"Add post\">Voeg je eerste bericht toe!</a>"
+
+#: index.php:38 taxonomy-post_format.php:45
+msgid "There are no posts to display."
+msgstr "Er zijn geen berichten die getoond kunnen worden."
+
+#: search.php:19
+msgid "No results found"
+msgstr "Niets gevonden"
+
+#: search.php:20
+msgid ""
+"Sorry, your search for &#8216;<strong>%s</strong>&#8217; did not turn up any "
+"results. Please try again using a different search term."
+msgstr ""
+"Sorry, uw zoekterm &#8216;<strong>%s</strong>&#8217; heeft niets opgeleverd. "
+"Probeer desgewenst een andere zoekterm."
+
+#: searchform.php:7
+msgid "Search site&hellip;"
+msgstr "Doorzoek site&hellip;"
+
+#: taxonomy-post_format.php:38
+msgid ""
+"<strong>Admin:</strong> It looks like you haven't added any posts for this "
+"format yet. <a href=\"%s\" title=\"Add post\">Add your first one</a> now!"
+msgstr ""
+"<strong>Admin:</strong> Je hebt nog geen berichten met dit format "
+"toegevoegd, lijkt het. <a href=\"%s\" title=\"Add post\">Voeg je eerste "
+"bericht toe!</a>"
+
+#. Theme Name of the plugin/theme
+msgid "Collections"
+msgstr "Collections"
+
+#. Theme URI of the plugin/theme
+msgid "http://thethemefoundry.com/wordpress/collections-theme/"
+msgstr "http://thethemefoundry.com/wordpress/collections-theme/"
+
+#. Description of the plugin/theme
+msgid ""
+"A creative and responsive theme designed to help you share videos, photos, "
+"and music. Each content type is displayed in its own unique handcrafted "
+"style. Perfect for those who use different post formats."
+msgstr ""
+"A creative and responsive theme designed to help you share videos, photos, "
+"and music. Each content type is displayed in its own unique handcrafted "
+"style. Perfect for those who use different post formats."
+
+#. Author of the plugin/theme
+msgid "The Theme Foundry"
+msgstr "The Theme Foundry"
+
+#. Author URI of the plugin/theme
+msgid "http://thethemefoundry.com/"
+msgstr "http://thethemefoundry.com/"
+
+#. Template Name of the plugin/theme
+msgid "Homepage Template"
+msgstr "Voorpagina sjabloon"
+
