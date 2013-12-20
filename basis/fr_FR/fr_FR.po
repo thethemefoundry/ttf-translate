@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Basis\n"
 "Report-Msgid-Bugs-To: http://wordpress.org/tags/build\n"
 "POT-Creation-Date: 2013-12-05 01:05:17+00:00\n"
-"PO-Revision-Date: 2013-12-20 08:18+0100\n"
+"PO-Revision-Date: 2013-12-20 08:30+0100\n"
 "Last-Translator: Amaury Balmer <amaury@beapi.fr>\n"
 "Language-Team: The Theme Foundry <info@thethemefoundry.com>\n"
 "Language: fr\n"
@@ -39,7 +39,7 @@ msgstr "Articles plus anciens"
 
 #: _post-category.php:9
 msgid "From: %s"
-msgstr "Par: %s"
+msgstr "Dans: %s"
 
 #: _post-content.php:9 functions.php:856
 msgid "Read more"
@@ -415,7 +415,7 @@ msgstr "Archives"
 
 #: functions.php:550 functions.php:554 functions.php:556 functions.php:558
 msgid "From <strong>%s</strong>"
-msgstr "Par <strong>%s</strong>"
+msgstr "Dans <strong>%s</strong>"
 
 #: functions.php:552
 msgid "Tagged <strong>%s</strong>"
@@ -446,8 +446,8 @@ msgstr "Aucun commentaire"
 #: functions.php:791
 msgid "%d comment"
 msgid_plural "%d comments"
-msgstr[0] "% commentaire"
-msgstr[1] "% commentaires"
+msgstr[0] "%d commentaire"
+msgstr[1] "%d commentaires"
 
 #: functions.php:813
 msgid ""
