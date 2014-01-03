@@ -1,0 +1,678 @@
+# Copyright (C) 2013 The Theme Foundry
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Watson 1.1.4\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/build\n"
+"POT-Creation-Date: 2013-11-23 00:09:57+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-01-03 10:25+0100\n"
+"Last-Translator: Ludovico Rossi <ludo@icecreamstudios.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: Poedit 1.6.3\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: it\n"
+
+#: 404.php:9
+msgid "404: Page Not Found"
+msgstr "404: Pagina Non Trovata"
+
+#: 404.php:12
+msgid ""
+"We are terribly sorry, but the <abbr title=\"Universal resource locator"
+"\">URL</abbr> you typed <em>no longer exists</em>. It might have been moved "
+"or deleted."
+msgstr ""
+"Ci dispiace molto, ma l'<abbr title=\"Universal resource locator\">URL</"
+"abbr> inserita <em>non esiste più</em>. Potrebbe essere stata spostata o "
+"eliminata."
+
+#: _featured-slider.php:14 _featured-slider.php:17 _featured-thumbnails.php:11
+#: _post-header.php:11 archive.php:33 archive.php:49 functions/jetpack.php:53
+#: functions/jetpack.php:66 index.php:34 index.php:50 search.php:16
+msgid "Read full article"
+msgstr "Leggi articolo completo"
+
+#: _post-footer.php:11
+msgid "Categories: "
+msgstr "Categorie: "
+
+#: _post-footer.php:12 _post-footer.php:20
+msgid ", "
+msgstr ", "
+
+#: _post-footer.php:19
+msgid "Tagged: "
+msgstr "Tag: "
+
+#: _post-footer.php:28
+msgid "Read next article"
+msgstr "Leggi articolo successivo"
+
+#: _post-footer.php:29
+msgid "Read previous article"
+msgstr "Leggi articolo precedente"
+
+#: _post-header.php:19
+msgid "By "
+msgstr "Di"
+
+#: archive.php:37 archive.php:49 full-width.php:14 functions/jetpack.php:57
+#: functions/jetpack.php:66 index.php:38 index.php:50 page.php:14
+#: search.php:15 search.php:16 single.php:15 with-sidebar.php:16
+msgid "Read article"
+msgstr "Leggi articolo"
+
+#: archive.php:44 functions/jetpack.php:62 index.php:45
+msgid "Jump to comments"
+msgstr "Vai ai commenti"
+
+#: archive.php:45 functions/jetpack.php:63 index.php:46
+msgid "0 Comments"
+msgstr "0 Commenti"
+
+#: archive.php:45 functions/jetpack.php:63 index.php:46
+msgid "1 Comment"
+msgstr "1 Commento"
+
+#: archive.php:45 functions/jetpack.php:63 index.php:46
+msgid "% Comments"
+msgstr "% Commenti"
+
+#: archive.php:58 index.php:64 search.php:22
+msgid "Older posts"
+msgstr "Articoli più vecchi"
+
+#: archive.php:59 index.php:65 search.php:23
+msgid "Newer posts"
+msgstr "Articoli più recenti"
+
+#: attachment.php:16
+msgid "Return to %s"
+msgstr "Torna a %s"
+
+#: attachment.php:34 functions.php:155
+msgid "Previous"
+msgstr "Precedente"
+
+#: attachment.php:35 functions.php:156
+msgid "Next"
+msgstr "Successivo"
+
+#: comments.php:8
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Questo articolo è protetto da password. Inserisci la password per "
+"visualizzare i commenti."
+
+#: comments.php:15
+msgid "One Response to <em>&ldquo;%2$s&rdquo;</em>"
+msgid_plural "%1$s Responses to &ldquo;%2$s&rdquo;"
+msgstr[0] "Una Risposta a <em>&ldquo;%2$s&rdquo;</em>"
+msgstr[1] "%1$s Risposte a &ldquo;%2$s&rdquo;"
+
+#: comments.php:23
+msgid "&larr; Older comments"
+msgstr "&larr; Commenti più vecchi"
+
+#: comments.php:24
+msgid "Newer comments &rarr;"
+msgstr "Commenti più recenti &rarr;"
+
+#: comments.php:29
+msgid "Comments are closed."
+msgstr "I commenti sono chiusi."
+
+#: comments.php:38
+msgctxt "noun"
+msgid "Comment"
+msgstr "Commento"
+
+#: comments.php:43
+msgid ""
+"Subscribe to this comment feed via <abbr title=\"Really Simple Syndication"
+"\">RSS<abbr>"
+msgstr ""
+"Iscriviti al feed <abbr title=\"Really Simple Syndication\">RSS<abbr> di "
+"questi commenti."
+
+#: comments.php:44
+msgid ""
+"Basic <abbr title=\"Hypertext Markup Language\">HTML</abbr> is allowed. Your "
+"email address will not be published."
+msgstr ""
+"È consentito l'utilizzo di <abbr title=\"Hypertext Markup Language\">HTML</"
+"abbr> semplice. Il tuo indirizzo email non verrà pubblicato."
+
+#: comments.php:52
+msgid "Name: <span class=\"required\">&#42;</span>"
+msgstr "Nome: <span class=\"required\">&#42;</span>"
+
+#: comments.php:53
+msgid "Name:"
+msgstr "Nome:"
+
+#: comments.php:63
+msgid "Email: <span class=\"required\">&#42;</span>"
+msgstr "Email: <span class=\"required\">&#42;</span>"
+
+#: comments.php:64
+msgid "Email:"
+msgstr "Email:"
+
+#: comments.php:72
+msgid "Website:"
+msgstr "Sito web:"
+
+#: footer.php:27
+msgid "Twitter"
+msgstr "Twitter"
+
+#: footer.php:32
+msgid "Facebook"
+msgstr "Facebook"
+
+#: footer.php:37
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: footer.php:42
+msgid "Flickr"
+msgstr "Flickr"
+
+#: footer.php:46
+msgid "RSS feed"
+msgstr "Feed RSS"
+
+#: footer.php:66
+msgid "Theme info"
+msgstr "Informazioni sul tema"
+
+#: footer.php:67
+msgid "The Theme Foundry home page"
+msgstr "Sito web di The Theme Foundry"
+
+#: full-width.php:15 page.php:15 sitemap.php:53 with-sidebar.php:17
+msgid "Edit page"
+msgstr "Modifica pagina"
+
+#: functions/admin.php:30
+msgid "Featured slider"
+msgstr "Slider in primo piano"
+
+#: functions/admin.php:31
+msgid ""
+"Posts in the <strong>Featured slider</strong> rotate on the home page, above "
+"your regular post list. Each post in the slider will display a large "
+"featured image, the post title, and a small excerpt."
+msgstr ""
+"Gli articoli nella <strong>Slider in primo piano</strong> ruotano sull'home "
+"page, al di sopra del normale elenco degli articoli. Ogni articolo nello "
+"slider mostrerà un'immagine grande in primo piano, il titolo dell'articolo e "
+"un breve estratto."
+
+#: functions/admin.php:45
+msgid "Featured thumbnails"
+msgstr "Miniature in primo piano"
+
+#: functions/admin.php:46
+msgid ""
+"The <strong>Featured thumbnails</strong> section is perfect for including "
+"teasers of your favourite posts on your site&#8217s home page. This section "
+"displays up to four posts of your choice. Each featured thumbnail post "
+"displays a small thumbnail image and post title."
+msgstr ""
+"La sezione <strong>Miniature in primo piano</strong> è perfetta per "
+"includere un'anteprima dei tuoi articoli in primo piano sull'home page del "
+"tuo sito. Questa sezione mostra fino a quattro articoli a tua scelta. Ogni "
+"miniatura in primo piano mostra una piccola miniatura e il titolo "
+"dell'articolo."
+
+#: functions/admin.php:60
+msgid "Custom editor buttons"
+msgstr "Pulsanti dell'editor aggiuntivi"
+
+#: functions/admin.php:61
+msgid ""
+"Watson provides custom formatting buttons for styling your content. Click "
+"the \"show kitchen sink\" button to view Watson&#8217s formatting buttons."
+msgstr ""
+"Watson fornisce pulsanti di formattazione aggiuntivi per impostare lo stile "
+"del tuo contenuto. Clicca sul pulsante \"Mostra Seconda riga pulsanti\" per "
+"mostrare i pulsanti di formattazione di Watson."
+
+#: functions/admin.php:77
+msgid "Page templates"
+msgstr "Modelli di pagina"
+
+#: functions/admin.php:78
+msgid ""
+"Watson provides 4 page templates, each with slightly different layouts and "
+"functionality. The default page template is center-aligned (not full-width) "
+"without a sidebar."
+msgstr ""
+"Watson fornisce 4 modelli di pagina, ognuno con layout e funzionalità "
+"leggermente differenti. Il modello di pagina di default è allineato al "
+"centro (non a piena larghezza) senza una barra laterale."
+
+#: functions/foundry-slider/includes/post-meta.php:76
+msgid "Foundry Slider"
+msgstr "Slider Foundry"
+
+#: functions/foundry-slider/includes/post-meta.php:102
+#: functions/foundry-slider/includes/quick-edit.php:105
+msgid "Show in featured slider"
+msgstr "Mostra nello slider in primo piano"
+
+#: functions/foundry-slider/includes/quick-edit.php:65
+msgid "Featured Slider"
+msgstr "Slider In Primo Piano"
+
+#: functions/foundry-slider/includes/quick-edit.php:83
+msgid "Featured"
+msgstr "In Primo Piano"
+
+#: functions/post-options.php:32
+msgid "Show in featured thumbnails"
+msgstr "Mostra nelle miniature in primo piano"
+
+#: functions/post-options.php:124
+msgid "Watson Theme Post Options"
+msgstr "Opzioni Articolo del Tema Watson"
+
+#: functions/theme-options.php:26
+msgid "Logo &amp; featured slider"
+msgstr "Logo &amp; slider in primo piano"
+
+#: functions/theme-options.php:27
+msgid "Display options"
+msgstr "Opzioni di visualizzazione"
+
+#: functions/theme-options.php:28
+msgid "Subscribe links &amp; copyright"
+msgstr "Link di sottoscrizione dei servizi &amp; copyright"
+
+#: functions/theme-options.php:35
+msgid "Logo image:"
+msgstr "Immagine logo:"
+
+#: functions/theme-options.php:36
+msgid ""
+"Upload an image (making sure to click <strong>\"Insert into post\"</strong>) "
+"or enter an <abbr title=\"Universal resource locator\">URL</abbr> for your "
+"image. If you choose not to upload a logo, your site's title will be used "
+"for the header."
+msgstr ""
+"Carica un'immagine (accertandoti di cliccare su <strong>\"Inserisci "
+"nell'articolo\"</strong>) o di inserire un'<abbr title=\"Universal resource "
+"locator\">URL</abbr> della tua immagine. Se decidi di non caricare un logo, "
+"nell'intestazione verrà usato il titolo del tuo sito."
+
+#: functions/theme-options.php:40
+msgid "High resolution logo"
+msgstr "Logo ad alta risoluzione"
+
+#: functions/theme-options.php:41
+msgid ""
+"Upload a high resolution logo image for Retina (and similar hi-res) devices. "
+"This logo will be scaled down 50% and served only to high resolution devices."
+msgstr ""
+"Carica un'immagine logo ad alta risoluzione per dispositivi Retina (o simili "
+"ad alta risoluzione). Il logo verrà mostrato in scala ridotta al 50% e "
+"fornito dal server solo sui dispositivi ad alta risoluzione."
+
+#: functions/theme-options.php:45
+msgid "Autostart slider"
+msgstr "Avvia slider in automatico"
+
+#: functions/theme-options.php:46
+msgid ""
+"Check to automatically start slideshow animation for the featured slider."
+msgstr ""
+"Spunta per far partire in automatico l'animazione slideshow dello slider in "
+"primo piano."
+
+#: functions/theme-options.php:53
+msgid "Hide tags"
+msgstr "Non mostrare tag"
+
+#: functions/theme-options.php:54
+msgid "Check to hide tags in posts."
+msgstr "Spunta per non mostrare i tag negli articoli."
+
+#: functions/theme-options.php:58
+msgid "Hide categories"
+msgstr "Non mostrare categorie"
+
+#: functions/theme-options.php:59
+msgid "Check to hide categories in posts."
+msgstr "Spunta per non mostrare le categorie negli articoli."
+
+#: functions/theme-options.php:63
+msgid "Hide author"
+msgstr "Non mostrare autore"
+
+#: functions/theme-options.php:64
+msgid "Check to hide the author in posts."
+msgstr "Spunta per non mostrare l'autore negli articoli."
+
+#: functions/theme-options.php:68
+msgid "Hide date"
+msgstr "Non mostrare la data"
+
+#: functions/theme-options.php:69
+msgid "Check to hide dates throughout your site."
+msgstr "Spunta per non mostrare le date ovunque nel tuo sito."
+
+#: functions/theme-options.php:73
+msgid "Hide post featured image"
+msgstr "Non mostrare immagine in primo piano nell'articolo"
+
+#: functions/theme-options.php:74
+msgid "Check to hide featured images in the single blog post view."
+msgstr ""
+"Spunta per non mostrare le immagini in primo piano durante la "
+"visualizzazione di un singolo articolo."
+
+#: functions/theme-options.php:78
+msgid "Hide post navigation"
+msgstr "Non mostrare la navigazione tra gli articoli"
+
+#: functions/theme-options.php:79
+msgid "Check to hide post navigation in the single blog post view."
+msgstr ""
+"Spunta per non mostrare la navigazione tra gli articoli durante la "
+"visualizzazione di un singolo articolo."
+
+#: functions/theme-options.php:83
+msgid "Disable web fonts"
+msgstr "Disabilita font web"
+
+#: functions/theme-options.php:84
+msgid "Check to turn off web fonts."
+msgstr "Spunta per disabilitare i font web."
+
+#: functions/theme-options.php:88
+msgid "Primary color"
+msgstr "Colore primario"
+
+#: functions/theme-options.php:89
+msgid ""
+"Choose the primary color for your theme. The primary color is used for link "
+"text and other accents."
+msgstr ""
+"Scegli il colore principale per il tuo tema. Il colore principale è "
+"utilizzato per il testo dei link e altri elementi in risalto."
+
+#: functions/theme-options.php:96
+msgid "Twitter <abbr title=\"Universal resource locator\">URL</abbr>:"
+msgstr "<abbr title=\"Universal resource locator\">URL</abbr> Twitter:"
+
+#: functions/theme-options.php:97
+msgid "Enter your Twitter link."
+msgstr "Inserisci il tuo link Twitter."
+
+#: functions/theme-options.php:101
+msgid "Facebook <abbr title=\"Universal resource locator\">URL</abbr>:"
+msgstr "<abbr title=\"Universal resource locator\">URL</abbr> Facebook:"
+
+#: functions/theme-options.php:102
+msgid "Enter your Facebook link."
+msgstr "Inserisci il tuo link Facebook"
+
+#: functions/theme-options.php:106
+msgid "Google+ <abbr title=\"Universal resource locator\">URL</abbr>:"
+msgstr "<abbr title=\"Universal resource locator\">URL</abbr> Google+:"
+
+#: functions/theme-options.php:107
+msgid "Enter your Google+ link."
+msgstr "Inserisci il tuo link Google+."
+
+#: functions/theme-options.php:111
+msgid "Flickr <abbr title=\"Universal resource locator\">URL</abbr>:"
+msgstr "<abbr title=\"Universal resource locator\">URL</abbr> Flickr:"
+
+#: functions/theme-options.php:112
+msgid "Enter your Flickr link."
+msgstr "Inserisci il tuo link Flickr."
+
+#: functions/theme-options.php:117
+msgid "Disable all icons"
+msgstr "Disabilita tutte le icone"
+
+#: functions/theme-options.php:118
+msgid ""
+"Check to hide all subscribe icons (including <abbr title=\"Really Simple "
+"Syndication\">RSS</abbr>). This option overrides all other icon settings."
+msgstr ""
+"Spunta per non mostrare tutte le icone di sottoscrizione dei servizi "
+"(incluso <abbr title=\"Really Simple Syndication\">RSS</abbr>). Questa "
+"opzione ha la precedenza su tutte le altre impostazioni delle icone."
+
+#: functions/theme-options.php:121
+msgid "Credit line text:"
+msgstr "Crediti e attribuzione:"
+
+#: functions/theme-options.php:122
+msgid ""
+"Enter your credit text to be displayed in the theme footer. Basic HTML is "
+"allowed."
+msgstr ""
+"Inserisci il testo con crediti e attribuzione da mostrare nel più di pagina "
+"del tema. È consentito l'utilizzo di HTML semplice."
+
+#: functions/ttf-common/ttf-common.php:53
+msgid "Page Not Found | "
+msgstr "Pagina Non Trovata | "
+
+#: functions/ttf-common/ttf-common.php:55
+msgid "Search results | "
+msgstr "Risultati della ricerca | "
+
+#: functions/ttf-common/ttf-common.php:69 functions.php:438
+msgid "Posts from the &#8216;%s&#8217; category"
+msgstr "Articoli della categoria &#8216;%s&#8217;"
+
+#: functions/ttf-common/ttf-common.php:71 functions.php:440
+msgid "Posts tagged &#8216;%s&#8217;"
+msgstr "Articoli con tag &#8216;%s&#8217;"
+
+#: functions/ttf-common/ttf-common.php:73
+#: functions/ttf-common/ttf-common.php:75
+#: functions/ttf-common/ttf-common.php:77 functions.php:442 functions.php:444
+#: functions.php:446
+msgid "Archive for &#8216;%s&#8217;"
+msgstr "Archivio per &#8216;%s&#8217;"
+
+#: functions/ttf-common/ttf-common.php:79 functions.php:448
+msgid "Posts by %s"
+msgstr "Articoli di %s"
+
+#: functions/ttf-common/ttf-common.php:81 functions.php:450
+msgid "Blog Archives"
+msgstr "Archivi Blog"
+
+#: functions/widget.php:14
+msgid "Watson Theme Recently Discussed"
+msgstr "Tema Watson Discussi Recentemente"
+
+#: functions/widget.php:15
+msgid ""
+"Posts with recent comments. Shows post featured image, title and time of "
+"last comment."
+msgstr ""
+"Articoli con commenti recenti. Mostra la miniatura in primo piano, il titolo "
+"e la data dell'ultimo commento dell'articolo."
+
+#: functions/widget.php:66
+msgid "Recently discussed"
+msgstr "Discussi recentemente"
+
+#: functions.php:69
+msgid "Primary Menu"
+msgstr "Menu principale"
+
+#: functions.php:131
+msgid "Go to&hellip;"
+msgstr "Vai a&hellip;"
+
+#: functions.php:262
+msgid "Sidebar"
+msgstr "Barra Laterale"
+
+#: functions.php:271
+msgid "Footer Left"
+msgstr "Piè di Pagina Sinistro"
+
+#: functions.php:280
+msgid "Footer Right"
+msgstr "Piè di Pagina Destro"
+
+#: functions.php:416
+msgid "Your comment is awaiting moderation."
+msgstr "Il tuo commento è in attesa di moderazione."
+
+#: header.php:32 header.php:39
+msgid "Home"
+msgstr "Home"
+
+#: includes/struts/classes/struts/option/color.php:35
+msgid "show color picker"
+msgstr "mostra selettore colore"
+
+#: includes/struts/classes/struts/options.php:127
+msgid ""
+"Options already initialized. Struts no longer requires manual initialization."
+msgstr ""
+"Opzioni già inizializzate. Struts non ha più bisogno di inizializzazione "
+"manuale."
+
+#: includes/struts/classes/struts/options.php:154
+#: includes/struts/classes/struts/options.php:155
+#: includes/struts/classes/struts/options.php:310
+msgid "Theme Options"
+msgstr "Opzioni del Tema"
+
+#: includes/struts/classes/struts/options.php:263
+msgid "Section with name &lsquo;%1$s&rsquo; not defined"
+msgstr "Sezione di nome &lsquo;%1$s&rsquo; non definita"
+
+#: includes/struts/classes/struts/options.php:320
+msgid "Save Settings"
+msgstr "Salva Impostazioni"
+
+#: includes/struts/classes/struts/options.php:321
+msgid "Reset Defaults"
+msgstr "Ripristina Default"
+
+#: includes/struts/classes/struts/options.php:331
+msgid "Theme settings updated successfully."
+msgstr "Impostazioni del tema aggiornate con successo."
+
+#: includes/struts/classes/struts/section.php:97
+msgid "Edit"
+msgstr "Modifica"
+
+#: includes/struts/classes/struts/section.php:104
+msgid "Save changes"
+msgstr "Salva modifiche"
+
+#: page.php:16
+msgid "Page:"
+msgstr "Pagina:"
+
+#: search.php:8
+msgid "Search results for &#8216;%s&#8217;"
+msgstr "Risultati della ricerca per &#8216;%s&#8217;"
+
+#: search.php:28
+msgid ""
+"Sorry, your search for &#8216%s&#8217 did not turn up any results. Please "
+"try again."
+msgstr ""
+"Ci dispiace, la tua ricerca per &#8216%s&#8217 non ha dato alcun risultato. "
+"Prova con un'altra ricerca."
+
+#: searchform.php:6
+msgid "Type and press Enter to search"
+msgstr "Scrivi e premi Invio per cercare"
+
+#: searchform.php:12 searchform.php:13 searchform.php:14
+msgid "Search site&hellip;"
+msgstr "Cerca nel sito&hellip;"
+
+#: sidebar.php:9
+msgid "Temporary sidebar"
+msgstr "Barra laterale temporanea"
+
+#: sidebar.php:11
+msgid ""
+"Start adding your own Widgets to the sidebar by going to the <em>Appearance "
+"&rarr; Widgets</em> screen on your admin dashboard. This sidebar cannot be "
+"toggled off or removed."
+msgstr ""
+"Inizia ad aggiungere i tuoi Widget alla barra laterale dalla pagina "
+"<em>Aspetto &rarr; Widget</em> della bacheca di amministrazione. Questa "
+"barra laterale non può essere nascosta o rimossa."
+
+#: single.php:19
+msgid "Edit post"
+msgstr "Modifica articoli"
+
+#: sitemap.php:17
+msgid "Pages"
+msgstr "Pagine"
+
+#: sitemap.php:21
+msgid "Recent posts"
+msgstr "Articoli recenti"
+
+#: sitemap.php:40
+msgid "Authors"
+msgstr "Autori"
+
+#: sitemap.php:44
+msgid "Categories"
+msgstr "Categorie"
+
+#: sitemap.php:48
+msgid "Archives"
+msgstr "Archivi"
+
+#. Theme Name of the plugin/theme
+msgid "Watson"
+msgstr "Watson"
+
+#. Theme URI of the plugin/theme
+msgid "http://thethemefoundry.com/wordpress/watson/"
+msgstr "http://thethemefoundry.com/wordpress/watson/"
+
+#. Description of the plugin/theme
+msgid ""
+"A polished magazine theme with a touch of class. Perfect for "
+"photojournalists, bloggers and authors who prefer long-format content."
+msgstr ""
+"Un tema per magazine molto curato e con un tocco di classe. Perfetto per "
+"fotoreporter, blogger e autori che preferiscono contenuti di lungo formato."
+
+#. Author of the plugin/theme
+msgid "The Theme Foundry"
+msgstr "The Theme Foundry"
+
+#. Author URI of the plugin/theme
+msgid "http://thethemefoundry.com/"
+msgstr "http://thethemefoundry.com/"
+
+#. Template Name of the plugin/theme
+msgid "Full-width"
+msgstr "Piena larghezza"
+
+#. Template Name of the plugin/theme
+msgid "Sitemap"
+msgstr "Mappa del sito"
+
+#. Template Name of the plugin/theme
+msgid "With Sidebar"
+msgstr "Con Barra Laterale"
