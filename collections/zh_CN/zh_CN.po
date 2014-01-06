@@ -1,0 +1,443 @@
+# Copyright (C) 2013 The Theme Foundry
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Collections 1.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/build\n"
+"POT-Creation-Date: 2013-10-10 19:33:03+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-01-02 17:18-0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.6.3\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh_CN\n"
+
+#: 404.php:16
+msgid "Sorry, this %1$s no longer exists. Try searching the site:"
+msgstr "很抱歉，这个 ％1$s 已经不存在。尝试搜索这个站点："
+
+#: 404.php:23
+msgid "Uniform resource locator"
+msgstr "统一资源定位器"
+
+#: 404.php:24
+msgid "URL"
+msgstr "网址"
+
+#: _entry-title.php:20
+msgid "404: Page Not Found"
+msgstr "404: 无法找到该网页"
+
+#: _homepage-column.php:12 _homepage-column.php:54 _return-link.php:16
+msgid "View all %s"
+msgstr "查看所有 %s"
+
+#: _homepage-column.php:15 _homepage-column.php:34 _homepage-column.php:46
+msgid "View post"
+msgstr "查看帖子"
+
+#: _return-link.php:9 _sidebar-header.php:8 _sidebar-header.php:10
+#: homepage.php:22 homepage.php:24
+msgid "Home"
+msgstr "主页"
+
+#: _secondary-searchform.php:6 searchform.php:6
+msgid "Type and press Enter to search"
+msgstr "输入并按回车来搜索"
+
+#: _secondary-searchform.php:7
+msgid "Search&hellip;"
+msgstr "搜索"
+
+#: _stream-item.php:14
+msgid "View"
+msgstr "查看"
+
+#: attachment.php:36
+msgid "Previous image"
+msgstr "前一张图片"
+
+#: attachment.php:37
+msgid "Next image"
+msgstr "后一张图片"
+
+#: comments.php:25
+msgid "Older comments"
+msgstr "更旧的评论"
+
+#: comments.php:26
+msgid "Newer comments"
+msgstr "更新的评论"
+
+#: comments.php:31
+msgid "Comments are closed."
+msgstr "评论已关闭"
+
+#: footer.php:15
+msgid "http://wordpress.com/"
+msgstr "http://wordpress.com/"
+
+#: footer.php:15
+msgid "Semantic Personal Publishing Platform"
+msgstr "个人信息发布平台"
+
+#: footer.php:15
+msgid "Proudly powered by %s"
+msgstr "由 %s 强力支持"
+
+#: footer.php:16
+msgid "Theme info"
+msgstr "模版信息"
+
+#: footer.php:16
+msgctxt "attributed to"
+msgid "by"
+msgstr "由"
+
+#: footer.php:16
+msgid "The Theme Foundry homepage"
+msgstr "模版代工网主页"
+
+#: format-archive-gallery.php:20 format-archive-gallery.php:27
+#: format-archive-image.php:20 format-archive-image.php:27
+msgid "Gallery format placeholder"
+msgstr "画廊格式占位符"
+
+#: format-archive.php:25 format-archive.php:33
+msgid "Reply"
+msgstr "回复"
+
+#: format-link.php:19
+msgid "Visit page"
+msgstr "访问网页"
+
+#: format-link.php:20
+msgid "Link"
+msgstr "链接"
+
+#: functions/audio-video.php:354
+msgid "Protected: %s"
+msgstr "被 %s 保护"
+
+#: functions/audio-video.php:357
+msgid "Private: %s"
+msgstr "私有：%s"
+
+#: functions/avatar.php:87
+msgid "Mop Top (default)"
+msgstr "顶部（默认）"
+
+#: functions/formats.php:19
+msgid "Articles"
+msgstr "文章"
+
+#: functions/formats.php:29
+msgid "Links"
+msgstr "链接"
+
+#: functions/formats.php:36
+msgid "Photos"
+msgstr "图片"
+
+#: functions/formats.php:44
+msgid "Audio"
+msgstr "音频"
+
+#: functions/formats.php:51
+msgid "Videos"
+msgstr "视频"
+
+#: functions/formats.php:58
+msgid "Quotes"
+msgstr "名言"
+
+#: functions/formats.php:224
+msgid "Article"
+msgstr "文章"
+
+#: functions/formats.php:237
+msgid "Photo"
+msgstr "图片"
+
+#: functions/formats.php:483
+msgid "Older"
+msgstr "更旧的"
+
+#: functions/formats.php:483
+msgid "Newer"
+msgstr "更新的"
+
+#: functions/logo.php:89
+msgid "Logo"
+msgstr "图标"
+
+#: functions/logo.php:109
+msgid "Regular Logo"
+msgstr "常规图标"
+
+#: functions/logo.php:132
+msgid "Retina Logo"
+msgstr "视网膜图标"
+
+#: functions/options-shared.php:28
+msgid "Featured images are not supported for this format."
+msgstr "这个格式不支持展示图片"
+
+#: functions/options-shared.php:54
+msgid "Twitter"
+msgstr "Twitter"
+
+#: functions/options-shared.php:57
+msgid "Facebook"
+msgstr "Facebook"
+
+#: functions/options-shared.php:60
+msgid "Google+"
+msgstr "Google+"
+
+#: functions/options-shared.php:63
+msgid "Flickr"
+msgstr "Flickr"
+
+#: functions/options-shared.php:66
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: functions/options-shared.php:69
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: functions/options-shared.php:72
+msgid "RSS"
+msgstr "RSS"
+
+#: functions/options-wpcom.php:20
+msgid "Theme"
+msgstr "主题"
+
+#: functions/options-wpcom.php:40 functions/options.php:40
+msgid "Hide the Homepage About section"
+msgstr "隐藏主页中的关于部分"
+
+#: functions/options-wpcom.php:61 functions/options.php:61
+msgid "Disable Fast page loading"
+msgstr "禁用快速加载页面"
+
+#: functions/options-wpcom.php:82 functions/options.php:105
+msgid "Footer Text"
+msgstr "页脚文本"
+
+#: functions/options-wpcom.php:103 functions/options.php:126
+msgid "Twitter URL"
+msgstr "Twitter 网址"
+
+#: functions/options-wpcom.php:124 functions/options.php:147
+msgid "Facebook URL"
+msgstr "Facebook 网址"
+
+#: functions/options-wpcom.php:145 functions/options.php:168
+msgid "Google Plus URL"
+msgstr "Google Plus 网址"
+
+#: functions/options-wpcom.php:166 functions/options.php:189
+msgid "Flickr URL"
+msgstr "Flickr 网址"
+
+#: functions/options-wpcom.php:187 functions/options.php:210
+msgid "Pinterest URL"
+msgstr "Pinterest 网址"
+
+#: functions/options-wpcom.php:208 functions/options.php:231
+msgid "LinkedIn URL"
+msgstr "LinkedIn 网址"
+
+#: functions/options-wpcom.php:229 functions/options.php:252
+msgid "RSS URL"
+msgstr "RSS 网址"
+
+#: functions/options.php:20
+msgid "Display"
+msgstr "显示"
+
+#: functions/options.php:85
+msgid "Footer"
+msgstr "页脚"
+
+#: functions/template.php:74 functions/template.php:91
+msgid "read more"
+msgstr "阅读更多"
+
+#: functions/template.php:187
+msgid "Page Not Found | "
+msgstr "页面无法找到｜"
+
+#: functions/template.php:189
+msgid "Search results | "
+msgstr "搜索结果｜"
+
+#: functions/template.php:220
+msgid "Load More"
+msgstr "加载更多"
+
+#: functions/tinymce.php:35
+msgid "Note"
+msgstr "标注"
+
+#: functions/tinymce.php:40
+msgid "Quote Attribution"
+msgstr "名言属性"
+
+#: functions/tinymce.php:45
+msgid "Raised Cap"
+msgstr "放大的首字母"
+
+#: functions.php:104
+msgid "Homepage Menu"
+msgstr "主页菜单"
+
+#: functions.php:126
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr "开"
+
+#: functions.php:130
+msgctxt "PT Serif font: on or off"
+msgid "on"
+msgstr "开"
+
+#: functions.php:134
+msgctxt "Satisfy font: on or off"
+msgid "on"
+msgstr "开"
+
+#: functions.php:258
+msgctxt "noun"
+msgid "Comment"
+msgstr "评论"
+
+#: functions.php:262
+msgid ""
+"Basic <abbr title=\"Hypertext Markup Language\">HTML</abbr> is allowed. Your "
+"email address will not be published."
+msgstr ""
+"基本<abbr title=\"Hypertext Markup Language\">的HTML</abbr>是被允许的。您的邮"
+"箱地址不会被公开。"
+
+#: functions.php:275
+msgid "Name <span class=\"required\">(Required)</span>"
+msgstr "名字<span class=\"required\">（必填）</ SPAN>"
+
+#: functions.php:283
+msgid "Email <span class=\"required\">(Required)</span>"
+msgstr "邮箱<span class=\"required\">(必填)</span>"
+
+#: functions.php:291
+msgid "Website"
+msgstr "网站"
+
+#: functions.php:333
+msgid "Your comment is awaiting moderation."
+msgstr "你的评论等待审核"
+
+#: functions.php:345
+msgid "Permalink"
+msgstr "固定链接"
+
+#: functions.php:394
+msgid "Posts from the <strong>%s</strong> category"
+msgstr "帖子来自<strong>%s</strong> 分类"
+
+#: functions.php:396
+msgid "Posts tagged &#8216;<strong>%s</strong>&#8217;"
+msgstr "帖子被标签&#8216;<strong>%s</strong>&#8217;"
+
+#: functions.php:398 functions.php:400 functions.php:402
+msgid "Archive for <strong>%s</strong>"
+msgstr "归档为<strong>%s</strong>"
+
+#: functions.php:408
+msgid "Posts by <strong>%s</strong>"
+msgstr "<strong>%s</strong>的发帖"
+
+#: functions.php:415
+msgid "%1$d result for: &#8216;<strong>%2$s</strong>&#8217;"
+msgid_plural "%1$d results for &#8216;<strong>%2$s</strong>&#8217;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:417
+msgid "Blog Archives"
+msgstr "博客归档"
+
+#: homepage.php:57
+msgid "Archive"
+msgstr "归档"
+
+#: index.php:31
+msgid ""
+"<strong>Admin:</strong> It looks like you haven't added any posts yet. <a "
+"href=\"%s\" title=\"Add post\">Add your first post</a> now!"
+msgstr ""
+"<STRONG>管理员：</ STRONG>看起来你还没有发布任何帖子。 <a href=\"%s\" title="
+"\"Add post\">现在去添加您的第一篇文章吧</ a>！"
+
+#: index.php:38 taxonomy-post_format.php:45
+msgid "There are no posts to display."
+msgstr "没有任何帖子来显示"
+
+#: search.php:19
+msgid "No results found"
+msgstr "无搜索结果"
+
+#: search.php:20
+msgid ""
+"Sorry, your search for &#8216;<strong>%s</strong>&#8217; did not turn up any "
+"results. Please try again using a different search term."
+msgstr ""
+"很抱歉，您的<strong>％s的</ STRONG>'没有得到任何搜索结果。请再次尝试使用不同"
+"的搜索词。"
+
+#: searchform.php:7
+msgid "Search site&hellip;"
+msgstr "搜索站点；"
+
+#: taxonomy-post_format.php:38
+msgid ""
+"<strong>Admin:</strong> It looks like you haven't added any posts for this "
+"format yet. <a href=\"%s\" title=\"Add post\">Add your first one</a> now!"
+msgstr ""
+"<STRONG>管理员：</ STRONG>看起来你还没有用这种格式发布任何帖子。 <a href=\"%s"
+"\" title=\"Add post\">现在就添加您的第一篇吧</ a>！"
+
+#. Theme Name of the plugin/theme
+msgid "Collections"
+msgstr "收藏"
+
+#. Theme URI of the plugin/theme
+msgid "http://thethemefoundry.com/wordpress/collections-theme/"
+msgstr "http://thethemefoundry.com/wordpress/collections-theme/"
+
+#. Description of the plugin/theme
+msgid ""
+"A creative and responsive theme designed to help you share videos, photos, "
+"and music. Each content type is displayed in its own unique handcrafted "
+"style. Perfect for those who use different post formats."
+msgstr ""
+"一个富有创造性和响应性的模版，旨在帮助您共享视频，照片和音乐。每个内容类型显"
+"示在其自己独特的手工制作风格下。适合那些使用不同格式发帖的人。"
+
+#. Author of the plugin/theme
+msgid "The Theme Foundry"
+msgstr "模版代工"
+
+#. Author URI of the plugin/theme
+msgid "http://thethemefoundry.com/"
+msgstr "http://thethemefoundry.com/"
+
+#. Template Name of the plugin/theme
+msgid "Homepage Template"
+msgstr "主页模版"
+
