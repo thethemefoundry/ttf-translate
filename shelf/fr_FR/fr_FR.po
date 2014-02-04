@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-09-05 13:25-0800\n"
 "PO-Revision-Date: \n"
-"Last-Translator: Julien <juju@jujudeshighlands.com>\n"
+"Last-Translator: Alexandre Simard <info@brocheafoin.biz>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -14,7 +14,7 @@ msgstr ""
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "Language: fr_FR\n"
-"X-Generator: Poedit 1.5.4\n"
+"X-Generator: Poedit 1.5.5\n"
 "X-Poedit-SearchPath-0: .\n"
 
 #: card-commentform.php:6
@@ -41,7 +41,7 @@ msgstr "Site web:"
 #, php-format
 msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
 msgstr ""
-"Vous devez Ãªtre <a href=\"%s\">identifiÃ©</a> pour poster un commentaire."
+"Vous devez être <a href=\"%s\">identifié</a> pour poster un commentaire."
 
 #: card-commentform.php:24
 #, php-format
@@ -49,12 +49,12 @@ msgid ""
 "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
 "this account\">Log out?</a>"
 msgstr ""
-"ConnectÃ© en tant que <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Se "
-"dÃ©connecter de ce compte\">Se dÃ©connecter?</a>"
+"Connecté en tant que <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Se "
+"déconnecter de ce compte\">Se déconnecter?</a>"
 
 #: card-commentform.php:31
 msgid "Cancel reply"
-msgstr "Annuler la rÃ©ponse"
+msgstr "Annuler la réponse"
 
 #: card-commentform.php:32
 msgid "Send Message"
@@ -83,11 +83,11 @@ msgstr ""
 
 #: footer.php:22
 msgid "&larr; Newer entries"
-msgstr "&larr; EntrÃ©es plus rÃ©centes"
+msgstr "&larr; Entrées plus récentes"
 
 #: footer.php:24
 msgid "Older Entries &rarr;"
-msgstr "EntrÃ©es plus anciennes &rarr;"
+msgstr "Entrées plus anciennes &rarr;"
 
 #: footer.php:29
 msgid "&larr; %link"
@@ -108,12 +108,12 @@ msgstr "Permalien"
 
 #: header.php:8
 msgid "Page Not Found |"
-msgstr "Page non trouvÃ©e"
+msgstr "Page non trouvée"
 
 #: header.php:10
 #, php-format
 msgid "Search results for '%s'"
-msgstr "RÃ©sultat de la recherche pour '%s'"
+msgstr "Résultat de la recherche pour '%s'"
 
 #: header.php:41
 msgid "RSS"
@@ -130,16 +130,16 @@ msgstr "Facebook"
 #: header.php:52
 msgid "You can also press the left arrow key to scroll"
 msgstr ""
-"Vous pouvez aussi utiliser la flÃ¨che directionnelle gauche pour faire dÃ©filer"
+"Vous pouvez aussi utiliser la flèche directionnelle gauche pour faire défiler"
 
 #: header.php:52
 msgid "Previous"
-msgstr "PrÃ©cÃ©dent"
+msgstr "Précédent"
 
 #: header.php:53
 msgid "You can also press the right arrow key to scroll"
 msgstr ""
-"Vous pouvez aussi utiliser la flÃ¨che directionnelle droite pour faire dÃ©filer"
+"Vous pouvez aussi utiliser la flèche directionnelle droite pour faire défiler"
 
 #: header.php:53
 msgid "Next"
@@ -148,22 +148,22 @@ msgstr "Suivant"
 #: header.php:74
 msgid "You can scroll the shelf using <b>&larr;</b> and <b>&rarr;</b> keys"
 msgstr ""
-"Vous pouvez faire dÃ©filer le fil en utilisant les touches <b>&larr;</b> et "
+"Vous pouvez faire défiler le fil en utilisant les touches <b>&larr;</b> et "
 "<b>&rarr;</b>"
 
 #: functions/comments.php:12
 #, php-format
 msgid "%s reblogged this and added:"
-msgstr "%s a rebloguÃ© ceci et ajoutÃ©:"
+msgstr "%s a reblogué ceci et ajouté:"
 
 #: functions/express-app.php:57
 msgid "You are not allowed to upload files to this site."
-msgstr "Vous n'Ãªtes pas autorisÃ© Ã  envoyer des fichiers vers ce site."
+msgstr "Vous n'êtes pas autorisé à envoyer des fichiers vers ce site."
 
 #: functions/express-app.php:83
 #, php-format
 msgid "Could not write file %1$s (%2$s)"
-msgstr "impossible de modifier le fichier %1$s (%2$s)"
+msgstr "Impossible de modifier le fichier %1$s (%2$s)"
 
 #: functions/shelf-extend.php:150
 msgid "Home"
@@ -175,15 +175,15 @@ msgstr "Retour en haut"
 
 #: functions/shelf-extend.php:295
 msgid "Header and logo"
-msgstr "BanniÃ¨re et logo"
+msgstr "Bannière et logo"
 
 #: functions/shelf-extend.php:299
 msgid "Enable custom logo image"
-msgstr "Activer le logo image personnalisÃ©"
+msgstr "Activer le logo image personnalisé"
 
 #: functions/shelf-extend.php:301
 msgid "Check to use a custom logo in the header."
-msgstr "Cocher pour utiliser un logo image personnalisÃ© dans la banniÃ¨re"
+msgstr "Cocher pour utiliser un logo image personnalisé dans la bannière"
 
 #: functions/shelf-extend.php:306
 msgid "Logo URL"
@@ -199,7 +199,7 @@ msgstr "Image logo tag <code>&lt;alt&gt;</code>"
 
 #: functions/shelf-extend.php:317
 msgid "Specify the <code>&lt;alt&gt;</code> tag for your logo image."
-msgstr "PrÃ©cisez le tag <code>&lt;alt&gt;</code> pour votre logo image."
+msgstr "Précisez le tag <code>&lt;alt&gt;</code> pour votre logo image."
 
 #: functions/shelf-extend.php:322
 msgid "Display blog title"
@@ -210,8 +210,8 @@ msgid ""
 "Check to show your title. The title will automatically be shown if the "
 "custom logo image is not enabled."
 msgstr ""
-"Cochez pour afficher le titre. Il sera automatiquement affichÃ© si vous "
-"n'ajoutez pas de logo image personnalisÃ©."
+"Cochez pour afficher le titre. Il sera automatiquement affiché si vous "
+"n'ajoutez pas de logo image personnalisé."
 
 #: functions/shelf-extend.php:329
 msgid "Display tagline"
@@ -223,11 +223,11 @@ msgstr "Cochez pour afficher la liste des tags sous votre logo."
 
 #: functions/shelf-extend.php:336
 msgid "Hide background title"
-msgstr "Masquer le titre en arriÃ¨re plan"
+msgstr "Masquer le titre en arrière plan"
 
 #: functions/shelf-extend.php:338
 msgid "Check to hide the large background site title text."
-msgstr "Cochez pour masquer l'incrustation du titre en arriÃ¨re plan"
+msgstr "Cochez pour masquer l'incrustation du titre en arrière plan"
 
 #: functions/shelf-extend.php:343
 msgid "Subscribe links"
@@ -242,7 +242,7 @@ msgid ""
 "Hip to Twitter? Check this box. Please set your Twitter username in the "
 "Twitter menu."
 msgstr ""
-"Actif sur Twitter? Cochez cette case. N'oubliez pas de  dÃ©finir votre nom de "
+"Actif sur Twitter? Cochez cette case. N'oubliez pas de  définir votre nom de "
 "compte dans le menu Twitter."
 
 #: functions/shelf-extend.php:354
@@ -255,15 +255,15 @@ msgstr "Cochez cette case pour afficher un lien vers votre page Facebook."
 
 #: functions/shelf-extend.php:361
 msgid "Disable all"
-msgstr "Tout dÃ©sactiver"
+msgstr "Tout désactiver"
 
 #: functions/shelf-extend.php:363
 msgid ""
 "Check this box to hide all follow icons (including RSS). This option "
 "overrides any other settings."
 msgstr ""
-"Cochez cette case pour masquer toutes les icÃ´nes sociales (RSS y compris). "
-"Cette option Ã©crase tout autre paramÃ¨tre."
+"Cochez cette case pour masquer toutes les icônes sociales (RSS y compris). "
+"Cette option écrase tout autre paramètre."
 
 #: functions/shelf-extend.php:368
 msgid "Twitter name"
@@ -309,23 +309,23 @@ msgid ""
 "closing %s tag."
 msgstr ""
 "Si vous souhaitez utiliser Google Analytics ou tout autre script de suivi "
-"dans votre pied de page, collez le ici. Il sera insÃ©rÃ© avant la balise "
+"dans votre pied de page, collez le ici. Il sera inséré avant la balise "
 "fermante %s."
 
 #: functions/ttf-admin.php:63 functions/ttf-admin.php:122
 #: functions/ttf-admin.php:123 functions/ttf-admin.php:145
 msgid "Theme Options"
-msgstr "Options du thÃ¨me"
+msgstr "Options du thème"
 
 #: functions/ttf-admin.php:135
 #, php-format
 msgid "%s settings saved!"
-msgstr "%s paramÃ¨tres enregistrÃ©s!"
+msgstr "%s paramètres enregistrés!"
 
 #: functions/ttf-admin.php:139
 #, php-format
 msgid "%s settings reset."
-msgstr "%s paramÃ¨tres rÃ©initialisÃ©s!"
+msgstr "%s paramètres réinitialisés!"
 
 #: functions/ttf-admin.php:165
 msgid "Edit"
@@ -342,4 +342,3 @@ msgstr "Masquer la pipette"
 #: functions/ttf-admin.php:286
 msgid "Save changes"
 msgstr "Enregistrer les changements"
-
