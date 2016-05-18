@@ -1,0 +1,467 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hemingway v1.46\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-05-18 12:16+0600\n"
+"Last-Translator: rony2k6 <rony2k6@live.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Language: bn_BD\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ hemingway
+#: 404.php:15
+msgid "Error 404"
+msgstr "ত্রুটি ৪০৪"
+
+# @ hemingway
+#: 404.php:21
+msgid "It seems like you have tried to open a page that doesn't exist. It could have been deleted, moved, or it never existed at all. You are welcome to search for what you are looking for with the form below."
+msgstr "দেখে মনে হচ্ছে আপনি এমন একটি পাতা খোলার চেষ্টা করছেন, যার কোন অস্তিত্ব নেই। এটি মুছে ফেলা হতে পারে, সরানো, বা কখনোই তার অস্তিত্ব ছিল না। আপনাকে স্বাগত জানাই, নিচের ফর্মটির মাধ্যমে আপনি যা খুঁজছিলেন তা অনুসন্ধান করার জন্য।"
+
+# @ hemingway
+#: archive.php:12
+#, php-format
+msgid "Date: %s"
+msgstr "দিন: %s"
+
+# @ hemingway
+#: archive.php:14
+#, php-format
+msgid "Month: %s"
+msgstr "মাস: %s"
+
+# @ hemingway
+#: archive.php:14
+msgctxt "F = Month, Y = Year"
+msgid "F Y"
+msgstr "F Y"
+
+# @ hemingway
+#: archive.php:16
+#, php-format
+msgid "Year: %s"
+msgstr "বছর: %s"
+
+# @ hemingway
+#: archive.php:16
+msgctxt "Y = Year"
+msgid "Y"
+msgstr "Y"
+
+# @ hemingway
+#: archive.php:18
+#, php-format
+msgid "Category: %s"
+msgstr "বিভাগসমূহ: %s"
+
+# @ hemingway
+#: archive.php:20
+#, php-format
+msgid "Tag: %s"
+msgstr "ট্যাগ: %s"
+
+# @ hemingway
+#: archive.php:23
+#, php-format
+msgid "Author: %s"
+msgstr "লেখক: %s"
+
+# @ hemingway
+#: archive.php:25
+msgid "Archive"
+msgstr "সংরক্ষণাগার"
+
+# @ hemingway
+#: archive.php:33 search.php:20 search.php:71
+#, php-format
+msgid "(page %s of %s)"
+msgstr "(পাতা %s এর %s)"
+
+# @ hemingway
+#: archive.php:69
+msgid "Older<span> posts</span>"
+msgstr "পুরাতন <span> প্রকাশনাসমূহ</span>"
+
+# @ hemingway
+#: archive.php:71
+msgid "Newer<span> posts</span>"
+msgstr "নতুন <span>প্রকাশনাসমূহ</span>"
+
+# @ hemingway
+#: comments.php:14
+msgid "Comment"
+msgid_plural "Comments"
+msgstr[0] "মন্তব্য"
+msgstr[1] "মন্তব্যসমূহ"
+
+# @ hemingway
+#: comments.php:31
+msgid "Pingback"
+msgid_plural "Pingbacks"
+msgstr[0] "পিংব্যাক"
+msgstr[1] "পিংব্যাকসমূহ"
+
+# @ hemingway
+#: comments.php:49
+msgid "&laquo; Older<span> Comments</span>"
+msgstr "&laquo; পুরাতন<span> মন্তব্যসমূহ</span>"
+
+# @ hemingway
+#: comments.php:51
+msgid "Newer<span> Comments</span> &raquo;"
+msgstr "নতুন<span> মন্তব্যসমূহ</span> &raquo;"
+
+# @ hemingway
+#: comments.php:65
+msgid "Comments are closed."
+msgstr "মন্তব্যসমূহ বন্ধ হয়ে গেছে।"
+
+# @ hemingway
+#: comments.php:72
+msgid "Your email address will not be published."
+msgstr "আপনার ইমেইল ঠিকানা প্রচার করা হবে না।"
+
+# @ hemingway
+#: comments.php:81
+msgid "Name"
+msgstr "নাম"
+
+# @ hemingway
+#: comments.php:84
+msgid "Email"
+msgstr "ইমেইল"
+
+# @ hemingway
+#: comments.php:87
+msgid "Website"
+msgstr "ওয়েবসাইট"
+
+# @ hemingway
+#: content-aside.php:9 content-quote.php:9 content-video.php:47 content.php:47
+msgid "Sticky"
+msgstr "আঠালো"
+
+# @ hemingway
+#: content-aside.php:17 content-quote.php:17 content-video.php:55
+#: content.php:55 functions.php:295 page.php:49 single.php:83
+#: template-archives.php:127 template-fullwidth.php:55
+#: template-nosidebar.php:55
+msgid "Edit"
+msgstr "সম্পাদন করুন"
+
+# @ hemingway
+#: content-video.php:41 content.php:41 single.php:77
+msgid "0 Comments"
+msgstr "০ মন্তব্যসমূহ"
+
+# @ hemingway
+#: content-video.php:41 content.php:41 single.php:77
+msgid "1 Comment"
+msgstr "১ মন্তব্যসমূহ"
+
+# @ hemingway
+#: content-video.php:41 content.php:41 single.php:77
+msgid "% Comments"
+msgstr "% মন্তব্যসমূহ"
+
+# @ hemingway
+#: content.php:7
+msgid "Sticky post"
+msgstr "আঠালো প্রকাশনা"
+
+# @ hemingway
+#: searchform.php:2
+msgid "Search form"
+msgstr "অনুসন্ধান ফর্ম"
+
+# @ hemingway
+#: footer.php:65
+#, php-format
+msgid "Theme by <a href=\"%s\">Anders Noren</a>"
+msgstr "থিম তৈরী করেছেন <a href=\"%s\">অ্যান্ডার্স নরেন</a>"
+
+# @ hemingway
+#: footer.php:65
+msgid "To the top"
+msgstr "শীর্ষে"
+
+# @ hemingway
+#: footer.php:65
+msgid "Up"
+msgstr "উপরে"
+
+# @ hemingway
+#: functions.php:84
+msgid "Footer A"
+msgstr "পাদটীকা এ"
+
+# @ hemingway
+#: functions.php:86
+msgid "Widgets in this area will be shown in the left column in the footer."
+msgstr "এই এলাকায় উইজেট পাদটীকার বামের কলামে প্রদর্শন করা হবে।"
+
+# @ hemingway
+#: functions.php:93
+msgid "Footer B"
+msgstr "পাদটীকা বি"
+
+# @ hemingway
+#: functions.php:95
+msgid "Widgets in this area will be shown in the middle column in the footer."
+msgstr "এই এলাকায় উইজেট পাদটীকার মাঝের কলামে প্রদর্শন করা হবে।"
+
+# @ hemingway
+#: functions.php:102
+msgid "Footer C"
+msgstr "পাদটীকা সি"
+
+# @ hemingway
+#: functions.php:104
+msgid "Widgets in this area will be shown in the right column in the footer."
+msgstr "এই এলাকায় উইজেট পাদটীকার ডানের কলামে প্রদর্শন করা হবে।"
+
+# @ hemingway
+#: functions.php:111
+msgid "Sidebar"
+msgstr "সাইডবার"
+
+# @ hemingway
+#: functions.php:113
+msgid "Widgets in this area will be shown in the sidebar."
+msgstr "এই এলাকায় উইজেট সাইডবারে প্রদর্শন করা হবে।"
+
+# @ hemingway
+#: functions.php:148
+#, php-format
+msgid "Page %s"
+msgstr "পাতা %s"
+
+# @ hemingway
+#: functions.php:195
+msgid "Continue reading"
+msgstr "পড়তে থাকুন"
+
+# @ hemingway
+#: functions.php:254
+msgid "Pingback:"
+msgstr "পিংব্যাক:"
+
+# @ hemingway
+#: functions.php:254
+msgid "(Edit)"
+msgstr "(সম্পাদন করুন)"
+
+# @ hemingway
+#: functions.php:274
+msgid "(Post author)"
+msgstr "(প্রকাশনার লেখক)"
+
+# @ hemingway
+#: functions.php:287
+msgid "Awaiting moderation"
+msgstr "পরিমার্জনার অপেক্ষায়"
+
+# @ hemingway
+#: functions.php:297
+msgid "Reply"
+msgstr "প্রতিক্রিয়া"
+
+# @ hemingway
+#: functions.php:315
+msgid "Video URL (video post format)"
+msgstr "ভিডিও ইউ আর এল (ভিডিও প্রকাশনা বিন্যাস)"
+
+# @ hemingway
+#: image.php:79
+msgid "&laquo; Previous<span> attachment</span>"
+msgstr "&laquo; পূর্ববর্তী<span> সংযুক্তি</span>"
+
+# @ hemingway
+#: image.php:80
+msgid "Next<span> attachment</span> &raquo;"
+msgstr "পরবর্তী<span> সংযুক্তি</span> &raquo;"
+
+# @ hemingway
+#: image.php:92 page.php:67 single.php:147 template-archives.php:143
+#: template-fullwidth.php:75 template-nosidebar.php:75
+msgid "We couldn't find any posts that matched your query. Please try again."
+msgstr "আমরা এমন কোনো প্রকাশনা খুঁজে পাইনি, যা আপনার অনুসন্ধানের সাথে মিলেছে। অনুগ্রহপূর্বক আবার চেষ্টা করুন।"
+
+# @ hemingway
+#: index.php:21
+#, php-format
+msgid "Page %s of %s"
+msgstr "পাতা %s av %s"
+
+# @ hemingway
+#: index.php:47 search.php:46
+msgid "&laquo; Older<span> posts</span>"
+msgstr "&laquo; পুরাতন<span> প্রকাশনাসমূহ</span>"
+
+# @ hemingway
+#: index.php:49 search.php:48
+msgid "Newer<span> posts</span> &raquo;"
+msgstr "নতুন<span> প্রকাশনাসমূহ</span> &raquo;"
+
+# @ hemingway
+#: search.php:13 search.php:64
+msgid "Search results:"
+msgstr "অনুসন্ধানের ফলাফল:"
+
+# @ hemingway
+#: search.php:87
+msgid "No results. Try again, would you kindly?"
+msgstr "কোন ফলাফল নেই। আপনি কি দয়া করে, আবার চেষ্টা করবেন?"
+
+# @ hemingway
+#: searchform.php:3
+msgid "Search"
+msgstr "অনুসন্ধান"
+
+# @ hemingway
+#: single.php:115
+msgid "Previous post:"
+msgstr "পূর্ববর্তী প্রকাশনাঃ"
+
+# @ hemingway
+#: single.php:117
+msgid "Previous post"
+msgstr "পূর্ববর্তী প্রকাশনা"
+
+# @ hemingway
+#: single.php:128
+msgid "Next post:"
+msgstr "পরবর্তী প্রকাশনাঃ"
+
+# @ hemingway
+#: single.php:130
+msgid "Next post"
+msgstr "পরবর্তী প্রকাশনা"
+
+# @ hemingway
+#: template-archives.php:57
+msgid "Last 30 Posts"
+msgstr "সর্বশেষ ৩০ প্রকাশনাসমূহ"
+
+# @ hemingway
+#: template-archives.php:71
+msgid "Archives by Categories"
+msgstr "বিভাগসমূহ দ্বারা আর্কাইভ"
+
+# @ hemingway
+#: template-archives.php:77
+msgid "Archives by Tags"
+msgstr "ট্যাগসমূহ দ্বারা আর্কাইভ"
+
+# @ hemingway
+#: template-archives.php:84
+#, php-format
+msgid "View all posts in %s"
+msgstr "%s এর সকল প্রকাশনাসমূহ দেখুন"
+
+# @ hemingway
+#: template-archives.php:95
+msgid "Contributors"
+msgstr "অংশগ্রহণকারীরা"
+
+# @ hemingway
+#: template-archives.php:101
+msgid "Archives by Year"
+msgstr "বছর দ্বারা আর্কাইভ"
+
+# @ hemingway
+#: template-archives.php:107
+msgid "Archives by Month"
+msgstr "মাস দ্বারা আর্কাইভ"
+
+# @ hemingway
+#: template-archives.php:113
+msgid "Archives by Day"
+msgstr "দিন দ্বারা আর্কাইভ"
+
+# @ hemingway
+#: widgets/dribbble-widget.php:10
+msgid "Displays your latest Dribbble photos."
+msgstr "আপনার সাম্প্রতিক ড্রিবলের(Dribbble) ফটোসমূহ প্রদর্শন করছে।"
+
+# @ hemingway
+#: widgets/dribbble-widget.php:52
+#, php-format
+msgid "Follow %s on Dribbble &raquo;"
+msgstr "%s কে অনুসরণ করুন ড্রিবলে(Dribbble) &raquo;"
+
+# @ hemingway
+#: widgets/dribbble-widget.php:79 widgets/flickr-widget.php:54
+#: widgets/video-widget.php:64
+msgid "Title"
+msgstr "শিরোনাম"
+
+# @ hemingway
+#: widgets/dribbble-widget.php:85
+msgid "Dribbble username"
+msgstr "ড্রিবল(Dribbble) ইউজারনেম"
+
+# @ hemingway
+#: widgets/dribbble-widget.php:91 widgets/flickr-widget.php:66
+msgid "Number of images to display:"
+msgstr "প্রদর্শনের জন্য ছবিসমূহের সংখ্যাঃ"
+
+# @ hemingway
+#: widgets/flickr-widget.php:8
+msgid "Displays your latest Flickr photos."
+msgstr "আপনার সাম্প্রতিক ফ্লিকারের(Flickr) ফটোসমূহ প্রদর্শন করছে।"
+
+# @ hemingway
+#: widgets/flickr-widget.php:32
+msgid "More on Flickr &raquo;"
+msgstr "ফ্লিকারে(Flickr) আরো &raquo;"
+
+# @ hemingway
+#: widgets/flickr-widget.php:60
+msgid "Flickr ID (use <a target=\"_blank\" href=\"http://www.idgettr.com\">idGettr</a>):"
+msgstr "ফ্লিকার(Flickr) আইডি (<a target=\"_blank\" href=\"http://www.idgettr.com\">idGettr</a> কে ব্যবহার করতে পারেন):"
+
+# @ hemingway
+#: widgets/video-widget.php:8
+msgid "Displays a video of your choosing."
+msgstr "আপনার পছন্দসই একটি ভিডিও প্রদর্শন করছে।"
+
+# @ hemingway
+#: widgets/video-widget.php:70
+msgid "Video URL"
+msgstr "ভিডিও ইউ আর এল"
+
+# @ hemingway
+#: functions.php:363
+msgid "Hemingway Options"
+msgstr "হেমিংওয়ে থিমের বিকল্পসমূহ"
+
+# @ hemingway
+#: functions.php:366
+msgid "Allows you to customize some settings for Hemingway."
+msgstr "আপনাকে হেমিংওয়ে থিমের কিছু সেটিংস কাস্টমাইজ করার অনুমতি দেয়।"
+
+# @ hemingway
+#: functions.php:371 functions.php:401
+msgid "Logo"
+msgstr "লোগো"
+
+# @ hemingway
+#: functions.php:393
+msgid "Accent Color"
+msgstr "গুরুত্ব-আরোপকারী রং"
+
+# @ hemingway
+#: functions.php:373
+msgid "Upload a logo to replace the default site name and description in the header"
+msgstr "হেডারের মধ্যে ডিফল্ট সাইটের নাম ও বিবরণ প্রতিস্থাপন করার জন্য একটি লোগো আপলোড করুন"
