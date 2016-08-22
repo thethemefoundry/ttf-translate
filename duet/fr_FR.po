@@ -1,0 +1,268 @@
+# Copyright (C) 2016 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Duet 1.4.16\n"
+"Report-Msgid-Bugs-To: https://thethemefoundry.com/support/\n"
+"POT-Creation-Date: 2016-05-19 14:47+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-05-19 18:22+0200\n"
+"Language-Team: The Theme Foundry\n"
+"X-Generator: Poedit 1.8.7\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fr_FR\n"
+
+#: functions/ttf-common/ttf-common.php:53
+msgid "Page Not Found | "
+msgstr "Page non trouv&eacute;e |"
+
+#: functions/ttf-common/ttf-common.php:55
+msgid "Search results | "
+msgstr "R&eacute;sultats de recherche |"
+
+#: functions/ttf-common/ttf-common.php:69
+msgid "Posts from the &#8216;%s&#8217; category"
+msgstr "Les articles de la cat&eacute;gorie &#8216; %s &#8217;"
+
+#: functions/ttf-common/ttf-common.php:71
+msgid "Posts tagged &#8216;%s&#8217;"
+msgstr "Publications &eacute;tiquett&eacute;es «%s»"
+
+#: functions/ttf-common/ttf-common.php:73 functions/ttf-common/ttf-common.php:75
+#: functions/ttf-common/ttf-common.php:77
+msgid "Archive for &#8216;%s&#8217;"
+msgstr "Archive pour &#8216;%s&#8217;"
+
+#: functions/ttf-common/ttf-common.php:79
+msgid "Posts by %s"
+msgstr "Publi&eacute;s par %s"
+
+#: functions/ttf-common/ttf-common.php:81
+msgid "Blog Archives"
+msgstr "Archives du blogue"
+
+#: includes/struts/classes/struts/option/color.php:35
+msgid "show color picker"
+msgstr "S&eacute;lecteur de couleurs"
+
+#: includes/struts/classes/struts/option/image.php:11
+msgid "Upload Image"
+msgstr "T&eacute;l&eacute;charger une image"
+
+#: includes/struts/classes/struts/options.php:127
+msgid "Options already initialized. Struts no longer requires manual initialization."
+msgstr ""
+"Options d&eacute;j&agrave; initialis&eacute;es. Struts n’a plus besoin d’initialisation manuelle."
+
+#: includes/struts/classes/struts/options.php:160 includes/struts/classes/struts/options.php:161
+#: includes/struts/classes/struts/options.php:316
+msgid "Theme Options"
+msgstr "Options du Th&egrave;me"
+
+#: includes/struts/classes/struts/options.php:269
+msgid "Section with name &lsquo;%1$s&rsquo; not defined"
+msgstr "Section avec le nom &lsquo;%1$s&rsquo; non défini"
+
+#: includes/struts/classes/struts/options.php:324
+msgid "Click OK if you want to reset your theme options to the defaults."
+msgstr ""
+"Cliquez sur OK si vous souhaitez r&eacute;initialiser vos options de th&egrave;me aux valeurs par "
+"d&eacute;faut."
+
+#: includes/struts/classes/struts/options.php:327
+msgid "Save Settings"
+msgstr "Enregistrer les r&eacute;glages"
+
+#: includes/struts/classes/struts/options.php:328
+msgid "Reset Defaults"
+msgstr "R&eacute;initialiser les param&egrave;tres par d&eacute;faut"
+
+#: includes/struts/classes/struts/options.php:338
+msgid "Theme settings updated successfully."
+msgstr "Les param&egrave;tres du th&egrave;me mis &agrave; jour avec succ&egrave;s."
+
+#: includes/struts/classes/struts/section.php:97
+msgid "Edit"
+msgstr "&Eacute;diter"
+
+#: includes/struts/classes/struts/section.php:104
+msgid "Save changes"
+msgstr "Enregistrer les r&eacute;glages"
+
+#: templates/404.php:3
+msgid "404: Page Not Found"
+msgstr "404: Page non trouv&eacute;e"
+
+#: templates/404.php:5
+msgid ""
+"We are terribly sorry, but the <abbr title=\"Universal resource locator\">URL</abbr> you typed no "
+"longer exists. It might have been moved or deleted. Try searching the site:"
+msgstr ""
+"Nous sommes terriblement d&eacute;sol&eacute;, mais l'<abbr title=\"Universal resource locator"
+"\">adresse URL</abbr>  que vous avez saisi n'existe plus. Elle aurait &eacute;t&eacute; d&eacute;"
+"plac&eacute; ou supprim&eacute;. Essayez de rechercher sur le site :"
+
+#: templates/archive.php:8
+msgid "No posts found."
+msgstr "Aucun article trouv&eacute;."
+
+#: templates/attachment.php:10
+msgid "&laquo; Return to <em>%s</em>"
+msgstr "&laquo; Retourner &agrave; <em>%s</em>"
+
+#: templates/attachment.php:29
+msgid "&laquo; Previous"
+msgstr "&laquo; Pr&eacute;c&eacute;dent"
+
+#: templates/attachment.php:29
+msgid "Next &raquo;"
+msgstr "Suivant &raquo;"
+
+#: templates/comments.php:3
+msgid "<em>This post is password protected. Enter the password to view comments.</em>"
+msgstr ""
+"<em>Cet article est prot&eacute;g&eacute; par mot de passe. Entrez le mot de passe pour "
+"acc&eacute;der aux commentaires.</em>"
+
+#: templates/comments.php:14
+msgid "Post a comment"
+msgstr "&Eacute;crivez un commentaire"
+
+#: templates/comments.php:23
+msgid "&laquo; Newer Comments"
+msgstr "&laquo; Commentaires r&eacute;cents"
+
+#: templates/comments.php:23
+msgid "Older Comments &raquo;"
+msgstr "Commentaires plus anciens &raquo;"
+
+#: templates/comments.php:26
+msgid "Trackbacks &amp; Pingbacks"
+msgstr "R&eacute;troliens (Trackbacks et Pingbacks)"
+
+#: templates/comments.php:32
+msgid "&laquo; Older Pingbacks"
+msgstr "&laquo; Anciens R&eacute;troliens"
+
+#: templates/comments.php:32
+msgid "Newer Pingbacks &raquo;"
+msgstr "Récents R&eacute;troliens &raquo;"
+
+#: templates/comments.php:37
+msgid "<em>Comments are closed.</em>"
+msgstr "<em>Les commentaires sont ferm&eacute;s.</em>"
+
+#: templates/comments.php:41
+msgid "No comments yet&hellip;"
+msgstr "Aucun commentaire pour l'instant&hellip;"
+
+#: templates/comments.php:60
+msgid "Name: <span class=\"story-end\">*</span>"
+msgstr "Nom : <span class=\"story-end\">*</span>"
+
+#: templates/comments.php:61
+msgid "Name:"
+msgstr "Nom :"
+
+#: templates/comments.php:71
+msgid "Email: <span class=\"story-end\">*</span>"
+msgstr "eMail : <span class=\"story-end\">*</span>"
+
+#: templates/comments.php:72
+msgid "Email:"
+msgstr "eMail :"
+
+#: templates/comments.php:80
+msgid "Website:"
+msgstr "Site Internet :"
+
+#: templates/formats/_format-image.php:8 templates/page.php:9
+msgid "High-res version"
+msgstr "Version haute r&eacute;solution"
+
+#: templates/pages/archives.php:12
+msgid "Recent Posts"
+msgstr "Articles r&eacute;cents"
+
+#: templates/pages/archives.php:16 templates/pages/sitemap.php:16
+msgid "Categories"
+msgstr "Cat&eacute;gories"
+
+#: templates/pages/archives.php:20 templates/pages/sitemap.php:20
+msgid "Archives by Month"
+msgstr "Archives par Mois"
+
+#: templates/pages/archives.php:24
+msgid "Archives by Year"
+msgstr "Archives par An"
+
+#: templates/pages/sitemap.php:12
+msgid "Pages"
+msgstr "Pages"
+
+#: templates/partials/_loop-footer.php:16
+msgid "0 Comments"
+msgstr "0 Commentaires"
+
+#: templates/partials/_loop-footer.php:16
+msgid "1 Comment"
+msgstr "1 Commentaires"
+
+#: templates/partials/_loop-footer.php:16
+msgid "% Comments"
+msgstr "% Commentaires"
+
+#: templates/partials/_loop.php:10
+msgid "Whoops!"
+msgstr "Oops, on dirait qu'il y a eu un problème !"
+
+#: templates/partials/_loop.php:11
+msgid ""
+"Sorry, your search for &#8220;<em>%s</em>&#8221; did not turn up any results. Please try again."
+msgstr ""
+"D&eacute;sol&eacute;, votre recherche pour &#8220;<em>%s</em>&#8221; ne donne pas de r&eacute;"
+"sultats. Veuillez r&eacute;essayer."
+
+#: templates/partials/_loop.php:17
+msgid "&laquo; Older entries"
+msgstr "&laquo; Articles anciens"
+
+#: templates/partials/_loop.php:17
+msgid "Newer entries &raquo;"
+msgstr "Articles r&eacute;cents &raquo;"
+
+#: templates/partials/_post-footer.php:4
+msgid "Categories: "
+msgstr "Cat&eacute;gories :"
+
+#: templates/partials/_post-footer.php:9
+msgid "Tagged: "
+msgstr "&Eacute;tiquet&eacute;"
+
+#: templates/partials/_post-title.php:9 templates/partials/_post-title.php:23
+msgid "Permanent Link to %s"
+msgstr "Lien permanent vers %s"
+
+#: templates/partials/_post-title.php:21 templates/partials/_post-title.php:24
+msgid "Posted on"
+msgstr "Publi&eacute; le"
+
+#: templates/search.php:3
+msgid "Search results for &#8220;<em>%s</em>&#8221;"
+msgstr "R&eacute;sultats de la recherche pour &#8220;<em>%s</em>&#8221;"
+
+#: templates/searchform.php:4
+msgid "Search"
+msgstr "Rechercher"
+
+#: templates/single.php:14
+msgid "Continue reading"
+msgstr "Continuer la lecture"
+
+#: templates/comments.php:52
+msgctxt "noun"
+msgid "Comment"
+msgstr "Commentaire"
